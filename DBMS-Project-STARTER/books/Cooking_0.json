@@ -1,0 +1,3306 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 483,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "b48M_aeUfm0C",
+   "etag": "A1c5RO7AFQM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b48M_aeUfm0C",
+   "volumeInfo": {
+    "title": "Salmon",
+    "subtitle": "A Cookbook",
+    "authors": [
+     "Diane Morgan"
+    ],
+    "publisher": "Chronicle Books",
+    "publishedDate": "2013-01-11",
+    "description": "Diane Morgan is hooked on salmon and it shows. From the deck of a commercial fishing boat in Alaska to the fish farms in Scotland, she has traveled the world on a quest to find out everything there is to know about the world's favorite fresh fish. Learn the difference between wild and farmed salmon, discern among the varieties of species, whether Atlantic, Chinook, Coho, or Sockeye, and discover the heart-healthy benefits of including salmon in the diet. The real catch are the recipes. Salmon Hash, Thai Coconut Soup, Salmon Tacos, and a dramatic yet simple whole roasted version show the incredible versatility of salmonit's perfect morning, noon, and night. It pairs well with an international array of flavors and can be poached, smoked, baked, or grilled. With tips for storing, preparing, filleting, cutting steaks, taking out pin bones, plus gorgeous scenic photographs of famed fishing areas, Salmon is sure to make a big splash in the kitchen.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781452125138"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1452125139"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=b48M_aeUfm0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=b48M_aeUfm0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=b48M_aeUfm0C&printsec=frontcover&dq=subject:Cooking&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=b48M_aeUfm0C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b48M_aeUfm0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=b48M_aeUfm0C&rdid=book-b48M_aeUfm0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Salmon-sample-epub.acsm?id=b48M_aeUfm0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Salmon-sample-pdf.acsm?id=b48M_aeUfm0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=b48M_aeUfm0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u_H8R3fdi8IC",
+   "etag": "sTJ05HO0JZA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u_H8R3fdi8IC",
+   "volumeInfo": {
+    "title": "El Libro de Las Especias",
+    "subtitle": "Hierbas Aromáticas Y Especias",
+    "authors": [
+     "Aliza Green"
+    ],
+    "publisher": "Ediciones Robinbook",
+    "publishedDate": "2007-05-12",
+    "description": "HIERBAS AROMÁTICAS Y ESPECIES. Cómo identificarlas y seleccionarlas en cada estación.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8496054357"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788496054356"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u_H8R3fdi8IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u_H8R3fdi8IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=u_H8R3fdi8IC&printsec=frontcover&dq=subject:Cooking&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=u_H8R3fdi8IC&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/El_Libro_de_Las_Especias.html?hl=&id=u_H8R3fdi8IC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u_H8R3fdi8IC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nADfM6NuoecC",
+   "etag": "GjMw0mOBwgk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nADfM6NuoecC",
+   "volumeInfo": {
+    "title": "Cake Pops",
+    "subtitle": "Tips, Tricks, and Recipes for More Than 40 Irresistible Mini Treats",
+    "authors": [
+     "Bakerella"
+    ],
+    "publisher": "Chronicle Books",
+    "publishedDate": "2011-07-22",
+    "description": "What's cuter than a cupcake? A cake pop, of course! Wildly popular blogger Bakerella (aka Angie Dudley) has turned cake pops into an international sensation! Cute little cakes on a stick from decorated balls to more ambitious shapes such as baby chicks, ice cream cones, and even cupcakes these adorable creations are the perfect alternative to cake at any party or get-together. Martha Stewart loved the cupcake pops so much she had Bakerella appear on her show to demonstrate making them. Now Angie makes it easy and fun to recreate these amazing treats right at home with clear step-by-step instructions and photos of more than 40 featured projects, as well as clever tips for presentation, decorating, dipping, coloring and melting chocolate, and much more.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781452100128"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1452100128"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.7.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nADfM6NuoecC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nADfM6NuoecC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nADfM6NuoecC&printsec=frontcover&dq=subject:Cooking&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nADfM6NuoecC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nADfM6NuoecC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 2.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 2.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=nADfM6NuoecC&rdid=book-nADfM6NuoecC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cake_Pops-sample-epub.acsm?id=nADfM6NuoecC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nADfM6NuoecC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9muSH1nOumoC",
+   "etag": "2iJcwYf3j3o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9muSH1nOumoC",
+   "volumeInfo": {
+    "title": "Science in the Kitchen and the Art of Eating Well",
+    "authors": [
+     "Pellegrino Artusi"
+    ],
+    "publisher": "University of Toronto Press",
+    "publishedDate": "2003-12-27",
+    "description": "First published in 1891, Pellegrino Artusi?s La scienza in cucina e l?arte di mangier bene has come to be recognized as the most significant Italian cookbook of modern times. It was reprinted thirteen times and had sold more than 52,000 copies in the years before Artusi?s death in 1910, with the number of recipes growing from 475 to 790. And while this figure has not changed, the book has consistently remained in print. Although Artusi was himself of the upper classes and it was doubtful he had ever touched a kitchen utensil or lit a fire under a pot, he wrote the book not for professional chefs, as was the nineteenth-century custom, but for middle-class family cooks: housewives and their domestic helpers. His tone is that of a friendly advisor ? humorous and nonchalant. He indulges in witty anecdotes about many of the recipes, describing his experiences and the historical relevance of particular dishes. Artusi?s masterpiece is not merely a popular cookbook; it is a landmark work in Italian culture. This English edition (first published by Marsilio Publishers in 1997) features a delightful introduction by Luigi Ballerini that traces the fascinating history of the book and explains its importance in the context of Italian history and politics. The illustrations are by the noted Italian artist Giuliano Della Casa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781442690967"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1442690968"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 653,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9muSH1nOumoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9muSH1nOumoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9muSH1nOumoC&printsec=frontcover&dq=subject:Cooking&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9muSH1nOumoC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9muSH1nOumoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 56.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 42.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9muSH1nOumoC&rdid=book-9muSH1nOumoC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.6E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.2E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Science_in_the_Kitchen_and_the_Art_of_Ea-sample-epub.acsm?id=9muSH1nOumoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Science_in_the_Kitchen_and_the_Art_of_Ea-sample-pdf.acsm?id=9muSH1nOumoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9muSH1nOumoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ju1AKKvI_l4C",
+   "etag": "AUDR/4Qn1bs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ju1AKKvI_l4C",
+   "volumeInfo": {
+    "title": "Bread and Wine",
+    "subtitle": "A Love Letter to Life Around the Table with Recipes",
+    "authors": [
+     "Shauna Niequist"
+    ],
+    "publisher": "Zondervan",
+    "publishedDate": "2013-04-09",
+    "description": "Author of the New York Times bestseller Present Over Perfect, Shauna Niequist provides the perfect read for those who love food and value the community and connection of family and friends around the table. Bread & Wine is a collection of essays about family relationships, friendships, and the meals that bring us together. This mix of Anne Lamott and Barefoot Contessa is a funny, honest, and vulnerable spiritual memoir. Bread & Wine is a celebration of food shared, reminding readers of the joy found in a life around the table. It’s about the ways God teaches and nourishes people as they nourish the people around them. It’s about hunger, both physical and otherwise, and the connections between the two. With wonderful recipes included, from Bacon-Wrapped Dates to Mango Chicken Curry to Blueberry Crisp, readers will be able to recreate the comforting and satisfying meals that come to life in Bread & Wine.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780310598879"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0310598877"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 29,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.7.7.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ju1AKKvI_l4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ju1AKKvI_l4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ju1AKKvI_l4C&printsec=frontcover&dq=subject:Cooking&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ju1AKKvI_l4C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ju1AKKvI_l4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ju1AKKvI_l4C&rdid=book-ju1AKKvI_l4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Bread_and_Wine-sample-epub.acsm?id=ju1AKKvI_l4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ju1AKKvI_l4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xNEaD1g7XScC",
+   "etag": "MstmyRoxqfA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xNEaD1g7XScC",
+   "volumeInfo": {
+    "title": "Salt",
+    "subtitle": "A World History",
+    "authors": [
+     "Mark Kurlansky"
+    ],
+    "publisher": "Vintage Canada",
+    "publishedDate": "2011-03-18",
+    "description": "From the award-winning and bestselling author of Cod comes the dramatic, human story of a simple substance, an element almost as vital as water, that has created fortunes, provoked revolutions, directed economies and enlivened our recipes. Salt is common, easy to obtain and inexpensive. It is the stuff of kitchens and cooking. Yet trade routes were established, alliances built and empires secured – all for something that filled the oceans, bubbled up from springs, formed crusts in lake beds, and thickly veined a large part of the Earth’s rock fairly close to the surface. From pre-history until just a century ago – when the mysteries of salt were revealed by modern chemistry and geology – no one knew that salt was virtually everywhere. Accordingly, it was one of the most sought-after commodities in human history. Even today, salt is a major industry. Canada, Kurlansky tells us, is the world’s sixth largest salt producer, with salt works in Ontario playing a major role in satisfying the Americans’ insatiable demand. As he did in his highly acclaimed Cod, Mark Kurlansky once again illuminates the big picture by focusing on one seemingly modest detail. In the process, the world is revealed as never before. From the Hardcover edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307369796"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "030736979X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 65,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xNEaD1g7XScC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xNEaD1g7XScC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xNEaD1g7XScC&printsec=frontcover&dq=subject:Cooking&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xNEaD1g7XScC&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Salt.html?hl=&id=xNEaD1g7XScC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Salt-sample-epub.acsm?id=xNEaD1g7XScC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xNEaD1g7XScC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jKgLamSRSi4C",
+   "etag": "LgN0gcgbXRU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jKgLamSRSi4C",
+   "volumeInfo": {
+    "title": "The Appetizer Is the Meal",
+    "authors": [
+     "David G. Nunez"
+    ],
+    "publisher": "AuthorHouse",
+    "publishedDate": "2011-01",
+    "description": "The Appetizer is fast becoming the alternative to costly and uninspiring entrees. Many of us love to seek out those perfect, tasty bite sized, morsels as the means of satisfying our primal urges to eat with our hands. This is the \"cut to the chase\" manual for gastronomic satisfaction. The Appetizer \"is\" the Meal delivers that and more. Whether or not you're attending a football or evening party or family barbeque, you will get 27 easy, tried and true appetizers that you'll want to make over and over. This book comes loaded with variety of delights, and enough real substance to satisfy your caveman and cave-lady needs. Forget the scanty thumbnail sized canapes which offer little more than a single bite and continued longing, The Appetizer \"is\" the Meal gives you full permission to double that order in less time that it would take to drive to your favorite pricey restaurant. This is a book designed to be fun and at the same time discards the common precept that enjoyable dining must necessarily include the entre and its accompanied accoutrements. Each recipe is replete with beautiful photographs depicting the final product. The misperception of appetizer preparation and the supposed difficulty will be dispelled as you take the journey through entree independence. We learn to swim to be refreshed and cool so why jump into the deep in end when dipping your feet, wading and flopping around is just as refreshing and in any given instance, all you may need; or imagine being told that a gentle passionate kiss is not enough. No longer The Appetizer\" is\" the Meal is the metaphoric kiss and refreshing pool wrapped into one.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781452075747"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1452075743"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 84,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jKgLamSRSi4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jKgLamSRSi4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jKgLamSRSi4C&printsec=frontcover&dq=subject:Cooking&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jKgLamSRSi4C&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Appetizer_Is_the_Meal.html?hl=&id=jKgLamSRSi4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jKgLamSRSi4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i5h7_HXPHvwC",
+   "etag": "9FE685KrT+Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i5h7_HXPHvwC",
+   "volumeInfo": {
+    "title": "The Art of Cookery in the Middle Ages",
+    "authors": [
+     "Terence Scully"
+    ],
+    "publisher": "Boydell Press",
+    "publishedDate": "1995",
+    "description": "The master cook who worked in the noble kitchens of the fourteenth and fifteenth centuries had to be both practical and knowledgeable. His apprenticeship acquainted him with a range of culinary skills and a wide repertoire of seasonal dishes, but he was also required to understand the inherent qualities of the foodstuffs he handled, as determined by contemporary medical theories, and to know the lean-day strictures of the Church. Research in original manuscript sources makes this a fascinating and authoritative study where little hard fact had previously existed.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0851154301"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780851154305"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=i5h7_HXPHvwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=i5h7_HXPHvwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=i5h7_HXPHvwC&printsec=frontcover&dq=subject:Cooking&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=i5h7_HXPHvwC&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_Cookery_in_the_Middle_Ages.html?hl=&id=i5h7_HXPHvwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=i5h7_HXPHvwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "95gpDwAAQBAJ",
+   "etag": "qPIlDamaYYQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/95gpDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Shaya",
+    "subtitle": "An Odyssey of Food, My Journey Back to Israel",
+    "authors": [
+     "Alon Shaya"
+    ],
+    "publisher": "Knopf",
+    "publishedDate": "2018-03-13",
+    "description": "An exciting debut cookbook that confirms the arrival of a new guru chef . . . A moving, deeply personal journey of survival and discovery that tells of the evolution of a cuisine and of the transformative power and magic of food and cooking. From the two-time James Beard Award-winning chef whose celebrated New Orleans restaurants have been hailed as the country's most innovative and best by Bon Appétit, Food & Wine, Saveur, GQ, and Esquire. . * \"Alon's journey is as gripping and as seductive as his cooking . . . Lovely stories, terrific food.\" --Yotam Ottolenghi, author of Jerusalem: A Cookbook * \"Breathtaking. Bravo.\" --Joan Nathan, author of King Solomon's Table Alon Shaya's is no ordinary cookbook. It is a memoir of a culinary sensibility that begins in Israel and wends its way from the U.S.A. (Philadelphia) to Italy (Milan and Bergamo), back to Israel (Jerusalem) and comes together in the American South, in the heart of New Orleans. It's a book that tells of how food saved the author's life and how, through a circuitous path of (cooking) twists and (life-affirming) turns the author's celebrated cuisine--food of his native Israel with a creole New Orleans kick came to be, along with his award-winning New Orleans restaurants: Shaya, Domenica, and Pizza Domenica, ranked by Esquire, Bon Appétit, and others as the best new restaurants in the United States. These are stories of place, of people, and of the food that connects them, a memoir of one man's culinary sensibility, with food as the continuum throughout his journey--guiding his personal and professional decisions, punctuating every memory, choice, every turning point in his life. Interspersed with glorious full-color photographs and illustrations that follow the course of all the flavors Shaya has tried, places he's traveled, things he's experienced, lessons he's learned--more than one hundred recipes--from Roasted Chicken with Harissa to Speckled Trout with Tahini and Pine Nuts; Crab Cakes with Preserved Lemon Aioli; Roasted Cast-Iron Ribeye; Marinated Soft Cheese with Herbs and Spices; Buttermilk Biscuits; and Whole Roasted Cauliflower with Whipped Feta.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780451494177"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0451494172"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 440,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=95gpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=95gpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=95gpDwAAQBAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=95gpDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=95gpDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=95gpDwAAQBAJ&rdid=book-95gpDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.899E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.899E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Shaya-sample-epub.acsm?id=95gpDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=95gpDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ps6OCgAAQBAJ",
+   "etag": "t3zs/04I71M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ps6OCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Tsukiji",
+    "subtitle": "The Fish Market at the Center of the World",
+    "authors": [
+     "Theodore C. Bestor"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "2004-07-13",
+    "description": "Located only blocks from Tokyo's glittering Ginza, Tsukiji—the world's largest marketplace for seafood—is a prominent landmark, well known but little understood by most Tokyoites: a supplier for countless fishmongers and sushi chefs, and a popular and fascinating destination for foreign tourists. Early every morning, the worlds of hi-tech and pre-tech trade noisily converge as tens of thousands of tons of seafood from every ocean of the world quickly change hands in Tsukiji's auctions and in the marketplace's hundreds of tiny stalls. In this absorbing firsthand study, Theodore C. Bestor—who has spent a dozen years doing fieldwork at fish markets and fishing ports in Japan, North America, Korea, and Europe—explains the complex social institutions that organize Tsukiji's auctions and the supply lines leading to and from them and illuminates trends of Japan's economic growth, changes in distribution and consumption, and the increasing globalization of the seafood trade. As he brings to life the sights and sounds of the marketplace, he reveals Tsukiji's rich internal culture, its place in Japanese cuisine, and the mercantile traditions that have shaped the marketplace since the early seventeenth century.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520923584"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0520923588"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 439,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ps6OCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ps6OCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ps6OCgAAQBAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ps6OCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ps6OCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ps6OCgAAQBAJ&rdid=book-ps6OCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.995E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.617E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Tsukiji-sample-epub.acsm?id=ps6OCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Tsukiji-sample-pdf.acsm?id=ps6OCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ps6OCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "giQaoQz8N0AC",
+   "etag": "WYXl9uRX8Ic",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/giQaoQz8N0AC",
+   "volumeInfo": {
+    "title": "A Taste of Haiti",
+    "authors": [
+     "Mirta Yurnet-Thomas"
+    ],
+    "publisher": "Hippocrene Books",
+    "publishedDate": "2003-08",
+    "description": "With African, French, Arabic and Amerindian influences, the food and culture of Haiti are fascinating subjects to explore. From the days of slavery to present times, traditional Haitian cuisine has relied upon staples like root vegetables, pork, fish, and flavour enhancers like Pikliz (picklese, or hot pepper vinegar) and Zepis (ground spices). This cookbook offers over 100 Haitian recipes, including traditional holiday foods and the author's favourite drinks and desserts. Information on Haiti's history, holidays and celebrations, necessary food staples, and cooking methods will guide the home chef on a culinary adventure to this beautiful island. Recipe titles are given in English, Creole, and French.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0781809983"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780781809986"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=giQaoQz8N0AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=giQaoQz8N0AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=giQaoQz8N0AC&printsec=frontcover&dq=subject:Cooking&hl=&cd=11&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=giQaoQz8N0AC&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Taste_of_Haiti.html?hl=&id=giQaoQz8N0AC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=giQaoQz8N0AC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9GViDgAAQBAJ",
+   "etag": "hRCLf7NJD0E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9GViDgAAQBAJ",
+   "volumeInfo": {
+    "title": "5 Ingredients - Quick & Easy Food",
+    "subtitle": "The UK edition",
+    "authors": [
+     "Jamie Oliver"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2017-08-24",
+    "description": "Jamie's most straightforward cookbook yet . . . It's perfect for quick and easy meals for every day of the week. Even the busiest of us will be able to master dishes to bring the house down! Jamie's CHANNEL 4 series Quick and Easy Food is BACK on Monday nights at 8pm, find all the recipes . . . and more inside. __________ 'Our favourite new recipe book . . . Simple suppers from the nation's favourite chef' Sainsbury's Magazine __________ With just FIVE ingredients that have maximum flavour and minimum fuss, you'll be cooking exciting food that's ready in less than 30 minutes . . . · ITALIAN SEARED BEEF. Thinly sliced strips of rump steak: golden and blushing in the middle, with pesto, spicy rocket, pine nuts and creamy layers of Parmesan. · AUBERGINE PENNE ARRABBIATA. A beautiful, super spicy Italian dish that's perfect for midweek. Aubergine quarters cooked in red chilli, garlic and tomatoes over penne pasta. · AMAZING DRESSED BEETS. A delightful summer salad: colourful beetroots, sweet slices of clementine, fresh tarragon and walnuts and creamy goats cheese. · SPEEDY SPICED PRAWN SOUP. A weekday treat, made at home in just 20 minutes. Creamy coconut milk and korma paste with basmati rice, spring onions and delicious prawns. _________ 'This is Oliver's best book in years' The Sunday Times 'Jamie Oliver returns with the second series, focussing on easy family-centric cooking . . . he's stripped back to basics and all the better for it.' The Sunday Telegraph",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405932202"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1405932201"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.6.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9GViDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9GViDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9GViDgAAQBAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=12&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9GViDgAAQBAJ&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/5_Ingredients_Quick_Easy_Food.html?hl=&id=9GViDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/5_Ingredients_Quick_Easy_Food-sample-epub.acsm?id=9GViDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9GViDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lj0CeaIIETkC",
+   "etag": "WkdyjBll0Sk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lj0CeaIIETkC",
+   "volumeInfo": {
+    "title": "Food, Cuisine, and Cultural Competency for Culinary, Hospitality, and Nutrition Professionals",
+    "authors": [
+     "Sari Edelstein"
+    ],
+    "publisher": "Jones & Bartlett Learning",
+    "publishedDate": "2009-09-23",
+    "description": "Food, Cuisine, and Cultural Competency for Culinary, Hospitality, and Nutrition Professionals comprehensively covers unique food traditions as they apply to health. The text explores the critical importance of cultural sensitivity and competency in today's work setting, addresses health literacy issues of diverse client bases, and helps readers identify customer communication techniques that enable professionals to establish trust with clients of ethnicity not their own. Written and peer reviewed by experts in the culture discussed, each chapter in this groundbreaking text covers a distinct region or culture and discusses the various contexts that contribute to nutrition and health: lifestyles, eating patterns, ethnic foods, menu planning, communication (verbal and non-verbal), and more. This book is consistent with The American Dietetic Association’s Cultural Competence Strategic Plan.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780763759650"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0763759651"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 610,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lj0CeaIIETkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lj0CeaIIETkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lj0CeaIIETkC&printsec=frontcover&dq=subject:Cooking&hl=&cd=13&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lj0CeaIIETkC&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Food_Cuisine_and_Cultural_Competency_for.html?hl=&id=lj0CeaIIETkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lj0CeaIIETkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IQth4GUHhK4C",
+   "etag": "P8hNG1p9vtc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IQth4GUHhK4C",
+   "volumeInfo": {
+    "title": "The Shredded Chef",
+    "subtitle": "120 Recipes for Building Muscle, Getting Lean, and Staying Healthy",
+    "authors": [
+     "Michael Matthews"
+    ],
+    "publisher": "Oculus Publishers",
+    "publishedDate": "2012-07-09",
+    "description": "If you want to know how to build muscle and burn fat by eating healthy, delicious meals that are easy to cook and easy on your wallet, then you want to read this book.Do you lack confidence in the kitchen and think that you just can't cook great food?Are you not sure of how to prepare food that is not only delicious and healthy but also effective in helping you build muscle and lose fat?Are you afraid that cooking nutritious, restaurant-quality meals is too time-consuming and expensive?If you answered \"yes\" to any of those questions, don't worry--you're not alone. And this book is the answer: With it, you can cook fast, healthy, and tasty meals every day (and on a reasonable budget) that will help you build muscle or lose weight, regardless of your current skills.The Shredded Chef is more than just a bunch of recipes, though. It's going to teach you the true scientific basics of gaining muscle and losing fat, because bad diet advice is an epidemic these days.In this book, you're going to learn how to eat right without having to obsess over every calorie. These 9 scientifically proven rules for eating are the foundation of every great physique, and they have nothing to do with following weird diets or depriving yourself of everything that tastes good.And the recipes themselves? In this book you'll find 114 healthy, flavorful recipes specifically designed for athletes that want to build muscle or lose fat. Regardless of your fitness goals, this book has got you covered.Here's a \"sneak peek\" of the recipes you'll find inside:18 fast, delicious breakfast recipes like Peanut Butter Power Oatmeal, French Muscle Toast, High-Protein Banana Oatcakes, Lean and Mean Zucchini Hash Brown, Macho Mexican Scramble and more. Whether you're trying to burn fat or build muscle, you'll find recipes that will help you get there. 18 mouthwatering chicken dishes like Chicken Stroganoff, Tasty Thai Chicken, Jerk Chicken Stir Fry, Honey-Garlic Chicken, and more. Forget boring chicken dishes, even when cutting!14 tasty beef recipes like Low-Fat Russian Beef Stroganoff, Lean Bison Burgers, Vietnamese Beef Noodles, Meathead Meatballs, and more. Enjoy beef like never before with these creative recipes and you'll even find low-calorie beef dishes designed for losing weight!10 savory fish and seafood recipes like Turkey Bacon Wrapped Scallops, Provencal Baked Halibut, Salmon Burgers, Tasty Tuna Melt, and more. Never again settle for flavorless, unappetizing fish and seafood--these recipes will have you singing praises for the sea!7 hearty, healthy pasta recipes like Chicken Pesto Pasta, Asparagus & Goat Cheese Pasta, Classic Pasta Bolognese, Beef Lasagna, Chicken Fettuccine with Mushrooms, and more. Each of the pasta dishes are high in protein, making them great muscle-building treats. 14 awesome side dishes like Wasabi Mashed Potatoes, Sweet Potato Fries, Hot 'n Healthy Brown Rice, Zucchini Risotto, Couscous Salad, and more. You're going to love mixing and matching these side dishes with the entrees and discovering your favorite combinations! 5 delectable desserts like Key Lime Pie, Peach Cobbler, Chocolate Protein Mousse, Banana Cream Pie, and more. These sugar-free desserts will satisfy your sweet tooth without the calorie overload!And more! (I haven't even mentioned the recipes for pork, salads, protein shakes, protein bars, and snacks...)SPECIAL BONUS FOR READERS!With this book you'll also get a free 31-page bonus report from the author called \"Muscle Meals: How to Use Nutrition to Maximize Your Muscle and Torch Your Fat.\" In this bonus report, you'll learn the truth about \"good\" and \"bad\" carbs and exactly which you should eat and which you should avoid, and 5 snacks that are delicious, easy to make, and that can help you build muscle and lose fat.Scroll up and click the \"Buy\" button now to learn how to cook nutritious, delicious meals that make building muscle and burning fat easy!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781478213659"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1478213655"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 293,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.31.32.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IQth4GUHhK4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IQth4GUHhK4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IQth4GUHhK4C&printsec=frontcover&dq=subject:Cooking&hl=&cd=14&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IQth4GUHhK4C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IQth4GUHhK4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.33,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IQth4GUHhK4C&rdid=book-IQth4GUHhK4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7330000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IQth4GUHhK4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e221uiNiknoC",
+   "etag": "g8NTSMTtZsE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e221uiNiknoC",
+   "volumeInfo": {
+    "title": "Study Guide to Accompany Professional Cooking",
+    "authors": [
+     "Wayne Gisslen",
+     "Mary Ellen Griffin"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2010-04-05",
+    "description": "The Study Guide to Accompany Professional Cooking, Seventh Edition is a useful tool to help students study and review the material in the textbook Professional Cooking. It contains 35 chapters of key exercises related to key terms; true/false questions; completion, short-answer, and other written exercises; and math exercises. The purpose is to reinforce learning, support your study efforts, and assist you in mastering the material.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470197516"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "047019751X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=e221uiNiknoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=e221uiNiknoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=e221uiNiknoC&printsec=frontcover&dq=subject:Cooking&hl=&cd=15&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=e221uiNiknoC&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Study_Guide_to_Accompany_Professional_Co.html?hl=&id=e221uiNiknoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=e221uiNiknoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c4jcUvM0Qp0C",
+   "etag": "06KeD/F9BsU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c4jcUvM0Qp0C",
+   "volumeInfo": {
+    "title": "The Crawfish Book",
+    "authors": [
+     "Glen Pitre"
+    ],
+    "publisher": "Univ. Press of Mississippi",
+    "publishedDate": "1993-04-01",
+    "description": "Traces the history of the crayfish, looks at crayfish in folklore, and shares international recipes for main dishes, salads, bisques, and gumbos featuring crayfish",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780878055999"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0878055991"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 211,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=c4jcUvM0Qp0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=c4jcUvM0Qp0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=c4jcUvM0Qp0C&printsec=frontcover&dq=subject:Cooking&hl=&cd=16&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=c4jcUvM0Qp0C&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Crawfish_Book.html?hl=&id=c4jcUvM0Qp0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c4jcUvM0Qp0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7O5YpNRnpNoC",
+   "etag": "hPz6zutGF44",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7O5YpNRnpNoC",
+   "volumeInfo": {
+    "title": "The Art and Soul of Baking",
+    "authors": [
+     "Cindy Mushet",
+     "Sur La Table",
+     "Maren Caruso"
+    ],
+    "publisher": "Andrews McMeel Publishing",
+    "publishedDate": "2008-10-21",
+    "description": "Presents a collection of recipes for a variety of baked goods along with information on equipment, ingredients, and baking methods.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780740773341"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0740773348"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 464,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7O5YpNRnpNoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7O5YpNRnpNoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7O5YpNRnpNoC&printsec=frontcover&dq=subject:Cooking&hl=&cd=17&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=7O5YpNRnpNoC&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_and_Soul_of_Baking.html?hl=&id=7O5YpNRnpNoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7O5YpNRnpNoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "coTiVJiWS00C",
+   "etag": "A9mjLwMlujs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/coTiVJiWS00C",
+   "volumeInfo": {
+    "title": "Eating Right in the Renaissance",
+    "authors": [
+     "Ken Albala"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "2002-02-01",
+    "description": "Eating right has been an obsession for longer than we think. Renaissance Europe had its own flourishing tradition of dietary advice. Then, as now, an industry of experts churned out diet books for an eager and concerned public. Providing a cornucopia of information on food and an intriguing account of the differences between the nutritional logic of the past and our own time, this inviting book examines the wide-ranging dietary literature of the Renaissance. Ken Albala ultimately reveals the working of the Renaissance mind from a unique perspective: we come to understand a people through their ideas on food. Eating Right in the Renaissance takes us through an array of historical sources in a narrative that is witty and spiced with fascinating details. Why did early Renaissance writers recommend the herbs parsley, arugula, anise, and mint to fortify sexual prowess? Why was there such a strong outcry against melons and cucumbers, even though people continued to eat them in large quantities? Why was wine considered a necessary nutrient? As he explores these and other questions, Albala explains the history behind Renaissance dietary theories; the connections among food, exercise, and sex; the changing relationship between medicine and cuisine; and much more. Whereas modern nutritionists may promise a slimmer waistline, more stamina, or freedom from disease, Renaissance food writers had entirely different ideas about the value of eating right. As he uncovers these ideas from the past, Ken Albala puts our own dietary obsessions in an entirely new light in this elegantly written and often surprising new chapter on the history of food.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520927281"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520927285"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 324,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=coTiVJiWS00C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=coTiVJiWS00C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=coTiVJiWS00C&printsec=frontcover&dq=subject:Cooking&hl=&cd=18&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=coTiVJiWS00C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=coTiVJiWS00C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 47.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 37.64,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=coTiVJiWS00C&rdid=book-coTiVJiWS00C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.795E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.764E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Eating_Right_in_the_Renaissance-sample-epub.acsm?id=coTiVJiWS00C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Eating_Right_in_the_Renaissance-sample-pdf.acsm?id=coTiVJiWS00C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=coTiVJiWS00C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RRGwDwAAQBAJ",
+   "etag": "+ScrpzLsW7U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RRGwDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Eat Up Raise Your Game",
+    "subtitle": "100 easy, nutritious recipes to help you perform better on exercise days and rest days",
+    "authors": [
+     "Daniel Davey"
+    ],
+    "publisher": "Gill & Macmillan Ltd",
+    "publishedDate": "2019-09-20",
+    "description": "Daniel Davey is the man who fuels many of Ireland’s elite athletes. A performance nutritionist for Leinster Rugby and Dublin senior footballers, he has seen first-hand how consistently eating good food can lead to trophies, personal bests and incredible physiques. The good news is that it’s not just in elite sport that you can raise your game through diet. Here, Daniel translates the science of nutrition into easy-to-follow information and simple, delicious recipes that will help you align your food choices with your nutrition and energy requirements. In this book, you can choose from lower carbohydrate, lower calorie recipes for rest and recovery days and higher carbohydrate, higher calorie recipes to energise and fuel your body on exercise days. Whether you want to reduce body fat, increase muscle mass or simply eat food that makes you feel healthy, energetic, strong and confident, the recipes and information in this cookbook will ensure you are primed to reach your personal best. ‘Daniel opened my eyes to the importance of nutrition to my performance. My diet and work with Daniel were integral to my return from long-term injury. His passion for food and gaining an edge is infectious and it has driven us all to be better athletes.’ Bernard Brogan, Dublin Senior Footballer ‘Daniel not only gave me an insight into what was needed in terms of nutrition for performance but explained it simply and backed it up with incredible detail and science. By far the best performance nutritionist I’ve ever worked with!’ Seán O’Brien, Irish International Rugby Player ‘I always looked for an edge when it came to my preparation for performance, and nutrition became a core element of this later in my career and this was mainly due to the support, education and guidance of Daniel Davey. Daniel has been key to helping me form the habits I need for peak performance.’ Paul Flynn, Dublin Senior Footballer",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780717187942"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0717187942"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RRGwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RRGwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RRGwDwAAQBAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=19&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RRGwDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RRGwDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.49,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RRGwDwAAQBAJ&rdid=book-RRGwDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.649E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Eat_Up_Raise_Your_Game-sample-epub.acsm?id=RRGwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Eat_Up_Raise_Your_Game-sample-pdf.acsm?id=RRGwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RRGwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qiVoDwAAQBAJ",
+   "etag": "v0BPkQPHF3Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qiVoDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Deliciously Ella The Plant-Based Cookbook",
+    "subtitle": "100 Simple Vegan Recipes to Make Every Day Delicious",
+    "authors": [
+     "Ella Mills Woodward"
+    ],
+    "publisher": "Quercus",
+    "publishedDate": "2018-08-23",
+    "description": "100 all-new plant-based recipes by bestselling author Deliciously Ella. \"Deliciously magnificent!\" --Kris Carr, author of the NYT-bestselling Crazy Sexy Diet Ella's latest book features the most popular, tried-and-tested recipes from her supper clubs, pop-ups, and deli to show how delicious and abundant plant-based cooking can be. These simple vegan recipes cover everything from colorful salads to veggie burgers, falafel, creamy dips and sides, hearty one-pot curries and stews, speedy breakfasts, weekend brunches, muffins, cakes, and brownies. They're the recipes that Ella's thousands of customers have been asking for since the deli first launched in 2015, and each recipe has a beautiful photograph to show you how it should look. In addition to the more than 100 brand-new plant-based recipes, for the first time we are treated to a personal insight into Ella's journey--how she grew her blog, which she began writing to help get herself well while suffering from illness, into a wellness brand--and all that she has learned along the way, as well as what drives the Deliciously Ella philosophy and her team's passion for creating delicious healthy food. With diary excerpts that document the incredible journey that Deliciously Ella has taken and more than 100 irresistible recipes for every day using simple, nourishing ingredients, this stunning book will be a must-have for fans and food-lovers alike, and it's also perfect for anyone looking to experiment with vegan cooking for the first time.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781635061390"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1635061393"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qiVoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qiVoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=qiVoDwAAQBAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=20&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=qiVoDwAAQBAJ&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Deliciously_Ella_The_Plant_Based_Cookboo.html?hl=&id=qiVoDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Deliciously_Ella_The_Plant_Based_Cookboo-sample-epub.acsm?id=qiVoDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qiVoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8eVMDwAAQBAJ",
+   "etag": "0kV7VwO7iZo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8eVMDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Resep Andalan Ny. Liem: Cake & Brownies Kukus Fantastis (Cover Baru)",
+    "authors": [
+     "Chendawati"
+    ],
+    "publisher": "Gramedia Pustaka Utama",
+    "publishedDate": "2018-02-08",
+    "description": "ingin ikut mempraktikkan dan menikmati cake & brownies kukus fantastis yang diajarkan di kursus masak ny liem? atau ingin memperkaya khazanah resep andalan di usaha boga Anda. Milikilah segera buku ini! berisi lebih dari 20 resep cake & brownies kukus fantastis yang diajarkan di tempat kursus tersebut, seperti misalnya brownies vla kukus, raindrop cheese browies, blueberry chocolate cake kukus, dan black forest steamed cake. Kursus masak Ny.iem merupakan tempat kursus masak yang sangat terkenal di kota bandung dengan jumlah murid mencapai ribuan, tersebar di seluruh Indonesia. Resep-resep masakan yang diajarkan di kursus Ny. Liem sangat diminati para peminta dan praktisi boga, dan telah menjadi resep andalan puluhan usaha boga para alumninya.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9786020380056"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "602038005X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 60,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8eVMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8eVMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "id",
+    "previewLink": "http://books.google.com/books?id=8eVMDwAAQBAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=21&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8eVMDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8eVMDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.53,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 3.47,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8eVMDwAAQBAJ&rdid=book-8eVMDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4530000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3470000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Resep_Andalan_Ny_Liem_Cake_Brownies_Kuku-sample-pdf.acsm?id=8eVMDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8eVMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c1mK0NhSaIAC",
+   "etag": "CSJMgGIpKAc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c1mK0NhSaIAC",
+   "volumeInfo": {
+    "title": "Mrs. Hill's Southern Practical Cookery and Receipt Book",
+    "authors": [
+     "A. P. Hill",
+     "Damon Lee Fowler"
+    ],
+    "publisher": "Univ of South Carolina Press",
+    "publishedDate": "1872",
+    "description": "Annabella P. Hill (1810-1878) was a socially-prominent Georgia native whose encyclopedic treasury of 19th century recipes, cooking advice, and household hints was first published in 1867. This is a facsimile of the 1872 edition, accompanied by a biographical sketch, historical notes, and a glossary",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1570030480"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781570030482"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 459,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=c1mK0NhSaIAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=c1mK0NhSaIAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=c1mK0NhSaIAC&printsec=frontcover&dq=subject:Cooking&hl=&cd=22&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=c1mK0NhSaIAC&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mrs_Hill_s_Southern_Practical_Cookery_an.html?hl=&id=c1mK0NhSaIAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c1mK0NhSaIAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Eq7sDAAAQBAJ",
+   "etag": "pvOYD0RBhQc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Eq7sDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Wild Fermentation",
+    "subtitle": "The Flavor, Nutrition, and Craft of Live-Culture Foods, 2nd Edition",
+    "authors": [
+     "Sandor Ellix Katz"
+    ],
+    "publisher": "Chelsea Green Publishing",
+    "publishedDate": "2016-08-19",
+    "description": "The Book That Started the Fermentation Revolution Sandor Ellix Katz, winner of a James Beard Award and New York Times bestselling author, whom Michael Pollan calls the “Johnny Appleseed of Fermentation” returns to the iconic book that started it all, but with a fresh perspective, renewed enthusiasm, and expanded wisdom from his travels around the world. This self-described fermentation revivalist is perhaps best known simply as Sandorkraut, which describes his joyful and demystifying approach to making and eating fermented foods, the health benefits of which have helped launch a nutrition-based food revolution. Since its publication in 2003, and aided by Katz’s engaging and fervent workshop presentations, Wild Fermentation has inspired people to turn their kitchens into food labs: fermenting vegetables into sauerkraut, milk into cheese or yogurt, grains into sourdough bread, and much more. In turn, they’ve traded batches, shared recipes, and joined thousands of others on a journey of creating healthy food for themselves, their families, and their communities. Katz’s work earned him the Craig Clairborne lifetime achievement award from the Southern Foodways Alliance, and has been called “one of the unlikely rock stars of the American food scene” by The New York Times. This updated and revised edition, now with full color photos throughout, is sure to introduce a whole new generation to the flavors and health benefits of fermented foods. It features many brand-new recipes—including Strawberry Kvass, African Sorghum Beer, and Infinite Buckwheat Bread—and updates and refines original recipes reflecting the author’s ever-deepening knowledge of global food traditions that has influenced four-star chefs and home cooks alike. For Katz, his gateway to fermentation was sauerkraut. So open this book to find yours, and start a little food revolution right in your own kitchen. Praise for Sandor Ellix Katz and his books: “The Art of Fermentation is an extraordinary book, and an impressive work of passion and scholarship.”—Deborah Madison, author of Local Flavors “Sandor Katz has proven himself to be the king of fermentation.”—Sally Fallon Morell, President, The Weston A. Price Foundation “Sandor Katz has already awakened more people to the diversity and deliciousness of fermented foods than any other single person has over the last century.”—Gary Paul Nabhan, author of Growing Food in a Hotter, Drier Land “The fermenting bible.” — Newsweek “In a country almost clinically obsessed with sterilization Katz reminds us of the forgotten benefits of living in harmony with our microbial relatives.” — Grist",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781603586290"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1603586296"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 10,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Eq7sDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Eq7sDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Eq7sDAAAQBAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=23&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Eq7sDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Eq7sDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.88,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Eq7sDAAAQBAJ&rdid=book-Eq7sDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.995E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9880000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Wild_Fermentation-sample-epub.acsm?id=Eq7sDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Wild_Fermentation-sample-pdf.acsm?id=Eq7sDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Eq7sDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YKHLu8cQdXUC",
+   "etag": "g/eYY8CjvFc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YKHLu8cQdXUC",
+   "volumeInfo": {
+    "title": "General Viticulture",
+    "authors": [
+     "Albert Julius Winkler"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "1974-01-01",
+    "description": "The text is designed to enable those concerned with either vine or fruite problems to arrive at considered diagnoses. Tje student will find the text and cited references a comprehensive source of information.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520025911"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520025912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 710,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YKHLu8cQdXUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YKHLu8cQdXUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YKHLu8cQdXUC&printsec=frontcover&dq=subject:Cooking&hl=&cd=24&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YKHLu8cQdXUC&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/General_Viticulture.html?hl=&id=YKHLu8cQdXUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/General_Viticulture-sample-epub.acsm?id=YKHLu8cQdXUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YKHLu8cQdXUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XvMHAAAAQAAJ",
+   "etag": "tYCqlpDQn+w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XvMHAAAAQAAJ",
+   "volumeInfo": {
+    "title": "The compleat housewife: or, Accomplished gentlewoman's companion, by E- S-. By E. Smith",
+    "authors": [
+     "E. Smith"
+    ],
+    "publishedDate": "1739",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:590917868"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XvMHAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XvMHAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XvMHAAAAQAAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=25&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XvMHAAAAQAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XvMHAAAAQAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=XvMHAAAAQAAJ&rdid=book-XvMHAAAAQAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com/books/download/The_compleat_housewife_or_Accomplished_g.epub?id=XvMHAAAAQAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/The_compleat_housewife_or_Accomplished_g.pdf?id=XvMHAAAAQAAJ&hl=&output=pdf&sig=ACfU3U3mEKXhN2tqT7Cq4dbvMqAJD-TAgA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XvMHAAAAQAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9nqnB9fZoW0C",
+   "etag": "SDdAP448Ato",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9nqnB9fZoW0C",
+   "volumeInfo": {
+    "title": "Double Delicious!",
+    "subtitle": "Good, Simple Food for Busy, Complicated Lives",
+    "authors": [
+     "Jessica Seinfeld"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "2010-10-26",
+    "description": "The follow-up to the #1 New York Times bestseller Deceptively Delicious goes beyond purees and kids' foods to make family mealtime more delicious, more wholesome, and simpler than ever. In her bestselling book Deceptively Delicious, Jessica Seinfeld inspired millions of parents to improve their kids' eating habits by giving everyday classics a nutritional boost with hidden vegetable purees. Now in Double Delicious!, she's turned her attention to the whole family. Here are more of her easy, imaginative recipes that use the power of purees to make everything healthier, from a hearty Turkey Meatloaf to an irresistible Tiramisu. Again, she's raised the bar nutritionally and eliminated unnecessary sugar and fat, boosted fiber and nutrients, and cut way back on sodium to bring us more healthful food with fantastic flavor. (She's even developed a Chocolate Peanut Butter Pie that nutritionist Joy Bauer loves!)",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780062018434"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0062018434"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9nqnB9fZoW0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9nqnB9fZoW0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9nqnB9fZoW0C&printsec=frontcover&dq=subject:Cooking&hl=&cd=26&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9nqnB9fZoW0C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9nqnB9fZoW0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 10.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 10.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9nqnB9fZoW0C&rdid=book-9nqnB9fZoW0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.099E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.099E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Double_Delicious-sample-epub.acsm?id=9nqnB9fZoW0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9nqnB9fZoW0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FlARDgAAQBAJ",
+   "etag": "4bH1xf/eLSo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FlARDgAAQBAJ",
+   "volumeInfo": {
+    "title": "How to Cake It",
+    "subtitle": "A Cakebook",
+    "authors": [
+     "Yolanda Gampp"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2017-10-24",
+    "description": "21 OMG-IS-THAT-AN-ACTUAL-CAKE? RECIPES + ALL THE CAKE KNOW-HOW YOU NEED From Yolanda Gampp, host of the massively popular, award-winning YouTube sensation How to Cake It comes an inspiring \"cakebook\" with irresistible new recipes and visual instructions for creating spectacular novelty cakes for all skill levels. On her entertaining YouTube Channel, How to Cake It, Yolanda Gampp creates mind-blowing cakes in every shape imaginable. From a watermelon to a human heart, to food shaped cakes such as burgers and pizzas, Yolanda’s creations are fun and realistic. Now, Yolanda brings her friendly, offbeat charm and caking expertise to this colorful cakebook, filled with imaginative cakes to make at home. How to Cake It: A Cakebook includes directions for making eighteen jaw-dropping cakes that are gorgeous and delicious, including a few fan favorites with a fresh twist, and mind-blowing new creations. Yolanda shares her coveted recipes and pro-tips, taking you step-by-step from easy/kid-friendly cakes (no carving necessary and simple fondant work) to more difficult designs (minimal carving and fondant detail) to aspirational cakes (carving, painting, and gum paste work). Whatever the celebration, Yolanda has the perfect creation, including her never before seen Candy Apple Cake, Party Hat, Rainbow Grilled Cheese Cake, Toy Bulldozer Cake, and even a Golden Pyramid Cake which features a secret treasure chamber! Written in her inspiring, encouraging voice, filled with clear, easy-to-follow instructions and vibrant photos, How to Cake It: A Cakebook will turn beginners into confident cake creators, and confident bakers into caking superstars!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780062676962"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0062676962"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.4.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FlARDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FlARDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FlARDgAAQBAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=27&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FlARDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FlARDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FlARDgAAQBAJ&rdid=book-FlARDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Cake_It-sample-epub.acsm?id=FlARDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FlARDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FZZbDwAAQBAJ",
+   "etag": "HiZTMYQ35D4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FZZbDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Recipes for Your Perfectly Imperfect Life",
+    "subtitle": "Everyday Ways to Live and Eat for Health, Healing, and Happiness",
+    "authors": [
+     "Kimberly Snyder, C.N."
+    ],
+    "publisher": "Harmony",
+    "publishedDate": "2019-02-19",
+    "description": "The New York Times bestselling author of the Beauty Detox series, nutritionist, and personal development expert Kimberly Snyder offers us a powerful new guide to help us feel good, eat well, dispel insecurities, and increase our love of life. Feeling good is not about having a picture-perfect life with a flawless body, job, and family. We can have those things and still feel deeply unhappy. Joy and true confidence come by finding a level of inner peace in our messy, perfectly imperfect lives. In this beautiful, inspirational, and highly anticipated new book, Kimberly Snyder shares not only her amazing new food recipes but also practical tips for living a happy and fulfilling life. As Snyder teaches, the key is to live beyond labels, heal body shame, and move past self-judgment. By embracing life's ups and downs and learning to tune into our intuition, we can ultimately claim our right to feel good, just as we are. With dozens of life lessons and more than 100 plant-based recipes for smoothies, soups, snacks, and entrées, Recipes for Your Perfectly Imperfect Life invites us to find inner peace and acceptance, and teaches us how a healthier mind and body can give us strength to thrive in all parts of our lives.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780525573722"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0525573720"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FZZbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FZZbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FZZbDwAAQBAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=28&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FZZbDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FZZbDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FZZbDwAAQBAJ&rdid=book-FZZbDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Recipes_for_Your_Perfectly_Imperfect_Lif-sample-epub.acsm?id=FZZbDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FZZbDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PpAmuR8pEV8C",
+   "etag": "1BD/1xAaL9Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PpAmuR8pEV8C",
+   "volumeInfo": {
+    "title": "Perfect Pairings",
+    "subtitle": "A Master Sommelier’s Practical Advice for Partnering Wine with Food",
+    "authors": [
+     "Evan Goldstein",
+     "Joyce Goldstein"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "2006-05-15",
+    "description": "Offering straightforward advice on how to select the right bottle of wine for every meal, a master sommelier offers a detailed study of twelve grape varietals, sparkling wines, and dessert wines, along with tips on the foods that will enhance the styles for each varietal, accompanied by more than fifty recipes that showcase each type of wine.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520243773"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520243774"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 318,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PpAmuR8pEV8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PpAmuR8pEV8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=PpAmuR8pEV8C&printsec=frontcover&dq=subject:Cooking&hl=&cd=29&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=PpAmuR8pEV8C&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Perfect_Pairings.html?hl=&id=PpAmuR8pEV8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Perfect_Pairings-sample-epub.acsm?id=PpAmuR8pEV8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PpAmuR8pEV8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kApLly0r5EkC",
+   "etag": "ep8BFArrB9g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kApLly0r5EkC",
+   "volumeInfo": {
+    "title": "101 Things to Do with a Cake Mix",
+    "authors": [
+     "Stephanie Ashcraft"
+    ],
+    "publisher": "Gibbs Smith",
+    "publishedDate": "2002-08-08",
+    "description": "Move over Betty Crocker--101 Things to Do With a Cake Mix will amaze your friends and leave them Jell-O green with envy! From Snickers Surprise Cookies to Christmas Rainbow Poke Cake, it's the best thing to happen in the kitchen since your last romantic rendezvous! So what are you waiting for? Grab a cake mix, whip up some goodies, and throw some flour on your face so it looks like you spent days in the kitchen.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1423608550"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781423608554"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.9.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kApLly0r5EkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kApLly0r5EkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=kApLly0r5EkC&printsec=frontcover&dq=subject:Cooking&hl=&cd=30&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=kApLly0r5EkC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kApLly0r5EkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 4.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=kApLly0r5EkC&rdid=book-kApLly0r5EkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kApLly0r5EkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "I2Q6WFETt40C",
+   "etag": "9Ao7K2HnHsE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I2Q6WFETt40C",
+   "volumeInfo": {
+    "title": "How to Bake",
+    "authors": [
+     "Paul Hollywood"
+    ],
+    "publisher": "A&C Black",
+    "publishedDate": "2012-07-19",
+    "description": "At last, the star of BBC2's The Great British Bake Off reveals all the secrets of his craft in How to Bake. The son of a baker, Paul Hollywood is passionate about busting the myths that surround baking, sharing his finely honed skills, and showing that with the right guidance, anybody can achieve success time after time. With this in mind, he has filled this book with easy-to-follow, clearly explained, utterly delicious recipes. Having taken you through the basic techniques, Paul explains how to make an abundance of breads, pastries, cakes and biscuits including wholemeal loaf, tin bread, ciabatta, focaccia, sour cherry and chocolate loaf, Roquefort and almond bread, fresh croissants, milles feuilles, quiche, classic Victoria sponge, lemon drizzle cake, chocolate temptation cake, buttery shortbread and fiery ginger biscuits. Time to get baking ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781408835562"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1408835568"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "3.9.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=I2Q6WFETt40C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=I2Q6WFETt40C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=I2Q6WFETt40C&printsec=frontcover&dq=subject:Cooking&hl=&cd=31&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=I2Q6WFETt40C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=I2Q6WFETt40C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 28.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.64,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=I2Q6WFETt40C&rdid=book-I2Q6WFETt40C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.8E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.764E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Bake-sample-epub.acsm?id=I2Q6WFETt40C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Bake-sample-pdf.acsm?id=I2Q6WFETt40C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=I2Q6WFETt40C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AWd4__mqEBkC",
+   "etag": "w3wiDBySqwI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AWd4__mqEBkC",
+   "volumeInfo": {
+    "title": "British Food",
+    "subtitle": "An Extraordinary Thousand Years of History",
+    "authors": [
+     "Colin Spencer"
+    ],
+    "publisher": "Columbia University Press",
+    "publishedDate": "2003",
+    "description": "Traces the history of British cuisine, exploring the factors that have influenced and changed eating in Britain, describing the rich variety of foods that define British cuisine, and recounting various culinary traditions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0231131100"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780231131100"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AWd4__mqEBkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AWd4__mqEBkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=AWd4__mqEBkC&printsec=frontcover&dq=subject:Cooking&hl=&cd=32&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=AWd4__mqEBkC&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/British_Food.html?hl=&id=AWd4__mqEBkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/British_Food-sample-epub.acsm?id=AWd4__mqEBkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AWd4__mqEBkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6sp2LXkyEvMC",
+   "etag": "TQUKqb4rj64",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6sp2LXkyEvMC",
+   "volumeInfo": {
+    "title": "Garde Manger",
+    "subtitle": "The Art and Craft of the Cold Kitchen",
+    "authors": [
+     "The Culinary Institute of America (CIA)"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2008-01-03",
+    "description": "The leading guide to the professional kitchen's cold food station, now fully revised and updated Garde Manger is one of the most important courses culinary students take—and it's often the first kitchen station that a new chef will encounter. This definitive guide has been thoroughly revised to reflect the latest garde manger trends, techniques, and flavors, including new information on topics such as brining ratios, fermented sausages, micro greens, artisanal American cheeses, tapas menus, \"action\" buffet stations, and ice carving. With over 540 recipes, including 100 created new for this edition, and more than 340 all-new photographs illustrating step-by-step techniques and finished dishes, this new edition of Garde Manger is an indispensable reference for culinary students and working chefs everywhere.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470055908"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0470055901"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 688,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6sp2LXkyEvMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6sp2LXkyEvMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6sp2LXkyEvMC&printsec=frontcover&dq=subject:Cooking&hl=&cd=33&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=6sp2LXkyEvMC&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Garde_Manger.html?hl=&id=6sp2LXkyEvMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6sp2LXkyEvMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hQQEDgAAQBAJ",
+   "etag": "Fl0XJg3Wa6o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hQQEDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Smitten Kitchen Every Day",
+    "subtitle": "Triumphant and Unfussy New Favorites",
+    "authors": [
+     "Deb Perelman"
+    ],
+    "publisher": "Knopf",
+    "publishedDate": "2017-10-24",
+    "description": "Deb Perelman, award-winning blogger and New York Times best-selling author of The Smitten Kitchen Cookbook, understands that a happy discovery in the kitchen has the ability to completely change the course of your day. Whether we’re cooking for ourselves, for a date night in, for a Sunday supper with friends, or for family on a busy weeknight, we all want recipes that are unfussy to make with triumphant results. Deb thinks that cooking should be an escape from drudgery. Smitten Kitchen Every Day: Triumphant and Unfussy New Favorites presents more than one hundred impossible-to-resist recipes—almost all of them brand-new, plus a few favorites from her website—that will make you want to stop what you’re doing right now and cook. These are real recipes for real people—people with busy lives who don’t want to sacrifice flavor or quality to eat meals they’re really excited about. You’ll want to put these recipes in your Forever Files: Sticky Toffee Waffles (sticky toffee pudding you can eat for breakfast), Everything Drop Biscuits with Cream Cheese, and Magical Two-Ingredient Oat Brittle (a happy accident). There’s a (hopelessly, unapologetically inauthentic) Kale Caesar with Broken Eggs and Crushed Croutons, a Mango Apple Ceviche with Sunflower Seeds, and a Grandma-Style Chicken Noodle Soup that fixes everything. You can make Leek, Feta, and Greens Spiral Pie, crunchy Brussels and Three Cheese Pasta Bake that tastes better with brussels sprouts than without, Beefsteak Skirt Steak Salad, and Bacony Baked Pintos with the Works (as in, giant bowls of beans that you can dip into like nachos). And, of course, no meal is complete without cake (and cookies and pies and puddings): Chocolate Peanut Butter Icebox Cake (the icebox cake to end all icebox cakes), Pretzel Linzers with Salted Caramel, Strawberry Cloud Cookies, Bake Sale Winning-est Gooey Oat Bars, as well as the ultimate Party Cake Builder—four one-bowl cakes for all occasions with mix-and-match frostings (bonus: less time spent doing dishes means everybody wins). Written with Deb’s trademark humor and gorgeously illustrated with her own photographs, Smitten Kitchen Every Day is filled with what are sure to be your new favorite things to cook.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101874820"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1101874821"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hQQEDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hQQEDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hQQEDgAAQBAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=34&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=hQQEDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hQQEDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=hQQEDgAAQBAJ&rdid=book-hQQEDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Smitten_Kitchen_Every_Day-sample-epub.acsm?id=hQQEDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hQQEDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EntmCgAAQBAJ",
+   "etag": "KDkyZXIL4M4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EntmCgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Grit Cookbook",
+    "subtitle": "World-wise, Down-home Recipes",
+    "authors": [
+     "Jessica Greene",
+     "Ted Hafer"
+    ],
+    "publisher": "Chicago Review Press",
+    "publishedDate": "2006-11-01",
+    "description": "The Grit, located in the quintessential boho town of Athens, Georgia, is known far and wide as the touring musicians' restaurant of choice. This classic cookbook features 150 of The Grit's most requested recipes, including 20 new recipes to celebrate the 20th anniversary of this famous establishment. True to its Southern roots, this hip vegetarian eatery combines soul-food sensibility with meatless cuisine, and while there are plenty of Italian, Indian, Mexican, and Middle Eastern favorites to satisfy the well-traveled vegetarian, the heart of this cuisine maintains the down-home, soul-food feeling of simple foods and classic combinations that are guaranteed to please.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781556526480"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1556526482"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 180,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EntmCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EntmCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=EntmCgAAQBAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=35&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=EntmCgAAQBAJ&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Grit_Cookbook.html?hl=&id=EntmCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EntmCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zq1tDwAAQBAJ",
+   "etag": "9iSdNTMiTVw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zq1tDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Save Me the Plums",
+    "subtitle": "My Gourmet Memoir",
+    "authors": [
+     "Ruth Reichl"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2019-04-02",
+    "description": "Trailblazing food writer and beloved restaurant critic Ruth Reichl took the job (and the risk) of a lifetime when she entered the glamorous, high-stakes world of magazine publishing. Now, for the first time, she chronicles her groundbreaking tenure as editor in chief of Gourmet. “This is the rare case of an amazing writer living an amazing life.”—Ann Patchett When Condé Nast offered Ruth Reichl the top position at America’s oldest epicurean magazine, she declined. She was a writer, not a manager, and had no inclination to be anyone’s boss. Yet Reichl had been reading Gourmet since she was eight; it had inspired her career. How could she say no? This is the story of a former Berkeley hippie entering the corporate world and worrying about losing her soul. It is the story of the moment restaurants became an important part of popular culture, a time when the rise of the farm-to-table movement changed, forever, the way we eat. Readers will meet legendary chefs like David Chang and Eric Ripert, idiosyncratic writers like David Foster Wallace, and a colorful group of editors and art directors who, under Reichl’s leadership, transformed stately Gourmet into a cutting-edge publication. This was the golden age of print media—the last spendthrift gasp before the Internet turned the magazine world upside down. Complete with recipes, Save Me the Plums is a personal journey of a woman coming to terms with being in charge and making a mark, following a passion and holding on to her dreams—even when she ends up in a place she never expected to be. Advance praise for Save Me the Plums “No one writes about food like Ruth Reichl. She also happens to be a mesmerizing storyteller. I consider this book essential nourishment.”—Nigella Lawson “Endearing . . . Gourmet magazine readers will relish the behind-the-scenes peek at the workings of the magazine. . . . Reichl’s revealing memoir is a deeply personal look at a food world on the brink of change.”—Publishers Weekly (starred review) “Ruth Reichl is the best sort of storyteller—intimate, wise, frank, and completely engaging. Here she beautifully details her ten years running Gourmet, with all the triumphs and tribulations, and it’s a brilliant tale. Every page is rich and delicious; the book is such a treat!”—Susan Orlean, New York Times bestselling author of The Library Book",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780679605232"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0679605231"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zq1tDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zq1tDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zq1tDwAAQBAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=36&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zq1tDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zq1tDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zq1tDwAAQBAJ&rdid=book-zq1tDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Save_Me_the_Plums-sample-epub.acsm?id=zq1tDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zq1tDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IQ3PJY7zs6EC",
+   "etag": "Na4R0qAaGXg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IQ3PJY7zs6EC",
+   "volumeInfo": {
+    "title": "Cooking for Geeks",
+    "subtitle": "Real Science, Great Hacks, and Good Food",
+    "authors": [
+     "Jeff Potter"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2010-07-20",
+    "description": "Are you the innovative type, the cook who marches to a different drummer -- used to expressing your creativity instead of just following recipes? Are you interested in the science behind what happens to food while it's cooking? Do you want to learn what makes a recipe work so you can improvise and create your own unique dish? More than just a cookbook, Cooking for Geeks applies your curiosity to discovery, inspiration, and invention in the kitchen. Why is medium-rare steak so popular? Why do we bake some things at 350° F/175° C and others at 375° F/190° C? And how quickly does a pizza cook if we overclock an oven to 1,000° F/540° C? Author and cooking geek Jeff Potter provides the answers and offers a unique take on recipes -- from the sweet (a \"mean\" chocolate chip cookie) to the savory (duck confit sugo). This book is an excellent and intriguing resource for anyone who wants to experiment with cooking, even if you don't consider yourself a geek. Initialize your kitchen and calibrate your tools Learn about the important reactions in cooking, such as protein denaturation, Maillard reactions, and caramelization, and how they impact the foods we cook Play with your food using hydrocolloids and sous vide cooking Gain firsthand insights from interviews with researchers, food scientists, knife experts, chefs, writers, and more, including author Harold McGee, TV personality Adam Savage, chemist Hervé This, and xkcd \"My own session with the book made me feel a lot more confident in my cooking.\" --Monica Racic,The New Yorker \"I LOVE this book. It's inspiring, invigorating, and damned fun to spend time inside the mind of 'big picture' cooking. I'm Hungry!\" --Adam Savage, co-host of Discovery Channel's MythBusters \"In his enchanting, funny, and informative book, Cooking for Geeks (O'Reilly), Jeff Potter tells us why things work in the kitchen and why they don't.\" -- Barbara Hanson, NewYork Daily News",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1449395872"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781449395872"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 15,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.12.7.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IQ3PJY7zs6EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IQ3PJY7zs6EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IQ3PJY7zs6EC&printsec=frontcover&dq=subject:Cooking&hl=&cd=37&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=IQ3PJY7zs6EC&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cooking_for_Geeks.html?hl=&id=IQ3PJY7zs6EC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IQ3PJY7zs6EC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hanf1CdMvbUC",
+   "etag": "HHzxnjeyPfk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hanf1CdMvbUC",
+   "volumeInfo": {
+    "title": "Preserving Food without Freezing or Canning",
+    "subtitle": "Traditional Techniques Using Salt, Oil, Sugar, Alcohol, Vinegar, Drying, Cold Storage, and Lactic Fermentation",
+    "authors": [
+     "The Gardeners and Farmers of Centre Terre Vivante"
+    ],
+    "publisher": "Chelsea Green Publishing",
+    "publishedDate": "2007-04-04",
+    "description": "Typical books about preserving garden produce nearly always assume that modern \"kitchen gardeners\" will boil or freeze their vegetables and fruits. Yet here is a book that goes back to the future—celebrating traditional but little-known French techniques for storing and preserving edibles in ways that maximize flavor and nutrition. Translated into English, and with a new foreword by Deborah Madison, this book deliberately ignores freezing and high-temperature canning in favor of methods that are superior because they are less costly and more energy-efficient. As Eliot Coleman says in his foreword to the first edition, \"Food preservation techniques can be divided into two categories: the modern scientific methods that remove the life from food, and the natural 'poetic' methods that maintain or enhance the life in food. The poetic techniques produce... foods that have been celebrated for centuries and are considered gourmet delights today.\" Preserving Food Without Freezing or Canning offers more than 250 easy and enjoyable recipes featuring locally grown and minimally refined ingredients. It is an essential guide for those who seek healthy food for a healthy world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781603581790"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1603581790"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hanf1CdMvbUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hanf1CdMvbUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hanf1CdMvbUC&printsec=frontcover&dq=subject:Cooking&hl=&cd=38&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=hanf1CdMvbUC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hanf1CdMvbUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.75,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=hanf1CdMvbUC&rdid=book-hanf1CdMvbUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.5E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.475E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Preserving_Food_without_Freezing_or_Cann-sample-epub.acsm?id=hanf1CdMvbUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Preserving_Food_without_Freezing_or_Cann-sample-pdf.acsm?id=hanf1CdMvbUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hanf1CdMvbUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2F7fk2MUDXUC",
+   "etag": "6wC4q+w+L+M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2F7fk2MUDXUC",
+   "volumeInfo": {
+    "title": "Bread Revolution",
+    "authors": [
+     "Patrick Ryan"
+    ],
+    "publisher": "Allen & Unwin",
+    "publishedDate": "2012-03-01",
+    "description": "People love a fresh loaf. The way it smells, the crunch of the crust, the warm, soft texture of bread newly out of the oven. The growth of artisan bakeries and the increasing choice in supermarkets is testament to the fact that we want an alternative to the pre-packaged conformity of mass-produced baking. So why not make it ourselves? Bread is cheap to make, and a lot simpler than you might think. The Bread Revolution is a call to arms, encouraging all of us to think again about baking our own loaves. It demystifies the whole process, offering an easy repertoire of delicious savoury breads and sweet dough treats, plus down-to-earth tips. Its 60 inspiring recipes range from soda bread to potato and rosemary, healthy multi-seed wholemeal to an amazing sourdough that can fit in your busy schedule. Central to the book is the idea that bread can be a meal in itself, with ideas for quick lunches, children's teas and evening meals. Plus cinnamon Danish pastries and hot cross buns, and a host of thrifty recipes for your bread leftovers, from summer gazpacho to winter-warming bread and butter pudding. Duncan Glendinning and Patrick Ryan are the founders of The Thoughtful Bread Company, which is acclaimed as a leading ethical business as well as for its fantastic baking. Their breads are to be found everywhere from Michelin-starred restaurants to children's lunch packs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781743361337"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1743361335"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.8.7.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2F7fk2MUDXUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2F7fk2MUDXUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2F7fk2MUDXUC&printsec=frontcover&dq=subject:Cooking&hl=&cd=39&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=2F7fk2MUDXUC&dq=subject:Cooking&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Bread_Revolution.html?hl=&id=2F7fk2MUDXUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Bread_Revolution-sample-epub.acsm?id=2F7fk2MUDXUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Bread_Revolution-sample-pdf.acsm?id=2F7fk2MUDXUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2F7fk2MUDXUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W1hjDwAAQBAJ",
+   "etag": "IpTd6Ah77yE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W1hjDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Snack Kering Serba Goreng untuk Jualan",
+    "authors": [
+     "Dapur Aliza"
+    ],
+    "publisher": "Gramedia Pustaka Utama",
+    "publishedDate": "2013-04-25",
+    "description": "\"Kue kering goreng selalu menggoda untuk dicicipi karena rasanya yang renyah dan gurih. Selain juga dapat dikembangkan sebagai lahan bisnis, buku ini memuat 25 resep snack kering goreng yang banyak diminati, sehingga dapat sekaligus memberikan inspirasi bagi yang ingin menjadikan sebagai bisnis keluarga. Tahapan proses pembuatannya mudah diikuti dan ada banyak tips yang dapat diketahui dan ada banyak tips yang dapat diketahui untuk mendapatkan hasil pembuatan yang maksimal. Sebuah buku yang layak dimiliki para pemula atau yang berminat untuk membuka usaha snack kering goreng.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9786020369709"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "6020369706"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=W1hjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=W1hjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "id",
+    "previewLink": "http://books.google.com/books?id=W1hjDwAAQBAJ&printsec=frontcover&dq=subject:Cooking&hl=&cd=40&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=W1hjDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=W1hjDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 2.53,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 2.13,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=W1hjDwAAQBAJ&rdid=book-W1hjDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2530000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2130000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Snack_Kering_Serba_Goreng_untuk_Jualan-sample-pdf.acsm?id=W1hjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=W1hjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

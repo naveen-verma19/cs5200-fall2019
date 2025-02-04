@@ -1,0 +1,3139 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 491,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bAOdxF_EWssC",
+   "etag": "x3ILljJN458",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bAOdxF_EWssC",
+   "volumeInfo": {
+    "title": "God Matters",
+    "subtitle": "Conversations in Theology",
+    "authors": [
+     "Graeme Garrett"
+    ],
+    "publisher": "Liturgical Press",
+    "publishedDate": "1999",
+    "description": "This strikingly designed, full-color book is a collaboration by young people, ages 6-25, from around the world. The prayers in \"Payer\" reflect the experiences, needs, wants, joys and hopes of youth from more than 18 countries, including the United States, France, Italy, Germany, Spain and Japan.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0814625797"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780814625798"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 218,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bAOdxF_EWssC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bAOdxF_EWssC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bAOdxF_EWssC&printsec=frontcover&dq=subject:Religion&hl=&cd=321&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bAOdxF_EWssC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bAOdxF_EWssC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.36,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 4.9,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bAOdxF_EWssC&rdid=book-bAOdxF_EWssC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6360000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4900000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/God_Matters-sample-pdf.acsm?id=bAOdxF_EWssC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bAOdxF_EWssC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GAE9rdKPQPcC",
+   "etag": "M4mrHaBay8g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GAE9rdKPQPcC",
+   "volumeInfo": {
+    "title": "Children of Divorce",
+    "subtitle": "Helping Kids When Their Parents Are Apart",
+    "authors": [
+     "Debbie Barr"
+    ],
+    "publisher": "Zondervan",
+    "publishedDate": "2009-07-13",
+    "description": "The adults who love them want to know, \"How can I help?\" Based on research and interviews with single parents and children, Children of Divorce provides a sympathetic, insightful answer to their question. It shows: -How to tell your child about divorce -How children respond to divorce according to their age -How to help children grow spiritually -How parents, grandparents, church workers, and teachers can help children of divorce -- This realistic yet compassionate book tells the truth about divorce -- how it forever changes the lives of those it touches. It speaks candidly about how children respond to divorce and the changes it imposes on their lives. But Children of Divorce also tells the truth about how Christianity in action can make a difference.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780310829188"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0310829186"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GAE9rdKPQPcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GAE9rdKPQPcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=GAE9rdKPQPcC&printsec=frontcover&dq=subject:Religion&hl=&cd=322&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GAE9rdKPQPcC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GAE9rdKPQPcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 1.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=GAE9rdKPQPcC&rdid=book-GAE9rdKPQPcC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Children_of_Divorce-sample-epub.acsm?id=GAE9rdKPQPcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GAE9rdKPQPcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mPf1BQAAQBAJ",
+   "etag": "3KWkbJLf8aY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mPf1BQAAQBAJ",
+   "volumeInfo": {
+    "title": "Skin in the Game",
+    "subtitle": "Living an Epic Jesus-Centered Life",
+    "authors": [
+     "Rick Lawrence"
+    ],
+    "publisher": "Kregel Publications",
+    "publishedDate": "2015-01-27",
+    "description": "Christians are longing for more life in their lives, a sense that they’re more present to Jesus and to their own story in the everyday. They’re looking for the answer to the deepest question of human experience: “How do I find the freedom I crave, and become the person I long to be?” Too often, though, they’re scared to risk too much to find the answer—so they simply continue to lead lives of “quiet desperation.” Rick Lawrence says that’s exactly the problem. We’ve seen too much. We know too much. And so we manage our risk so well that we choke off the very fuel that our soul needs to stay alive. In fact, risk should be a primary aspect of our relationship with Jesus, not the thing we avoid. In this book, Lawrence argues that if we pay attention to the way Jesus related to people, we discover that he asked every person he ever met to put their “skin in the game”—invest part of themselves. Only then did they find the life they always longed for. Lawrence asks eight key questions, including: • Will you embrace your shame? • Will you receive grace? • Will you confront your fears? • Will you wait, even when all hope is lost? With a vigorous, fast-paced, and conversational style, he uses these questions plus stories straight from Scripture and pop-culture corollaries to explore the kinds of risks we find in our lives today and how to stop waiting and start going all in for Jesus.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780825443596"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0825443598"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mPf1BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mPf1BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mPf1BQAAQBAJ&printsec=frontcover&dq=subject:Religion&hl=&cd=323&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mPf1BQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mPf1BQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=mPf1BQAAQBAJ&rdid=book-mPf1BQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Skin_in_the_Game-sample-epub.acsm?id=mPf1BQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Skin_in_the_Game-sample-pdf.acsm?id=mPf1BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mPf1BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wRY1IdVt8S4C",
+   "etag": "o9uRbWy6Q4s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wRY1IdVt8S4C",
+   "volumeInfo": {
+    "title": "In Search of Origins",
+    "subtitle": "The Beginnings of Religion in Western Theory and Archaeological Practice",
+    "authors": [
+     "Garry Trompf"
+    ],
+    "publisher": "Sterling Publishers Pvt. Ltd",
+    "publishedDate": "2005-01-01",
+    "description": "Religion is an integral part of our life. The answer to the question what is religion is subjective. Since the word `religion' and its cognates are common coinage across the literate world, most of us will have a fair appreciation of the term's connotations. Considering students and scholars alike are lacking an introductory textbook on the origins of religion in modern Western theory and archaeological practice, this work is designed to fill the lacuna. Historians of ideas and social science are often not clear as to how any given theory of religion might pertain to the known archaeological record, while exponents of prehistoric religion have worked with surprisingly narrow definitions of religious life. Many will locate the kernel of the matter in `practice' or in an active `spirituality'. Today the pressures of the global village have forced many of us to take off our blinkers and do some cross cultural homework. Religious Studies has emerged as an academic discipline (or intellectual pursuit) with one of its functions being to facilitate mutual understanding between traditions, and to ensure that the varieties of religious belief and experience are fairly appraised. The series, of which this book is a part, will be historically rather than theologically oriented. This book will cover such a vast area for investigation and it is designed to help students find their own way through the forest, pick the trees which interest them and learn how to scrutinise them in depth. Religious Studies is a multi-disciplinary activity and one is encouraged to turn over as many stones as possible to look at religions from as many different angles as possible--the psychological, anthropological, sociological, geographical, ecological, political, economic and the like-with some awareness of current theological debates as well. This book gives scope to the comparative method and all the great religions are treated side-by-side, with points of comparison and contrast drawn. This book begin with the large question of the origins and prehistory of religion, including the bearing anthropological study has on this question, before giving space to the larger traditions themselves. The comparative method is applied not only between such enormous aggregates of phenomena as (let us say) Buddhism and Islam, but between these and small-scale, tribal traditions as well. The book highlights that some religions will be difficult to separate from cultures because they amount to a total way of life. An attempt is made to try to interpret religion both as culture and as a distinctive set of forces in interaction with culture, or perhaps even against prevailing cultural forms. This book has been designed to help students find for themselves possible answers to existential or theological questions, but only as a side-effect to historical and phenomenological study, and as the author says \"provide no such answers on a platter.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1932705511"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781932705515"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 285,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wRY1IdVt8S4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wRY1IdVt8S4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wRY1IdVt8S4C&printsec=frontcover&dq=subject:Religion&hl=&cd=324&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=wRY1IdVt8S4C&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/In_Search_of_Origins.html?hl=&id=wRY1IdVt8S4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/In_Search_of_Origins-sample-epub.acsm?id=wRY1IdVt8S4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wRY1IdVt8S4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L5PTN5z734UC",
+   "etag": "kxRrEFi0pcY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L5PTN5z734UC",
+   "volumeInfo": {
+    "title": "Frauen - ein anderes Volk",
+    "subtitle": "Die Ehe in der jüdischen Tradition",
+    "authors": [
+     "Alina Polyak"
+    ],
+    "publisher": "GRIN Verlag",
+    "publishedDate": "2005-04-24",
+    "description": "Studienarbeit aus dem Jahr 2004 im Fachbereich Judaistik, Note: 2, Johann Wolfgang Goethe-Universität Frankfurt am Main, Veranstaltung: Der Tanna - wo steht er, daß er lehrt...? Einführung in die Talmudim, 17 Quellen im Literaturverzeichnis, Sprache: Deutsch, Abstract: Im Seminar „Der Tanna- wo steht er, daß er lehrt...?“ (Einführung in die Talmudim), haben wir über die beiden Talmudim gesprochen. Sie sind ein wichtiges Bestandteil des Judentums. Man kann sich das Judentum ohne Talmud überhaupt nicht vorstellen. Die wichtigsten Gelehrten in der Geschichte des Talmuds waren alle männlich und die Tradition war immer vom Vater zum Sohn übermittelt. Frauen waren vom Lernen der Tradition jahrelang ausgeschlossen. Erst im 20. Jahrhundert haben die Frauen Zugang zur religiösen Lehre bekommen. Es gibt heute Frauen, die als Rabbiner in nicht-orthodoxen jüdischen Gemeinden dienen. Natürlich unterscheidet sich die Stellung der Frau unserer Zeiten von ihrer Stellung in den Zeiten des Talmuds.Viele Wissenschaftler meinen, dass die Rabbiner der talmudischen Zeiten nicht gerade „frauenfreundlich“ waren. Waren die Rabbiner wirklich solche „Frauenhasser“? Wie werden Frauen in Talmud dargestellt? Wie hat sich die Stellung der Frau entwickelt? Wie immer, wenn man über die Periode der Talmudim spricht, mangelt es an genaue historische Informationen. Über Frauen in der Antike gibt es noch weniger Belege. Viele Wissenschaftler haben sich mit dem Problem auseinandergesetzt.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783638370486"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3638370488"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 17,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=L5PTN5z734UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=L5PTN5z734UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=L5PTN5z734UC&printsec=frontcover&dq=subject:Religion&hl=&cd=325&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=L5PTN5z734UC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=L5PTN5z734UC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.52,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=L5PTN5z734UC&rdid=book-L5PTN5z734UC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.352E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Frauen_ein_anderes_Volk-sample-epub.acsm?id=L5PTN5z734UC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Frauen_ein_anderes_Volk-sample-pdf.acsm?id=L5PTN5z734UC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=L5PTN5z734UC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MSlps3GEabwC",
+   "etag": "w0pXwmuAezY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MSlps3GEabwC",
+   "volumeInfo": {
+    "title": "A Time to Embrace",
+    "subtitle": "Same-Sex Relationships in Religion, Law, and Politics, 2nd Edition",
+    "authors": [
+     "William Stacy Johnson"
+    ],
+    "publisher": "Wm. B. Eerdmans Publishing",
+    "publishedDate": "2012-06-30",
+    "description": "In A Time to Embrace William Stacy Johnson brilliantly analyzes the religious, legal, and political debates about gay marriage, civil unions, and committed gay couples. This new edition includes updates that reflect the many changes in laws pertaining to civil unions / same-sex marriage since 2006.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802866950"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0802866956"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MSlps3GEabwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MSlps3GEabwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=MSlps3GEabwC&printsec=frontcover&dq=subject:Religion&hl=&cd=326&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=MSlps3GEabwC&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Time_to_Embrace.html?hl=&id=MSlps3GEabwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MSlps3GEabwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5cMDSwb_xQsC",
+   "etag": "kt3fW/qTVIk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5cMDSwb_xQsC",
+   "volumeInfo": {
+    "title": "Harvesting Peace",
+    "subtitle": "The Arms Race & Human Need",
+    "authors": [
+     "Arthur R. Simon"
+    ],
+    "publisher": "Rowman & Littlefield",
+    "publishedDate": "1990",
+    "description": "To find more information about Rowman and Littlefield titles, please visit www.rowmanlittlefield.com.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1556123523"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781556123528"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5cMDSwb_xQsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5cMDSwb_xQsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5cMDSwb_xQsC&printsec=frontcover&dq=subject:Religion&hl=&cd=327&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5cMDSwb_xQsC&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Harvesting_Peace.html?hl=&id=5cMDSwb_xQsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Harvesting_Peace-sample-epub.acsm?id=5cMDSwb_xQsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Harvesting_Peace-sample-pdf.acsm?id=5cMDSwb_xQsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5cMDSwb_xQsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pgunAwAAQBAJ",
+   "etag": "k6t9XHlubJg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pgunAwAAQBAJ",
+   "volumeInfo": {
+    "title": "PHÁP NGỮ GIẢI ĐÁP THẮC MẮC VÀ DẶN DÒ KHAI THỊ CHO CHÚNG SANH (TẬP 1)",
+    "authors": [
+     "Thích Diệu Liên",
+     "釋妙蓮/Miao Lien Shi"
+    ],
+    "publisher": "靈巖山佛教基金會",
+    "publishedDate": "2014-05-29",
+    "description": "Đây là những lời khai thị theo cách dùng hỏi đáp đầu tiên trong tùng thư Linh Nham, một trăm hai mươi câu hỏi đặc thù và giải đáp thâm diệu, giải trừ nghi hoặc cả một đời của bạn, đọc xong giống như uống thuốc cam lồ nhiệm mầu, liền được mát mẻ tự tại. “Làm sao để có thể tránh khỏi người một nhà bị sinh ly tử biệt?” “Tại sao bạn làm ăn thường bị thất bại?” “Bạn có biết là không cần tiêu tiền cũng có thể tiêu tai miễn nạn không?” “Chồng ngoại tình rồi thì nên tự xử lý thế nào?” “Tại sao bạn lại sinh ra một con quỷ đòi nợ?” “Đi khám chữa bác sĩ Đông Y rồi mà vẫn không khỏi bệnh phải làm sao?” vân vân, đều là những vấn đề gần gũi nhất với mọi người, xin hãy xem lão Hòa thượng dùng trí tuệ vi diệu để giải đáp thắc mắc và dặn dò khai thị cho chúng sanh khổ não như thế nào.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789865679118"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9865679116"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 153,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pgunAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pgunAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "vi",
+    "previewLink": "http://books.google.com/books?id=pgunAwAAQBAJ&printsec=frontcover&dq=subject:Religion&hl=&cd=328&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pgunAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pgunAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pgunAwAAQBAJ&rdid=book-pgunAwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/PH%C3%81P_NG%E1%BB%AE_GI%E1%BA%A2I_%C4%90%C3%81P_TH%E1%BA%AEC_M%E1%BA%AEC_V-sample-pdf.acsm?id=pgunAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pgunAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bmBoAgAAQBAJ",
+   "etag": "o2OvtnM9HIg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bmBoAgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Oxford Handbook of the Archaeology of Death and Burial",
+    "authors": [
+     "Sarah Tarlow",
+     "Liv Nilsson Stutz"
+    ],
+    "publisher": "OUP Oxford",
+    "publishedDate": "2013-06-06",
+    "description": "The Oxford Handbook of the Archaeology of Death and Burial reviews the current state of mortuary archaeology and its practice, highlighting its often contentious place in the modern socio-politics of archaeology. It contains forty-four chapters which focus on the history of the discipline and its current scientific techniques and methods. Written by leading, international scholars in the field, it derives its examples and case studies from a wide range of time periods, such as the middle palaeolithic to the twentieth century, and geographical areas which include Europe, North and South America, Africa, and Asia. Combining up-to-date knowledge of relevant archaeological research with critical assessments of the theme and an evaluation of future research trajectories, it draws attention to the social, symbolic, and theoretical aspects of interpreting mortuary archaeology. The volume is well-illustrated with maps, plans, photographs, and illustrations and is ideally suited for students and researchers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780191650383"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0191650382"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 872,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bmBoAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bmBoAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bmBoAgAAQBAJ&printsec=frontcover&dq=subject:Religion&hl=&cd=329&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bmBoAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bmBoAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 199.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 159.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bmBoAgAAQBAJ&rdid=book-bmBoAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.9999E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.5999E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Oxford_Handbook_of_the_Archaeology_o-sample-pdf.acsm?id=bmBoAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bmBoAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ou3rCgAAQBAJ",
+   "etag": "a13rp2e0fWU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ou3rCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Patience",
+    "subtitle": "A Little Book of Inner Strength",
+    "authors": [
+     "Eknath Easwaran"
+    ],
+    "publisher": "Nilgiri Press",
+    "publishedDate": "2010-03",
+    "description": "\"Patience is the ornament of the brave,\" Eknath Easwaran’s wise grandmother used to say. In all relationships, Easwaran says, patience is the mark of love. An experienced spiritual teacher, he gives powerful insights and advice for developing patience at home and at work, with his unique blend of humor and practicality. Stories offer quiet interludes throughout this little book. Anecdotes about animals, sports stars, and happy family outings make these short, varied readings as entertaining as they are instructive. Gentle reminiscences of India, tales from Easwaran’s Hindu heritage, and inspiration from the world’s saints lift the reader’s spirits and give courage. Just keep trying, Easwaran says, and you’ll find there’s no end to your patience -- no end to the wisdom, love, and compassion in your heart. This book makes a thoughtful gift for anyone seeking a life that is kinder, more stable, and serene.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781586380458"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1586380451"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ou3rCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ou3rCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ou3rCgAAQBAJ&printsec=frontcover&dq=subject:Religion&hl=&cd=330&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ou3rCgAAQBAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Patience.html?hl=&id=ou3rCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Patience-sample-epub.acsm?id=ou3rCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Patience-sample-pdf.acsm?id=ou3rCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ou3rCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vu6JDwAAQBAJ",
+   "etag": "bsjAfkOpm5Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vu6JDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Paul's Letter to the Romans",
+    "authors": [
+     "Dr. Nathan Ogan"
+    ],
+    "publisher": "Lulu.com",
+    "publishedDate": "2019-02-19",
+    "description": "It's been said that, ?an historian making a list of the factors most influential in the development of west-ern civilization would do well to include Paul's Epistle to the Romans along with the invention of gun powder, the rise of nationalism, and the discov-ery of atomic energy.? While in today's secularized society, few would likely agree to the above assess-ment. In terms of legitimate historical impact, the importance of Paul's Romans letter can't be over-stated. From the Church Fathers to Augustine and Reformers like Martin Luther and John Calvin, the influence of this ancient correspondence is remarka-ble. As recent as Karl Barth's commentary in the 19th century, humanity's most significant conversa-tions have tended to touch on the ideas and wisdom of the Apostle Paul. A man who was less original in his thought than an elaborator on what he had learned from Jesus and His disciples.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780359447626"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0359447627"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 378,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vu6JDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vu6JDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vu6JDwAAQBAJ&printsec=frontcover&dq=subject:Religion&hl=&cd=331&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=vu6JDwAAQBAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Paul_s_Letter_to_the_Romans.html?hl=&id=vu6JDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vu6JDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8ie9_o7FC3sC",
+   "etag": "9SfzCV3iHRo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8ie9_o7FC3sC",
+   "volumeInfo": {
+    "title": "Veritas Philosophicus",
+    "authors": [
+     "John O'Loughlin"
+    ],
+    "publisher": "Centretruths Digital Media",
+    "publishedDate": "2013-02-18",
+    "description": "Subtitled 'Philosophical Verity', this long and difficult text should reward patient reading, since it is of a deeply metaphysical character that takes the quadruplicities of texts like 'Philosophical Truth' (1991), its immediate precursor, to a whole new level of elemental meaning, and largely through the utilization of V-like structures - hence the title 'Veritas Philosophicus' - which both complement and supplement the T-like structures already established in this and previous books, thereby taking the ideological philosophy of Social Transcendentalism a stage further on its evolutionary journey towards the 'promised land' of complete metaphysical truth and, hence, philosophical perfection.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781446110560"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1446110567"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 212,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8ie9_o7FC3sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8ie9_o7FC3sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=8ie9_o7FC3sC&printsec=frontcover&dq=subject:Religion&hl=&cd=332&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8ie9_o7FC3sC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8ie9_o7FC3sC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8ie9_o7FC3sC&rdid=book-8ie9_o7FC3sC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8ie9_o7FC3sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a5GC9S-gEtIC",
+   "etag": "OCakryyegbk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a5GC9S-gEtIC",
+   "volumeInfo": {
+    "title": "Hospital Preaching as Informed by Bedside Listening",
+    "subtitle": "A Homiletical Guide for Preachers, Pastors, and Chaplains in Hospital, Hospice, Prison, and Nursing Home Ministries",
+    "authors": [
+     "Cajetan N. Ihewulezi"
+    ],
+    "publisher": "University Press of America",
+    "publishedDate": "2011",
+    "description": "This book states the great need to sit down face to face and attentively listen to stories, experiences, and feelings of patients. These bedside encounters with patients can well inform the preacher and can result in more effective liturgical preaching in hospitals, hospice, prison, and nursing home settings.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761852926"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0761852921"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 91,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=a5GC9S-gEtIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=a5GC9S-gEtIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=a5GC9S-gEtIC&printsec=frontcover&dq=subject:Religion&hl=&cd=333&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=a5GC9S-gEtIC&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hospital_Preaching_as_Informed_by_Bedsid.html?hl=&id=a5GC9S-gEtIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Hospital_Preaching_as_Informed_by_Bedsid-sample-epub.acsm?id=a5GC9S-gEtIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Hospital_Preaching_as_Informed_by_Bedsid-sample-pdf.acsm?id=a5GC9S-gEtIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=a5GC9S-gEtIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DerBchknijYC",
+   "etag": "zWax3DXIiFk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DerBchknijYC",
+   "volumeInfo": {
+    "title": "Essays and Reviews",
+    "authors": [
+     "Frederic Henry Hedge"
+    ],
+    "publishedDate": "1862",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105005455162"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 374,
+    "printType": "BOOK",
+    "categories": [
+     "Note on Bunsen's biblical researches"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DerBchknijYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DerBchknijYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DerBchknijYC&printsec=frontcover&dq=subject:Religion&hl=&cd=334&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DerBchknijYC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DerBchknijYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=DerBchknijYC&rdid=book-DerBchknijYC&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com/books/download/Essays_and_Reviews.epub?id=DerBchknijYC&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/Essays_and_Reviews.pdf?id=DerBchknijYC&hl=&output=pdf&sig=ACfU3U1jVeJ0bKS4-ZQLuMVQvve6KHYUAw&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DerBchknijYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AOpJAAAAMAAJ",
+   "etag": "1wenUWPT5WI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AOpJAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The principle of authority in relation to certainty, sanctity and society",
+    "subtitle": "an essay in the philosophy of experimental religion",
+    "authors": [
+     "Peter Taylor Forsyth"
+    ],
+    "publishedDate": "1912*",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015067251705"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 475,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AOpJAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AOpJAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=AOpJAAAAMAAJ&dq=subject:Religion&hl=&cd=335&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=AOpJAAAAMAAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_principle_of_authority_in_relation_t.html?hl=&id=AOpJAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AOpJAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6JRFDwAAQBAJ",
+   "etag": "QSpQFX+L8Q4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6JRFDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Faith in the City",
+    "subtitle": "Preaching Radical Social Change in Detroit",
+    "authors": [
+     "Angela Denise & Alan Wald Dillard"
+    ],
+    "publisher": "University of Michigan Press",
+    "publishedDate": "2009-12-11",
+    "description": "“ The dynamics of Black Theology were at the center of the ‘ Long New Negro Renaissance,’ triggered by mass migrations to industrial hubs like Detroit. Finally, this crucial subject has found its match in the brilliant scholarship of Angela Dillard. No one has done a better job of tracing those religious roots through the civil rights– black power era than Professor Dillard.” — Komozi Woodard, Professor of History, Public Policy & Africana Studies at Sarah Lawrence College and author of A Nation within a Nation: Amiri Baraka (LeRoi Jones) and Black Power Politics “ Angela Dillard recovers the long-submerged links between the black religious and political lefts in postwar Detroit. . . . Faith in the City is an essential contribution to the growing literature on the struggle for racial equality in the North.” — Thomas J. Sugrue, University of Pennsylvania, author of The Origins of the Urban Crisis: Race and Inequality in Postwar Detroit Spanning more than three decades and organized around the biographies of Reverends Charles A. Hill and Albert B. Cleage Jr., Faith in the City is a major new exploration of how the worlds of politics and faith merged for many of Detroit’ s African Americans— a convergence that provided the community with a powerful new voice and identity. While other religions have mixed politics and creed, Faith in the City shows how this fusion was and continues to be particularly vital to African American clergy and the Black freedom struggle. Activists in cities such as Detroit sustained a record of progressive politics over the course of three decades. Angela Dillard reveals this generational link and describes what the activism of the 1960s owed to that of the 1930s. The labor movement, for example, provided Detroit’ s Black activists, both inside and outside the unions, with organizational power and experience virtually unmatched by any other African American urban community. Angela D. Dillard is Associate Professor of Afroamerican and African Studies at the University of Michigan. She specializes in American and African American intellectual history, religious studies, critical race theory, and the history of political ideologies and social movements in the United States.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780472024162"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0472024167"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6JRFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6JRFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6JRFDwAAQBAJ&printsec=frontcover&dq=subject:Religion&hl=&cd=336&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6JRFDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6JRFDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 28.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.63,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=6JRFDwAAQBAJ&rdid=book-6JRFDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.895E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.563E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6JRFDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f4MEDAAAQBAJ",
+   "etag": "3+YWNnAm/NE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f4MEDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Every Good Endeavor",
+    "subtitle": "Connecting Your Work to God's Work",
+    "authors": [
+     "Timothy Keller",
+     "Katherine Leary Alsdorf"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2014-07",
+    "description": "Demonstrates how God calls all individuals to express meaning and purpose through a career, sharing spiritual insights into finding relevance in cutthroat professional environments and staying true to Christian values in spite of competition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781594632822"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1594632820"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=f4MEDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=f4MEDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=f4MEDAAAQBAJ&printsec=frontcover&dq=subject:Religion&hl=&cd=337&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=f4MEDAAAQBAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Every_Good_Endeavor.html?hl=&id=f4MEDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=f4MEDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jKflJkX0Gn4C",
+   "etag": "j1guuUR/etY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jKflJkX0Gn4C",
+   "volumeInfo": {
+    "title": "Metaphysics and Belief",
+    "authors": [
+     "Fr. Merlan"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "1966-07-31",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789024702893"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9024702895"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jKflJkX0Gn4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jKflJkX0Gn4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jKflJkX0Gn4C&dq=subject:Religion&hl=&cd=338&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jKflJkX0Gn4C&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Metaphysics_and_Belief.html?hl=&id=jKflJkX0Gn4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jKflJkX0Gn4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bxyVDwAAQBAJ",
+   "etag": "ZuCs+ypUpW0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bxyVDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Conspiracy Theories",
+    "subtitle": "Philosophers Connect the Dots",
+    "authors": [
+     "Richard Greene",
+     "Rachel Robison-Greene"
+    ],
+    "publisher": "Open Court Publishing",
+    "publishedDate": "2020-01-07",
+    "description": "Conspiracy theories have become a major element in modern opinion formation. From the theory that the killing of President Kennedy was masterminded by a powerful conspiracy to the theory that 9/11 was an inside job, from the story that Barack Obama wasn’t born in America to the story that Donald Trump was a Russian asset, conspiracy theories have become a major element in opinion formation and an ever-present influence, sometimes open, sometimes hidden, on the daily headline news. In It’s a Conspiracy!, philosophers of diverse backgrounds and persuasions focus their lenses on the phenomenon of the conspiracy theory, its psychological causes, its typical shape, and its political consequences. Among the questions addressed: ● What’s the formula for designing a contagious conspiracy theory? ● Where does conspiracy theorizing end and investigative reporting begin? ● What can we learn about conspiracy theories from the three movie treatments of the Kennedy assassination (The Parallax View, JFK, and Interview with the Assassin)? ● Does political powerlessness generate conspiracy theories? ● Is conspiracy theorizing essentially an instinct that lies behind all belief in religion and all striving for a meaningful life? ● Can we find conspiracy theories in all political movements for centuries past? ● What are the most common types of fallacious reasoning that tend to support conspiracy theories? ● Is there a psychological disorder at the root of conspiracy theories? ● Why is the number of flat-earthers growing?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812694833"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "081269483X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bxyVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bxyVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bxyVDwAAQBAJ&printsec=frontcover&dq=subject:Religion&hl=&cd=339&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=bxyVDwAAQBAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Conspiracy_Theories.html?hl=&id=bxyVDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "acsTokenLink": "http://books.google.com/books/download/Conspiracy_Theories-sample-epub.acsm?id=bxyVDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bxyVDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1b1APgAACAAJ",
+   "etag": "+zkedn3qyWQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1b1APgAACAAJ",
+   "volumeInfo": {
+    "title": "An Introduction to Buddhism",
+    "subtitle": "Teachings, History and Practices",
+    "authors": [
+     "Peter Harvey"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2012-11-22",
+    "description": "In this new edition of the best-selling Introduction to Buddhism, Peter Harvey provides a comprehensive introduction to the development of the Buddhist tradition in both Asia and the West. Extensively revised and fully updated, this new edition draws on recent scholarship in the field, exploring the tensions and continuities between the different forms of Buddhism. Harvey critiques and corrects some common misconceptions and mistranslations, and discusses key concepts that have often been over-simplified and over-generalised. The volume includes detailed references to scriptures and secondary literature, an updated bibliography, and a section on web resources. Key terms are given in Pali and Sanskrit, and Tibetan words are transliterated in the most easily pronounceable form, making this is a truly accessible account. This is an ideal coursebook for students of religion, Asian philosophy and Asian studies, and is also a useful reference for readers wanting an overview of Buddhism and its beliefs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521676746"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521676748"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 547,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1b1APgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1b1APgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=1b1APgAACAAJ&dq=subject:Religion&hl=&cd=340&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=1b1APgAACAAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/An_Introduction_to_Buddhism.html?hl=&id=1b1APgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1b1APgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NC_WtAEACAAJ",
+   "etag": "jsN9vsLa2Gc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NC_WtAEACAAJ",
+   "volumeInfo": {
+    "title": "The Cult of the Black Virgin",
+    "authors": [
+     "Ean Begg"
+    ],
+    "publisher": "Chiron Publications",
+    "publishedDate": "2018",
+    "description": "Why are over 500 of the world's images of the Madonna \"black\" or \"dark\"? And why are they so little known? A resurfacing of the powerful pagan goddesses of sexuality, the underworld and earth-wisdom, the Black Virgins are symbols of power and majesty, the other aspect of the traditional Madonna's maidenhood or tender maternity. They personify the Holy Grail and the Ark of the Covenant in a quest for lost feminine wisdom and the search for soul. There are many icons of Mary that show black faces and hands. In France, these are called Vierge Noires-Black Virgins. Elsewhere, may be called Black Madonnas or the \"other Mary.\" Jung called her Isis, while others claim she is the symbolic remains of a prehistoric worship of the Earth Mother. She is generally connected with Cybele, Diana, Isis, and Venus, as well as with Kali, Inanna, and Lilith. Historically she is connected with the Crusades, the Islamic occupation of Spain, the Conquistadors, as well as the Merovingians and Knights Templars, who viewed her as Mary Magdalene. Ean Begg's fascinating book investigates the pagan origins of the phenomenon as well as the heretical Gnostic-Christian underground stream that flowed west with the cult of Mary Magdalene and resurfaced in Catharism at the time of the Crusades, especially with the Templars.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1630515094"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781630515096"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 196,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NC_WtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NC_WtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NC_WtAEACAAJ&dq=subject:Religion&hl=&cd=341&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NC_WtAEACAAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Cult_of_the_Black_Virgin.html?hl=&id=NC_WtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NC_WtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NxO9ajuW1aMC",
+   "etag": "AiDSH1JO+eU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NxO9ajuW1aMC",
+   "volumeInfo": {
+    "title": "Wild Woman Theology",
+    "subtitle": "In the Arms of Loving Mother God",
+    "authors": [
+     "Rev Marcia C. Fleischman"
+    ],
+    "publisher": "AuthorHouse",
+    "publishedDate": "2009-04",
+    "description": "One day, while thinking about the miserable story of Lot's wife in the Old Testament, Rev. Marcia Fleischman, in a flash of insight, realized that the story had been written from a male view point based on an angry, punishing image of God. How would the story change if seen through the eyes of a woman? All the women's stories change when a feminine wisdom is applied. For instance, in the New Testament, Mary \"Don't Mess with Me\" Magadalene's seven \"demons\" turn out to be familiar to most women. Marcia retells these stories of the famous women of the Old Testament and the New Testament with a feminine, even feminist, twist. Told with passion and a bit of whimsy and written in rhyme, Marcia, illustrates each story with a corresponding picture, many containing a bit of anacronism for fun.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438928227"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "143892822X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 138,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NxO9ajuW1aMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NxO9ajuW1aMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NxO9ajuW1aMC&printsec=frontcover&dq=subject:Religion&hl=&cd=342&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NxO9ajuW1aMC&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Wild_Woman_Theology.html?hl=&id=NxO9ajuW1aMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Wild_Woman_Theology-sample-epub.acsm?id=NxO9ajuW1aMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NxO9ajuW1aMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ycubleSQg3IC",
+   "etag": "EsuPzGXW/8A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ycubleSQg3IC",
+   "volumeInfo": {
+    "title": "Conversations with God",
+    "authors": [
+     "Kenneth A. Brown"
+    ],
+    "publisher": "WestBow Press",
+    "publishedDate": "2011-10-10",
+    "description": "This book will assist people in their personal devotions and, if they are in a leadership role, it will help in preparation for the prayer time during worship. It deals with questions such as the issue of whether prayers should be written or spontaneous. The purpose of this book is to encourage the reader to view prayer not as something that is only for the 'expert', but that it is a conversation with God.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781449727093"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1449727093"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 212,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.10.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ycubleSQg3IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ycubleSQg3IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ycubleSQg3IC&printsec=frontcover&dq=subject:Religion&hl=&cd=343&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ycubleSQg3IC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ycubleSQg3IC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ycubleSQg3IC&rdid=book-ycubleSQg3IC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Conversations_with_God-sample-epub.acsm?id=ycubleSQg3IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Conversations_with_God-sample-pdf.acsm?id=ycubleSQg3IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ycubleSQg3IC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3s50DQAAQBAJ",
+   "etag": "Pqe8nCF+xDM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3s50DQAAQBAJ",
+   "volumeInfo": {
+    "title": "The Adventures of a Mzungu",
+    "subtitle": "A light-hearted look a the ups and downs of visiting Africa",
+    "authors": [
+     "David Ardron"
+    ],
+    "publisher": "Troubador Publishing Ltd",
+    "publishedDate": "2018-11-12",
+    "description": "A light-heared, easy to read book with a serious message. Readers with a sense of adventure, those who have visited Africa, or those preparing to visit Africa, would buy it.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781785897009"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1785897004"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3s50DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3s50DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=3s50DQAAQBAJ&printsec=frontcover&dq=subject:Religion&hl=&cd=344&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3s50DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3s50DQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3s50DQAAQBAJ&rdid=book-3s50DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Adventures_of_a_Mzungu-sample-epub.acsm?id=3s50DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Adventures_of_a_Mzungu-sample-pdf.acsm?id=3s50DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3s50DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZS_MPQAACAAJ",
+   "etag": "uVNdZAKmAY4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZS_MPQAACAAJ",
+   "volumeInfo": {
+    "title": "Is Any One of You Sick?",
+    "subtitle": "The Biblical Basis for Healing the Sick",
+    "authors": [
+     "Dilwyn Price"
+    ],
+    "publisher": "Mentor",
+    "publishedDate": "1997",
+    "description": "An authoritative book because Dilwyn Price was a church elder, experienced in counselling sick people from medically incurable cancer. A beautifully observed, devotionally studied and practically applied book on an emotional subject.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1857922425"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781857922424"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZS_MPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZS_MPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZS_MPQAACAAJ&dq=subject:Religion&hl=&cd=345&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ZS_MPQAACAAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Is_Any_One_of_You_Sick.html?hl=&id=ZS_MPQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZS_MPQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bDmXswEACAAJ",
+   "etag": "c7zQa8+63R8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bDmXswEACAAJ",
+   "volumeInfo": {
+    "title": "One Nation Under God",
+    "subtitle": "Religious Symbols, Quotes, and Images in Our Nation's Capital",
+    "authors": [
+     "Eugene F. Hemrick"
+    ],
+    "publisher": "Our Sunday Visitor (IN)",
+    "publishedDate": "2001",
+    "description": "This unique guide for tourists or armchair travelers points out some of the best religious art in Washington--and makes it obvious how important a place religion once held in American government. Illustrated with photos on nearly every page.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0879739916"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780879739911"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bDmXswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bDmXswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bDmXswEACAAJ&dq=subject:Religion&hl=&cd=346&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=bDmXswEACAAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/One_Nation_Under_God.html?hl=&id=bDmXswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bDmXswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fIKvjttEQc8C",
+   "etag": "eKvKNh7OsSc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fIKvjttEQc8C",
+   "volumeInfo": {
+    "title": "Prayers",
+    "authors": [
+     "Judith Hannemann"
+    ],
+    "publisher": "AuthorHouse",
+    "publishedDate": "2008-02-01",
+    "description": "Antonio, wanting to protect Polly from her dangerous friend, told her that he would handle Stacey. But revenge got the better of Stacey and Antonio was forced to look down a gun barrel Meanwhile, Stacey's plans soon turned into identity theft. It didn't take long for hell to break loose when she went on a spending spree and built a pornography site in Polly's name, calling Social Services so that she could get her revenge on Polly when she didn't get her beau, the man she stalked for love. Just when Polly thought she could breathe a sigh of relief with all her troubles behind her, Antonio was caught between two heated souls, that of Polly, his soon-to-be-married fiancée, and his long-time high school sweetheart, Agurtzane, who showed up after eighteen years to win him back. Agurtzane, whose name had been changed to Edie, had been born a hermaphrodite. She returned to where she had left off some years before, with her skilful manipulation for Antonio's love. Wait until you hear what took place Fire and Ice has mysteries, surprises, heartbreaks, chills, sex and romance, all mixed together including the two love birds getting caught on the final leg of their honeymoon in the storm called Katrina... But will the two survive this storm? It is bound to grip you from beginning to end.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781434310934"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1434310930"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fIKvjttEQc8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fIKvjttEQc8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fIKvjttEQc8C&printsec=frontcover&dq=subject:Religion&hl=&cd=347&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=fIKvjttEQc8C&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Prayers.html?hl=&id=fIKvjttEQc8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Prayers-sample-epub.acsm?id=fIKvjttEQc8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fIKvjttEQc8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dcjzswEACAAJ",
+   "etag": "WM741Vjhahk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dcjzswEACAAJ",
+   "volumeInfo": {
+    "title": "Freud and Freudians on Religion",
+    "subtitle": "A Reader",
+    "authors": [
+     "Donald Capps"
+    ],
+    "publishedDate": "2001",
+    "description": "This book presents selections from Freud's writings on religion and from the work of five more recent contributors to the psychoanalytic study of religion: David Bakan, Erik H. Erikson, Heinz Kohut, Julia Kristeva, and D. W. Winnicott. It is the first collection of texts in the psychology of religion that is oriented more toward religious studies than toward the study of psychology. In his introduction, Donald Capps points out that psychoanalysis resembles religions in the way in which its founding documents (Freud's own writings) have been closely read, have evoked interpretive battles, and have been reassessed and reapplied in response to changing social and cultural circumstances. He notes that just as Freud's writings on religion focus on the biblical text, the majority of the authors included here do likewise, showing how the Bible may be read psychoanalytically. Both Freud and his successors, says Capps, also reflect the high value that the Christian culture of the West has placed on painting and sculpture, revealing the importance of perception and imagination to the psychoanalytic study of religion. Capps highlights the ways in which all the Freudians work intertextually wi",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0300081863"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300081862"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 357,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dcjzswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dcjzswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=dcjzswEACAAJ&dq=subject:Religion&hl=&cd=348&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=dcjzswEACAAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Freud_and_Freudians_on_Religion.html?hl=&id=dcjzswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dcjzswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BsOoAwAAQBAJ",
+   "etag": "nkQ7zn8dgpY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BsOoAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Jesus in Twentieth Century Literature, Art, and Movies",
+    "authors": [
+     "Paul C. Burns"
+    ],
+    "publisher": "Bloomsbury Publishing USA",
+    "publishedDate": "2007-07-15",
+    "description": "In the twentieth century a number of novelists, artists, and filmmakers, resurrected the life of Jesus genre made so popular in the eighteenth and nineteenth centuries by Renan, Strauss, and others. In addition, novelists Norman Mailer, Jose Saramago, and Ricci have written their own \"gospels.\" Burns' collection--taken from a conference at a 2004 regional SBL meeting--explores the ways in which these portraits of Jesus continue to fulfill the familiar observation that people tend to depict Jesus in their own image. In several of the portraits of Jesus, the artists offer a creative response to the realities of the human condition of our time.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781441105035"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1441105034"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.131.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BsOoAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BsOoAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BsOoAwAAQBAJ&printsec=frontcover&dq=subject:Religion&hl=&cd=349&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BsOoAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BsOoAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 42.25,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.26,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BsOoAwAAQBAJ&rdid=book-BsOoAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.225E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.126E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Jesus_in_Twentieth_Century_Literature_Ar-sample-pdf.acsm?id=BsOoAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BsOoAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K-k4swEACAAJ",
+   "etag": "UihsDl8UXV0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K-k4swEACAAJ",
+   "volumeInfo": {
+    "title": "Coming Attractions: Previews of the Kingdom of God",
+    "authors": [
+     "Bob Weber"
+    ],
+    "publisher": "Ambassador International",
+    "publishedDate": "2018-04-30",
+    "description": "In short, Coming Attractions reveals the Kingdom of God in its foundational stage. The lives and experiences narrated by the author demonstrate how God interacted with the people He chose to represent His ways.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1620207001"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781620207000"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=K-k4swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=K-k4swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=K-k4swEACAAJ&dq=subject:Religion&hl=&cd=350&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=K-k4swEACAAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Coming_Attractions_Previews_of_the_Kingd.html?hl=&id=K-k4swEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=K-k4swEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XeH7-3zVTK0C",
+   "etag": "zo5Kv5UdahE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XeH7-3zVTK0C",
+   "volumeInfo": {
+    "title": "Get Real",
+    "subtitle": "Reality and Mystery",
+    "authors": [
+     "Michael Hickey"
+    ],
+    "publisher": "University Press of America",
+    "publishedDate": "2012-02-16",
+    "description": "Get Real will give the reader a fresh understanding of both reality and mystery as seen from a theological and philosophical viewpoint. Ultimately, Hickey intends the reader to move beyond the perceived duality in order to establish that mystery is truly the home of all reality.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761856603"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0761856609"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 150,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XeH7-3zVTK0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XeH7-3zVTK0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XeH7-3zVTK0C&printsec=frontcover&dq=subject:Religion&hl=&cd=351&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XeH7-3zVTK0C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XeH7-3zVTK0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.25,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XeH7-3zVTK0C&rdid=book-XeH7-3zVTK0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.5E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.925E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Get_Real-sample-epub.acsm?id=XeH7-3zVTK0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Get_Real-sample-pdf.acsm?id=XeH7-3zVTK0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XeH7-3zVTK0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wrZSmQEACAAJ",
+   "etag": "LvwCHl7xHHI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wrZSmQEACAAJ",
+   "volumeInfo": {
+    "title": "Vernacular Voices",
+    "subtitle": "Language and Identity in Medieval French Jewish Communities",
+    "authors": [
+     "Kirsten Fudeman"
+    ],
+    "publisher": "University of Pennsylvania Press",
+    "publishedDate": "2010-06-08",
+    "description": "A thirteenth-century text purporting to represent a debate between a Jew and a Christian begins with the latter's exposition of the virgin birth, something the Jew finds incomprehensible at the most basic level, for reasons other than theological: \"Speak to me in French and explain your words!\" he says. \"Gloss for me in French what you are saying in Latin!\" While the Christian and the Jew of the debate both inhabit the so-called Latin Middle Ages, the Jew is no more comfortable with Latin than the Christian would be with Hebrew. Communication between the two is possible only through the vernacular. In Vernacular Voices, Kirsten Fudeman looks at the roles played by language, and especially medieval French and Hebrew, in shaping identity and culture. How did language affect the way Jews thought, how they interacted with one another and with Christians, and who they perceived themselves to be? What circumstances and forces led to the rise of a medieval Jewish tradition in French? Who were the writers, and why did they sometimes choose to write in the vernacular rather than Hebrew? How and in what terms did Jews define their relationship to the larger French-speaking community? Drawing on a variety of texts written in medieval French and Hebrew, including biblical glosses, medical and culinary recipes, incantations, prayers for the dead, wedding songs, and letters, Fudeman challenges readers to open their ears to the everyday voices of medieval French-speaking Jews and to consider French elements in Hebrew manuscripts not as a marginal phenomenon but as reflections of a vibrant and full vernacular existence. Applying analytical strategies from linguistics, literature, and history, she demonstrates that language played a central role in the formation, expression, and maintenance of medieval Jewish identity and that it brought Christians and Jews together even as it set them apart.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0812242505"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812242508"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wrZSmQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wrZSmQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wrZSmQEACAAJ&dq=subject:Religion&hl=&cd=352&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=wrZSmQEACAAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Vernacular_Voices.html?hl=&id=wrZSmQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wrZSmQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cxtd8LfTK9QC",
+   "etag": "0R53ubauvrY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cxtd8LfTK9QC",
+   "volumeInfo": {
+    "title": "Essays and Reviews",
+    "publishedDate": "1860",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BL:A0023395578"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 433,
+    "printType": "BOOK",
+    "categories": [
+     "Apologetics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cxtd8LfTK9QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cxtd8LfTK9QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cxtd8LfTK9QC&pg=PP1&dq=subject:Religion&hl=&cd=353&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cxtd8LfTK9QC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cxtd8LfTK9QC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=cxtd8LfTK9QC&rdid=book-cxtd8LfTK9QC&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com/books/download/Essays_and_Reviews.epub?id=cxtd8LfTK9QC&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cxtd8LfTK9QC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VaolDQAAQBAJ",
+   "etag": "FxVhiuLJvh4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VaolDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Fighting Words",
+    "subtitle": "Religion, Violence, and the Interpretation of Sacred Texts",
+    "authors": [
+     "John Renard"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "2012-12-31",
+    "description": "One of the critical issues in interreligious relations today is the connection, both actual and perceived, between sacred sources and the justification of violent acts as divinely mandated. Fighting Words makes solid text-based scholarship accessible to the general public, beginning with the premise that a balanced approach to religious pluralism in our world must build on a measured, well-informed response to the increasingly publicized and sensationalized association of terrorism and large-scale violence with religion. In his introduction, Renard provides background on the major scriptures of seven religious traditions—Jewish, Christian (including both the Old and New Testaments), Islamic, Baha’i, Zoroastrian, Hindu, and Sikh. Eight chapters then explore the interpretation of select facets of these scriptures, focusing on those texts so often claimed, both historically and more recently, as inspiration and justification for every kind of violence, from individual assassination to mass murder. With its nuanced consideration of a complex topic, this book is not merely about the religious sanctioning of violence but also about diverse ways of reading sacred textual sources.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520258310"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0520258312"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 254,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VaolDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VaolDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=VaolDQAAQBAJ&printsec=frontcover&dq=subject:Religion&hl=&cd=354&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=VaolDQAAQBAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fighting_Words.html?hl=&id=VaolDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VaolDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c3FpAgAAQBAJ",
+   "etag": "Tuk+CLZxwvQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c3FpAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Secularization",
+    "subtitle": "In Defence of an Unfashionable Theory",
+    "authors": [
+     "Steve Bruce"
+    ],
+    "publisher": "OUP Oxford",
+    "publishedDate": "2013-01-11",
+    "description": "The decline in power, popularity and prestige of religion across the modern world is not a short-term or localized trend nor is it an accident. It is a consequence of subtle but powerful features of modernization. Renowned sociologist, Steve Bruce, elaborates the secularization paradigm and defends it against a wide variety of recent attempts at rebuttal and refutation. Using the best available statistical and qualitative evidence Bruce considers the implications for the",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780191612176"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0191612170"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 254,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=c3FpAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=c3FpAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=c3FpAgAAQBAJ&printsec=frontcover&dq=subject:Religion&hl=&cd=355&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=c3FpAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=c3FpAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=c3FpAgAAQBAJ&rdid=book-c3FpAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.619E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Secularization-sample-pdf.acsm?id=c3FpAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c3FpAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cpmAbjcdotoC",
+   "etag": "LJKTvZK8ozc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cpmAbjcdotoC",
+   "volumeInfo": {
+    "title": "First and Second Samuel",
+    "authors": [
+     "David C. Hester"
+    ],
+    "publisher": "Westminster John Knox Press",
+    "publishedDate": "2005-06-01",
+    "description": "Originally published: Louisville, Ky.: Geneva Press, 2000.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0664230245"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780664230241"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 118,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cpmAbjcdotoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cpmAbjcdotoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cpmAbjcdotoC&printsec=frontcover&dq=subject:Religion&hl=&cd=356&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cpmAbjcdotoC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cpmAbjcdotoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=cpmAbjcdotoC&rdid=book-cpmAbjcdotoC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.3E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/First_and_Second_Samuel-sample-pdf.acsm?id=cpmAbjcdotoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cpmAbjcdotoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_TzOAYJlBw0C",
+   "etag": "1p6O2aRakb0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_TzOAYJlBw0C",
+   "volumeInfo": {
+    "title": "Rescued",
+    "subtitle": "A Testimony of God's Saving Power",
+    "authors": [
+     "Ateba Crocker"
+    ],
+    "publisher": "AuthorHouse",
+    "publishedDate": "2008-03-01",
+    "description": "Trapped in a cycle of endless hurt -- longing for affection that is never to come -- standing alone when no one seems to understand your pain and wishing you could just fade away. These are the feelings commonly connected with childhood pain. Whether you were abandoned when you were young or struggling with life altering decisions; maybe you have aborted a child, had suicidal thoughts or have been in and out of sexual relationships; or even fighting for your life against one or more addictions (i.e. food alcohol, shopping, etc.). If this sounds like you, or you know of someone suffering from these hurtful issues, pick up this book and read one woman's testimony of being RESCUED.Let this book begin a healing movement that spreads like wildfires for women all across the nation. Join the movement - it's already started . . . Read what these women have to say about Rescued: A testimony of God's saving power.\"Each chapter tells a true story, a story that many women will relate to regarding hurt and suffering. The difference is that Ateba is able to offer the woman who is going through these agonizing troubles the answer that they need. She directs them to the truth - to our Lord! This book needs to be in every battered women shelter and abortion clinic across the country, and then translated for other countries as well!\"Sally Buckner- Virginia\"Ateba Crocker is a woman who has gone through the pain and abandonment that many of us have experienced and has come out victorious. She went from a prostitute to a professor in a prestigious university. Now she has become the \"Harriet Tubman\" for women in bondage to the agony of their past.\"Shanita Williams- New York",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781434365002"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "143436500X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 116,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_TzOAYJlBw0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_TzOAYJlBw0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_TzOAYJlBw0C&dq=subject:Religion&hl=&cd=357&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_TzOAYJlBw0C&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Rescued.html?hl=&id=_TzOAYJlBw0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_TzOAYJlBw0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uy8GQgAACAAJ",
+   "etag": "i/ZYKVhxqic",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uy8GQgAACAAJ",
+   "volumeInfo": {
+    "title": "What Hath God Wrought!",
+    "subtitle": "Outstanding Adventist Laypersons of Hawaii",
+    "authors": [
+     "Sakae Kubo"
+    ],
+    "publishedDate": "2009-10-08",
+    "description": "Ordinary people + dedication = astounding results How God works through ordinary people to bless others.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1432743473"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781432743475"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 146,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uy8GQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uy8GQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=uy8GQgAACAAJ&dq=subject:Religion&hl=&cd=358&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=uy8GQgAACAAJ&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/What_Hath_God_Wrought.html?hl=&id=uy8GQgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uy8GQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vCabdc1y_W8C",
+   "etag": "C+B+iS5VEuc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vCabdc1y_W8C",
+   "volumeInfo": {
+    "title": "Sacred Marriage",
+    "subtitle": "What If God Designed Marriage to Make Us Holy More Than to Make Us Happy?",
+    "authors": [
+     "Gary Thomas"
+    ],
+    "publisher": "Zondervan",
+    "publishedDate": "2002-01-24",
+    "description": "Considers that God's primary intent for marriage is not to promote happiness as much as it is to promote holiness, citing within marriage the potiential for enabling each partner to discover and reveal Christ's character. Reprint.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780310242826"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0310242827"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 274,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 129,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vCabdc1y_W8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vCabdc1y_W8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vCabdc1y_W8C&printsec=frontcover&dq=subject:Religion&hl=&cd=359&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=vCabdc1y_W8C&dq=subject:Religion&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sacred_Marriage.html?hl=&id=vCabdc1y_W8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vCabdc1y_W8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Cep_AQAAQBAJ",
+   "etag": "juuoG3mh+ac",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Cep_AQAAQBAJ",
+   "volumeInfo": {
+    "title": "The Spiritual Man (2)",
+    "authors": [
+     "Watchman Nee"
+    ],
+    "publisher": "Living Stream Ministry",
+    "publishedDate": "1992-06-01",
+    "description": "Watchman Nee's writings have become well known for their deep spiritual insight among Christians in many nations for many years. Through these volumes a full understanding of his balanced and proper view concerning the Bible and the spiritual life can be accurately appreciated. This new compilation and retranslation of Watchman Nee's writings present the reader a fresh and unedited version of his ministry and promises to shed new light on the reader's understanding of Watchman Nee's ministry.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736357586"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0736357580"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 278,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 10,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Cep_AQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Cep_AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Cep_AQAAQBAJ&printsec=frontcover&dq=subject:Religion&hl=&cd=360&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Cep_AQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Cep_AQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Cep_AQAAQBAJ&rdid=book-Cep_AQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Spiritual_Man_2-sample-epub.acsm?id=Cep_AQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Cep_AQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

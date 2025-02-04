@@ -1,0 +1,2931 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 402,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KqVPv2pcxHMC",
+   "etag": "ojvjBaxN2Fk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KqVPv2pcxHMC",
+   "volumeInfo": {
+    "title": "Les tentations de la baronne d'Oberkirch",
+    "subtitle": "des mémoires entre autobiographie et roman",
+    "authors": [
+     "Dominique Marie"
+    ],
+    "publisher": "Presses Univ. Franche-Comté",
+    "publishedDate": "2001",
+    "description": "Analyse de ce texte du 18e siècle alliant plusieurs genres littéraires.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "2846270392"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782846270397"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 98,
+    "printType": "BOOK",
+    "categories": [
+     "Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KqVPv2pcxHMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KqVPv2pcxHMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.com/books?id=KqVPv2pcxHMC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=121&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=KqVPv2pcxHMC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Les_tentations_de_la_baronne_d_Oberkirch.html?hl=&id=KqVPv2pcxHMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KqVPv2pcxHMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3Xkl5fLu_t8C",
+   "etag": "HTGyqL7U9No",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3Xkl5fLu_t8C",
+   "volumeInfo": {
+    "title": "Interpretive Biography",
+    "authors": [
+     "Norman K. Denzin"
+    ],
+    "publisher": "SAGE",
+    "publishedDate": "1989-09-01",
+    "description": "Like all writing, biographies are interpretive. They require no less than organizing into text the chaos of human existence. In Interpretive Biography Denzin combines one of the oldest techniques in the social sciences and humanities with one of the newest. Bringing in elements of postmodernism and interpretive social science, he reexamines the biographical and autobiographical genres. In addition, the book outlines a new way in which biographies should be conceptualized and shaped.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0803933592"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780803933590"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 95,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3Xkl5fLu_t8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3Xkl5fLu_t8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=3Xkl5fLu_t8C&printsec=frontcover&dq=subject:Autobiography&hl=&cd=122&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=3Xkl5fLu_t8C&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Interpretive_Biography.html?hl=&id=3Xkl5fLu_t8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3Xkl5fLu_t8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jpbZEfiAPW0C",
+   "etag": "MoXdMpOk6Ms",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jpbZEfiAPW0C",
+   "volumeInfo": {
+    "title": "Mau Mau Memoirs",
+    "subtitle": "History, Memory, and Politics",
+    "authors": [
+     "Marshall S. Clough"
+    ],
+    "publisher": "Lynne Rienner Publishers",
+    "publishedDate": "1998",
+    "description": "This study of 13 personal accounts of the Mau Mau revolt by Kenyans, demonstrates that these memoirs serve to refute both the British version of the revolt and that of the leaders of the independent Kenyan state. It also points to the importance of Mau Mau in the making of modern Kenya.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1555875378"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781555875374"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 283,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jpbZEfiAPW0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jpbZEfiAPW0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jpbZEfiAPW0C&printsec=frontcover&dq=subject:Autobiography&hl=&cd=123&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jpbZEfiAPW0C&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mau_Mau_Memoirs.html?hl=&id=jpbZEfiAPW0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Mau_Mau_Memoirs-sample-epub.acsm?id=jpbZEfiAPW0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jpbZEfiAPW0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nfP2fBVRyLkC",
+   "etag": "oX48ZjrCyG4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nfP2fBVRyLkC",
+   "volumeInfo": {
+    "title": "Letters My Mother Never Read: An Abandoned Child's Journey (Townsend Library)",
+    "authors": [
+     "Jerri Diane Sueck"
+    ],
+    "publisher": "Townsend Press",
+    "publishedDate": "2004",
+    "description": "When her mother died in a fire, eight-year-old Jerri thought life couldn't get worse. She was wrong. Sent to live with people who didn't want her, Jerri was powerless to stop her once-happy childhood from becoming a nightmare of cruelty and neglect. Only a stubborn belief in her own worth and a fierce will to live allowed her to reach adulthood physically and emotionally intact. This is a book that will inspire not only those who have been orphans or foster children, but anyone who has known the pain of being unwanted. - Back cover.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781591940364"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1591940362"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 199,
+    "printType": "BOOK",
+    "categories": [
+     "Abandoned children"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nfP2fBVRyLkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nfP2fBVRyLkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nfP2fBVRyLkC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=124&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nfP2fBVRyLkC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nfP2fBVRyLkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 3.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 3.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=nfP2fBVRyLkC&rdid=book-nfP2fBVRyLkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Letters_My_Mother_Never_Read_An_Abandone-sample-epub.acsm?id=nfP2fBVRyLkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nfP2fBVRyLkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_xibGHFCfRUC",
+   "etag": "jvbAGPmPZf0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_xibGHFCfRUC",
+   "volumeInfo": {
+    "title": "Nine Ms and a Mother Like No Other",
+    "subtitle": "Our Journey from Messed to Blessed",
+    "authors": [
+     "Martial Bednar"
+    ],
+    "publisher": "iUniverse",
+    "publishedDate": "2009-07",
+    "description": "In the memoir Nine Ms and a Mother Like No Other, Martial Bednar brings warmth, wit, and insight to this entertaining narrative about his family and their trials and triumphs as they survive a messy divorce, cross-country road trips in broken down jitneys, several siblings split into foster homes, and life-threatening medical experiences and in the end, still consider themselves blessed. Told with candor and humor from the kid brother's unique perspective, Bednar begins with a colorful description of his mother Peggy an heiress whose husband walked out after twenty years of marriage and nine children who became a desperate housewife long before it was in vogue. As he chronicles his jaw-dropping childhood adventures, Bednar also introduces his siblings (the nine Ms) and shares the inspirational story of his brother Merrick, a priest-in-the-making whose profound health crises not only strengthen his own faith, but also the fabric of his entire family. This true story often hysterical, at times heartbreaking gives testimony to the inseparable bonds of family, the incredible power of perseverance and prayer, and the life-sustaining gifts of faith, hope, and love.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781440155086"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1440155089"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 348,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_xibGHFCfRUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_xibGHFCfRUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_xibGHFCfRUC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=125&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_xibGHFCfRUC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Nine_Ms_and_a_Mother_Like_No_Other.html?hl=&id=_xibGHFCfRUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Nine_Ms_and_a_Mother_Like_No_Other-sample-epub.acsm?id=_xibGHFCfRUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_xibGHFCfRUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Kv1UzrsMLWMC",
+   "etag": "w8aZjYDo5Gs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Kv1UzrsMLWMC",
+   "volumeInfo": {
+    "title": "Spaces of Belonging",
+    "subtitle": "Home, Culture, and Identity in 20th Century French Autobiography",
+    "authors": [
+     "Elizabeth Houston Jones"
+    ],
+    "publisher": "Rodopi",
+    "publishedDate": "2007-01",
+    "description": "Questions of space, place and identity have become increasingly prominent throughout the arts and humanities in recent times. This study begins by investigating the reasons for this growth in interest and analyses the underlying assumptions on which interdisciplinary discussions about space are often based. After tracing back the history of contact between Geography and Literary Studies from both disciplinary perspectives, it goes on to discuss recent academic work in the field and seeks to forge a new conceptual framework through which contemporary discussions of space and literature can operate. Having argued that the experience of contemporary space has rendered questions of home and belonging particularly pressing, it undertakes detailed analysis of how these phenomena are articulated in a selection of recent French life writing texts. Home is shown to be a deeply problematic, yet strongly desired, element of the contemporary world. The book concludes by addressing the underlying thesis that contemporary life writing might provide just the 'postmodern maps' that could help not only literary scholars, but also geographers, better understand the world today.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789042022836"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9042022833"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 316,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Kv1UzrsMLWMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Kv1UzrsMLWMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Kv1UzrsMLWMC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=126&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Kv1UzrsMLWMC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Kv1UzrsMLWMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 63.62,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 50.9,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Kv1UzrsMLWMC&rdid=book-Kv1UzrsMLWMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.362E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.09E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Spaces_of_Belonging-sample-epub.acsm?id=Kv1UzrsMLWMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Spaces_of_Belonging-sample-pdf.acsm?id=Kv1UzrsMLWMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Kv1UzrsMLWMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AABibuPCE7cC",
+   "etag": "OBhY8w8SPLg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AABibuPCE7cC",
+   "volumeInfo": {
+    "title": "Find Your Story, Write Your Memoir",
+    "authors": [
+     "Lynn C. Miller",
+     "Lisa Lenard-Cook"
+    ],
+    "publisher": "University of Wisconsin Pres",
+    "publishedDate": "2013-05-31",
+    "description": "Every person has a story to tell, but few beginners know how to uncover their story's narrative potential. And despite a growing interest among students and creative writers, few guides to the genre of memoirs and creative nonfiction highlight compelling storytelling strategies. Addressing this gap, authors Lynn C. Miller and Lisa Lenard-Cook provide a compact, accessible guide to memoir writing that shows how an aspiring memoir writer can use storytelling tools and tactics borrowed from fiction to weave personal experiences into the shape of a story. Find Your Story, Write Your Memoir offers an overview of the building blocks of memoir writing. Individual chapters focus on key issues and challenges, such as the balance between the remembering narrator and the experiencing narrator, the capacity to honor the subjective voice, the occasion of telling (why does this narrator tell this story now?), creating an organically functional structure for a particular story, and taking the next steps with a written memoir. Drawing on their combined years of experience teaching memoir writing, authoring works of fiction and nonfiction, and working in autobiographical performance, Miller and Lenard-Cook provide a practical guide whose core philosophy is motivated by a key word: story. Bronze winner, Foreword Book of the Year, Writing Guides",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780299293130"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0299293130"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AABibuPCE7cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AABibuPCE7cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=AABibuPCE7cC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=127&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=AABibuPCE7cC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Find_Your_Story_Write_Your_Memoir.html?hl=&id=AABibuPCE7cC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AABibuPCE7cC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "m6SBFRVOppIC",
+   "etag": "erdAfis3kTI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m6SBFRVOppIC",
+   "volumeInfo": {
+    "title": "Women's Life-writing",
+    "subtitle": "Finding Voice/building Community",
+    "authors": [
+     "Linda S. Coleman"
+    ],
+    "publisher": "Popular Press",
+    "publishedDate": "1997",
+    "description": "These essays offer readers vivid and varied evidence of the female response to recurring attempts by culture to artificially limit identity along the gendered lines of private and public experience. Calling on voices both familiar and little known, British and American, black and white, young and old, the essayists explore how women used life-writing as a means of both self-understanding and connection to a community of sympathetic others, real or imagined.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0879727489"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780879727482"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 281,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=m6SBFRVOppIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=m6SBFRVOppIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=m6SBFRVOppIC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=128&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=m6SBFRVOppIC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Women_s_Life_writing.html?hl=&id=m6SBFRVOppIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=m6SBFRVOppIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k0BK6nhT5K8C",
+   "etag": "0i4m8z8jmwM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k0BK6nhT5K8C",
+   "volumeInfo": {
+    "title": "Threads of Life",
+    "subtitle": "Autobiography and the Will",
+    "authors": [
+     "Richard Freadman"
+    ],
+    "publisher": "University of Chicago Press",
+    "publishedDate": "2001-02",
+    "description": "Many autobiographers share profound questions about human life with their readers—questions like: To what extent was my life imposed on me? To what extent did I bring it about through particular choices and actions, through the activity of my own will? Indeed, the issue of the will is central to autobiographical writing, and some of the greatest autobiographies give extended consideration to the will—its nature; its powers; its limitations; the forms of freedom, constraint, and expression it finds in various cultures; its role in particular human lives. In this new study, unprecedented in subject and scope, Richard Freadman offers the first sustained account of how changing theological, philosophical, and psychological accounts of the human will have been reflected in the writing of autobiography, and of how autobiography in its turn has helped shape various understandings of the will. Early chapters trace narrative representations of the will from antiquity (the Greeks and Augustine) to postmodernism (Derrida and Barthes), with particular emphasis on late modernity's culture of the will. Later chapters then present detailed and powerfully original readings of autobiographical texts by Louis Althusser, Roland Barthes, B. F. Skinner, Ernest Hemingway, Simone de Beauvoir, Arthur Koestler, Stephen Spender, and Diana Trilling. Freadman's interdisciplinary approach to autobiography and the will includes a theoretical defense of the view that autobiographers are, in varying degrees, agents in their own texts. Threads of Life argues that late modernity has inherited deeply conflicted attitudes to the will. Freadman suggests that these attitudes, now deeply embedded in contemporary cultural discourse, need reexamining. In this, he contends, 'reflective autobiography' has an important part to play.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226261433"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226261430"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 394,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=k0BK6nhT5K8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=k0BK6nhT5K8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=k0BK6nhT5K8C&printsec=frontcover&dq=subject:Autobiography&hl=&cd=129&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=k0BK6nhT5K8C&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Threads_of_Life.html?hl=&id=k0BK6nhT5K8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=k0BK6nhT5K8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SpKhCgAAQBAJ",
+   "etag": "YvAWo+pCCmo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SpKhCgAAQBAJ",
+   "volumeInfo": {
+    "title": "The 'Commentaries' of Pope Pius II (1458-1464) and the Crisis of the Fifteenth-Century Papacy",
+    "authors": [
+     "Emily O’Brien"
+    ],
+    "publisher": "University of Toronto Press",
+    "publishedDate": "2015",
+    "description": "\"Written in the mid-fifteenth century, Pope Pius II's Commentaries are the only known autobiography of a reigning pontiff and a fundamental text in the history of Renaissance humanism. In this book, Emily O'Brien positions Pius' expansive autobiographical text within that century's contentious debate over ecclesiastical sovereignty. Presenting the Commentaries as Pius' response to the crisis of authority, legitimacy, and relevance that was engulfing the Renaissance papacy, she shows how the Commentaries function as both an aggressive assault on the papal monarchy's chief opponents and a systematic defense of Pius's own troubled pontificate and his pre-papal career. Illustrating how the language, imagery, and ideals of secular power inform Pius' apologetic self-portrait, The Commentaries of Pope Pius II (1458 1464) and the Crisis of the Fifteenth-Century Papacy demonstrates the role that Pius and his writings played in the evolution of the Renaissance papacy.\"--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781442647633"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1442647639"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 335,
+    "printType": "BOOK",
+    "categories": [
+     "Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SpKhCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SpKhCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SpKhCgAAQBAJ&printsec=frontcover&dq=subject:Autobiography&hl=&cd=130&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=SpKhCgAAQBAJ&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Commentaries_of_Pope_Pius_II_1458_14.html?hl=&id=SpKhCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SpKhCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_kLUzpD4IvIC",
+   "etag": "3KHSoQXXxZc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_kLUzpD4IvIC",
+   "volumeInfo": {
+    "title": "Abandoned and Forgotten",
+    "subtitle": "An Orphaned Girl's Tale of Survival During World War II",
+    "authors": [
+     "Evelyne Tannehill"
+    ],
+    "publisher": "Wheatmark, Inc.",
+    "publishedDate": "2007-01",
+    "description": "Much has been written about World War II, but not often do we hear about the immeasurable suffering of the Germans who wanted no part of Hitler's regime. \"Abandoned and Forgotten\" is the memoir of a young girl growing up in the then-German province of East Prussia by the Baltic Sea. Orphaned at the age of nine and left to fend for herself in a hostile world, Evelyne Tannehill witnessed firsthand what happens when law and order break down and self-preservation becomes the only thing that matters. Her journey is a poignant example of how resilient the human spirit can be, even in the face of war's greatest horrors.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781587366932"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1587366932"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 431,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_kLUzpD4IvIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_kLUzpD4IvIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_kLUzpD4IvIC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=131&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_kLUzpD4IvIC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Abandoned_and_Forgotten.html?hl=&id=_kLUzpD4IvIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Abandoned_and_Forgotten-sample-epub.acsm?id=_kLUzpD4IvIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Abandoned_and_Forgotten-sample-pdf.acsm?id=_kLUzpD4IvIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_kLUzpD4IvIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Z9s7AlViH2kC",
+   "etag": "+8fK/Jc4fMQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z9s7AlViH2kC",
+   "volumeInfo": {
+    "title": "Dwelling in the Archive",
+    "subtitle": "Women Writing House, Home, and History in Late Colonial India",
+    "authors": [
+     "Antoinette M. Burton"
+    ],
+    "publisher": "Oxford University Press on Demand",
+    "publishedDate": "2003",
+    "description": "Through an analysis of the writings of three 20th century Indian women, this book explores how the memoirs, fictions, and histories written by women can be read as counter-narratives of colonial modernity.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195144252"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195144253"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Z9s7AlViH2kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Z9s7AlViH2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Z9s7AlViH2kC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=132&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Z9s7AlViH2kC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dwelling_in_the_Archive.html?hl=&id=Z9s7AlViH2kC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Dwelling_in_the_Archive-sample-epub.acsm?id=Z9s7AlViH2kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Dwelling_in_the_Archive-sample-pdf.acsm?id=Z9s7AlViH2kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Z9s7AlViH2kC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S86pMIM9N8AC",
+   "etag": "L+2N3UWMidk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S86pMIM9N8AC",
+   "volumeInfo": {
+    "title": "A Stranger in the Barrio",
+    "subtitle": "Memoir of a Tampa Sicilian",
+    "authors": [
+     "Frank Urso"
+    ],
+    "publisher": "iUniverse",
+    "publishedDate": "2005-03",
+    "description": "A raw and unvarnished memoir set in the cigar-making barrio of Tampa's Ybor City when it was the cigar capital of the world. The diaspora of immigrants in the late nineteenth and early twentieth century brought Spaniards, Cubans and Sicilians to Tampa's Ybor City, then the cigar capital of the world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780595335374"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0595335373"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 274,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=S86pMIM9N8AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=S86pMIM9N8AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=S86pMIM9N8AC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=133&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=S86pMIM9N8AC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Stranger_in_the_Barrio.html?hl=&id=S86pMIM9N8AC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/A_Stranger_in_the_Barrio-sample-epub.acsm?id=S86pMIM9N8AC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=S86pMIM9N8AC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OebD07Z0DP8C",
+   "etag": "wO++TK56pVE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OebD07Z0DP8C",
+   "volumeInfo": {
+    "title": "Autobiography",
+    "authors": [
+     "Linda R. Anderson"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2001",
+    "description": "\"This comprehensive and challenging guide is the ideal starting-point for all readers interested in autobiography.\"--Jacket.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "041518634X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415186346"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 156,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OebD07Z0DP8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OebD07Z0DP8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OebD07Z0DP8C&printsec=frontcover&dq=subject:Autobiography&hl=&cd=134&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OebD07Z0DP8C&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Autobiography.html?hl=&id=OebD07Z0DP8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OebD07Z0DP8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ndv9dTYBKZgC",
+   "etag": "5LvvOpdIgD8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ndv9dTYBKZgC",
+   "volumeInfo": {
+    "title": "For Those Who Come After",
+    "subtitle": "A Study of Native American Autobiography",
+    "authors": [
+     "Arnold Krupat"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "1989-06-06",
+    "description": "Drawing on the life stories of Native Americans solicited by historians during the 19th century and, later, by anthropologists concerned with amplifying the cultural record, Arnold Krupat examines the Indian autobiography as a specific genre of American writing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520066065"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520066069"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 167,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ndv9dTYBKZgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ndv9dTYBKZgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Ndv9dTYBKZgC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=135&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Ndv9dTYBKZgC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/For_Those_Who_Come_After.html?hl=&id=Ndv9dTYBKZgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/For_Those_Who_Come_After-sample-epub.acsm?id=Ndv9dTYBKZgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ndv9dTYBKZgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DfN27fpz0YYC",
+   "etag": "dqerQuPAhiw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DfN27fpz0YYC",
+   "volumeInfo": {
+    "title": "Repossessing the World",
+    "subtitle": "Reading Memoirs by Contemporary Women",
+    "authors": [
+     "Helen M. Buss"
+    ],
+    "publisher": "Wilfrid Laurier Univ. Press",
+    "publishedDate": "2002-02-07",
+    "description": "Annotation A critical inquiry into women's use of the memoir, a form that has often been dismissed as less significant than autobiography, less professional than the novel, and less intellectual than the essay. Buss (aka Margaret Clarke; English, U. of Calgary) argues that the memoir \"bridges the typical strategies of historical and literary discourses in order to establish necessary connections between the private and the public, the personal and political ... The memoir is increasingly used (by women) to interrogate the private individual's relationship to a history and/or a culture from which she finds her experience of her self and her life excluded.\" Annotation c. Book News, Inc., Portland, OR (booknews.com).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780889204089"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "088920408X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 206,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DfN27fpz0YYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DfN27fpz0YYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DfN27fpz0YYC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=136&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DfN27fpz0YYC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DfN27fpz0YYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 40.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DfN27fpz0YYC&rdid=book-DfN27fpz0YYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.0E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.12E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 1.8E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.62E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Repossessing_the_World-sample-epub.acsm?id=DfN27fpz0YYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Repossessing_the_World-sample-pdf.acsm?id=DfN27fpz0YYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DfN27fpz0YYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1jX3_RyedfcC",
+   "etag": "IfIhRfhbhqI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1jX3_RyedfcC",
+   "volumeInfo": {
+    "title": "The Limits of Autobiography",
+    "subtitle": "Trauma and Testimony",
+    "authors": [
+     "Leigh Gilmore"
+    ],
+    "publisher": "Cornell University Press",
+    "publishedDate": "2001-01-01",
+    "description": "Memoirs in which trauma take a major - or the major - role challenge the limits of autobiography. The author presents a series of \"limit-cases\"--Texts that combine various elements including autobiography and fiction, and demonstrates how and why their authors swerve from formal constraints.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0801486742"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780801486746"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 163,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1jX3_RyedfcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1jX3_RyedfcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=1jX3_RyedfcC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=137&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=1jX3_RyedfcC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Limits_of_Autobiography.html?hl=&id=1jX3_RyedfcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1jX3_RyedfcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fhC_lS40zSIC",
+   "etag": "VbnO+fGah94",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fhC_lS40zSIC",
+   "volumeInfo": {
+    "title": "Zarathustra's Sisters",
+    "subtitle": "Women's Autobiography and the Shaping of Cultural History",
+    "authors": [
+     "Susan Ingram"
+    ],
+    "publisher": "University of Toronto Press",
+    "publishedDate": "2003-01-01",
+    "description": "These six women all wrote the stories of their own lives, creating powerful narratives that channelled cultural forces at the same time as parrying them.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0802036902"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802036902"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 197,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fhC_lS40zSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fhC_lS40zSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fhC_lS40zSIC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=138&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=fhC_lS40zSIC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Zarathustra_s_Sisters.html?hl=&id=fhC_lS40zSIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fhC_lS40zSIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "w2Tya9gOKqEC",
+   "etag": "Ud+UMlFX9fg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/w2Tya9gOKqEC",
+   "volumeInfo": {
+    "title": "Henri Poincaré",
+    "subtitle": "A Scientific Biography",
+    "authors": [
+     "Jeremy Gray"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "2013",
+    "description": "Henri Poincaré (1854-1912) was not just one of the most inventive, versatile, and productive mathematicians of all time--he was also a leading physicist who almost won a Nobel Prize for physics and a prominent philosopher of science whose fresh and surprising essays are still in print a century later. The first in-depth and comprehensive look at his many accomplishments, Henri Poincaré explores all the fields that Poincaré touched, the debates sparked by his original investigations, and how his discoveries still contribute to society today. Math historian Jeremy Gray shows that Poincaré's influence was wide-ranging and permanent. His novel interpretation of non-Euclidean geometry challenged contemporary ideas about space, stirred heated discussion, and led to flourishing research. His work in topology began the modern study of the subject, recently highlighted by the successful resolution of the famous Poincaré conjecture. And Poincaré's reformulation of celestial mechanics and discovery of chaotic motion started the modern theory of dynamical systems. In physics, his insights on the Lorentz group preceded Einstein's, and he was the first to indicate that space and time might be fundamentally atomic. Poincaré the public intellectual did not shy away from scientific controversy, and he defended mathematics against the attacks of logicians such as Bertrand Russell, opposed the views of Catholic apologists, and served as an expert witness in probability for the notorious Dreyfus case that polarized France. Richly informed by letters and documents, Henri Poincaré demonstrates how one man's work revolutionized math, science, and the greater world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691152714"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0691152713"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 592,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=w2Tya9gOKqEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=w2Tya9gOKqEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=w2Tya9gOKqEC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=139&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=w2Tya9gOKqEC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Henri_Poincar%C3%A9.html?hl=&id=w2Tya9gOKqEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=w2Tya9gOKqEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0f0tK87lKnEC",
+   "etag": "Vr4+FjaYvl0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0f0tK87lKnEC",
+   "volumeInfo": {
+    "title": "José Limón",
+    "subtitle": "An Unfinished Memoir",
+    "authors": [
+     "José Limón"
+    ],
+    "publisher": "Wesleyan University Press",
+    "publishedDate": "2001-09-27",
+    "description": "A captivating illustrated autobiography of the early years of a major American choreographer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0819565059"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780819565051"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0f0tK87lKnEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0f0tK87lKnEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0f0tK87lKnEC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=140&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0f0tK87lKnEC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Lim%C3%B3n.html?hl=&id=0f0tK87lKnEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0f0tK87lKnEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Wzsym5pTaN4C",
+   "etag": "YpJhodhbUVA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Wzsym5pTaN4C",
+   "volumeInfo": {
+    "title": "The Extraordinary Work of Ordinary Writing",
+    "subtitle": "Annie Ray's Diary",
+    "authors": [
+     "Jennifer Sinor"
+    ],
+    "publisher": "University of Iowa Press",
+    "publishedDate": "2002-11-13",
+    "description": "Krutch’s trenchant observations about life prospering in the hostile environment of Arizona’s Sonoran Desert turn to weighty questions about humanity and the precariousness of our existence, putting lie to Western denials of mind in the “lower” forms of life: “Let us not say that this animal or even this plant has ‘become adapted’ to desert conditions. Let us say rather that they have all shown courage and ingenuity in making the best of the world as they found it. And let us remember that if to use such terms in connection with them is a fallacy then it can only be somewhat less a fallacy to use the same terms in connection with ourselves.”",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781587294303"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1587294303"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 254,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Wzsym5pTaN4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Wzsym5pTaN4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Wzsym5pTaN4C&printsec=frontcover&dq=subject:Autobiography&hl=&cd=141&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Wzsym5pTaN4C&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Extraordinary_Work_of_Ordinary_Writi.html?hl=&id=Wzsym5pTaN4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Extraordinary_Work_of_Ordinary_Writi-sample-pdf.acsm?id=Wzsym5pTaN4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Wzsym5pTaN4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u_FvZUnUtY8C",
+   "etag": "ixt26iuatLI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u_FvZUnUtY8C",
+   "volumeInfo": {
+    "title": "Native American Autobiography",
+    "subtitle": "An Anthology",
+    "authors": [
+     "Arnold Krupat"
+    ],
+    "publisher": "Univ of Wisconsin Press",
+    "publishedDate": "1994",
+    "description": "Native American Autobiography is the first collection to bring together the major autobiographical narratives by Native American people from the earliest documents that exist to the present. The thirty narratives included here cover a range of tribes and cultural areas, over a span of more than 200 years. From the earliest known written memoir—a 1768 narrative by the Reverend Samson Occom, a Mohegan, reproduced as a chapter here—to recent reminiscences by such prominent writers as N. Scott Momaday and Gerald Vizenor, the book covers a broad range of Native American experience. The sections include “Traditional Lives;” “The Christian Indians, from the Eighteenth Century to Indian Removal, 1830;” “The Resisting Indians, from Indian Removal to Wounded Knee, 1830-90;” “The Closed Frontier, 1890-;” “The Anthropologists' Indians, 1900-;” “'Native American Renaissance,' 1968-;” and “Traditional Lives Today.” Editor Arnold Krupat provides a general introduction, a historical introduction to each of the seven sections, extensive headnotes for each selection, and suggestions for further reading, making this an ideal resource for courses in American literature, history, anthropology, and Native American studies. General readers, too, will find a wealth of fascinating material in the life stories of these Native American men and women. \"This is the first comprehensive anthology of American Indian autobiography ever published. It will be of interest to virtually anyone teaching or studying the literatures of the native peoples of North America, as well as to a general audience, because of the informative, literate introductions and the absorbing narratives themselves.\"—William L. Andrews, series editor",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0299140245"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780299140243"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 546,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u_FvZUnUtY8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u_FvZUnUtY8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=u_FvZUnUtY8C&printsec=frontcover&dq=subject:Autobiography&hl=&cd=142&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=u_FvZUnUtY8C&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Native_American_Autobiography.html?hl=&id=u_FvZUnUtY8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u_FvZUnUtY8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qfL06dTmHyYC",
+   "etag": "hpRc9MVyl+c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qfL06dTmHyYC",
+   "volumeInfo": {
+    "title": "Written in Red",
+    "subtitle": "The Communist Memoir in Spain",
+    "authors": [
+     "Gina Herrmann"
+    ],
+    "publisher": "University of Illinois Press",
+    "publishedDate": "2010",
+    "description": "The first major study of the profound impact of international communist politics and culture on Spanish letters",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780252034695"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0252034694"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 246,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qfL06dTmHyYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qfL06dTmHyYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=qfL06dTmHyYC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=143&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=qfL06dTmHyYC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Written_in_Red.html?hl=&id=qfL06dTmHyYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qfL06dTmHyYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7JnmAVSDrF8C",
+   "etag": "0613PaEg0Sc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7JnmAVSDrF8C",
+   "volumeInfo": {
+    "title": "Documents in Crisis",
+    "subtitle": "Nonfiction Literatures in Twentieth-Century Mexico",
+    "authors": [
+     "Beth Ellen Jorgensen"
+    ],
+    "publisher": "SUNY Press",
+    "publishedDate": "2011-12-01",
+    "description": "Examines the theory and practice of nonfiction narrative literature in twentieth-century Mexico. In the turbulent twentieth century, large numbers of Mexicans of all social classes faced crisis and catastrophe on a seemingly continuous basis. Revolution, earthquakes, industrial disasters, political and labor unrest, as well as indigenous insurgency placed extraordinary pressures on collective and individual identity. In contemporary literary studies, nonfiction literatures have received scant attention compared to the more supposedly “creative” practices of fictional narrative, poetry, and drama. In Documents in Crisis, Beth E. Jörgensen examines a selection of both canonical and lesser-known examples of narrative nonfiction that were written in response to these crises, including the autobiography, memoir, historical essay, testimony, chronicle, and ethnographic life narrative. She addresses the relative neglect of Mexican nonfiction in criticism and theory and demonstrates its continuing relevance for writers and readers who, in spite of the contemporary blurring of boundaries between fiction and nonfiction, remain fascinated by literatures of fact.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438439402"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1438439407"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7JnmAVSDrF8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7JnmAVSDrF8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7JnmAVSDrF8C&printsec=frontcover&dq=subject:Autobiography&hl=&cd=144&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7JnmAVSDrF8C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7JnmAVSDrF8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.55,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7JnmAVSDrF8C&rdid=book-7JnmAVSDrF8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.695E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.455E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Documents_in_Crisis-sample-epub.acsm?id=7JnmAVSDrF8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Documents_in_Crisis-sample-pdf.acsm?id=7JnmAVSDrF8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7JnmAVSDrF8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MhYzngJPNPsC",
+   "etag": "nwu1B3sIcXc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MhYzngJPNPsC",
+   "volumeInfo": {
+    "title": "From Behind the Veil",
+    "subtitle": "A Study of Afro-American Narrative",
+    "authors": [
+     "Robert B. Stepto"
+    ],
+    "publisher": "University of Illinois Press",
+    "publishedDate": "1991-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0252062116"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780252062117"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 225,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MhYzngJPNPsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MhYzngJPNPsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=MhYzngJPNPsC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=145&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=MhYzngJPNPsC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/From_Behind_the_Veil.html?hl=&id=MhYzngJPNPsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MhYzngJPNPsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ufDxAAAAQBAJ",
+   "etag": "I5c7UU6QjW0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ufDxAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Coreyography",
+    "subtitle": "A Memoir",
+    "authors": [
+     "Corey Feldman"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2013-10-29",
+    "description": "In this candid Hollywood-survival story, the actor who starred in such films as The Lost Boys, Stand By Me and The Goonies comes clean about his past, which included physical, drug and sexual abuse, and opens up about his close friendship with the late Corey Haim. 75,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312609337"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0312609337"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ufDxAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ufDxAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ufDxAAAAQBAJ&printsec=frontcover&dq=subject:Autobiography&hl=&cd=146&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ufDxAAAAQBAJ&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Coreyography.html?hl=&id=ufDxAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ufDxAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NNA5vLpKftIC",
+   "etag": "lSeZF26uyJM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NNA5vLpKftIC",
+   "volumeInfo": {
+    "title": "Ich, Welt und Gott",
+    "subtitle": "Autobiographik im 17. Jahrhundert",
+    "authors": [
+     "Eva Kormann"
+    ],
+    "publisher": "Böhlau Verlag Köln Weimar",
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "341216903X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783412169039"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 357,
+    "printType": "BOOK",
+    "categories": [
+     "Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NNA5vLpKftIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NNA5vLpKftIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=NNA5vLpKftIC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=147&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NNA5vLpKftIC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ich_Welt_und_Gott.html?hl=&id=NNA5vLpKftIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NNA5vLpKftIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9sgpR4pNtNcC",
+   "etag": "+oIRKTMrK6M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9sgpR4pNtNcC",
+   "volumeInfo": {
+    "title": "Confessions of an Ex-Feminist",
+    "authors": [
+     "Lorraine V. Murray"
+    ],
+    "publisher": "Ignatius Press",
+    "publishedDate": "2008",
+    "description": "Former feminist and atheist Murray presents a powerful, insightful account of her journey from a radical feminist and nihilistic lifestyle to a seriously committed Christian woman, revealing and critiquing her former errant feminist ideas about the meaning of womanity, sexuality, love, motherhood, children, morality, men, etc. Even though she attained a masters degree in English and a Ph. D. in Philosophy, for many years after her college life, including as a philosophy professor, she lived the life of a feminist rebel. Her story of how she escaped from that darkness into the light of Gods truth and goodness is an inspiring witness for all.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781586172251"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1586172255"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9sgpR4pNtNcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9sgpR4pNtNcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9sgpR4pNtNcC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=148&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9sgpR4pNtNcC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Confessions_of_an_Ex_Feminist.html?hl=&id=9sgpR4pNtNcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9sgpR4pNtNcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sNCHdO0k34UC",
+   "etag": "BE0PR1ueq0Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sNCHdO0k34UC",
+   "volumeInfo": {
+    "title": "A History of Autobiography in Antiquity",
+    "authors": [
+     "Georg Misch"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1950",
+    "description": "The Arthurian legend closes with a promise: On a distant day, when his country calls, the king will return. His lost realm will be regained, and his shattered dream of an ideal world will, at last, be realized. This collection of original essays explores the issue of return in the modern Arthurian legend. With an Introduction by noted scholar Raymond H. Thompson and 13 essays by authors from the fields of literature, art history, film history, and folklore, this collection reveals the flexibility of the legend. Just as the modern legend takes the form current to its generation, the myth of return generates a new legend with each telling. As these authors show, return can come in the form of a noble king or a Caribbean immigrant, with the mystery of an art theft or a dying boy's dream.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415176085"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415176088"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 706,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sNCHdO0k34UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sNCHdO0k34UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=sNCHdO0k34UC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=149&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=sNCHdO0k34UC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_History_of_Autobiography_in_Antiquity.html?hl=&id=sNCHdO0k34UC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sNCHdO0k34UC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gzALAAAAIAAJ",
+   "etag": "RcRP0jwV3Vc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gzALAAAAIAAJ",
+   "volumeInfo": {
+    "title": "The Autobiography of Benvenuto Cellini",
+    "authors": [
+     "Benvenuto Cellini",
+     "John Addington Symonds"
+    ],
+    "publisher": "Penguin Books, [1964",
+    "publishedDate": "1910",
+    "description": "The Italian Renaissance during the 16th century as lived and told by artist Benvenuto Cellini. Grades 7-10. For other editions, see Author Catalog.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105047817064"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 485,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 9,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gzALAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gzALAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=gzALAAAAIAAJ&printsec=frontcover&dq=subject:Autobiography&hl=&cd=150&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gzALAAAAIAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gzALAAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=gzALAAAAIAAJ&rdid=book-gzALAAAAIAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com/books/download/The_Autobiography_of_Benvenuto_Cellini.epub?id=gzALAAAAIAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/The_Autobiography_of_Benvenuto_Cellini.pdf?id=gzALAAAAIAAJ&hl=&output=pdf&sig=ACfU3U1IH2Fqr4KRNcCYyroLSOONofhovA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gzALAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ssQzCgAAQBAJ",
+   "etag": "FfGWEKKYMts",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ssQzCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Can't Forgive",
+    "subtitle": "My 20-Year Battle with O. J. Simpson",
+    "authors": [
+     "Kim Goldman"
+    ],
+    "publisher": "BenBella Books",
+    "publishedDate": "2015",
+    "description": "Don't tell her she needs to find closure. Don't ask her to forgive and forget. When Kim was just 22, her older brother, Ron Goldman, was brutally killed by O.J. Simpson. Ron and Kim were very close, and her devastation was compounded by the shocking not guilty verdict that allowed a smirking Simpson to leave as a free man. It wasn't Kim's first trauma. Her parents divorced when she was young, and she and Ron were raised by their father. Her mother kidnapped her, telling her that her father didn't love her any more. When she was 14, she was almost blinded from severe battery acid burns on her face during an automobile accident, requiring three reconstructive surgeries. But none of these early traumas compared to the loss of her brother, the painful knowledge that his killer was free, and fact that she could not even grieve privatelyher grief was made painfully public. Counseled by friends, strangers, and even Oprah to find closure,” Kim chose a different route. She chose to fight. Repeatedly, Kim and her family pursued Simpson by every legal means. Foiled over and over again, they ultimately achieved a small measure of justice. Kim's story is one of tragedy, but also of humanity and, often, comedy. Living life as one of America's most famous victims” isn't always easy, especially as a single mother in the dating market. She often had bizarre first date experiences, with one man even breaking down into tears and inconsolable with grief after realizing who she was. Ultimately Kim's story is that of an ordinary person thrown into extraordinary circumstances at a very young age, and who had the couragedespite the discouragement of so manyto ignore the conventional wisdom and never give up her fight for justice.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781941631485"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1941631487"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 335,
+    "printType": "BOOK",
+    "categories": [
+     "BIOGRAPHY & AUTOBIOGRAPHY"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ssQzCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ssQzCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ssQzCgAAQBAJ&printsec=frontcover&dq=subject:Autobiography&hl=&cd=151&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ssQzCgAAQBAJ&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Can_t_Forgive.html?hl=&id=ssQzCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ssQzCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c7PSc0UX1MQC",
+   "etag": "F1/TA4tfuc8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c7PSc0UX1MQC",
+   "volumeInfo": {
+    "title": "A Man and His Music",
+    "authors": [
+     "Angel Peña"
+    ],
+    "publisher": "Ateneo University Press",
+    "publishedDate": "2007",
+    "description": "\"This is not just another autobiography. It is a candid testimony of Angel Pena's inspiring journey toward the fulfillment of his musical potential and the fruition of his musical gifts.\"--BOOK JACKET.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9715505090"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789715505093"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 203,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=c7PSc0UX1MQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=c7PSc0UX1MQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=c7PSc0UX1MQC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=152&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=c7PSc0UX1MQC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Man_and_His_Music.html?hl=&id=c7PSc0UX1MQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c7PSc0UX1MQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Vxt_Uyx5KAcC",
+   "etag": "3uJ9rsOSbUU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Vxt_Uyx5KAcC",
+   "volumeInfo": {
+    "title": "Still Me",
+    "authors": [
+     "Christopher Reeve"
+    ],
+    "publisher": "Random House Digital, Inc.",
+    "publishedDate": "1999",
+    "description": "The popular actor offers an account of his life, from his early acting career and his rise to stardom as Superman, to the devastating horseback-riding accident that left him paralyzed and his struggle to rebuild his life",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345432414"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "034543241X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 324,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Vxt_Uyx5KAcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Vxt_Uyx5KAcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Vxt_Uyx5KAcC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=153&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Vxt_Uyx5KAcC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Still_Me.html?hl=&id=Vxt_Uyx5KAcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Vxt_Uyx5KAcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "blLFwTSeOmcC",
+   "etag": "AOLHr0/9q3Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/blLFwTSeOmcC",
+   "volumeInfo": {
+    "title": "Life-writings by British Women, 1660-1815",
+    "subtitle": "An Anthology",
+    "authors": [
+     "Carolyn A. Barros",
+     "Johanna M. Smith",
+     "University Johanna M Smith"
+    ],
+    "publisher": "UPNE",
+    "publishedDate": "2000",
+    "description": "A pioneering, diverse collection that provides insight into the powerful motive of self-expression that inspired women autobiographers around the eighteenth century.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1555534325"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781555534325"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 418,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=blLFwTSeOmcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=blLFwTSeOmcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=blLFwTSeOmcC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=154&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=blLFwTSeOmcC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Life_writings_by_British_Women_1660_1815.html?hl=&id=blLFwTSeOmcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=blLFwTSeOmcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5ZY3gnxwcSIC",
+   "etag": "40pd9GS1+lU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5ZY3gnxwcSIC",
+   "volumeInfo": {
+    "title": "Hüter der Tradition",
+    "subtitle": "Erinnerung und Identität im Selbstzeugnis des Pinchas Katzenellenbogen (1691–1767)",
+    "authors": [
+     "Julia Haarmann"
+    ],
+    "publisher": "Vandenhoeck & Ruprecht",
+    "publishedDate": "2012-11-21",
+    "description": "Jüdisches Leben im Aschkenas des 18. Jahrhunderts.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783525570234"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3525570236"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 290,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5ZY3gnxwcSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5ZY3gnxwcSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=5ZY3gnxwcSIC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=155&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5ZY3gnxwcSIC&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/H%C3%BCter_der_Tradition.html?hl=&id=5ZY3gnxwcSIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5ZY3gnxwcSIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OYYNMqtvj7EC",
+   "etag": "idrmBOyM6eA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OYYNMqtvj7EC",
+   "volumeInfo": {
+    "title": "Writing the Lost Generation",
+    "subtitle": "Expatriate Autobiography and American Modernism",
+    "authors": [
+     "Craig Monk"
+    ],
+    "publisher": "University of Iowa Press",
+    "publishedDate": "2010-11-01",
+    "description": "Members of the Lost Generation, American writers and artists who lived in Paris during the 1920s, continue to occupy an important place in our literary history. Rebelling against increased commercialism and the ebb of cosmopolitan society in early twentieth-century America, they rejected the culture of what Ernest Hemingway called a place of “broad lawns and narrow minds.” Much of what we know about these iconic literary figures comes from their own published letters and essays, revealing how adroitly they developed their own reputations by controlling the reception of their work. Surprisingly the literary world has paid less attention to their autobiographies. In Writing the Lost Generation, Craig Monk unlocks a series of neglected texts while reinvigorating our reading of more familiar ones. Well-known autobiographies by Malcolm Cowley, Ernest Hemingway, and Gertrude Stein are joined here by works from a variety of lesser-known—but still important—expatriate American writers, including Sylvia Beach, Alfred Kreymborg, Samuel Putnam, and Harold Stearns. By bringing together the self-reflective works of the Lost Generation and probing the ways the writers portrayed themselves, Monk provides an exciting and comprehensive overview of modernist expatriates from the United States.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781587297434"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1587297434"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OYYNMqtvj7EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OYYNMqtvj7EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OYYNMqtvj7EC&printsec=frontcover&dq=subject:Autobiography&hl=&cd=156&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OYYNMqtvj7EC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OYYNMqtvj7EC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=OYYNMqtvj7EC&rdid=book-OYYNMqtvj7EC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.995E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.617E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Writing_the_Lost_Generation-sample-epub.acsm?id=OYYNMqtvj7EC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Writing_the_Lost_Generation-sample-pdf.acsm?id=OYYNMqtvj7EC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OYYNMqtvj7EC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DhHgAgAAQBAJ",
+   "etag": "jgoNo24qlsw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DhHgAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Leggy Blonde",
+    "subtitle": "A Memoir",
+    "authors": [
+     "Aviva Drescher"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2014-02-25",
+    "description": "The breakout star of The Real Housewives of New York City shares the story of her life in candid detail, from her upbringing by an influential money manager and the farm accident that resulted in her amputation to her prestigious education and marriage to investment banker Reid Drescher. 100,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781476722115"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1476722110"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DhHgAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DhHgAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DhHgAgAAQBAJ&printsec=frontcover&dq=subject:Autobiography&hl=&cd=157&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DhHgAgAAQBAJ&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Leggy_Blonde.html?hl=&id=DhHgAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DhHgAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IfVDCgAAQBAJ",
+   "etag": "SGuHtcrIUHc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IfVDCgAAQBAJ",
+   "volumeInfo": {
+    "title": "A Road Back from Schizophrenia",
+    "subtitle": "A Memoir",
+    "authors": [
+     "Arnhild Lauveng"
+    ],
+    "publisher": "Skyhorse Publishing Inc.",
+    "publishedDate": "2012-11",
+    "description": "A gripping memoir that challenges our perceptions and understanding of schizophrenia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781616088712"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1616088710"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 170,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IfVDCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IfVDCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IfVDCgAAQBAJ&printsec=frontcover&dq=subject:Autobiography&hl=&cd=158&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=IfVDCgAAQBAJ&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Road_Back_from_Schizophrenia.html?hl=&id=IfVDCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IfVDCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SMAeBQAAQBAJ",
+   "etag": "s8/ZNeInpkQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SMAeBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Embodied Politics in Visual Autobiography",
+    "authors": [
+     "Sarah Brophy",
+     "Janice Hladki"
+    ],
+    "publisher": "University of Toronto Press",
+    "publishedDate": "2014",
+    "description": "With contributions by both artists and scholars, Embodied Politics in Visual Autobiography is a unique examination of visual autobiography's involvement in the global cultural politics of health, disability, and the body.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781442616097"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1442616091"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 308,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SMAeBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SMAeBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SMAeBQAAQBAJ&printsec=frontcover&dq=subject:Autobiography&hl=&cd=159&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=SMAeBQAAQBAJ&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Embodied_Politics_in_Visual_Autobiograph.html?hl=&id=SMAeBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SMAeBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sbM_DwAAQBAJ",
+   "etag": "NYXGAFIs4Jk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sbM_DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Sovereign Stories and Blood Memories",
+    "subtitle": "Native American Women's Autobiography",
+    "authors": [
+     "Annette Angela Portillo"
+    ],
+    "publisher": "University of New Mexico Press",
+    "publishedDate": "2017-12-15",
+    "description": "Portillo analyzes traditional autobiographies and memoirs alongside interviews and social media to explore the intricacies of Native American women’s voices and the stories that they share.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780826359162"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0826359167"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "HISTORY"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sbM_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sbM_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=sbM_DwAAQBAJ&printsec=frontcover&dq=subject:Autobiography&hl=&cd=160&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=sbM_DwAAQBAJ&dq=subject:Autobiography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sovereign_Stories_and_Blood_Memories.html?hl=&id=sbM_DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sbM_DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

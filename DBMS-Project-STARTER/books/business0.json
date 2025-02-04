@@ -1,0 +1,3831 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 492,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OEbQBgAAQBAJ",
+   "etag": "HrJUV6hDPSI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OEbQBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Der Weg in die Unternehmensberatung",
+    "subtitle": "Consulting Case Studies erfolgreich bearbeiten",
+    "authors": [
+     "Martin Hartenstein",
+     "Fabian Billing",
+     "Christian Schawel",
+     "Michael Grein"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2013-03-09",
+    "description": "Das erste Buch, das gezielt auf Case-Study-Einstellungsverfahren bei Unternehmensberatungen vorbereitet. Die Autoren stellen Portraits der TOP 20 unter den deutschen Unternehmensberatungen und die Grundkonzepte der Case-Study-Bearbeitung vor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783322944467"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3322944468"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OEbQBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OEbQBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=OEbQBgAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OEbQBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OEbQBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 54.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 43.44,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=OEbQBgAAQBAJ&rdid=book-OEbQBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.344E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Der_Weg_in_die_Unternehmensberatung-sample-pdf.acsm?id=OEbQBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OEbQBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B1vVnnoZG4kC",
+   "etag": "JTwPiZQcqG8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B1vVnnoZG4kC",
+   "volumeInfo": {
+    "title": "The Performance of Social Systems",
+    "subtitle": "Perspectives and Problems",
+    "authors": [
+     "Francisco Parra-Luna"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2000-06-30",
+    "description": "It can be said that the concept of performance of social systems is one of the most relevant, since all social systems - from the family, through the enterprise, to the Nation state - are only interesting in obtaining as high a performance as possible. The difficulties encountered when dealing with the concept of performance have been recognized and few books until now ventured to tackle the task, mainly because of the following three big problems: the lack of a theoretical-operational model; the lack of valid data; and the lack of computer facilities. Today these obstacles have been overcome and this is the first book based on different systemic perspectives (value theory, modelling, observation and quantification) which offers the possibility of defining and working out the concept. The book should be of great interest to sociologists, political scientists, economists, organizational theorists, managers and politicians.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0306463091"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306463099"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 397,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=B1vVnnoZG4kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=B1vVnnoZG4kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=B1vVnnoZG4kC&printsec=frontcover&dq=subject:business&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=B1vVnnoZG4kC&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Performance_of_Social_Systems.html?hl=&id=B1vVnnoZG4kC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Performance_of_Social_Systems-sample-epub.acsm?id=B1vVnnoZG4kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Performance_of_Social_Systems-sample-pdf.acsm?id=B1vVnnoZG4kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=B1vVnnoZG4kC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o_PA9UzDJKYC",
+   "etag": "LIIIBIwFpmQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o_PA9UzDJKYC",
+   "volumeInfo": {
+    "title": "The Fast Track to Profit",
+    "subtitle": "An Insider's Guide to Exploiting the World's Best Internet Technologies",
+    "authors": [
+     "Lee G. Caldwell"
+    ],
+    "publisher": "Prentice Hall Professional",
+    "publishedDate": "2003",
+    "description": "This title begins with an insightful synopsis of the business of the internet. This sets the stage for understanding the business principles that follow. The book also includes a step-by-step owner's manual, designed to give readers the tools they need to drive the net to greater profitability within their own business.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780130463470"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0130463477"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=o_PA9UzDJKYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=o_PA9UzDJKYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=o_PA9UzDJKYC&printsec=frontcover&dq=subject:business&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=o_PA9UzDJKYC&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Fast_Track_to_Profit.html?hl=&id=o_PA9UzDJKYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=o_PA9UzDJKYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RSaBtVwPWTUC",
+   "etag": "uZ0iiWCxR4c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RSaBtVwPWTUC",
+   "volumeInfo": {
+    "title": "Verbriefungstransaktionen deutscher Kreditinstitute",
+    "subtitle": "eine Analyse alternativer Strukturvarianten und deren regulatorischer Erfassung nach Grundsatz I und Basel II",
+    "authors": [
+     "Cordula Emse"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2005-03-15",
+    "description": "Grundlagen der Forderungsverbriefung Konzeptionelle Strukturvarianten von ABS-Transaktionen Regulatorische Eigenkapitalunterlegung von Forderungsportfolios nach Grundsatz I Reformierung der Eigenkapitalunterlegung durch Basel II Erfassung von Forderungsverbriefungen in den aufsichtsrechtlichen Regelwerken Jüngste Entwicklungen",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3409143130"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783409143134"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RSaBtVwPWTUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RSaBtVwPWTUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=RSaBtVwPWTUC&printsec=frontcover&dq=subject:business&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RSaBtVwPWTUC&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Verbriefungstransaktionen_deutscher_Kred.html?hl=&id=RSaBtVwPWTUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RSaBtVwPWTUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UwkLSBqcOJIC",
+   "etag": "+88DLw0VW2s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UwkLSBqcOJIC",
+   "volumeInfo": {
+    "title": "Microsoft Excel Version 2002 Plain & Simple",
+    "authors": [
+     "Curtis Frye"
+    ],
+    "publishedDate": "2001-11-01",
+    "description": "Discusses the tools and techniques used to organize, process, and present data in Excel.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0735614512"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780735614512"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 239,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UwkLSBqcOJIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UwkLSBqcOJIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=UwkLSBqcOJIC&dq=subject:business&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=UwkLSBqcOJIC&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Microsoft_Excel_Version_2002_Plain_Simpl.html?hl=&id=UwkLSBqcOJIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UwkLSBqcOJIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9rLtCAAAQBAJ",
+   "etag": "Qc9uOTASzSc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9rLtCAAAQBAJ",
+   "volumeInfo": {
+    "title": "Analytical Methods in Software Engineering Economics",
+    "authors": [
+     "Thomas R. Gulledge",
+     "William P. Hutzler"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2012-12-06",
+    "description": "This volume presents a selection of the presentations from the first annual conference on Analytical Methods in Software Engineering Economics held at The MITRE Corporation in McLean, Virginia. The papers are representative of the issues that are of interest to researchers in the economics of information systems and software engineering economics. The 1990s are presenting software economists with a particularly difficult set of challenges. Because of budget considerations, the number of large new software development efforts is declining. The primary focus has shifted to issues relating to upgrading and migrating existing systems. In this environment, productivity enhancing methodologies and tools are of primary interest. The MITRE Software Engineering Analysis Conference was designed to address some of th,~ new and difficult challenges that face our profession. The primary objective of the conference was to address new theoretical and applications directions in Software Engineering Economics, a relatively new discipline that deals with the management and control of all segments of the software life-cycle. The discipline has received much visibility in the last twenty-five years because of the size and cost considerations of many software development and maintenance efforts, particularly in the Federal Government. We thank everyone who helped make this conference a success, especially those who graciously allowed us to include their work in this volume.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642777950"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642777953"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 252,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9rLtCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9rLtCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9rLtCAAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9rLtCAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9rLtCAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 129.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 103.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9rLtCAAAQBAJ&rdid=book-9rLtCAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.29E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.032E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.515E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.928E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Analytical_Methods_in_Software_Engineeri-sample-pdf.acsm?id=9rLtCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9rLtCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yLRTDwAAQBAJ",
+   "etag": "rwln4UMf7QI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yLRTDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Influencer Marketing",
+    "subtitle": "Für Unternehmen und Influencer: Strategien, Plattformen, Instrumente, rechtlicher Rahmen. Mit vielen Beispielen",
+    "authors": [
+     "Marlis Jahnke"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2018-05-01",
+    "description": "Dieses Buch erläutert fundiert und pragmatisch alle entscheidenden Erfolgsfaktoren des Influencer Marketings – sowohl für Unternehmen als auch für Influencer.Marketingprofis erfahren, wie sie Influencer Marketing bestmöglich in ihre Kommunikationsstrategie integrieren, wie sie die passenden Influencer finden und nach welchen konkreten Regeln die Zusammenarbeit optimal funktioniert: von der Vertragsgestaltung über das Briefing bis hin zum Monitoring. Zudem werden viele nützliche Plattformen, Netzwerke und Instrumente vorgestellt.Influencer erhalten wertvolle Anregungen, wie sie ihre Karriere weiter professionalisieren können und lernen aus Erfahrungsberichten und Empfehlungen von erfolgreichen Akteuren im Markt.Als wichtiges und erfolgskritisches Thema werden auch die wettbewerbsrechtlichen Grundlagen des Influencer Marketing verständlich und handlungsorientiert dargestellt. Ein unverzichtbares Grundlagenwerk, das zeigt, wie sich das mitunter fragile Zusammenspiel beider Seiten effizient, langfristig und vor allem für alle Seiten gewinnbringend gestalten lässt. Auszug aus dem Inhalt Wie sieht das Marketing im Influencer-Zeitalter aus? Markenstrategischer Fit im Influencer Marketing Wettbewerbsrechtliche Grundlagen von Influencer Marketing Plattformen, Instrumente und Netzwerke im Influencer Marketing Professionalisierung für Influencer über Netzwerke Erfahrungsberichte von Influencern 14 strukturiert aufgearbeitete Fallbeispiele, u.a. aus den Branchen Drogerie, Food, Technik und Medien Die Herausgeberin Marlis Jahnke begleitet die Szene seit vielen Jahren und hat mit HashtagLove eine der ersten und erfolgreichsten Influencer-Marketing-Plattformen in Deutschland gelauncht. Beitragsautoren im Werk sind Professor Regina Brix, Dr. Annette Bruce, Thomas Fuchs, Dr. Caroline Hahn, Fabian Held, Hendrik Martens, Moritz Meyer, André Krüger, Melanie Lammers, Franziska von Lewinski, Monika Sekara und Simon Unge.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783658208547"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3658208546"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yLRTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yLRTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=yLRTDwAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yLRTDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yLRTDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yLRTDwAAQBAJ&rdid=book-yLRTDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.119E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Influencer_Marketing-sample-epub.acsm?id=yLRTDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Influencer_Marketing-sample-pdf.acsm?id=yLRTDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yLRTDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TUCB9orB7zUC",
+   "etag": "XiZUIqhW1Lc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TUCB9orB7zUC",
+   "volumeInfo": {
+    "title": "Advanced Social Media Marketing",
+    "subtitle": "How to Lead, Launch, and Manage a Successful Social Media Program",
+    "authors": [
+     "Tom Funk"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2014-03-01",
+    "description": "Hundreds of millions of Americans are using social media (SM), and already some 70% of businesses have joined them there, using Facebook and other SM platforms to connect with their customers, and attract new ones. So the real question isn’t whether to take your business onto social media platforms—but how to do it quickly, effectively, on a budget, with smart goals, and a road map for success. Advanced Social Media Marketing: How to Lead, Launch, and Manage a Successful Social Media Program cuts through the hype and fluff about how social media is changing the world, and it gets down to what really matters: How you as a manager can best use SM to benefit your business. Written by a veteran online marketer and ecommerce professional, the book shares practical strategies and tactics to let you launch and scale a successful corporate social media program. Advanced Social Media Marketing: How to Lead, Launch, and Manage a Successful Social Media Program is for the manager who already knows something about social media and wants to roll up his or her sleeves and get down to business. In it, we simplify tasks that might otherwise be complicated—like adopting and tracking key performance metrics, developing online ad campaigns, or creating Facebook apps like games, giveaways and sweepstakes with the capacity to go viral. Businesses can harness the unique advantages of this new medium, but they need a practical, no-nonsense guide like this one. Otherwise they risk being ignored, wasting time and money or, even worse, damaging their own brand and seeing a well-intentioned online program blow up. The book is heavy on the how-to, case studies, campaign results and other statistics, and interviews with ecommerce managers at businesses large and small. It also includes the author’s own experiences at Green Mountain Coffee Roasters, Wine of the Month Club, and others. While this book will be accessible enough for someone implementing a social media program for the first time, it’s ambitious enough to benefit experienced SM hands who are looking for good ideas and techniques to push their online community to the next level of size, interactivity, and buzz.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430244080"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1430244089"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.7.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TUCB9orB7zUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TUCB9orB7zUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TUCB9orB7zUC&printsec=frontcover&dq=subject:business&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=TUCB9orB7zUC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TUCB9orB7zUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.24,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=TUCB9orB7zUC&rdid=book-TUCB9orB7zUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.924E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Advanced_Social_Media_Marketing-sample-epub.acsm?id=TUCB9orB7zUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Advanced_Social_Media_Marketing-sample-pdf.acsm?id=TUCB9orB7zUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TUCB9orB7zUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HYAByKlCeYgC",
+   "etag": "gEH4CVkifvc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HYAByKlCeYgC",
+   "volumeInfo": {
+    "title": "Enterprise Architecture at Work",
+    "subtitle": "Modelling, Communication and Analysis",
+    "authors": [
+     "Marc Lankhorst"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2009-07-15",
+    "description": "An enterprise architecture tries to describe and control an organisation’s structure, processes, applications, systems and techniques in an integrated way. The unambiguous specification and description of components and their relationships in such an architecture requires a coherent architecture modelling language. Lankhorst and his co-authors present such an enterprise modelling language that captures the complexity of architectural domains and their relations and allows the construction of integrated enterprise architecture models. They provide architects with concrete instruments that improve their architectural practice. As this is not enough, they additionally present techniques and heuristics for communicating with all relevant stakeholders about these architectures. Since an architecture model is useful not only for providing insight into the current or future situation but can also be used to evaluate the transition from ‘as-is’ to ‘to-be’, the authors also describe analysis methods for assessing both the qualitative impact of changes to an architecture and the quantitative aspects of architectures, such as performance and cost issues. The modelling language presented has been proven in practice in many real-life case studies and has been adopted by The Open Group as an international standard. So this book is an ideal companion for enterprise IT or business architects in industry as well as for computer or management science students studying the field of enterprise architecture.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642013102"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642013104"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HYAByKlCeYgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HYAByKlCeYgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HYAByKlCeYgC&printsec=frontcover&dq=subject:business&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HYAByKlCeYgC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HYAByKlCeYgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 64.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 51.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HYAByKlCeYgC&rdid=book-HYAByKlCeYgC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.199E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 2.275E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.979E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Enterprise_Architecture_at_Work-sample-epub.acsm?id=HYAByKlCeYgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Enterprise_Architecture_at_Work-sample-pdf.acsm?id=HYAByKlCeYgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HYAByKlCeYgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MFshBAAAQBAJ",
+   "etag": "+/WsiEsG+Rk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MFshBAAAQBAJ",
+   "volumeInfo": {
+    "title": "eBusiness & eCommerce",
+    "subtitle": "Management der digitalen Wertschöpfungskette",
+    "authors": [
+     "Andreas Meier",
+     "Henrik Stormer"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2005-12-06",
+    "description": "Wie eBusiness und eCommerce realisiert werden, zeigt dieses Fachbuch anhand einer durchgehenden Fallstudie. Schritt für Schritt wird ein Internetshop für DVDs aufgebaut. Weitere Beispiele zeigen wie die Wertschöpfungskette via Web funktioniert und gemanagt wird: Produkt, Dienstleistung, Buchhaltung, Marketing, Vertrag, Vertrieb und Bezahlverfahren. Für Studierende, die es wissen wollen.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540280514"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3540280510"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.6.4.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MFshBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MFshBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=MFshBAAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MFshBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MFshBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MFshBAAAQBAJ&rdid=book-MFshBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.619E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/eBusiness_eCommerce-sample-pdf.acsm?id=MFshBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MFshBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VkaMDwAAQBAJ",
+   "etag": "PyShRcG+Na0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VkaMDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Grundeinkommen und Menschenwürde",
+    "subtitle": "Ein Weckruf für mehr Selbstbestimmung, Solidarität und Plutokratieabwehr",
+    "authors": [
+     "Brüne Schloen"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2019-03-07",
+    "description": "Im Zeichen fortschreitender Digitalisierung leidet unsere Gesellschaft unter einem anhaltenden Reformattentismus. Nebst sozialpolitisch wirksamen Abfederungen von Digitalisierungsfolgen unterbleibt die überfällige Abschaffung des diskreditierenden Hartz-IV-Systems samt Durchsetzung einer konzentrationseinhegenden Erbschaftsbesteuerung. Auch dadurch fühlen sich immer mehr Bürger zunehmend den für sie unberechenbaren Beschäftigungsrisiken hilflos ausgeliefert. All dies produziert Zukunftsängste, die vermehrt als offene Aggressionen gegen staatliche Repräsentanten und allem Fremdartigen in Erscheinung treten. Das vorliegende Buch zeigt dafür Problemlösungen auf. Diese sollen Zukunftsängste verringern und Chancen für eine emanzipatorische Neugestaltung unserer Arbeitsverhältnisse eröffnen. Kern solcher Problemlösungen ist eine ganzheitliche Reformarchitektur für ein bedingungsloses Grundeinkommen mit einem verteilungsgerechten Steuersystem. Es wird nachgewiesen, dass ein substanzielles, bedingungsloses Grundeinkommen mittels einer solidaritätskonformen Steuerreform solide finanzierbar ist. Selbstbestimmte Arbeit und menschenwürdige Zukunftsverhältnisse sind danach durchaus erreichbar. Eine Mehrheit unserer Mitbürger wie auch der Parlamentarier muss dies allerdings in einem absehbaren Zeitrahmen auch entschlossen auf den Weg bringen helfen.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783658242626"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3658242620"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 82,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VkaMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VkaMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=VkaMDwAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=11&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VkaMDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VkaMDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VkaMDwAAQBAJ&rdid=book-VkaMDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.619E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Grundeinkommen_und_Menschenw%C3%BCrde-sample-epub.acsm?id=VkaMDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Grundeinkommen_und_Menschenw%C3%BCrde-sample-pdf.acsm?id=VkaMDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VkaMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tcK9BwAAQBAJ",
+   "etag": "sWSc929N5+E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tcK9BwAAQBAJ",
+   "volumeInfo": {
+    "title": "Die Besten für den Vertrieb",
+    "subtitle": "So nutzen Sie erfolgreiche Sales-Strategien zur Rekrutierung von Top-Mitarbeitern",
+    "authors": [
+     "Nilgün Aygen"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2015-03-31",
+    "description": "Effizientes Recruiting von engagierten und umsatzstarken Vertriebsmitarbeitern ist erfolgsentscheidend, wenn Unternehmen nachhaltig die Spitze in ihrem Marktsegment erreichen wollen. Dieses Buch zeigt Ihnen, wie es geht. Nilgün Aygen beschreibt einen verkaufsorientierten Ansatz für Personalrecherche und -Einstellung. Sie zeigt einen der schnellsten und effektivsten Wege, um die Verkaufsleistung erheblich zu erhöhen, Fehlbesetzungen zu vermeiden und damit den Unternehmenserfolg grundlegend zu steigern. Dieses Verfahren – von der Stellenbeschreibung über die Bewerberauswahl bis hin zum Onboarding – wird an konkreten Beispielen, Musterdialogen und Gesprächsleitfäden veranschaulicht und praktisch umsetzbar. Ein unverzichtbarer Leitfaden für Führungskräfte im Vertrieb, Geschäftsführer, Human Resources Manager, Personal- und Unternehmensberater, die mit kreativem Personalmarketing die Zahl der qualifizierten Kandidaten erhöhen wollen – um die Besten zu gewinnen.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783658043971"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3658043970"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 186,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tcK9BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tcK9BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=tcK9BwAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=12&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tcK9BwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tcK9BwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tcK9BwAAQBAJ&rdid=book-tcK9BwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.119E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Die_Besten_f%C3%BCr_den_Vertrieb-sample-epub.acsm?id=tcK9BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Die_Besten_f%C3%BCr_den_Vertrieb-sample-pdf.acsm?id=tcK9BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tcK9BwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "y3eUDwAAQBAJ",
+   "etag": "eIpJCSBEFC8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/y3eUDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Social Innovation and Social Entrepreneurship",
+    "subtitle": "Fundamentals, Concepts, and Tools",
+    "authors": [
+     "Luis Portales"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2019-04-23",
+    "description": "Social entrepreneurship and social innovation both seek to improve the world through social change. Whereas social entrepreneurship revolves around the business side of change, social innovation focuses on the processes through which that change is generated. This textbook provides a comprehensive analysis of both topics, covering all the characteristics and elements of social innovation and social entrepreneurship, from a conceptual and practical perspective. The book has four sections: 1) Basics and concepts of Social Innovation and Social Entrepreneurship; 2) Business models and generation of value in social enterprises; 3) Social innovation within traditional companies, and 4) Definition and alignment of the impact of social innovation and entrepreneurship. Students and any practitioners that want to know about social innovation or social entrepreneurship will be exposed to contemporary topics in the field as well as a variety of cases and tools for its development. With its learning objectives, reflective questions, the definition of key concepts, and exercises, this book is the definitive text for advanced undergraduate and graduate courses in social innovation and social entrepreneurship.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783030134563"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3030134563"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=y3eUDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=y3eUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=y3eUDwAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=13&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=y3eUDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=y3eUDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 74.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 59.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=y3eUDwAAQBAJ&rdid=book-y3eUDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.999E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Social_Innovation_and_Social_Entrepreneu-sample-epub.acsm?id=y3eUDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Social_Innovation_and_Social_Entrepreneu-sample-pdf.acsm?id=y3eUDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=y3eUDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yaXXAezeN_IC",
+   "etag": "KtL8i+5JKNU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yaXXAezeN_IC",
+   "volumeInfo": {
+    "title": "Cross-Cultural Knowledge Management",
+    "subtitle": "Fostering Innovation and Collaboration Inside the Multicultural Enterprise",
+    "authors": [
+     "Manlio Del Giudice",
+     "Elias G. Carayannis",
+     "Maria Rosaria Della Peruta"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2011-12-15",
+    "description": "Cross-cultural knowledge management, an elusive yet consequential phenomenon, is becoming an increasingly essential factor in organizational practice and policy in the era of globalization. In order to overcome culturally shaped blind spots in conducting research in different settings, this volume highlights how the structuring of roles, interests, and power among different organizational elements, such as teams, departments, and management hierarchies (each comprised of members from different intellectual and professional backgrounds), generates various paradoxes and tensions that bring into play a set of dynamics that have an impact on learning processes. In this context, such questions often arise: How is knowledge shared in the multicultural organization? What problems and issues emerge? How do different mentalities affect people’s responses to new knowledge and new ideas? How can knowledge-sharing processes be improved? Under which conditions do ideas generated by units or groups of different cultural traditions have a chance of being heard and implemented? Such questions translate into an investigation of potential managerial dilemmas that occur when different but equally valid choices create tensions in decision making. The authors draw from experiences working with a wide variety of organizations, and insights from such fields as sociology and psychology, to shed new light on the dynamics of knowledge management in the multicultural enterprise. In so doing, they help to identify both obstacles to successful communication and opportunities to inspire creativity and foster collaboration. The authors note that in order to enable organizations to transfer knowledge effectively, mechanisms for dispute settlement, mediation of cultural conflict, and enforcing agreements need to be in place.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781461420897"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "146142089X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 166,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yaXXAezeN_IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yaXXAezeN_IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=yaXXAezeN_IC&printsec=frontcover&dq=subject:business&hl=&cd=14&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yaXXAezeN_IC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yaXXAezeN_IC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 129.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 103.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yaXXAezeN_IC&rdid=book-yaXXAezeN_IC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.29E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.032E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.515E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.928E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cross_Cultural_Knowledge_Management-sample-epub.acsm?id=yaXXAezeN_IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cross_Cultural_Knowledge_Management-sample-pdf.acsm?id=yaXXAezeN_IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yaXXAezeN_IC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "I8PmCwAAQBAJ",
+   "etag": "vhDYg+Akiwc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I8PmCwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Blessings of Business",
+    "subtitle": "How Corporations Shaped Conservative Christianity",
+    "authors": [
+     "Darren E. Grem"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2016-06-01",
+    "description": "The Book of Matthew cautions readers that \"Ye cannot serve God and mammon.\" But for at least a century conservative American Protestants have been trying to prove that adage wrong. In The Blessings of Business, Darren E. Grem argues that while preachers, activists, and politicians have all helped spread the gospel, American evangelicalism owes its enduring strength in a large part to private enterprise. Grem argues for a new history of American evangelicalism, demonstrating how its adherents strategically used corporate America--its leaders, businesses, money, ideas, and values--to advance their religious, cultural, and political movement. Beginning before the First World War, conservative evangelicals were able to use businessmen and business methods to retain and expand their public influence in a secularizing, diversifying, and liberalizing age. In the process they became beholden to pro-business stances on matters of theology, race, gender, taxation, trade, and the state, transforming evangelicalism itself into as much of an economic movement as a religious one. The Blessings of Business tells the story of unlikely partnerships between well-known champions of the evangelical movement such as Billy Graham and largely forgotten businessmen like Herbert Taylor, J. Howard Pew, and R.G. LeTourneau. Grem also shows how evangelicals set up their own pro-business organizations and linked the quarterly and yearly growth of \"Christian\" businesses to their social, religious, and political aspirations. Fascinating and provocative, The Blessings of Business uncovers the strong ties that conservative Christians have forged between the Almighty and the almighty dollar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199927975"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0199927979"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=I8PmCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=I8PmCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=I8PmCwAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=15&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=I8PmCwAAQBAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Blessings_of_Business.html?hl=&id=I8PmCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=I8PmCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3tefDgAAQBAJ",
+   "etag": "bqCKvfaxVUs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3tefDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Environmental Accounting and Reporting",
+    "subtitle": "Theory and Practice",
+    "authors": [
+     "Maria-Gabriella Baldarelli",
+     "Mara Del Baldo",
+     "Ninel Nesheva-Kiosseva"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2017-04-05",
+    "description": "This book discusses the foundations of social and environmental accounting and highlights local differences in countries like Italy and Bulgaria. It also describes the institutional environment, which affects the development and application of environmental accounting and reporting, as a basis for evaluating current achievements and the future steps that need to be taken to develop and spread environmental accounting. The book is unique in presenting exemplary cases from different emerging and developed countries. It is a valuable resource for theorists in the field, practitioners in companies, as well as investors and other stakeholders. Moreover, it provides students with the necessary theoretical constructs, empirical studies as well as practical and managerial tools to allow for a quick orientation in the methodology, techniques and selected practices used in environmental accounting and reporting.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783319509181"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3319509187"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3tefDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3tefDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=3tefDgAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=16&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3tefDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3tefDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 149.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 119.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3tefDgAAQBAJ&rdid=book-3tefDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.192E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 5.215E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.537E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Environmental_Accounting_and_Reporting-sample-epub.acsm?id=3tefDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Environmental_Accounting_and_Reporting-sample-pdf.acsm?id=3tefDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3tefDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XDfP63NCGU0C",
+   "etag": "e3wLxK7rWas",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XDfP63NCGU0C",
+   "volumeInfo": {
+    "title": "Springer Handbook of Engineering Statistics",
+    "authors": [
+     "Hoang Pham"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2006",
+    "description": "In today’s global and highly competitive environment, continuous improvement in the processes and products of any field of engineering is essential for survival. This book gathers together the full range of statistical techniques required by engineers from all fields. It will assist them to gain sensible statistical feedback on how their processes or products are functioning and to give them realistic predictions of how these could be improved. The handbook will be essential reading for all engineers and engineering-connected managers who are serious about keeping their methods and products at the cutting edge of quality and competitiveness.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781852338060"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1852338067"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1120,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.2.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XDfP63NCGU0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XDfP63NCGU0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XDfP63NCGU0C&printsec=frontcover&dq=subject:business&hl=&cd=17&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XDfP63NCGU0C&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Springer_Handbook_of_Engineering_Statist.html?hl=&id=XDfP63NCGU0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Springer_Handbook_of_Engineering_Statist-sample-epub.acsm?id=XDfP63NCGU0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Springer_Handbook_of_Engineering_Statist-sample-pdf.acsm?id=XDfP63NCGU0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XDfP63NCGU0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s8EkBAAAQBAJ",
+   "etag": "wrvP1sgyzQc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s8EkBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Personalmanagement von Millennials",
+    "subtitle": "Konzepte, Instrumente und Best-Practice-Ansätze",
+    "authors": [
+     "Martin Klaffke"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2011-07-26",
+    "description": "Angesichts des demographischen Wandels ist es für die Zukunftssicherung und den Erfolg von Unternehmen unverzichtbar, sich rechtzeitig auf die Anforderungen der nachwachsenden Generation der Millennials einzustellen. Diese Generation, die auch als Generation Y bezeichnet wird, zeichnet sich durch eine Technologie-affine Lebensweise aus und erwartet vom Arbeitgeber Sinnstiftung und Abwechslung im Beruf sowie eine flexible Balance zwischen Arbeit und Freizeit. Studien zufolge ist das betriebliche Personalmanagement derzeit noch kaum an den Bedürfnissen der jungen Arbeitnehmergeneration orientiert. Welche konkreten Handlungsfelder beim Personalmanagement von Millennials bestehen, analysieren Entscheider aus dem Personalbereich namhafter Unternehmen anhand von Fallstudien und Erfahrungen. Zudem werden Konzepte sowie erste Best-Practice-Ansätze für die erfolgreiche Gewinnung und Bindung der jungen Generation aufgezeigt.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783834969644"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3834969648"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 196,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.5.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=s8EkBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=s8EkBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=s8EkBAAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=18&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=s8EkBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s8EkBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=s8EkBAAAQBAJ&rdid=book-s8EkBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.995E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.116E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Personalmanagement_von_Millennials-sample-pdf.acsm?id=s8EkBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=s8EkBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RdAl_1YYXcoC",
+   "etag": "xYRpV1TYuDM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RdAl_1YYXcoC",
+   "volumeInfo": {
+    "title": "The Business Plan",
+    "subtitle": "How to Win Your Investors' Confidence",
+    "authors": [
+     "Gerald Schwetje",
+     "Sam Vaseghi"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2007-08-24",
+    "description": "This book provides the essentials to write a successful business plan. The represented methods and best practices have been approved over many years in practice with many management consulting engagements. The book is beautifully structured, it has a pragmatic emphasis and an autodidactic approach. The reader gets acquainted with the skills and competencies as well as tools, required for the planning and development of the business plan project.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540752677"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3540752676"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 181,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RdAl_1YYXcoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RdAl_1YYXcoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RdAl_1YYXcoC&printsec=frontcover&dq=subject:business&hl=&cd=19&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RdAl_1YYXcoC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RdAl_1YYXcoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 79.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 63.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RdAl_1YYXcoC&rdid=book-RdAl_1YYXcoC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.399E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 2.8E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.436E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Business_Plan-sample-epub.acsm?id=RdAl_1YYXcoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Business_Plan-sample-pdf.acsm?id=RdAl_1YYXcoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RdAl_1YYXcoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ipsunutmPC0C",
+   "etag": "i9DhGuwEvdc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ipsunutmPC0C",
+   "volumeInfo": {
+    "title": "Business Performance Measurement and Management",
+    "subtitle": "New Contexts, Themes and Challenges",
+    "authors": [
+     "Paolo Taticchi"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2010-01-22",
+    "description": "Measuring and managing the performance of a business is one of the most genuine desires of management. Balanced scorecard, the performance prism and activity-based management are the most popular frameworks in this setting. Based on the findings of R.G. Eccles’ acclaimed \"Performance Measurement Manifesto (1991)\" this book introduces new contexts and themes of application and presents emerging research areas related to business performance measurement and management, e.g. SMEs and sustainability. As a result of the 1st International Summer School Piero Lunghi on \"Perspectives of Business Performance Management\" this book is written both for students and academics, as well as for practitioners looking for new, yet proven ways to measure and manage business performance.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3642048005"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642048005"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 376,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.6.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ipsunutmPC0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ipsunutmPC0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ipsunutmPC0C&printsec=frontcover&dq=subject:business&hl=&cd=20&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ipsunutmPC0C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ipsunutmPC0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 219.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 175.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ipsunutmPC0C&rdid=book-ipsunutmPC0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.19E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.752E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 7.665E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.669E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Business_Performance_Measurement_and_Man-sample-epub.acsm?id=ipsunutmPC0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Business_Performance_Measurement_and_Man-sample-pdf.acsm?id=ipsunutmPC0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ipsunutmPC0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9yBLDwAAQBAJ",
+   "etag": "7QsMzkYELcw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9yBLDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Startup Cities",
+    "subtitle": "Why Only a Few Cities Dominate the Global Startup Scene and What the Rest Should Do About It",
+    "authors": [
+     "Peter S. Cohan"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2018-02-07",
+    "description": "This book offers a comprehensive model for explaining the success and failure of cities in nurturing startups, presents detailed case studies of how participants in that model help or hinder startup activity, and shows how to apply these lessons to boost local startup activity. Startup Cities explains the factors that determine local startup success based on a detailed comparison of regional startup cities—pairing the most successful and less successful cities within regions along with insights and implications from case studies of each of the model’s elements. The book compares local city pairs, highlighting factors that distinguish successful from less successful cities and presents implications for stakeholders that arise from these principles. Peter Cohan is a lecturer of Strategy at Babson College and one of the world’s leading authorities on regional startup ecosystems. Starting in 2012, he created and led Startup Strategy courses that explore four regional startup ecosystems—Hong Kong/Singapore, Israel, Paris, and Spain/Portugal. These courses are based on an original framework for evaluating why a few cities host most startup creation and the rest fail to do so. In running these courses, Peter has built a network of local policymakers, investors, entrepreneurs, and professors from which he draws practical insights for what distinguishes successful Startup Commons from their peers. The book provides vital benefits to these stakeholders. What You’ll Learn Local policymakers will know how to build a local team to set objectives for their local Startup Commons and develop a comprehensive strategy to realize those goals Entrepreneurs will know how to choose where to locate their startups based on factors such as the supply and quality of talent—from chief marketing and technology officers to coders and sales people; quality of life, access to capital, customers, and mentors; and costs such as salary and real estate expense University administrators and faculty will know how to take research out of their labs and house it in companies that can commercialize that research, create academic programs that will encourage more entrepreneurship among their students, and connect with local policymakers and capital providers to spur local startup activity Capital providers will know how to scout out emerging startup cities where they can get access to the best investment opportunities at more favorable valuations and have greater influence on how the local startup scene evolves Who This Book Is For All key startup stakeholders, including local policymakers (mayors, directors of economic development, treasurers, controllers, presidents of regional chamber of commerce), entrepreneurs (CEOs, chief marketing officers, chief financial officers, chief HR officers, chief technology officers), universities (presidents; deans of faculty; provosts; professors of finance, management, and entrepreneurship; directors of international education), and capital providers (venture capital partners and associates, angel investors, bank loan officers, managers of accelerator operations)",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781484233931"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "148423393X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 271,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9yBLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9yBLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9yBLDwAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=21&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9yBLDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9yBLDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9yBLDwAAQBAJ&rdid=book-9yBLDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.619E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Startup_Cities-sample-epub.acsm?id=9yBLDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Startup_Cities-sample-pdf.acsm?id=9yBLDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9yBLDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gjUqDwAAQBAJ",
+   "etag": "zCEIzzXyuAw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gjUqDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Auf den Punkt: Präsentationen pyramidal strukturieren",
+    "subtitle": "Erfolgreicher kommunizieren mit klaren Botschaften und ergebnisorientierter Struktur",
+    "authors": [
+     "Axel Schoof",
+     "Karin Binder"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2017-06-29",
+    "description": "Die Autoren stellen in diesem Buch das Konzept der pyramidalen Kommunikation vor und beschreiben diesen Ansatz anhand klar nachvollziehbarer Vorgehensweisen und anschaulichen Beispielen. Präsentationen müssen das Wesentliche kurz und prägnant auf den Punkt bringen. Vorstände, Vorgesetze oder Kunden haben immer weniger Zeit, langatmige, bis ins letzte Detail aufgedröselte, Präsentationen über sich ergehen zu lassen. Die Realität sieht allerdings häufig anders aus. Ergebnisse und Botschaften werden aus analysierten Details schrittweise hergeleitet und finden sich erst am Ende einer unübersichtlichen „Folienschlacht“. Die pyramidale Kommunikation hingegen arbeitet konsequent mit klaren Botschaften, Top-down-Detaillierung und einer schlüssigen Struktur Das Ergebnis steht am Anfang – untermauert mit inhaltlicher Substanz. Der Empfänger entscheidet dabei selbst, was er vertiefen möchte. Dies fängt mit der Herausarbeitung der wesentlichen Ergebnisse an, geht über die empfängerorientierte Strukturierung der eigenen Argumente bis hin zur eigentlichen Präsentation. Auch der Aufbau dieses Buches spiegelt den pyramidalen Gedanken wider.\u200b",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783658174903"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3658174900"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 390,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gjUqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gjUqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=gjUqDwAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=22&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gjUqDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gjUqDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.24,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gjUqDwAAQBAJ&rdid=book-gjUqDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.924E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Auf_den_Punkt_Pr%C3%A4sentationen_pyramidal-sample-pdf.acsm?id=gjUqDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gjUqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yTnm_D8wsrwC",
+   "etag": "ul/QjTHgEvQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yTnm_D8wsrwC",
+   "volumeInfo": {
+    "title": "The East India Company",
+    "subtitle": "The World's Most Powerful Corporation",
+    "authors": [
+     "Tirthankar Roy"
+    ],
+    "publisher": "Penguin Books India",
+    "publishedDate": "2012-01-01",
+    "description": "The East India Company: The World's Most Powerful Corporation is the story of how a mere trading firm went on to build one of the biggest empires in the world. Tirthankar Roy and Gurcharan Das explore and put together many known and unknown facts about the operations of the East India Company (EIC).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780670085071"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0670085073"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 237,
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yTnm_D8wsrwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yTnm_D8wsrwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=yTnm_D8wsrwC&printsec=frontcover&dq=subject:business&hl=&cd=23&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=yTnm_D8wsrwC&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_East_India_Company.html?hl=&id=yTnm_D8wsrwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yTnm_D8wsrwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZMJADwAAQBAJ",
+   "etag": "TCASb9hUNXU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZMJADwAAQBAJ",
+   "volumeInfo": {
+    "title": "Korean Women in Leadership",
+    "authors": [
+     "Yonjoo Cho",
+     "Gary N. McLean"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2017-11-27",
+    "description": "The book focuses on the historical, political, economic, and cultural elements of Korea and the strong influence these have on women leaders in the nation. It examines challenges and opportunities for women leaders as they try to balance their professional and personal lives. A team of leading experts familiar with the aspirations and frustrations of Korean women offer insight into the coexistence of traditional and modern values. It is an eye-opening look at the convergence and divergence across Korean sectors that international leadership researchers, students, and managers need to know in order to realize and appreciate the potential of Korean women leaders.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783319642710"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3319642715"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 297,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZMJADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZMJADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZMJADwAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=24&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZMJADwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZMJADwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 159.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 127.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZMJADwAAQBAJ&rdid=book-ZMJADwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.59E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.272E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 5.565E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.842E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Korean_Women_in_Leadership-sample-epub.acsm?id=ZMJADwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Korean_Women_in_Leadership-sample-pdf.acsm?id=ZMJADwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZMJADwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "d58QAwAAQBAJ",
+   "etag": "z+/gpngVUfE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d58QAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Disaster Recovery, Crisis Response, and Business Continuity",
+    "subtitle": "A Management Desk Reference",
+    "authors": [
+     "Jamie Watters",
+     "Janet Watters"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2014-02-28",
+    "description": "You're in charge of IT, facilities, or core operations for your organization when a hurricane or a fast-moving wildfire hits. What do you do? Simple. You follow your business continuity/disaster recovery plan. If you've prepared in advance, your operation or your company can continue to conduct business while competitors stumble and fall. Even if your building goes up in smoke, or the power is out for ten days, or cyber warriors cripple your IT systems, you know you will survive. But only if you have a plan. You don't have one? Then Disaster Recovery, Crisis Response, and Business Continuity: A Management Desk Reference, which explains the principles of business continuity and disaster recovery in plain English, might be the most important book you'll read in years. Business continuity is a necessity for all businesses as emerging regulations, best practices, and customer expectations force organizations to develop and put into place business continuity plans, resilience features, incident-management processes, and recovery strategies. In larger organizations, responsibility for business continuity falls to specialist practitioners dedicated to continuity and the related disciplines of crisis management and IT service continuity. In smaller or less mature organizations, it can fall to almost anyone to prepare contingency plans, ensure that the critical infrastructure and systems are protected, and give the organization the greatest chance to survive events that can--and do--bankrupt businesses. A practical how-to guide, this book explains exactly what you need to do to set up and run a successful business continuity program. Written by an experienced consultant with 25 years industry experience in disaster recovery and business continuity, it contains tools and techniques to make business continuity, crisis management, and IT service continuity much easier. If you need to prepare plans and test and maintain them, then this book is written for you. You will learn: How to complete a business impact assessment. How to write plans that are easy to implement in a disaster. How to test so that you know your plans will work. How to make sure that your suppliers won't fail you in a disaster. How to meet customer, audit, and regulatory expectations. Disaster Recovery, Crisis Response, and Business Continuity: A Management Desk Reference will provide the tools, techniques, and templates that will make your life easier, give you peace of mind, and turn you into a local hero when disaster strikes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430264071"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1430264071"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 316,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=d58QAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=d58QAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=d58QAwAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=25&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=d58QAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=d58QAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=d58QAwAAQBAJ&rdid=book-d58QAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.172E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Disaster_Recovery_Crisis_Response_and_Bu-sample-epub.acsm?id=d58QAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Disaster_Recovery_Crisis_Response_and_Bu-sample-pdf.acsm?id=d58QAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=d58QAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0pCyDwAAQBAJ",
+   "etag": "8oamRd2aThU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0pCyDwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Art of Agile Product Ownership",
+    "subtitle": "A Guide for Product Managers, Business Analysts, and Entrepreneurs",
+    "authors": [
+     "Allan Kelly"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2019-09-27",
+    "description": "Every product owner faces a complex and unique set of challenges within their team. This provides each individual the opportunity to fill the role with different ambitions, skills, and insights. Your product ownership journey can take a variety of paths, and The Art of Agile Product Ownership is here to be your guide. Author Allan Kelly, who delivers Agile training courses to major companies, pulls from his experience to help you discover what it takes to be a successful product owner. You will learn how you need to define your role within a team and how you can best incorporate ownership with strategy. With the Agile method, time is the key factor, and after using the lessons from this book you will confidently be able to synthesize features, functionality, and scope against delivery. You will find out how other team members such as the UX designer and business analyst can support and enhance your role as product owner, and how every type of company structure can adapt for optimal agility. The Art of Agile Product Ownership is a beacon for current product owners, programmers who are ready to take the next step towards ownership, and analysts transitioning into the product space. This book helps you determine for yourself the best way to fill the product owner role so that you utilize your unique combination of skills. Product ownership is central to a successful Agile team, and after reading this book, you will be more than ready for the challenge. What You Will Learn Explores activities the product owner needs to do in order to write good and valuable user stories Identifies skills product owners can learn from product managers and business analysts Demonstrates how to make decisions based on business and customer demand rather than technical needs and feasibility Who This Book Is ForThis is a book for anyone becoming a product owner: developers and programmers, who, after some years at the code-face, are ready to step up to the next stage to own the product that they have been coding. Business Analysts and Product Managers who see themselves transitioning into the a product owner role will find value in this book in understanding their new role and how the work is the same and how it is different",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781484251683"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1484251687"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 166,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0pCyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0pCyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0pCyDwAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=26&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0pCyDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0pCyDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0pCyDwAAQBAJ&rdid=book-0pCyDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.619E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Art_of_Agile_Product_Ownership-sample-epub.acsm?id=0pCyDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Art_of_Agile_Product_Ownership-sample-pdf.acsm?id=0pCyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0pCyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zta0qWS_W98C",
+   "etag": "/UvWfAQtDfE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zta0qWS_W98C",
+   "volumeInfo": {
+    "title": "Decision Making Under Uncertainty in Electricity Markets",
+    "authors": [
+     "Antonio J. Conejo",
+     "Miguel Carrión",
+     "Juan M. Morales"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2010-09-08",
+    "description": "Decision Making Under Uncertainty in Electricity Markets provides models and procedures to be used by electricity market agents to make informed decisions under uncertainty. These procedures rely on well established stochastic programming models, which make them efficient and robust. Particularly, these techniques allow electricity producers to derive offering strategies for the pool and contracting decisions in the futures market. Retailers use these techniques to derive selling prices to clients and energy procurement strategies through the pool, the futures market and bilateral contracting. Using the proposed models, consumers can derive the best energy procurement strategies using the available trading floors. The market operator can use the techniques proposed in this book to clear simultaneously energy and reserve markets promoting efficiency and equity. The techniques described in this book are of interest for professionals working on energy markets, and for graduate students in power engineering, applied mathematics, applied economics, and operations research.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1441974210"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781441974211"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 542,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.5.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zta0qWS_W98C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zta0qWS_W98C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zta0qWS_W98C&printsec=frontcover&dq=subject:business&hl=&cd=27&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zta0qWS_W98C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zta0qWS_W98C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 339.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 271.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zta0qWS_W98C&rdid=book-zta0qWS_W98C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.39E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.712E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 1.1865E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.0323E8,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Decision_Making_Under_Uncertainty_in_Ele-sample-pdf.acsm?id=zta0qWS_W98C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zta0qWS_W98C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JdzM7o_ay2EC",
+   "etag": "t/GDKis80eo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JdzM7o_ay2EC",
+   "volumeInfo": {
+    "title": "Handbuch Technologie- und Innovationsmanagement",
+    "subtitle": "Strategie - Umsetzung - Controlling",
+    "authors": [
+     "Sönke Albers",
+     "Oliver Gassmann"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2005-09-14",
+    "description": "Die Autoren dokumentieren auf einer breiten, interdisziplinären Basis den derzeitigen Erkenntnisstand aus der Sicht unterschiedlicher Wissenschaften und stellen darüber hinaus die zukünftigen Hauptentwicklungsrichtungen im Technologie- und Innovationsmanagement vor. In Unternehmensbeispielen werden aktuelle Themen aufgegriffen und deren Umsetzung in die Praxis beschrieben. \"Das Werk besticht durch die Zusammenführung der Forschungsergebnisse der renommiertesten Wissenschaftler im deutschsprachigen Raum und schließt somit eine Lücke in der akademischen Fachliteratur.\" ZfCI - Zeitschrift für Controlling und Innovationsmanagement",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3409126716"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783409126717"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 849,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JdzM7o_ay2EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JdzM7o_ay2EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=JdzM7o_ay2EC&printsec=frontcover&dq=subject:business&hl=&cd=28&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=JdzM7o_ay2EC&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Handbuch_Technologie_und_Innovationsmana.html?hl=&id=JdzM7o_ay2EC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JdzM7o_ay2EC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Rr8oVlXqh8kC",
+   "etag": "rIJIUgxP7iE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Rr8oVlXqh8kC",
+   "volumeInfo": {
+    "title": "Gesundheitsökonomik",
+    "authors": [
+     "Friedrich Breyer",
+     "Peter Zweifel",
+     "Mathias Kifmann"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2012-11-14",
+    "description": "Jenseits von Verbands- und Parteiinteressen erläutern die Autoren in dem Band Einsichten und Hintergründe u. a. zur Ausgabendynamik im Gesundheitswesen, zur Rolle von Ärzten und zu Ineffizienzen in Krankenhäusern. Die Themen werden stringent mithilfe mikroökonomischer Methoden analysiert, ohne dabei ethische Gesichtspunkte außer Acht zu lassen. Neue Ergebnisse der empirischen Forschung werden ebenso diskutiert wie aktuelle Reformvorschläge, z. B. die Bürgerversicherung und die Einführung von Pauschalprämien in der Krankenversicherung.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642308949"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642308945"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 640,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Rr8oVlXqh8kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Rr8oVlXqh8kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=Rr8oVlXqh8kC&printsec=frontcover&dq=subject:business&hl=&cd=29&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Rr8oVlXqh8kC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Rr8oVlXqh8kC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Rr8oVlXqh8kC&rdid=book-Rr8oVlXqh8kC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.995E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.116E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Gesundheits%C3%B6konomik-sample-pdf.acsm?id=Rr8oVlXqh8kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Rr8oVlXqh8kC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5E__DAAAQBAJ",
+   "etag": "7kk00tcT1HQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5E__DAAAQBAJ",
+   "volumeInfo": {
+    "title": "Grüne Markenführung",
+    "subtitle": "Erfolgsfaktoren und Instrumente nachhaltiger Brands",
+    "authors": [
+     "Oliver Errichiello",
+     "Arnd Zschiesche"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2016-09-06",
+    "description": "Das Buch analysiert die Erfolgsfaktoren ökologischer und sozialer Marken und bietet Einblicke in die Strategien moderner Konzerne, Familien- sowie Sozialunternehmen. Welche Besonderheiten kennzeichnen langfristig erfolgreiche „grüne Marken“? Wie lassen sie sich effektiv entwickeln, steuern und kommunizieren? Auf Basis von Betriebswirtschaft, Markensoziologie und Sozialpsychologie beschreiben die Autoren übergreifende Strukturmerkmale und zeigen Lösungen Schritt für Schritt an konkreten Beispielen auf. Erfahrungen beim Aufbau und der europaweiten Durchsetzung der grünen Marke „wooden radio“ bilden die Grundlage für zahlreiche direkt umsetzbare Empfehlungen. Der Leser erhält klare Analyse- und Umsetzungsinstrumente, um schon bestehende nachhaltige Marken im Tagesgeschäft zu verankern und junge Marken planvoll zu entwickeln. Inspirierend für alle, die grüne Marken stark machen wollen.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783658132453"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3658132450"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 173,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5E__DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5E__DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=5E__DAAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=30&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5E__DAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5E__DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5E__DAAAQBAJ&rdid=book-5E__DAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Gr%C3%BCne_Markenf%C3%BChrung-sample-epub.acsm?id=5E__DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Gr%C3%BCne_Markenf%C3%BChrung-sample-pdf.acsm?id=5E__DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5E__DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z4M0DwAAQBAJ",
+   "etag": "bmP+GNcMGFE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z4M0DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Knowledge, Learning and Innovation",
+    "subtitle": "Research Insights on Cross-Sector Collaborations",
+    "authors": [
+     "Vanessa Ratten",
+     "Vitor Braga",
+     "Carla Susana Marques"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2017-09-06",
+    "description": "This book places knowledge, learning and innovation at the heart of cross-sector collaborations. Collaboration for innovation is a topic that has attracted widespread interest from academics, business strategists and government officials. To date the collaborations have focused on the performance management process and more specifically on how to encourage collaboration. However, businesses across the world are realizing that for cross-sector collaboration to be successful, it is necessary for firms to share knowledge and innovation through a process of learning. The book contributes to this by providing fresh insights into ways to stimulate cross-sector collaboration. It presents diverse methods and approaches to unify the dimensions of knowledge, learning and innovation and discusses how collaboration can be created, sustained, and expanded.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783319592824"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3319592823"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=z4M0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=z4M0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=z4M0DwAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=31&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=z4M0DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=z4M0DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 149.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 119.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=z4M0DwAAQBAJ&rdid=book-z4M0DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.192E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 5.215E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.537E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Knowledge_Learning_and_Innovation-sample-epub.acsm?id=z4M0DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Knowledge_Learning_and_Innovation-sample-pdf.acsm?id=z4M0DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=z4M0DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XW0sswC0RzsC",
+   "etag": "UF0YLwKPyW0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XW0sswC0RzsC",
+   "volumeInfo": {
+    "title": "Data Envelopment Analysis",
+    "subtitle": "A Comprehensive Text with Models, Applications, References and DEA-Solver Software",
+    "authors": [
+     "William W. Cooper",
+     "Lawrence M. Seiford",
+     "Kaoru Tone"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2007-01-10",
+    "description": "This volume systematically details both the basic principles and new developments in Data Envelopment Analysis (DEA), offering a solid understanding of the methodology, its uses, and its potential. New material in this edition includes coverage of recent developments that have greatly extended the power and scope of DEA and have lead to new directions for research and DEA uses. Each chapter accompanies its developments with simple numerical examples and discussions of actual applications. The first nine chapters cover the basic principles of DEA, while the final seven chapters provide a more advanced treatment.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387452838"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0387452834"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 492,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XW0sswC0RzsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XW0sswC0RzsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XW0sswC0RzsC&printsec=frontcover&dq=subject:business&hl=&cd=32&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XW0sswC0RzsC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XW0sswC0RzsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 89.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.42,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XW0sswC0RzsC&rdid=book-XW0sswC0RzsC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.9E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.942E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.115E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.71E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Data_Envelopment_Analysis-sample-pdf.acsm?id=XW0sswC0RzsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XW0sswC0RzsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5X69BAAAQBAJ",
+   "etag": "wAZZ9Kqo46E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5X69BAAAQBAJ",
+   "volumeInfo": {
+    "title": "Patient Flow",
+    "subtitle": "Reducing Delay in Healthcare Delivery",
+    "authors": [
+     "Randolph Hall"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2013-12-11",
+    "description": "This book is dedicated to improving healthcare through reducing delays experienced by patients. With an interdisciplinary approach, this new edition, divided into five sections, begins by examining healthcare as an integrated system. Chapter 1 provides a hierarchical model of healthcare, rising from departments, to centers, regions and the “macro system.” A new chapter demonstrates how to use simulation to assess the interaction of system components to achieve performance goals, and Chapter 3 provides hands-on methods for developing process models to identify and remove bottlenecks, and for developing facility plans. Section 2 addresses crowding and the consequences of delay. Two new chapters (4 and 5) focus on delays in emergency departments, and Chapter 6 then examines medical outcomes that result from waits for surgeries. Section 3 concentrates on management of demand. Chapter 7 presents breakthrough strategies that use real-time monitoring systems for continuous improvement. Chapter 8 looks at the patient appointment system, particularly through the approach of advanced access. Chapter 9 concentrates on managing waiting lists for surgeries, and Chapter 10 examines triage outside of emergency departments, with a focus on allied health programs Section 4 offers analytical tools and models to support analysis of patient flows. Chapter 11 offers techniques for scheduling staff to match patterns in patient demand. Chapter 12 surveys the literature on simulation modeling, which is widely used for both healthcare design and process improvement. Chapter 13 is new and demonstrates the use of process mapping to represent a complex regional trauma system. Chapter 14 provides methods for forecasting demand for healthcare on a region-wide basis. Chapter 15 presents queueing theory as a method for modeling waits in healthcare, and Chapter 16 focuses on rapid delivery of medication in the event of a catastrophic event. Section 5 focuses on achieving change. Chapter 17 provides a diagnostic for assessing the state of a hospital and using the state assessment to select improvement strategies. Chapter 18 demonstrates the importance of optimizing care as patients transition from one care setting to the next. Chapter 19 is new and shows how to implement programs that improve patient satisfaction while also improving flow. Chapter 20 illustrates how to evaluate the overall portfolio of patient diagnostic groups to guide system changes, and Chapter 21 provides project management tools to guide the execution of patient flow projects.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781461495123"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1461495121"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 553,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.8.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5X69BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5X69BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5X69BAAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=33&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5X69BAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5X69BAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 209.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 167.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5X69BAAAQBAJ&rdid=book-5X69BAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.672E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 7.315E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.364E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Patient_Flow-sample-epub.acsm?id=5X69BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Patient_Flow-sample-pdf.acsm?id=5X69BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5X69BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CvD9UTbrnSwC",
+   "etag": "GKKjh8bZL7Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CvD9UTbrnSwC",
+   "volumeInfo": {
+    "title": "God at Work",
+    "authors": [
+     "Rich Marshall"
+    ],
+    "publisher": "Destiny Image Publishers",
+    "publishedDate": "2000",
+    "description": "Discover how He wants you to step into a realm of ministry and fulfillment you have never dreamed possible. Learn how your work is the powerful dynamic of God's purposes for your life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780768421019"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0768421012"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.0.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CvD9UTbrnSwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CvD9UTbrnSwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=CvD9UTbrnSwC&printsec=frontcover&dq=subject:business&hl=&cd=34&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CvD9UTbrnSwC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CvD9UTbrnSwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.8,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CvD9UTbrnSwC&rdid=book-CvD9UTbrnSwC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.28E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/God_at_Work-sample-epub.acsm?id=CvD9UTbrnSwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CvD9UTbrnSwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RjS5XTQPnCEC",
+   "etag": "tsVTRTB8fbg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RjS5XTQPnCEC",
+   "volumeInfo": {
+    "title": "Business Environment",
+    "subtitle": "Managing in a Strategic Context",
+    "authors": [
+     "John Kew",
+     "John Stredwick",
+     "Chartered Institute of Personnel and Development"
+    ],
+    "publisher": "CIPD Publishing",
+    "publishedDate": "2005",
+    "description": "The text offers an accessible approach to the subject area with a strong focus on the business, rather than purely an economic context.The style is practical and case study led rather than theoretical and academic. The practical implications of theories will be emphasised and practical examples used.This accessible text gives a good understanding of the business environment, outlining the key environmental influences ? economic, social, legal ? as an aid to developing an appreciation of business strategy at every level. The practical implications of theory are emphasised and supported by examples. The text includes chapter objectives, student activities, end-of-chapter questions, a glossary and lists of further reading, and there is also a tutor support website.The text is designed to cater for all students studying: ? an undergraduate or postgraduate module in the business environment area? the new Managing in a Strategic Business Context module as part of the new CIPD Leadership and Managemen",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1843980797"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781843980797"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 271,
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RjS5XTQPnCEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RjS5XTQPnCEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RjS5XTQPnCEC&printsec=frontcover&dq=subject:business&hl=&cd=35&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RjS5XTQPnCEC&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Business_Environment.html?hl=&id=RjS5XTQPnCEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RjS5XTQPnCEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uFDtBwAAQBAJ",
+   "etag": "5fxcoCMFmEY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uFDtBwAAQBAJ",
+   "volumeInfo": {
+    "title": "Project Scheduling",
+    "subtitle": "Recent Models, Algorithms and Applications",
+    "authors": [
+     "Jan Weglarz"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2012-12-06",
+    "description": "Project scheduling problems are, generally speaking, the problems of allocating scarce resources over time to perform a given set of activities. The resources are nothing other than the arbitrary means which activities complete for. Also the activities can have a variety of interpretations. Thus, project scheduling problems appear in a large spectrum of real-world situations, and, in consequence, they have been intensively studied for almost fourty years. Almost a decade has passed since the multi-author monograph: R. Slowinski, 1. W~glarz (eds. ), Advances in Project Scheduling, Elsevier, 1989, summarizing the state-of-the-art across project scheduling problems, was published. Since then, considerable progress has been made in all directions of modelling and finding solutions to these problems. Thus, the proposal by Professor Frederick S. Hillier to edit a handbook which reports on the recent advances in the field came at an exceptionally good time and motivated me to accept the challenge. Fortunately, almost all leading experts in the field have accepted my invitation and presented their completely new advances often combined with expository surveys. Thanks to them, the handbook stands a good chance of becoming a key reference point on the current state-of-the-art in project scheduling, as well as on new directions in the area. The contents are divided into four parts. The first one, dealing with classical models -exact algorithms, is preceded by a proposition of the classification scheme for scheduling problems.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781461555339"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1461555337"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 535,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uFDtBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uFDtBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=uFDtBwAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=36&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=uFDtBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uFDtBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 139.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 111.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=uFDtBwAAQBAJ&rdid=book-uFDtBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.39E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.865E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.233E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Project_Scheduling-sample-pdf.acsm?id=uFDtBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uFDtBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NpJwCAAAQBAJ",
+   "etag": "csvb70uOMCU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NpJwCAAAQBAJ",
+   "volumeInfo": {
+    "title": "Konsumentenverhalten im Zeitalter der Digitalisierung",
+    "subtitle": "Trends: E-Commerce, M-Commerce und Connected Retail",
+    "authors": [
+     "Anabel Ternès",
+     "Ian Towers",
+     "Marc Jerusel"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2015-04-20",
+    "description": "Anabel Ternès, Ian Towers und Marc Jerusel widmen sich der Frage, welche Konsummuster den Privatkonsum im Deutschland der kommenden zehn Jahren verändern werden. Dabei wird auf bereits absehbare Konsumtrends wie zum Beispiel E- und M-Commerce sowie Connected Retail Bezug genommen. Im Vordergrund stehen die Auswirkungen der Digitalisierung auf den stationären Handel und die Konsumenten. Die AutorInnen stellen u.a. dar, dass eine der zentralen Herausforderungen darin liegen wird, sich der Digitalisierung proaktiv zu stellen, um das Konsumerlebnis der Verbraucher zu verbessern. Doch auch die Grenzen des Onlinehandels werden aufgezeigt.\u200b",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783658094003"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3658094001"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 46,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.4.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NpJwCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NpJwCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=NpJwCAAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=37&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NpJwCAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NpJwCAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NpJwCAAAQBAJ&rdid=book-NpJwCAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.799E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Konsumentenverhalten_im_Zeitalter_der_Di-sample-epub.acsm?id=NpJwCAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Konsumentenverhalten_im_Zeitalter_der_Di-sample-pdf.acsm?id=NpJwCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NpJwCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XttECgAAQBAJ",
+   "etag": "OlWOSrFqtsM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XttECgAAQBAJ",
+   "volumeInfo": {
+    "title": "Enterprise as an Instrument of Civilization",
+    "subtitle": "An Anthropological Approach to Business Administration",
+    "authors": [
+     "Hirochika Nakamaki",
+     "Koichiro Hioki",
+     "Izumi Mitsui",
+     "Yoshiyuki Takeuchi"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2015-07-25",
+    "description": "In this book, the functions and dynamics of enterprises are explained with the use of anthropological methods. The chapters are based on anthropological research that has continued mainly as an inter-university research project, which is named Keiei Jinruigaku, of the National Museum of Ethnology (Japan) since 1993. These studies have a twofold aim: to clarify that enterprises are not only actors in economic activity but also actors that create culture and civilization; and to find the raison d'être of enterprises in a global society. Business anthropology is an approach to the investigation of various phenomena in enterprises and management using anthropological methodology (e.g., participant observations and interviews). Historically, its origin goes back to the 1920s–30s. In the Hawthorne experiments, the research group organized by Elton Mayo recruited an anthropologist, Lloyd W. Warner, and conducted research on human relations in the workplace by observation of participants. Since then, similar studies have been carried out in the United States and the United Kingdom. In Japan, however, such research is quite rare. Now, in addition to anthropological methods, the authors have employed multidisciplinary methods drawn from management, economics, and sociology. The research contained here can be characterized in these ways: (1) Research methods adopt interpretative approaches such as hermeneutic and/or narrative approaches rather than causal and functional explanations such as “cause–consequence” relationships. (2) Multidisciplinary approaches including qualitative research techniques are employed to investigate the total entity of enterprises, with their own cosmology. In this book, the totality of activities by enterprises are shown, including the relationship between religion and enterprise, corporate funerals, corporate museums, and the sacred space and/or mythology of enterprises. Part I provides introductions to Keiei Jinruigaku and Part II explains the theoretical characteristics of Keiei Jinruigaku. In addition, research topics and cases of Keiei Jinruigaku are presented in Part III.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9784431549161"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "4431549161"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XttECgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XttECgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XttECgAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=38&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XttECgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XttECgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 119.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 95.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XttECgAAQBAJ&rdid=book-XttECgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.19E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.52E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.165E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.624E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Enterprise_as_an_Instrument_of_Civilizat-sample-epub.acsm?id=XttECgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Enterprise_as_an_Instrument_of_Civilizat-sample-pdf.acsm?id=XttECgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XttECgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zVEpBAAAQBAJ",
+   "etag": "YFjf+uhBnzo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zVEpBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Führung auf Distanz",
+    "subtitle": "Mit virtuellen Teams zum Erfolg",
+    "authors": [
+     "Dorothea Herrmann",
+     "Knut Hüneke",
+     "Andrea Rohrberg"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2012-02-15",
+    "description": "Wie schafft man es, trotz räumlicher Trennung vertrauensvoll und zielorientiert zusammenzuarbeiten? Das erfahrene Autorenteam schärft den Blick für die Besonderheiten der virtuellen Arbeitsbedingungen und vermittelt Führungskräften praktisches, erfahrungsgestütztes Handwerkszeug für die Teamleitung auf Distanz.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783834937117"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3834937118"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zVEpBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zVEpBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=zVEpBAAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=39&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zVEpBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zVEpBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 39.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zVEpBAAAQBAJ&rdid=book-zVEpBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.949E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/F%C3%BChrung_auf_Distanz-sample-pdf.acsm?id=zVEpBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zVEpBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8nRXCLj9HPsC",
+   "etag": "N+4uNsTni5k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8nRXCLj9HPsC",
+   "volumeInfo": {
+    "title": "Innovationen im Handel",
+    "subtitle": "Verpassen wir die Megatrends der Zukunft?",
+    "authors": [
+     "Wolfgang Lux"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2012-05-23",
+    "description": "In dem Buch legt der Autor dar, wie sich der Handel durch neue Entwicklungen wie Nachhaltigkeit, demographischer Wandel, mobiles Internet, soziale Netze u. ä. verändern wird. Ist der Handel in Deutschland dafür gewappnet? Praxisnah und allgemeinverständlich geschrieben, zeigt das erste Buch zum Innovationsstau im deutschen Handel, welche Voraussetzungen zu schaffen sind. Der Band basiert u. a. auf Interviews mit Vorständen und Geschäftsführern der deutschen Handels- und IT-Branche, die ein klares Bild der Branche und ihrer Zukunft zeichnen.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642281211"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642281214"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 425,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8nRXCLj9HPsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8nRXCLj9HPsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=8nRXCLj9HPsC&printsec=frontcover&dq=subject:business&hl=&cd=40&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8nRXCLj9HPsC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8nRXCLj9HPsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 39.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8nRXCLj9HPsC&rdid=book-8nRXCLj9HPsC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.949E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Innovationen_im_Handel-sample-epub.acsm?id=8nRXCLj9HPsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Innovationen_im_Handel-sample-pdf.acsm?id=8nRXCLj9HPsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8nRXCLj9HPsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

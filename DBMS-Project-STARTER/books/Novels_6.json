@@ -1,0 +1,2406 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 376,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "20vKAAAACAAJ",
+   "etag": "1IXmAanTJTM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/20vKAAAACAAJ",
+   "volumeInfo": {
+    "title": "Sunshine",
+    "subtitle": "A Novel",
+    "authors": [
+     "Norma Klein"
+    ],
+    "publishedDate": "1982",
+    "description": "This is the moving account of a gallant woman who died of cancer at age 20.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0380000490"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780380000494"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=20vKAAAACAAJ&dq=subject:Novels&hl=&cd=241&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=20vKAAAACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sunshine.html?hl=&id=20vKAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=20vKAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zMEGtAEACAAJ",
+   "etag": "PBTZhZPv2SM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zMEGtAEACAAJ",
+   "volumeInfo": {
+    "title": "Across the Gulf",
+    "authors": [
+     "Dul Johnson"
+    ],
+    "publishedDate": "2017",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9785379957"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789785379952"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zMEGtAEACAAJ&dq=subject:Novels&hl=&cd=242&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=zMEGtAEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Across_the_Gulf.html?hl=&id=zMEGtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zMEGtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TXG_MgEACAAJ",
+   "etag": "20HbRvV+cjM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TXG_MgEACAAJ",
+   "volumeInfo": {
+    "title": "The stone hills of Maragoli",
+    "authors": [
+     "Stanley Gazemba"
+    ],
+    "publishedDate": "2010",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9966739270"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789966739278"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 263,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TXG_MgEACAAJ&dq=subject:Novels&hl=&cd=243&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=TXG_MgEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_stone_hills_of_Maragoli.html?hl=&id=TXG_MgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TXG_MgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t8qiuAAACAAJ",
+   "etag": "I7E4R9p2bg8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t8qiuAAACAAJ",
+   "volumeInfo": {
+    "title": "Pitifully Ugly",
+    "authors": [
+     "Robin Alexander"
+    ],
+    "publishedDate": "2010-12-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "193521621X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781935216216"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 219,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=t8qiuAAACAAJ&dq=subject:Novels&hl=&cd=244&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=t8qiuAAACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pitifully_Ugly.html?hl=&id=t8qiuAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=t8qiuAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GeGqAQAACAAJ",
+   "etag": "ap+elvX5oWE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GeGqAQAACAAJ",
+   "volumeInfo": {
+    "title": "Zandile the Resolute",
+    "authors": [
+     "Dudu Busani-Dube"
+    ],
+    "publishedDate": "2015",
+    "description": "Zandile the resolute continues the story of the eight Zulu brothers. Rich, handsome, powerful, dangerous and the wealthiest and most powerful families in Johannesburg, Zandile is the wife of the first brother Nkosana, their love story is like a South African township Romeo and Juliet, their families hate each other but their love is so strong, it endures all the hatred, the deaths and even prison time.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0620667540"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780620667548"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Man-woman relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=GeGqAQAACAAJ&dq=subject:Novels&hl=&cd=245&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=GeGqAQAACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Zandile_the_Resolute.html?hl=&id=GeGqAQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GeGqAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7U_HtAEACAAJ",
+   "etag": "n6ry3nP1Yms",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7U_HtAEACAAJ",
+   "volumeInfo": {
+    "title": "Temangwane",
+    "subtitle": "A Novel",
+    "authors": [
+     "Kenneth Rowley"
+    ],
+    "publishedDate": "2016",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0797804161"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780797804166"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 172,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7U_HtAEACAAJ&dq=subject:Novels&hl=&cd=246&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=7U_HtAEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Temangwane.html?hl=&id=7U_HtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7U_HtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K06woQEACAAJ",
+   "etag": "z/MIYFDpB8U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K06woQEACAAJ",
+   "volumeInfo": {
+    "title": "Phía sau mỗi người",
+    "subtitle": "tiểu thuyết",
+    "authors": [
+     "Lorenzo Angeloni"
+    ],
+    "publishedDate": "2014",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "6041051144"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9786041051140"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Italian fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "vi",
+    "previewLink": "http://books.google.com/books?id=K06woQEACAAJ&dq=subject:Novels&hl=&cd=247&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=K06woQEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ph%C3%ADa_sau_m%E1%BB%97i_ng%C6%B0%E1%BB%9Di.html?hl=&id=K06woQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=K06woQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O8hoPgAACAAJ",
+   "etag": "niUbe/Crxtw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O8hoPgAACAAJ",
+   "volumeInfo": {
+    "title": "The Long Goodbye",
+    "authors": [
+     "Raymond Chandler"
+    ],
+    "publisher": "Longman",
+    "publishedDate": "1999",
+    "description": "When Terry Lennox's wife is murdered, his friend, private detective Philip Marlowe, helps him to leave the country. The police arrest Marlowe, but then release him and, strangely, tell him to forget everything. Of course, Marlowe does exactly the opposite.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0582418216"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780582418219"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 86,
+    "printType": "BOOK",
+    "categories": [
+     "Detective and mystery stories"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=O8hoPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=O8hoPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=O8hoPgAACAAJ&dq=subject:Novels&hl=&cd=248&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=O8hoPgAACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Long_Goodbye.html?hl=&id=O8hoPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=O8hoPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tAw-LswPPXwC",
+   "etag": "f/Zgt1WwRzI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tAw-LswPPXwC",
+   "volumeInfo": {
+    "title": "Patience of a Saint",
+    "authors": [
+     "Andrew M. Greeley"
+    ],
+    "publisher": "Grand Central Pub",
+    "publishedDate": "1987",
+    "description": "A brush with death convinces Red Kane, a Chicago newspaper columnist, to investigate the connection between Harv Gunther, a powerful politician, and the recent murder of a teenage girl",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0446346829"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780446346825"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 490,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.10.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tAw-LswPPXwC&dq=subject:Novels&hl=&cd=249&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tAw-LswPPXwC&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Patience_of_a_Saint.html?hl=&id=tAw-LswPPXwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tAw-LswPPXwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yh-GYgEACAAJ",
+   "etag": "7pn32M+SuLA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yh-GYgEACAAJ",
+   "volumeInfo": {
+    "title": "A morte do ouvidor",
+    "subtitle": "romance",
+    "authors": [
+     "Germano Almeida"
+    ],
+    "publishedDate": "2010",
+    "description": "A 28 de Fevereiro de 1764 é preso em Santiago, Cabo Verde, o coronel António de Barros Bezerra de Oliveira, e com ele nove cúmplices, acusados de terem assassinado o ouvidor João Vieira de Andrade. Transportados para Lisboa, são julgados e condenados à morte, e enforcados no Rossio. As cabeças são cortadas e enviadas para Santiago, para serem espetada sem paus e exibidas em público. A Morte do Ouvidor é um romance histórico que se centra neste acontecimento e que o relata em todos os pormenores, dando um quadro muito vivo da vida na colónia de Cabo Verde no tempo do Marquês de Pombal. Germano Almeida é o mais importante escritor cabo-verdiano vivo. Dele a Caminho publicou vários romances.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9722121146"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722121149"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 382,
+    "printType": "BOOK",
+    "categories": [
+     "Literatura cabo-verdiana / Novela / S. XXI."
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com/books?id=yh-GYgEACAAJ&dq=subject:Novels&hl=&cd=250&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=yh-GYgEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_morte_do_ouvidor.html?hl=&id=yh-GYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yh-GYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q-H2ugAACAAJ",
+   "etag": "WemGLYAjAZE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q-H2ugAACAAJ",
+   "volumeInfo": {
+    "title": "A confissão da leoa",
+    "authors": [
+     "Mia Couto"
+    ],
+    "publishedDate": "2012",
+    "description": "Um acontecimento real - as sucessivas mortes de pessoas provocadas por ataques de leoes numa remota regiao do Norte de Moçambique - é pretexto para Mia Couto escrever um surpreendente romance. Nao tanto sobre leoes e caçadas, mas sobre homens e mulheres vivendo em condiçoes extremas. Como afirma um dos personagens, \"aqui nao ha policia, nao ha governo, e mesmo Deus so ha às vezes\". E A Confissao da Leoa, através da versao de Mariamar, habitante da aldeia de Kulumani, e do diario de Gustavo Baleiro, o caçador contratado para matar os leoes - os dois narradores desta historia - vai expondo diante dos nossos olhos como a guerra, a fome, a superstiçao, podem transformar os homens em animais selvagens : \"foi a vida que a desumanizou. Tanto a trataram como um bicho que você se pensou um animal\". Sobre e contra este pano de fundo ergue-se uma extraordinaria figura de mulher - Mariamar. A Confissao da Leoa é bem um romance à altura de Terra Sonâmbula e Jesusalém, ja conhecidos do leitor português.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9722125672"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722125673"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 270,
+    "printType": "BOOK",
+    "categories": [
+     "Mozambican fiction (Portuguese)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com/books?id=q-H2ugAACAAJ&dq=subject:Novels&hl=&cd=251&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=q-H2ugAACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_confiss%C3%A3o_da_leoa.html?hl=&id=q-H2ugAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=q-H2ugAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hmrFoQEACAAJ",
+   "etag": "M9vrndFBiLM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hmrFoQEACAAJ",
+   "volumeInfo": {
+    "title": "Daughters who Walk this Path",
+    "subtitle": "A Novel",
+    "authors": [
+     "Yejide Kilanko"
+    ],
+    "publishedDate": "2014",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9785205851"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789785205855"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 316,
+    "printType": "BOOK",
+    "categories": [
+     "African fiction (English)"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 25,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hmrFoQEACAAJ&dq=subject:Novels&hl=&cd=252&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=hmrFoQEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Daughters_who_Walk_this_Path.html?hl=&id=hmrFoQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hmrFoQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C_hSAQAACAAJ",
+   "etag": "ku4thdJusVs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C_hSAQAACAAJ",
+   "volumeInfo": {
+    "title": "Odufa",
+    "subtitle": "A Lover's Tale : a Novel",
+    "authors": [
+     "Othuke Ominiabohs"
+    ],
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9788851169"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789788851165"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 395,
+    "printType": "BOOK",
+    "categories": [
+     "Man-woman relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=C_hSAQAACAAJ&dq=subject:Novels&hl=&cd=253&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=C_hSAQAACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Odufa.html?hl=&id=C_hSAQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=C_hSAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XIoyNQEACAAJ",
+   "etag": "xcSUVwEKQYk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XIoyNQEACAAJ",
+   "volumeInfo": {
+    "title": "قناصة الملوك أو كيف تصير الفتاة أميرة",
+    "subtitle": "وهي مقتبسة من رواية شكسبير... \"\"MEASURE FOR MEASURE",
+    "publishedDate": "1930",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:745283301"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "ar",
+    "previewLink": "http://books.google.com/books?id=XIoyNQEACAAJ&dq=subject:Novels&hl=&cd=254&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XIoyNQEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%D9%82%D9%86%D8%A7%D8%B5%D8%A9_%D8%A7%D9%84%D9%85%D9%84%D9%88%D9%83_%D8%A3%D9%88_%D9%83%D9%8A%D9%81_%D8%AA%D8%B5.html?hl=&id=XIoyNQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XIoyNQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DktquwEACAAJ",
+   "etag": "x1Vcmz92Mog",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DktquwEACAAJ",
+   "volumeInfo": {
+    "title": "Formas de luz",
+    "subtitle": "(el sentido de la melancolía)",
+    "authors": [
+     "Marco Tulio Aguilera Garramuño"
+    ],
+    "publishedDate": "2018",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "6075026525"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9786075026527"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=DktquwEACAAJ&dq=subject:Novels&hl=&cd=255&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DktquwEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Formas_de_luz.html?hl=&id=DktquwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DktquwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YLBPwgEACAAJ",
+   "etag": "YH/8Vwink4g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YLBPwgEACAAJ",
+   "volumeInfo": {
+    "title": "الارض",
+    "authors": [
+     "الشرقاوي، عبد الرحمن،"
+    ],
+    "publisher": "Kotobarabia.com",
+    "publishedDate": "1984",
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YLBPwgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YLBPwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "ar",
+    "previewLink": "http://books.google.com/books?id=YLBPwgEACAAJ&dq=subject:Novels&hl=&cd=256&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YLBPwgEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%D8%A7%D9%84%D8%A7%D8%B1%D8%B6.html?hl=&id=YLBPwgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YLBPwgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6fHFrQEACAAJ",
+   "etag": "IZq04J4iBic",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6fHFrQEACAAJ",
+   "volumeInfo": {
+    "title": "Whirlwind of Metamorphosis",
+    "subtitle": "Kidnapping, Cultism and Family Tribulations in Nigeria",
+    "authors": [
+     "Vincent Anioke"
+    ],
+    "publishedDate": "2014",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9782114731"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789782114730"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 547,
+    "printType": "BOOK",
+    "categories": [
+     "Families"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6fHFrQEACAAJ&dq=subject:Novels&hl=&cd=257&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=6fHFrQEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Whirlwind_of_Metamorphosis.html?hl=&id=6fHFrQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6fHFrQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CcVAkgAACAAJ",
+   "etag": "sbFGtFuNmQQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CcVAkgAACAAJ",
+   "volumeInfo": {
+    "title": "Rainbow Dreams",
+    "authors": [
+     "Tsandra Mageba Isaacs"
+    ],
+    "publisher": "Longman Zimbabwe",
+    "publishedDate": "2007",
+    "description": "A novel.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1779033397"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781779033390"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 195,
+    "printType": "BOOK",
+    "categories": [
+     "Human trafficking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=CcVAkgAACAAJ&dq=subject:Novels&hl=&cd=258&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=CcVAkgAACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Rainbow_Dreams.html?hl=&id=CcVAkgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CcVAkgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wfT3ygAACAAJ",
+   "etag": "S0aZ+nJjCic",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wfT3ygAACAAJ",
+   "volumeInfo": {
+    "title": "An Arrow from Maraka",
+    "authors": [
+     "Sambalikagwa Mvona"
+    ],
+    "publishedDate": "2011",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:2011348392"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Malawi fiction (English)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wfT3ygAACAAJ&dq=subject:Novels&hl=&cd=259&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=wfT3ygAACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/An_Arrow_from_Maraka.html?hl=&id=wfT3ygAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wfT3ygAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Bv_DxQEACAAJ",
+   "etag": "/EpOf8BI0v4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Bv_DxQEACAAJ",
+   "volumeInfo": {
+    "title": "دمعة يزيد",
+    "publishedDate": "1946",
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Bv_DxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Bv_DxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Bv_DxQEACAAJ&dq=subject:Novels&hl=&cd=260&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Bv_DxQEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%D8%AF%D9%85%D8%B9%D8%A9_%D9%8A%D8%B2%D9%8A%D8%AF.html?hl=&id=Bv_DxQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Bv_DxQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xSkIkAEACAAJ",
+   "etag": "bPxZ3V/L9lw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xSkIkAEACAAJ",
+   "volumeInfo": {
+    "title": "Sin freno por la senda equivocada",
+    "authors": [
+     "Orlando Echeverri Benedetti"
+    ],
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9588911184"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789588911182"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 282,
+    "printType": "BOOK",
+    "categories": [
+     "Cartagena (Colombia)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=xSkIkAEACAAJ&dq=subject:Novels&hl=&cd=261&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xSkIkAEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sin_freno_por_la_senda_equivocada.html?hl=&id=xSkIkAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xSkIkAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o2KooAEACAAJ",
+   "etag": "7sMs4xAX9G0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o2KooAEACAAJ",
+   "volumeInfo": {
+    "title": "Regard sur les œuvres de Alioune Badara Bèye 1974-2009",
+    "subtitle": "(essai, poésie, roman, théatre)",
+    "authors": [
+     "Oumar Sankharé"
+    ],
+    "publishedDate": "2013",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "287774034X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782877740340"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 88,
+    "printType": "BOOK",
+    "categories": [
+     "Authors, Senegalese"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "fr",
+    "previewLink": "http://books.google.com/books?id=o2KooAEACAAJ&dq=subject:Novels&hl=&cd=262&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=o2KooAEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Regard_sur_les_%C5%93uvres_de_Alioune_Badara.html?hl=&id=o2KooAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=o2KooAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9zZaxwEACAAJ",
+   "etag": "ww9wezH+Roo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9zZaxwEACAAJ",
+   "volumeInfo": {
+    "title": "Saint Joan of Arc",
+    "subtitle": "Adventurer Saints by Omer Engelbert",
+    "authors": [
+     "John et al Beevers"
+    ],
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:990666213"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9zZaxwEACAAJ&dq=subject:Novels&hl=&cd=263&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9zZaxwEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Saint_Joan_of_Arc.html?hl=&id=9zZaxwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9zZaxwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Dn9AAAAACAAJ",
+   "etag": "Elq2zzVffio",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Dn9AAAAACAAJ",
+   "volumeInfo": {
+    "title": "The Sky Children",
+    "authors": [
+     "Donald Olson"
+    ],
+    "publishedDate": "1975-11-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0380004275"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780380004270"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Dn9AAAAACAAJ&dq=subject:Novels&hl=&cd=264&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Dn9AAAAACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Sky_Children.html?hl=&id=Dn9AAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Dn9AAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ldvOwQEACAAJ",
+   "etag": "tBSZZytXtt0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ldvOwQEACAAJ",
+   "volumeInfo": {
+    "title": "Idyla",
+    "subtitle": "političko-spoločenská satira",
+    "authors": [
+     "Igor Daniš"
+    ],
+    "publishedDate": "2018",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8056900063"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788056900062"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ldvOwQEACAAJ&dq=subject:Novels&hl=&cd=265&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ldvOwQEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Idyla.html?hl=&id=ldvOwQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ldvOwQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z909QwAACAAJ",
+   "etag": "uyiEf8e6oYk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z909QwAACAAJ",
+   "volumeInfo": {
+    "title": "Inside the Third Reich",
+    "subtitle": "Memoirs by Albert Speer ; Transl. from the German by Richard and Clara Winston ; Introd. by Eugene Davidson",
+    "authors": [
+     "Albert Speer"
+    ],
+    "publishedDate": "1971",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:395774268"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 734,
+    "printType": "BOOK",
+    "categories": [
+     "Germany"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 14,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=z909QwAACAAJ&dq=subject:Novels&hl=&cd=266&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=z909QwAACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Inside_the_Third_Reich.html?hl=&id=z909QwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=z909QwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GPH8vgEACAAJ",
+   "etag": "FCr5jy84neU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GPH8vgEACAAJ",
+   "volumeInfo": {
+    "title": "Ойтамызық",
+    "subtitle": "немесе жол-жөнекей жөн сұрасу",
+    "authors": [
+     "Сейфолла Шайынғазы"
+    ],
+    "publishedDate": "2011",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "601205193X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9786012051933"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 238,
+    "printType": "BOOK",
+    "categories": [
+     "Kazakh fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "kk",
+    "previewLink": "http://books.google.com/books?id=GPH8vgEACAAJ&dq=subject:Novels&hl=&cd=267&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=GPH8vgEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9E%D0%B9%D1%82%D0%B0%D0%BC%D1%8B%D0%B7%D1%8B%D2%9B.html?hl=&id=GPH8vgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GPH8vgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jVu0tAEACAAJ",
+   "etag": "9QIzL8rtleg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jVu0tAEACAAJ",
+   "volumeInfo": {
+    "title": "Otkornuvanja",
+    "authors": [
+     "Mite Šrekovski"
+    ],
+    "publishedDate": "2017",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "6081005712"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9786081005714"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 455,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "ru",
+    "previewLink": "http://books.google.com/books?id=jVu0tAEACAAJ&dq=subject:Novels&hl=&cd=268&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jVu0tAEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Otkornuvanja.html?hl=&id=jVu0tAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jVu0tAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "chJcYgEACAAJ",
+   "etag": "PeeKW9auMh0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/chJcYgEACAAJ",
+   "volumeInfo": {
+    "title": "Bushman Curse",
+    "authors": [
+     "Misho"
+    ],
+    "publishedDate": "2010",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9994571257"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789994571253"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 110,
+    "printType": "BOOK",
+    "categories": [
+     "Namibian fiction (English)."
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=chJcYgEACAAJ&dq=subject:Novels&hl=&cd=269&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=chJcYgEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Bushman_Curse.html?hl=&id=chJcYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=chJcYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iq7JuQEACAAJ",
+   "etag": "qgrY+/sgZEk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iq7JuQEACAAJ",
+   "volumeInfo": {
+    "title": "هند البرمكية",
+    "authors": [
+     "نكد، حارث،"
+    ],
+    "publishedDate": "1936",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:1041875656"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=iq7JuQEACAAJ&dq=subject:Novels&hl=&cd=270&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=iq7JuQEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%D9%87%D9%86%D8%AF_%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D9%83%D9%8A%D8%A9.html?hl=&id=iq7JuQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iq7JuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZrcRuwAACAAJ",
+   "etag": "5mudkb3TPw8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZrcRuwAACAAJ",
+   "volumeInfo": {
+    "title": "Pirate Sealer",
+    "authors": [
+     "Arthur Catherall"
+    ],
+    "publishedDate": "1951",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:75183856"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 188,
+    "printType": "BOOK",
+    "categories": [
+     "Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZrcRuwAACAAJ&dq=subject:Novels&hl=&cd=271&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ZrcRuwAACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pirate_Sealer.html?hl=&id=ZrcRuwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZrcRuwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OSkgkgAACAAJ",
+   "etag": "TQV2hzspmwI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OSkgkgAACAAJ",
+   "volumeInfo": {
+    "title": "Tracking the Scent of My Mother",
+    "subtitle": "A Work of Fiction",
+    "authors": [
+     "Muthoni Garland"
+    ],
+    "publishedDate": "2007",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9966724508"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789966724502"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "Kenya"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OSkgkgAACAAJ&dq=subject:Novels&hl=&cd=272&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OSkgkgAACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Tracking_the_Scent_of_My_Mother.html?hl=&id=OSkgkgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OSkgkgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "72kNxgEACAAJ",
+   "etag": "N3Tw1asCQCw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/72kNxgEACAAJ",
+   "volumeInfo": {
+    "title": "Reader's Digest Condensed Books",
+    "publishedDate": "1956",
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=72kNxgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=72kNxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=72kNxgEACAAJ&dq=subject:Novels&hl=&cd=273&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=72kNxgEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Reader_s_Digest_Condensed_Books.html?hl=&id=72kNxgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=72kNxgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b8M6MwEACAAJ",
+   "etag": "mBV0UCm0RDo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b8M6MwEACAAJ",
+   "volumeInfo": {
+    "title": "Reflets du passé",
+    "subtitle": "roman",
+    "authors": [
+     "Gallas Diop"
+    ],
+    "publishedDate": "2011",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "2363900049"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782363900043"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Senegalese fiction (French)"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=b8M6MwEACAAJ&dq=subject:Novels&hl=&cd=274&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=b8M6MwEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Reflets_du_pass%C3%A9.html?hl=&id=b8M6MwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=b8M6MwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "T7rMuQEACAAJ",
+   "etag": "CVSETIJgX38",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T7rMuQEACAAJ",
+   "volumeInfo": {
+    "title": "السلوان الكاذب",
+    "authors": [
+     "الأيوبي، خير الدين مؤذن،"
+    ],
+    "publishedDate": "1945",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:1041872642"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "ar",
+    "previewLink": "http://books.google.com/books?id=T7rMuQEACAAJ&dq=subject:Novels&hl=&cd=275&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=T7rMuQEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%D8%A7%D9%84%D8%B3%D9%84%D9%88%D8%A7%D9%86_%D8%A7%D9%84%D9%83%D8%A7%D8%B0%D8%A8.html?hl=&id=T7rMuQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=T7rMuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lbVSoAEACAAJ",
+   "etag": "2JDXq0v8WKs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lbVSoAEACAAJ",
+   "volumeInfo": {
+    "title": "Le jardin d'Adalou",
+    "authors": [
+     "Josette Desclercs Abondio"
+    ],
+    "publishedDate": "2012",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9791090625136"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 310,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lbVSoAEACAAJ&dq=subject:Novels&hl=&cd=276&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lbVSoAEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Le_jardin_d_Adalou.html?hl=&id=lbVSoAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lbVSoAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HXMNugEACAAJ",
+   "etag": "xDflQ/H2GAY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HXMNugEACAAJ",
+   "volumeInfo": {
+    "title": "رواية المركيز جان",
+    "authors": [
+     "بورنيه، هنري ده، (الفيكونت،)"
+    ],
+    "publishedDate": "1913",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:1041874304"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 159,
+    "printType": "BOOK",
+    "categories": [
+     "Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "ar",
+    "previewLink": "http://books.google.com/books?id=HXMNugEACAAJ&dq=subject:Novels&hl=&cd=277&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HXMNugEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%D8%B1%D9%88%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B1%D9%83%D9%8A%D8%B2_%D8%AC%D8%A7%D9%86.html?hl=&id=HXMNugEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HXMNugEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mv5exgEACAAJ",
+   "etag": "j5Eu6BCO3lw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mv5exgEACAAJ",
+   "volumeInfo": {
+    "title": "Les Livres roses pour la jeunesse",
+    "publishedDate": "1922",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:851027834"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mv5exgEACAAJ&dq=subject:Novels&hl=&cd=278&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mv5exgEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Les_Livres_roses_pour_la_jeunesse.html?hl=&id=mv5exgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mv5exgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pXTzvQEACAAJ",
+   "etag": "fzMo3haI4SI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pXTzvQEACAAJ",
+   "volumeInfo": {
+    "title": "Courage Wins",
+    "authors": [
+     "Hertha Nekwaya"
+    ],
+    "publishedDate": "2018",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9994587358"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789994587353"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 149,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pXTzvQEACAAJ&dq=subject:Novels&hl=&cd=279&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=pXTzvQEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Courage_Wins.html?hl=&id=pXTzvQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pXTzvQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pNn0xwEACAAJ",
+   "etag": "6TWo0wFnKfo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pNn0xwEACAAJ",
+   "volumeInfo": {
+    "title": "Pokus o lásku",
+    "authors": [
+     "Gustáv Murín"
+    ],
+    "publishedDate": "2017",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8081152644"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788081152641"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pNn0xwEACAAJ&dq=subject:Novels&hl=&cd=280&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=pNn0xwEACAAJ&dq=subject:Novels&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pokus_o_l%C3%A1sku.html?hl=&id=pNn0xwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pNn0xwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

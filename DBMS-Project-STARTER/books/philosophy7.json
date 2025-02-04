@@ -1,0 +1,2821 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 484,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zaPoAQAAQBAJ",
+   "etag": "eVQzG8suAoM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zaPoAQAAQBAJ",
+   "volumeInfo": {
+    "title": "The Myth of Sisyphus",
+    "authors": [
+     "Albert Camus"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2013-10-31",
+    "description": "In this profound and moving philosophical statement, Camus poses the fundamental question: Is life worth living? If human existence holds no significance, what can keep us from suicide? As Camus argues, if there is no God to give meaning to our lives, humans must take on that purpose themselves. This is our 'absurd' task, like Sisyphus forever rolling his rock up a hill, as the inevitability of death constantly overshadows us. Written during the bleakest days of the Second World War, The Myth of Sisyphus argues for an acceptance of reality that encompasses revolt, passion and, above all, liberty. This volume contains several other essays, including lyrical evocations of the sunlit cities of Algiers and Oran, the settings of his great novels The Outsider and The Plague. Albert Camus is the author of a number of best-selling and highly influential works, all of which are published by Penguin. They include The Fall, The Outsider and The First Man. He is remembered as one of the few writers to have shaped the intellectual climate of post-war France, but beyond that, his fame has been international. Translated by Justin O'Brien With an Introduction by James Wood",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780141914176"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0141914173"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zaPoAQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zaPoAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zaPoAQAAQBAJ&dq=subject:philosophy&hl=&cd=281&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=zaPoAQAAQBAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Myth_of_Sisyphus.html?hl=&id=zaPoAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zaPoAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Fon7ngEACAAJ",
+   "etag": "lZmks+xl3bI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Fon7ngEACAAJ",
+   "volumeInfo": {
+    "title": "Sorting Things Out",
+    "subtitle": "Classification and Its Consequences",
+    "authors": [
+     "Geoffrey C. Bowker",
+     "Susan Leigh Star"
+    ],
+    "publisher": "MIT Press (MA)",
+    "publishedDate": "1999",
+    "description": "Classification systems and their role in shaping philosophy and social interactions are explored in this unique analysis of human infrastructures.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0262024616"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262024617"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 377,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Fon7ngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Fon7ngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Fon7ngEACAAJ&dq=subject:philosophy&hl=&cd=282&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Fon7ngEACAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sorting_Things_Out.html?hl=&id=Fon7ngEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Fon7ngEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "x_EDAQAAIAAJ",
+   "etag": "tt37N6+oV9o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x_EDAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Recollecting Plato's Meno",
+    "authors": [
+     "Harold Tarrant"
+    ],
+    "publisher": "Bristol Classical Press",
+    "publishedDate": "2005-06-02",
+    "description": "Plato's Meno is a dynamic and entertaining examination of the nature and origin of the kind of excellence displayed by successful Greek leaders. That such excellence existed was difficult to deny, but people expected to show it often disappointed, and others expected to know about it seemed confused. Though it depended on something like knowledge, it seemed impossible to pass on to others. Hence questions of social and political ethics also involve psychology and theory of knowledge. There is also an important focus on the nature of the learning process, which is itself illustrated by the way characters in the dialogue respond (or do not respond) to the questions and encouragement of Plato's protagonist Socrates. This book examines both the dialogue itself and the response to it of Plato's successors, from Aristotle and spurious Platonic dialogues, through Cicero and an anonymous commentator on the Theaetetus, to the Neoplatonists. It looks at which aspects of the dialogue they take most seriously and why. In the light of that response, which often suggests a detailed reading of the text in its entirety, Harold Tarrant develops a fresh and more integrated view of the original dialogue.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105120024836"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=x_EDAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=x_EDAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=x_EDAQAAIAAJ&dq=subject:philosophy&hl=&cd=283&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=x_EDAQAAIAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Recollecting_Plato_s_Meno.html?hl=&id=x_EDAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=x_EDAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G8asYEVYcwIC",
+   "etag": "Hd5tM/WtXbE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G8asYEVYcwIC",
+   "volumeInfo": {
+    "title": "The crisis",
+    "authors": [
+     "Thomas Paine"
+    ],
+    "publisher": "Penguin (Non-Classics)",
+    "publishedDate": "1995-09-01",
+    "description": "Uddrag af Thomas Paine's (1737-1809) skrifter, som medvirkede til at holde frihedsånden brændende under den amerikanske uafhængighedskrig.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "014600101X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780146001017"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G8asYEVYcwIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G8asYEVYcwIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=G8asYEVYcwIC&dq=subject:philosophy&hl=&cd=284&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=G8asYEVYcwIC&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_crisis.html?hl=&id=G8asYEVYcwIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G8asYEVYcwIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6KQ4ENWvEuAC",
+   "etag": "vqL0woW5ZQA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6KQ4ENWvEuAC",
+   "volumeInfo": {
+    "title": "The Language Instinct",
+    "subtitle": "The New Science of Language and Mind",
+    "authors": [
+     "Steven Pinker"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "1995",
+    "description": "In this exhilarating book, Steven Pinker asserts that language should not be seen as a cultural artefact that we learn in the way we learn to tell the time, but as a distinct part of the biological make-up of our brains.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780140175295"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0140175296"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 494,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 27,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6KQ4ENWvEuAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6KQ4ENWvEuAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6KQ4ENWvEuAC&dq=subject:philosophy&hl=&cd=285&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=6KQ4ENWvEuAC&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Language_Instinct.html?hl=&id=6KQ4ENWvEuAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6KQ4ENWvEuAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RGxQAAAAMAAJ",
+   "etag": "QOZX0Ic766I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RGxQAAAAMAAJ",
+   "volumeInfo": {
+    "title": "What is post-modernism?",
+    "authors": [
+     "Charles Jencks"
+    ],
+    "publisher": "Academy Press",
+    "publishedDate": "1996",
+    "description": "Provides a lucid exposition of Post-Modernism in art and architecture. This book clarifies a tradition that is thriving but still very much misunderstood. The reader is presented with many examples of art and architecture appropriate to Post-Modernism as well as being introduced to the history which preceded it, facilitating a much clearer understanding of the overall concept and initiating a thirst for more.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015037802413"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RGxQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RGxQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RGxQAAAAMAAJ&dq=subject:philosophy&hl=&cd=286&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RGxQAAAAMAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/What_is_post_modernism.html?hl=&id=RGxQAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RGxQAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DHwyG1puViUC",
+   "etag": "QSvZZIfxfEQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DHwyG1puViUC",
+   "volumeInfo": {
+    "title": "Bruce Lee: Artist of Life",
+    "authors": [
+     "Bruce Lee"
+    ],
+    "publisher": "Tuttle Publishing",
+    "publishedDate": "2001-04",
+    "description": "Bruce Lee's popularity remains undiminished",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0804832633"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780804832632"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DHwyG1puViUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DHwyG1puViUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DHwyG1puViUC&dq=subject:philosophy&hl=&cd=287&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DHwyG1puViUC&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Bruce_Lee_Artist_of_Life.html?hl=&id=DHwyG1puViUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DHwyG1puViUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "411QAAAAMAAJ",
+   "etag": "v6f9R3p5Q/8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/411QAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Origin of Perspective",
+    "authors": [
+     "Hubert Damisch"
+    ],
+    "publisher": "Mit Press",
+    "publishedDate": "1994",
+    "description": "Damisch argues that if a theoretical analysis of perspective is possible, using all the tools of structuralist semiotics, it is only possible in the context of a close look at its appearance in history, beginning with the details of the \"invention\" of perspective.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015045970137"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 477,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=411QAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=411QAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=411QAAAAMAAJ&dq=subject:philosophy&hl=&cd=288&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=411QAAAAMAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Origin_of_Perspective.html?hl=&id=411QAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=411QAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FFcNAQAAMAAJ",
+   "etag": "gaF19aUXwtc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FFcNAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Ideas and opinions",
+    "authors": [
+     "Albert Einstein"
+    ],
+    "publisher": "Wings",
+    "publishedDate": "1954",
+    "description": "Originally published: New York: Crown Publishers, 1954.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:49015002786490"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 377,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FFcNAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FFcNAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FFcNAQAAMAAJ&dq=subject:philosophy&hl=&cd=289&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=FFcNAQAAMAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ideas_and_opinions.html?hl=&id=FFcNAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FFcNAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qa30IAAACAAJ",
+   "etag": "takZr2Rr/Kc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qa30IAAACAAJ",
+   "volumeInfo": {
+    "title": "Gödel, Escher, Bach",
+    "subtitle": "un eterno y grácil bucle",
+    "authors": [
+     "Douglas R. Hofstadter"
+    ],
+    "publisher": "Tusquets Editores, S.A.",
+    "publishedDate": "2007",
+    "description": "¿Puede un sistema comprenderse a sí mismo ? Si esta pregunta se refiere a la mente humana, entonces nos encontramos ante una cuestión clave del pensamiento científico. Y de la filosofía. Y del arte. Investigar este misterio es una aventura que recorre la matemática, la física, la biología, la psicología y muy especialmente, el lenguaje. Douglas R. Hofstadter, joven y ya célebre científico, nos abre la puerta del enigma con la belleza y la alegría creadora de su estilo. Sorprendentes paralelismos ocultos entre los grabados de Escher y la música de Bach nos remiten a las paradojas clásicas de los antiguos griegos y a un teorema de la lógica matemática moderna que ha estremecido el pensamiento del siglo XX : el de Kurt Gödel. Todo lenguaje, todo sistema formal, todo programa de ordenador, todo proceso de pensamiento, llegan, tarde o temprano, a la situación límite de la autorreferencia : de querer expresarse sobre sí mismos. Surge entonces la emoción del infinito, como dos espejos enfrentados y obligados a reflejarse mutua e indefinidamente. Gödel, Escher, Bach : un Eterno y Grácil Bucle, es una obra de arte escrita por un sabio. Versa sobre los misterios del pensamiento e incluye, ella misma, sus propios misterios. Por ello su traducción ha supuesto también una larga, azarosa y laboriosa aventura que el propio autor ha vivido y que relata en un prólogo especialmente escrito para esta versión española.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8483830248"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788483830246"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 882,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qa30IAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qa30IAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=qa30IAAACAAJ&dq=subject:philosophy&hl=&cd=290&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=qa30IAAACAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/G%C3%B6del_Escher_Bach.html?hl=&id=qa30IAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qa30IAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oXZpCgAAQBAJ",
+   "etag": "ckh/HoMancQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oXZpCgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Course of Love",
+    "authors": [
+     "Alain De Botton"
+    ],
+    "publisher": "Signal",
+    "publishedDate": "2016-06-14",
+    "description": "In Edinburgh, a couple, Rabih and Kirsten, fall in love. They get married, they have children -- but no relationship is as simple as \"happily ever after.\" The Course of Love is a novel that explores what happens after the birth of love, what it takes to maintain love, and what happens to our original ideals under the pressures of an average existence. With philosophical insight and psychological acumen, Alain de Botton shows that our Romantic dreams may do us a grave disservice -- and explores what the alternatives might be. The conclusion, as the characters gradually discover, is that love is not \"an enthusiasm,\" but rather a \"skill\" that must be slowly and often painfully learnt. This is a Romantic novel in the true sense, one interested in exploring how love can survive and thrive in the long term.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780771027628"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0771027621"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 269,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oXZpCgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oXZpCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=oXZpCgAAQBAJ&dq=subject:philosophy&hl=&cd=291&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=oXZpCgAAQBAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Course_of_Love.html?hl=&id=oXZpCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oXZpCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XEuCDwAAQBAJ",
+   "etag": "fmkCPqH2i6k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XEuCDwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Art of Making Memories",
+    "subtitle": "How to Create and Remember Happy Moments",
+    "authors": [
+     "Meik Wiking"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2019-09-19",
+    "description": "\"Happy memories are essential to our mental health. They strengthen our identity, sense of purpose and relationships. Meik's new book will teach you how to create and remember happy moments and will change how you think about happy memories.\" Dr Rangan Chatterjee, Number One bestselling author of The 4 Pillar Plan and BBC Breakfast GP The third book from the CEO of the Happiness Research Institute and internationally bestselling author of The Little Book of Hygge, Meik Wiking. Why is it that a piece of music, a smell, a taste can take us back to something we had forgotten? How is it that we remember our first kiss in detail, but barely remember anything of a fortnight's holiday from five years ago? Memories are the cornerstones of our identity, shaping who we are, how we act, and how we feel. But how do we make and keep the memories that bring us lasting joy? Happiness expert Meik Wiking has the answers. In The Art of Making Memories he brings together his extensive research drawn from the world's biggest study on happy memories (which involved 1000 people from 75 countries), conducted at the Happiness Research Institute, along with data and diaries, interviews, global surveys and studies, and real-life behavioural science and happiness experiments, to explain the nuances of nostalgia, the different ways we form memories around our experiences, and how we can become better at recalling them. Written in Meik's warm and funny trademark style, filled with infographics, illustrations, and photographs, and featuring \"Happy Memory Tips\", The Art of Making Memoriesis a life-affirming read which show you it's easier than you think to make your life unforgettable. **Pre-order The Art of Making Memories in the UK and receive a Hygge Manifesto print from Meik's first book. Visit www.penguin.co.uk/makingmemories for details on how to claim your print**",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780241376065"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0241376068"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XEuCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XEuCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XEuCDwAAQBAJ&dq=subject:philosophy&hl=&cd=292&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XEuCDwAAQBAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_Making_Memories.html?hl=&id=XEuCDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XEuCDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4nRdPwAACAAJ",
+   "etag": "dCm68nEw/RA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4nRdPwAACAAJ",
+   "volumeInfo": {
+    "title": "La república",
+    "authors": [
+     "Platón"
+    ],
+    "publisher": "Alianza Editorial Sa",
+    "publishedDate": "1999",
+    "description": "En el período que transcurrió desde su infancia hasta su muerte, PLATÓN (ca. 428-ca. 347 a.C.) conoció la decadencia de la grandeza ateniense, jalonada por numerosos y señalados episodios históricos que, junto con su reiterado fracaso político en Siracusa, influyeron poderosamente tanto en su actividad política como en su trabajo intelectual. LA REPÚBLICA presenta el modelo de ciudad donde domina la justicia frente al desorden, la confusión y la perversión; sin embargo, como señala Manuel Fernández-Galiano en la introducción al volumen, el diálogo no apunta a la construcción ideal de una sociedad perfecta de hombres perfectos, sino que es un «tratado de medicina política» con aplicación a los regímenes existentes en su tiempo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8420636738"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788420636733"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 605,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4nRdPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4nRdPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=4nRdPwAACAAJ&dq=subject:philosophy&hl=&cd=293&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4nRdPwAACAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/La_rep%C3%BAblica.html?hl=&id=4nRdPwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4nRdPwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZUNlewAACAAJ",
+   "etag": "jrtOFfu/81M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZUNlewAACAAJ",
+   "volumeInfo": {
+    "title": "On Translation",
+    "authors": [
+     "Paul Ricœur"
+    ],
+    "publishedDate": "2006",
+    "description": "Paul Ricœur was one of the most important philosophers of the 20th century. In this book he turns to a topic at the heart of much of his work: what is translation and why is it so important? He reminds us that translation not only spreads knowledge but can change its very meaning.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415357780"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415357784"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 46,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZUNlewAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZUNlewAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZUNlewAACAAJ&dq=subject:philosophy&hl=&cd=294&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ZUNlewAACAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/On_Translation.html?hl=&id=ZUNlewAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZUNlewAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "17i10ZZu8O4C",
+   "etag": "krMnYusgWCM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/17i10ZZu8O4C",
+   "volumeInfo": {
+    "title": "A Companion to Ethics",
+    "authors": [
+     "Peter Singer"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "1993-08-20",
+    "description": "In this volume, some of today's most distinguished philosophers survey the whole field of ethics, from its origins, through the great ethical traditions, to theories of how we ought to live, arguments about specific ethical issues, and the nature of ethics itself. The book can be read straight through from beginning to end; yet the inclusion of a multi-layered index, coupled with a descriptive outline of contents and bibliographies of relevant literature, means that the volume also serves as a work of reference, both for those coming afresh to the study of ethics and for readers already familiar with the subject.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0631187855"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631187851"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 592,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=17i10ZZu8O4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=17i10ZZu8O4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=17i10ZZu8O4C&dq=subject:philosophy&hl=&cd=295&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=17i10ZZu8O4C&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Companion_to_Ethics.html?hl=&id=17i10ZZu8O4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=17i10ZZu8O4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mFSIDwAAQBAJ",
+   "etag": "i8IzOkR9O8Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mFSIDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Fools, Frauds and Firebrands",
+    "subtitle": "Thinkers of the New Left",
+    "authors": [
+     "Roger Scruton"
+    ],
+    "publisher": "Bloomsbury Continuum",
+    "publishedDate": "2019-04-23",
+    "description": "A devastating critique of modern left-wing thinking from a leading political philosopher. In Fools, Frauds and Firebrands, philosopher Roger Scruton, one of the leading critics of leftist orientations in modern Western civilization, examines the thinkers who have been most influential on the attitudes of the New Left. What does the Left look like today, he asks, and how has it evolved? Is there any foundation for resistance to its agenda without religious faith? Scruton begins with a ruthless analysis of New Leftism and concludes with a critique of the key strands in its thinking. He conducts a reappraisal of such major left-wing thinkers as: E. P. Thompson, Ronald Dworkin, R. D. Laing, Jurgen Habermas, Gyorgy Lukacs, Jean-Paul Sartre, Jacques Derrida, Slavoj Zizek, Ralph Milliband and Eric Hobsbawm. Scruton's exploration of these important issues is written with skill, perception and at all times with pellucid clarity. In addition to assessments of these thinkers' philosophical and political contributions, the book contains a biographical and bibliographical section summarizing their careers and most important writings.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781472965219"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1472965213"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mFSIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mFSIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mFSIDwAAQBAJ&dq=subject:philosophy&hl=&cd=296&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mFSIDwAAQBAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fools_Frauds_and_Firebrands.html?hl=&id=mFSIDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mFSIDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "siA7vgAACAAJ",
+   "etag": "T013oeJOOrk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/siA7vgAACAAJ",
+   "volumeInfo": {
+    "title": "The Art of Living",
+    "authors": [
+     "Thich Nhat Hanh"
+    ],
+    "publisher": "HarperOne",
+    "publishedDate": "2017-06-06",
+    "description": "One of the most revered spiritual leaders in the world today teaches us how to find nirvana—how to live most deeply and peacefully every day. Many people believe that nirvana is a state of nonbeing that can only be reached through death. In The Art of Living, Zen Master Thich Nhat Hanh dispels this dangerous misconception, and teaches us how to enjoy enlightenment in this life without losing ourselves. We need our bodies to touch nirvana—to experience it with our feet, our eyes, our hands. That is the reality of no birth and no death, no afflictions, no burning, the extinction of the flames. The Buddha himself has said, \"my teaching is not about nonbeing. My teaching is to overcome the notion of being and nonbeing.\" In The Art of Living, Thich Nhat Hanh explores two essential questions: What happens when we are still alive? What happens when we die? As he ultimately shows, if you can answer the first question, the answer to the second comes easily. Based on the last full talks he gave before his sudden hospitalization, this thought-provoking book is filled with simple meditations and practices that focus on recognizing our interconnectedness with those around us, as well as with nonliving beings and the entire cosmos. Arranged in short sections around a few common themes, these teachings offer opportunities and inspiration for being fully alive in the present moment—consciousness that allows us to to face aging, dying, and the unknown with curiosity and joy and without fear. With powerful mindfulness, concentration, and insight, we can live deeply every moment of our daily lives and touch our enlightened nature. When we become aware of our cosmic body, of our God body, of our nirvana body, then we are no longer afraid of birth and death, being and nonbeing. That is nirvana, the pinnacle of the Buddha’s teaching and practice.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0062434667"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780062434661"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=siA7vgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=siA7vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=siA7vgAACAAJ&dq=subject:philosophy&hl=&cd=297&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=siA7vgAACAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_Living.html?hl=&id=siA7vgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=siA7vgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IpDYAAAAMAAJ",
+   "etag": "spa06McnXVY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IpDYAAAAMAAJ",
+   "volumeInfo": {
+    "title": "We hold these truths",
+    "subtitle": "Catholic reflections on the American proposition",
+    "authors": [
+     "John Courtney Murray",
+     "Peter Augustine Lawler"
+    ],
+    "publisher": "Rowman & Littlefield Pub Inc",
+    "publishedDate": "2005-09",
+    "description": "The 1960 publication of We Hold These Truths marked a significant event in the history of modern American thought. Since that time, Sheed and Ward has kept the book in print and has published several studies of John Courtney Murray's life and work. We are proud to present a new edition of this classic text, which features a comprehensive introduction by Peter Lawler that places Murray in the context of Catholic and American history and thought while revealing his relevance today.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0742549003"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780742549005"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IpDYAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IpDYAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IpDYAAAAMAAJ&dq=subject:philosophy&hl=&cd=298&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=IpDYAAAAMAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/We_hold_these_truths.html?hl=&id=IpDYAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IpDYAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bunsAAAAMAAJ",
+   "etag": "k/CpYZpuc7w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bunsAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Managerialism",
+    "subtitle": "the emergence of a new ideology",
+    "authors": [
+     "Willard F. Enteman"
+    ],
+    "publisher": "Univ of Wisconsin Pr",
+    "publishedDate": "1993-10",
+    "description": "As capitalist countries continue to celebrate the demise of socialism, Willard F. Enteman makes the startling assertion that capitalism no longer exists. In Managerialism, Enteman explores the fundamental principles of the three dominant world ideology, which he calls 'managerialism, ' more accurately describes the current world situation.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015028879255"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 258,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bunsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bunsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bunsAAAAMAAJ&dq=subject:philosophy&hl=&cd=299&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=bunsAAAAMAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Managerialism.html?hl=&id=bunsAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bunsAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6I_qPwAACAAJ",
+   "etag": "yKO55uoaeNA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6I_qPwAACAAJ",
+   "volumeInfo": {
+    "title": "Why I Write",
+    "authors": [
+     "George Orwell"
+    ],
+    "publisher": "Penguin Group USA",
+    "publishedDate": "2005",
+    "description": "Throughout history, some books have changed the world. They have transformed the way we see ourselves—and each other. They have inspired debate, dissent, war and revolution. They have enlightened, outraged, provoked and comforted. They have enriched lives—and destroyed them. Now, Penguin brings you the works of the great thinkers, pioneers, radicals and visionaries whose ideas shook civilization, and helped make us who we are. Penguin's Great Ideas series features twelve groundbreaking works by some of history's most prodigious thinkers, and each volume is beautifully packaged with a unique type-drive design that highlights the bookmaker's art. Offering great literature in great packages at great prices, this series is ideal for those readers who want to explore and savor the Great Ideas that have shaped the world. Whether puncturing the lies of politicians, wittily dissecting the English character or telling unpalatable truths about war, Orwell's timeless, uncompromising essays are more relevant, entertaining and essential than ever in today's era of spin.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0143036351"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780143036357"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 119,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 27,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6I_qPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6I_qPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6I_qPwAACAAJ&dq=subject:philosophy&hl=&cd=300&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=6I_qPwAACAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Why_I_Write.html?hl=&id=6I_qPwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6I_qPwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pHINAQAAMAAJ",
+   "etag": "Yvf53TG7wdQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pHINAQAAMAAJ",
+   "volumeInfo": {
+    "title": "In Tune with the World",
+    "subtitle": "A Theory of Festivity",
+    "authors": [
+     "Josef Pieper"
+    ],
+    "publisher": "St Augustine PressInc",
+    "publishedDate": "1999-01",
+    "description": "In this stimulating and still-timely study, Josef Pieper takes up a theme of paramount importance to his thinking - that festivals belong by rights among the great topics of philosophical discussion. Pieper exposes the pseudo-festivals, in their harmless and their sinister forms; traditional feasts contaminated by commercialism; artificial holidays created in the interest of merchandisers; holidays by coercion, decreed by dictators the world over; festivals as military demonstrations; holidays empty of significance. And lastly we are given the apocalyptic vision of a nihilistic world which would seek its release not in festivities but in destruction.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015053768928"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pHINAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pHINAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pHINAQAAMAAJ&dq=subject:philosophy&hl=&cd=301&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=pHINAQAAMAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/In_Tune_with_the_World.html?hl=&id=pHINAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pHINAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kfzbQwAACAAJ",
+   "etag": "NIXTVhEISS4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kfzbQwAACAAJ",
+   "volumeInfo": {
+    "title": "History of Beauty",
+    "authors": [
+     "Umberto Eco"
+    ],
+    "publisher": "Rizzoli International Publications",
+    "publishedDate": "2010",
+    "description": "A study of the idea of beauty explores the ever-changing concept of beauty from the ancient Greeks to today.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0847835308"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780847835300"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 438,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 107,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kfzbQwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kfzbQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=kfzbQwAACAAJ&dq=subject:philosophy&hl=&cd=302&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=kfzbQwAACAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/History_of_Beauty.html?hl=&id=kfzbQwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kfzbQwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uY6CDwAAQBAJ",
+   "etag": "Ssorz4xO8lQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uY6CDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Social Suffering",
+    "subtitle": "Sociology, Psychology, Politics",
+    "authors": [
+     "Emmanuel Renault"
+    ],
+    "publisher": "Rowman & Littlefield International",
+    "publishedDate": "2017-10-11",
+    "description": "This is the first English-language translation of an important book that contributes to contemporary debates about social suffering in sociology, social psychology, political theory and philosophy. Renault provides a systematic account of the ways in which social suffering could be conceptualised.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781786600745"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1786600749"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 214,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uY6CDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uY6CDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=uY6CDwAAQBAJ&dq=subject:philosophy&hl=&cd=303&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=uY6CDwAAQBAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Social_Suffering.html?hl=&id=uY6CDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uY6CDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_38PAAAAQAAJ",
+   "etag": "YOUJqPxSaVw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_38PAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Essays and Treatises on Several Subjects",
+    "subtitle": "In Two Volumes",
+    "authors": [
+     "David Hume"
+    ],
+    "publishedDate": "1764",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GENT:900000068069"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_38PAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_38PAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_38PAAAAQAAJ&printsec=frontcover&dq=subject:philosophy&hl=&cd=304&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_38PAAAAQAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_38PAAAAQAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=_38PAAAAQAAJ&rdid=book-_38PAAAAQAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com/books/download/Essays_and_Treatises_on_Several_Subjects.epub?id=_38PAAAAQAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/Essays_and_Treatises_on_Several_Subjects.pdf?id=_38PAAAAQAAJ&hl=&output=pdf&sig=ACfU3U0bbODmlVf2slZcRS3l-FUjVoI3hg&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_38PAAAAQAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-TvFvphrjMAC",
+   "etag": "ZdEIh5WcDJg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-TvFvphrjMAC",
+   "volumeInfo": {
+    "title": "Talking Politics",
+    "subtitle": "A Wordbook",
+    "authors": [
+     "A. W. Sparkes"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2002-01-04",
+    "description": "Talking Politics is a philosophical examination of some of the basic concepts of political discourse. Its primary focus is on the ordinary; on what is said by politicians, in newspapers and by people in pubs, rather than on the works of political theorists. This is a work of, but not on political theory. Talking Politics is: * Invaluable as a source of reference for students, and contains a detailed index * Arranged thematically, around topics such as `Nation'. Each entry has copious cross-references and suggestions for further reading A. W. Sparkes is uniquely qualified to write such a book, combining some thirty years' teaching as a philosopher with wide experience of, and a life-long fascination with, politics. His attitude is that of a critical, but uncynical, observer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780203022115"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0203022114"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 332,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-TvFvphrjMAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-TvFvphrjMAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=-TvFvphrjMAC&dq=subject:philosophy&hl=&cd=305&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=-TvFvphrjMAC&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Talking_Politics.html?hl=&id=-TvFvphrjMAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-TvFvphrjMAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NghUxtYnA3IC",
+   "etag": "XIQBml5Y8tQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NghUxtYnA3IC",
+   "volumeInfo": {
+    "title": "Wittgenstein's Philosophical Investigations",
+    "subtitle": "Text and Context",
+    "authors": [
+     "Robert Arrington",
+     "Hans-Johann Glock"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2002-11-01",
+    "description": "The first strictly exegetical collection of papers on Wittgenstein's Philosophical Investigations. The distinguished contributors highlight the differences of approach on how the Investigations should be read.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780203415832"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0203415833"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NghUxtYnA3IC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NghUxtYnA3IC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NghUxtYnA3IC&dq=subject:philosophy&hl=&cd=306&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NghUxtYnA3IC&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Wittgenstein_s_Philosophical_Investigati.html?hl=&id=NghUxtYnA3IC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NghUxtYnA3IC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VBrHyAEACAAJ",
+   "etag": "9hM+v9XhSO8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VBrHyAEACAAJ",
+   "volumeInfo": {
+    "title": "The Merleau-Ponty Aesthetics Reader",
+    "subtitle": "Philosophy and Painting",
+    "authors": [
+     "Galen A. Johnson"
+    ],
+    "publisher": "Northwestern University Press",
+    "publishedDate": "1994-01-20",
+    "description": "Merleau-Ponty's essays on aesthetics are some of the major accomplishments of his philosophical career, and rank even today among the most sophisticated reflections on art in all of twentieth-century philosophy. His essays on painting, \"Cezanne's Doubt\" (1945), \"Indirect Language and the Voices of Silence\" (1952), and \"Eye and Mind\" (1960), have inspired new approaches to epistemology, ontology, and the philosophy of history. Galen A. Johnson has gathered these essays for the first time into a single volume and augmented them with essays by distinguished scholars and artists, including M.C. Dillon, Mikel Dufrenne, and René Magritte. Together the essays demonstrate the continuing significance of Merleau-Ponty's ideas about art for contemporary philosophy on both sides of the Atlantic.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0810110733"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780810110731"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 421,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VBrHyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VBrHyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=VBrHyAEACAAJ&dq=subject:philosophy&hl=&cd=307&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=VBrHyAEACAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Merleau_Ponty_Aesthetics_Reader.html?hl=&id=VBrHyAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VBrHyAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LlKyjgEACAAJ",
+   "etag": "Zjc+0y1bXlc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LlKyjgEACAAJ",
+   "volumeInfo": {
+    "title": "You Must Change Your Life",
+    "subtitle": "Poetry, Philosophy, and the Birth of Sense",
+    "authors": [
+     "John T. Lysaker"
+    ],
+    "publisher": "Penn State Press",
+    "publishedDate": "2008-01",
+    "description": "\"Not limited to a single poem or collection of poems, ur-poetry arises when, in the interaction of an author's principal tropes, the origin of poetry is exposed as a process whereby words with inherited meaning take on a new poetic life that draws our attention to the \"birth of sense\"--The manner in which the manifold realities that surround us are revealed. And it is precisely through an experience of the birth of sense that we are able to understand and dwell differently among these realities.\"--Jacket.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0271034327"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780271034324"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LlKyjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LlKyjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=LlKyjgEACAAJ&dq=subject:philosophy&hl=&cd=308&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=LlKyjgEACAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/You_Must_Change_Your_Life.html?hl=&id=LlKyjgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LlKyjgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0g9KAAAAYAAJ",
+   "etag": "L9N8dzKbFnY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0g9KAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Tragédies",
+    "authors": [
+     "Lucius Annaeus Seneca",
+     "Sénèque",
+     "Sénèque ((auteur prétendu ;)"
+    ],
+    "publishedDate": "1961",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "2251014128"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782251014128"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 254,
+    "printType": "BOOK",
+    "categories": [
+     "Greece"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0g9KAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0g9KAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "la",
+    "previewLink": "http://books.google.com/books?id=0g9KAAAAYAAJ&dq=subject:philosophy&hl=&cd=309&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0g9KAAAAYAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Trag%C3%A9dies.html?hl=&id=0g9KAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0g9KAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BiUoAQAAMAAJ",
+   "etag": "INi4iQec1PM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BiUoAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Reflexe",
+    "publishedDate": "2000",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000092501737"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BiUoAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BiUoAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BiUoAQAAMAAJ&dq=subject:philosophy&hl=&cd=310&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=BiUoAQAAMAAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Reflexe.html?hl=&id=BiUoAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BiUoAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fU89AAAAYAAJ",
+   "etag": "VOvEiDJjJJc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fU89AAAAYAAJ",
+   "volumeInfo": {
+    "title": "Zeitschrift für Philosophie und philosophische Kritik",
+    "publishedDate": "1908",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101067198307"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Philosophical theology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fU89AAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fU89AAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=fU89AAAAYAAJ&printsec=frontcover&dq=subject:philosophy&hl=&cd=311&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fU89AAAAYAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fU89AAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=fU89AAAAYAAJ&rdid=book-fU89AAAAYAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com/books/download/Zeitschrift_f%C3%BCr_Philosophie_und_philoso.epub?id=fU89AAAAYAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/Zeitschrift_f%C3%BCr_Philosophie_und_philoso.pdf?id=fU89AAAAYAAJ&hl=&output=pdf&sig=ACfU3U1fncC4T9LLjPwCbwEx5qBp8bOd6A&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fU89AAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nHBTAAAAcAAJ",
+   "etag": "d0Y9I+oYmUY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nHBTAAAAcAAJ",
+   "volumeInfo": {
+    "title": "Principia philosophiae",
+    "authors": [
+     "René Descartes"
+    ],
+    "publishedDate": "1644",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GENT:900000218185"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 310,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nHBTAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nHBTAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "la",
+    "previewLink": "http://books.google.com/books?id=nHBTAAAAcAAJ&printsec=frontcover&dq=subject:philosophy&hl=&cd=312&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nHBTAAAAcAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nHBTAAAAcAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=nHBTAAAAcAAJ&rdid=book-nHBTAAAAcAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/Principia_philosophiae.pdf?id=nHBTAAAAcAAJ&hl=&output=pdf&sig=ACfU3U2qUVXyaFXl0V7M218oDPGQ2X3riA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nHBTAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ItqMDwAAQBAJ",
+   "etag": "uSItkTbH7cs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ItqMDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Conspiracy Theories",
+    "subtitle": "The Philosophical Debate",
+    "authors": [
+     "David Coady"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2019-03-11",
+    "description": "Conspiracy theories have a bad reputation. In the past, most philosophers have ignored the topic, vaguely supposing that conspiracy theories are obviously irrational and that they can be easily dismissed. The current philosophical interest in the subject results from a realisation that this is not so. Some philosophers have taken up the challenge of identifying and explaining the flaws of conspiracy theories. Other philosophers have argued that conspiracy theories do not deserve their bad reputation, and that conspiracy theorists do not deserve their reputation for irrationality. This book represents both sides of this important debate. Aimed at a broad philosophical community, including epistemologists, political philosophers, and philosophers of history. It represents a significant contribution to the growing interdisciplinary debate about conspiracy theories.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781351949453"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1351949454"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ItqMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ItqMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ItqMDwAAQBAJ&printsec=frontcover&dq=subject:philosophy&hl=&cd=313&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ItqMDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ItqMDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 54.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 43.41,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ItqMDwAAQBAJ&rdid=book-ItqMDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.495E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.341E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Conspiracy_Theories-sample-epub.acsm?id=ItqMDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Conspiracy_Theories-sample-pdf.acsm?id=ItqMDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ItqMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8ie9_o7FC3sC",
+   "etag": "adxfQzdQjMI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8ie9_o7FC3sC",
+   "volumeInfo": {
+    "title": "Veritas Philosophicus",
+    "authors": [
+     "John O'Loughlin"
+    ],
+    "publisher": "Centretruths Digital Media",
+    "publishedDate": "2013-02-18",
+    "description": "Subtitled 'Philosophical Verity', this long and difficult text should reward patient reading, since it is of a deeply metaphysical character that takes the quadruplicities of texts like 'Philosophical Truth' (1991), its immediate precursor, to a whole new level of elemental meaning, and largely through the utilization of V-like structures - hence the title 'Veritas Philosophicus' - which both complement and supplement the T-like structures already established in this and previous books, thereby taking the ideological philosophy of Social Transcendentalism a stage further on its evolutionary journey towards the 'promised land' of complete metaphysical truth and, hence, philosophical perfection.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781446110560"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1446110567"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 212,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8ie9_o7FC3sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8ie9_o7FC3sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=8ie9_o7FC3sC&printsec=frontcover&dq=subject:philosophy&hl=&cd=314&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8ie9_o7FC3sC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8ie9_o7FC3sC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8ie9_o7FC3sC&rdid=book-8ie9_o7FC3sC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8ie9_o7FC3sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h04JAAAAQAAJ",
+   "etag": "XeUIqfTMTU4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h04JAAAAQAAJ",
+   "volumeInfo": {
+    "title": "The Friend",
+    "authors": [
+     "Samuel Taylor Coleridge"
+    ],
+    "publishedDate": "1837",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:400247609"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Ethics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=h04JAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=h04JAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=h04JAAAAQAAJ&printsec=frontcover&dq=subject:philosophy&hl=&cd=315&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=h04JAAAAQAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=h04JAAAAQAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=h04JAAAAQAAJ&rdid=book-h04JAAAAQAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com/books/download/The_Friend.epub?id=h04JAAAAQAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/The_Friend.pdf?id=h04JAAAAQAAJ&hl=&output=pdf&sig=ACfU3U2L3XeedzS3Xf7Kzh0DOv3CCr2yuA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=h04JAAAAQAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tblvDwAAQBAJ",
+   "etag": "/al5urm1QEw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tblvDwAAQBAJ",
+   "volumeInfo": {
+    "title": "State, Power, Socialism",
+    "authors": [
+     "Nicos Poulantzas"
+    ],
+    "publisher": "Verso Trade",
+    "publishedDate": "2014",
+    "description": "In State, Power, Socialism, the leading theorist of the state and European communism offers a resounding response to contemporary Marxist theories of the state. Arguing against a general theory of the state, Poulantzas identifies forms of class power crucial to socialist strategy that go beyond the state apparatus. \"It is Poulantzas's great virtue to have seen so clearly that an adequate Marxist theory of politics must be able to deal with just those phenomena which non-Marxists have regarded as decisive refutations of Marxism.\" Times Literary Supplement",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781781681480"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1781681481"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 269,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tblvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tblvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tblvDwAAQBAJ&printsec=frontcover&dq=subject:philosophy&hl=&cd=316&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tblvDwAAQBAJ&dq=subject:philosophy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/State_Power_Socialism.html?hl=&id=tblvDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tblvDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NIoKWdsY9ZAC",
+   "etag": "T2USJzdVT2I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NIoKWdsY9ZAC",
+   "volumeInfo": {
+    "title": "After the Future",
+    "subtitle": "Postmodern Times and Places",
+    "authors": [
+     "Gary Shapiro"
+    ],
+    "publisher": "SUNY Press",
+    "description": "This book brings together diverse aspects of postmodernism by philosophers, literary critics, historians of architecture, and sociologists. It addresses the nature of postmodernism in painting, architecture, and the performing arts, and explores the social and political implications of postmodern theories of culture. The book raises the question of whether postmodernism is to be seen as one more epoch or period within a succession of eras, or as a challenge to the modernist practice of periodization itself. The nature of the subject and of subjectivity is explored in order to resituate and contextualize the autonomous subject of the modern literary traditions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438419558"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1438419554"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NIoKWdsY9ZAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NIoKWdsY9ZAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NIoKWdsY9ZAC&printsec=frontcover&dq=subject:philosophy&hl=&cd=317&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NIoKWdsY9ZAC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NIoKWdsY9ZAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.25,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NIoKWdsY9ZAC&rdid=book-NIoKWdsY9ZAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.195E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.725E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/After_the_Future-sample-pdf.acsm?id=NIoKWdsY9ZAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NIoKWdsY9ZAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0BfmAAAAMAAJ",
+   "etag": "xoGWrKuMmME",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0BfmAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Works of John Locke ...",
+    "subtitle": "With Alphabetical Tables ...",
+    "authors": [
+     "John Locke"
+    ],
+    "publishedDate": "1722",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015049821385"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0BfmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0BfmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0BfmAAAAMAAJ&printsec=frontcover&dq=subject:philosophy&hl=&cd=318&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0BfmAAAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0BfmAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=0BfmAAAAMAAJ&rdid=book-0BfmAAAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com/books/download/The_Works_of_John_Locke.epub?id=0BfmAAAAMAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/The_Works_of_John_Locke.pdf?id=0BfmAAAAMAAJ&hl=&output=pdf&sig=ACfU3U3RF8tY2FncTOGuNnFKILFaHimbqA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0BfmAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ddnUAAAAQBAJ",
+   "etag": "uO3aNYHc0d0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ddnUAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Posthumanism",
+    "subtitle": "A Critical Analysis",
+    "authors": [
+     "Stefan Herbrechter"
+    ],
+    "publisher": "A&C Black",
+    "publishedDate": "2013-08-01",
+    "description": "What does it mean to be human today? The answer to this question, which is as old as the human species itself, is becoming less and less certain. Current technological developments increasingly erode our traditional humanist reflexes: consciousness, emotion, language, intelligence, morality, humour, mortality - all these no longer demonstrate the unique character and value of human existence. Instead, the spectre of the 'posthuman' is now being widely invoked as the 'inevitable' next evolutionary stage that humans are facing. Who comes after the human? This is the question that posthumanists are taking as their starting point. This critical introduction understands posthumanism as a discourse, which, in principle, includes everything that has been and is being said about the figure of the 'posthuman'. It outlines the genealogy of the various posthuman 'scenarios' in circulation and engages with their theoretical and philosophical assumptions and social and political implications. It does so by connecting the philosophical debate about the future of humanity with a range of texts, including examples from new media, popular culture, science and the media.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781780936901"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1780936907"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.135.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ddnUAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ddnUAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ddnUAAAAQBAJ&printsec=frontcover&dq=subject:philosophy&hl=&cd=319&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ddnUAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ddnUAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.55,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ddnUAAAAQBAJ&rdid=book-ddnUAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.695E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.455E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Posthumanism-sample-pdf.acsm?id=ddnUAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ddnUAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fc8oCgAAQBAJ",
+   "etag": "MAAz9+wDYCQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fc8oCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Cultural Evolution",
+    "subtitle": "Conceptual Challenges",
+    "authors": [
+     "Tim Lewens"
+    ],
+    "publisher": "OUP Oxford",
+    "publishedDate": "2015-08-20",
+    "description": "Tim Lewens aims to understand what it means to take an evolutionary approach to cultural change, and why it is that this approach is often treated with suspicion. Convinced of the exceptional power of natural selection, many thinkers—typically working in biological anthropology, cognitive psychology, and evolutionary biology—have suggested it should be freed from the confines of biology, and applied to cultural change in humans and other animals. At the same time, others-typically with backgrounds in disciplines like social anthropology and history-have been just as vocal in dismissing the evolutionary approach to culture. What drives these disputes over Darwinism in the social sciences? While making a case for the value of evolutionary thinking for students of culture, Lewens shows why the concerns of sceptics should not dismissed as mere prejudice, confusion, or ignorance. Indeed, confusions about what evolutionary approaches entail are propagated by their proponents, as well as by their detractors. By taking seriously the problems faced by these approaches to culture, Lewens shows how such approaches can be better formulated, where their most significant limitations lie, and how the tools of cultural evolutionary thinking might become more widely accepted.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780191079481"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0191079480"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fc8oCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fc8oCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fc8oCgAAQBAJ&printsec=frontcover&dq=subject:philosophy&hl=&cd=320&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fc8oCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fc8oCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.39,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fc8oCgAAQBAJ&rdid=book-fc8oCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.399E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.439E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cultural_Evolution-sample-epub.acsm?id=fc8oCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cultural_Evolution-sample-pdf.acsm?id=fc8oCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fc8oCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

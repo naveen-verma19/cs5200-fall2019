@@ -1,0 +1,3063 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 490,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KCOeRQW2s0cC",
+   "etag": "KJoq4aAmRhM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KCOeRQW2s0cC",
+   "volumeInfo": {
+    "title": "An Introduction to Critical Thinking and Creativity",
+    "subtitle": "Think More, Think Better",
+    "authors": [
+     "J. Y. F. Lau"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2011-12-22",
+    "description": "A valuable guide on creativity and critical thinking to improve reasoning and decision-making skills Critical thinking skills are essential in virtually any field of study or practice where individuals need to communicate ideas, make decisions, and analyze and solve problems. An Introduction to Critical Thinking and Creativity: Think More, Think Better outlines the necessary tools for readers to become critical as well as creative thinkers. By gaining a practical and solid foundation in the basic principles that underlie critical thinking and creativity, readers will become equipped to think in a more systematic, logical, and imaginative manner. Creativity is needed to generate new ideas to solve problems, and critical thinking evaluates and improves an idea. These concepts are uniquely introduced as a unified whole due to their dependence on each other. Each chapter introduces relevant theories in conjunction with real-life examples and findings from cognitive science and psychology to illustrate how the theories can be applied in numerous fields and careers. An emphasis on how theoretical principles of reasoning can be practical and useful in everyday life is featured, and special sections on presentation techniques, the analysis of meaning, decision-making, and reasoning about personal and moral values are also highlighted. All chapters conclude with a set of exercises, and detailed solutions are provided at the end of the book. A companion website features online tutorials that further explore topics including meaning analysis, argument analysis, logic, statistics, and strategic thinking, along with additional exercises and multimedia resources for continued study. An Introduction to Critical Thinking and Creativity is an excellent book for courses on critical thinking and logic at the undergraduate and graduate levels. The book also serves as a self-contained study guide for readers interested in the topics of critical thinking and creativity as a unified whole.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1118033434"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118033432"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KCOeRQW2s0cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KCOeRQW2s0cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=KCOeRQW2s0cC&printsec=frontcover&dq=subject:mathematics&hl=&cd=241&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KCOeRQW2s0cC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KCOeRQW2s0cC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 65.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 52.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KCOeRQW2s0cC&rdid=book-KCOeRQW2s0cC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.599E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.279E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/An_Introduction_to_Critical_Thinking_and-sample-epub.acsm?id=KCOeRQW2s0cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/An_Introduction_to_Critical_Thinking_and-sample-pdf.acsm?id=KCOeRQW2s0cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KCOeRQW2s0cC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Fm_yPgZBucMC",
+   "etag": "zGly3ZUcUVI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Fm_yPgZBucMC",
+   "volumeInfo": {
+    "title": "Commutative Algebra",
+    "subtitle": "With a View Toward Algebraic Geometry",
+    "authors": [
+     "David Eisenbud",
+     "Professor David Eisenbud"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "1995-03-30",
+    "description": "Commutative Algebra is best understood with knowledge of the geometric ideas that have played a great role in its formation, in short, with a view towards algebraic geometry. The author presents a comprehensive view of commutative algebra, from basics, such as localization and primary decomposition, through dimension theory, differentials, homological methods, free resolutions and duality, emphasizing the origins of the ideas and their connections with other parts of mathematics. Many exercises illustrate and sharpen the theory and extended exercises give the reader an active part in complementing the material presented in the text. One novel feature is a chapter devoted to a quick but thorough treatment of Grobner basis theory and the constructive methods in commutative algebra and algebraic geometry that flow from it. Applications of the theory and even suggestions for computer algebra projects are included. This book will appeal to readers from beginners to advanced students of commutative algebra or algebraic geometry. To help beginners, the essential ideals from algebraic geometry are treated from scratch. Appendices on homological algebra, multilinear algebra and several other useful topics help to make the book relatively self- contained. Novel results and presentations are scattered throughout the text.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0387942696"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387942698"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 785,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Fm_yPgZBucMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Fm_yPgZBucMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Fm_yPgZBucMC&printsec=frontcover&dq=subject:mathematics&hl=&cd=242&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Fm_yPgZBucMC&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Commutative_Algebra.html?hl=&id=Fm_yPgZBucMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Commutative_Algebra-sample-pdf.acsm?id=Fm_yPgZBucMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Fm_yPgZBucMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vx2G2BHPMLUC",
+   "etag": "wyKIVNn1JmA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vx2G2BHPMLUC",
+   "volumeInfo": {
+    "title": "An Introduction to Laplace Transforms and Fourier Series",
+    "authors": [
+     "Phil Dyke"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2000-10-27",
+    "description": "This introduction to Laplace transforms and Fourier series is aimed at second year students in applied mathematics. It is unusual in treating Laplace transforms at a relatively simple level with many examples. Mathematics students do not usually meet this material until later in their degree course but applied mathematicians and engineers need an early introduction. Suitable as a course text, it will also be of interest to physicists and engineers as supplementary material.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1852330155"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781852330156"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vx2G2BHPMLUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vx2G2BHPMLUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vx2G2BHPMLUC&printsec=frontcover&dq=subject:mathematics&hl=&cd=243&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=vx2G2BHPMLUC&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/An_Introduction_to_Laplace_Transforms_an.html?hl=&id=vx2G2BHPMLUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/An_Introduction_to_Laplace_Transforms_an-sample-pdf.acsm?id=vx2G2BHPMLUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vx2G2BHPMLUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h9nwszYPblEC",
+   "etag": "Xsc15jw0eVs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h9nwszYPblEC",
+   "volumeInfo": {
+    "title": "Iterative Methods for Sparse Linear Systems",
+    "subtitle": "Second Edition",
+    "authors": [
+     "Yousef Saad"
+    ],
+    "publisher": "SIAM",
+    "publishedDate": "2003",
+    "description": "Since the first edition of this book was published in 1996, tremendous progress has been made in the scientific and engineering disciplines regarding the use of iterative methods for linear systems. The size and complexity of the new generation of linear and nonlinear systems arising in typical applications has grown. Solving the three-dimensional models of these problems using direct solvers is no longer effective. At the same time, parallel computing has penetrated these application areas as it became less expensive and standardized. Iterative methods are easier than direct solvers to implement on parallel computers but require approaches and solution algorithms that are different from classical methods. Iterative Methods for Sparse Linear Systems, Second Edition gives an in-depth, up-to-date view of practical algorithms for solving large-scale linear systems of equations. These equations can number in the millions and are sparse in the sense that each involves only a small number of unknowns. The methods described are iterative, i.e., they provide sequences of approximations that will converge to the solution.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0898718007"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780898718003"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Differential equations, Partial"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=h9nwszYPblEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=h9nwszYPblEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=h9nwszYPblEC&printsec=frontcover&dq=subject:mathematics&hl=&cd=244&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=h9nwszYPblEC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=h9nwszYPblEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 121.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 96.8,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=h9nwszYPblEC&rdid=book-h9nwszYPblEC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.21E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.68E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 6.05E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.445E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Iterative_Methods_for_Sparse_Linear_Syst-sample-pdf.acsm?id=h9nwszYPblEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=h9nwszYPblEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jQbEcDDqGb8C",
+   "etag": "AbBU/CpxUM4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jQbEcDDqGb8C",
+   "volumeInfo": {
+    "title": "The Theory of Groups and Quantum Mechanics",
+    "authors": [
+     "Hermann Weyl"
+    ],
+    "publisher": "Courier Corporation",
+    "publishedDate": "1950",
+    "description": "This landmark among mathematics texts applies group theory to quantum mechanics, first covering unitary geometry, quantum theory, groups and their representations, then applications themselves — rotation, Lorentz, permutation groups, symmetric permutation groups, and the algebra of symmetric transformations.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486602699"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486602691"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 422,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jQbEcDDqGb8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jQbEcDDqGb8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jQbEcDDqGb8C&printsec=frontcover&dq=subject:mathematics&hl=&cd=245&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jQbEcDDqGb8C&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Theory_of_Groups_and_Quantum_Mechani.html?hl=&id=jQbEcDDqGb8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jQbEcDDqGb8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wI4fAwAAQBAJ",
+   "etag": "fzCfyUoquBU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wI4fAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Real Analysis",
+    "subtitle": "Modern Techniques and Their Applications",
+    "authors": [
+     "Gerald B. Folland"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2013-06-11",
+    "description": "An in-depth look at real analysis and its applications-now expandedand revised. This new edition of the widely used analysis book continues tocover real analysis in greater detail and at a more advanced levelthan most books on the subject. Encompassing several subjects thatunderlie much of modern analysis, the book focuses on measure andintegration theory, point set topology, and the basics offunctional analysis. It illustrates the use of the general theoriesand introduces readers to other branches of analysis such asFourier analysis, distribution theory, and probabilitytheory. This edition is bolstered in content as well as in scope-extendingits usefulness to students outside of pure analysis as well asthose interested in dynamical systems. The numerous exercises,extensive bibliography, and review chapter on sets and metricspaces make Real Analysis: Modern Techniques and TheirApplications, Second Edition invaluable for students ingraduate-level analysis courses. New features include: * Revised material on the n-dimensional Lebesgue integral. * An improved proof of Tychonoff's theorem. * Expanded material on Fourier analysis. * A newly written chapter devoted to distributions and differentialequations. * Updated material on Hausdorff dimension and fractal dimension.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118626399"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1118626397"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wI4fAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wI4fAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wI4fAwAAQBAJ&printsec=frontcover&dq=subject:mathematics&hl=&cd=246&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=wI4fAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wI4fAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 158.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 127.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=wI4fAwAAQBAJ&rdid=book-wI4fAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.5899E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.2719E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Real_Analysis-sample-epub.acsm?id=wI4fAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Real_Analysis-sample-pdf.acsm?id=wI4fAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wI4fAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZPLADAAAQBAJ",
+   "etag": "GecqZudn8q4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZPLADAAAQBAJ",
+   "volumeInfo": {
+    "title": "Introducing Game Theory",
+    "subtitle": "A Graphic Guide",
+    "authors": [
+     "Ivan Pastine",
+     "Tuvana Pastine"
+    ],
+    "publisher": "Icon Books",
+    "publishedDate": "2017-03-02",
+    "description": "When should you adopt an aggressive business strategy? How do we make decisions when we don’t have all the information? What makes international environmental cooperation possible? Game theory is the study of how we make a decision when the outcome of our moves depends on the decisions of someone else. Economists Ivan and Tuvana Pastine explain why, in these situations, we sometimes cooperate, sometimes clash, and sometimes act in a way that seems completely random. Stylishly brought to life by award-winning cartoonist Tom Humberstone, Game Theory will help readers understand behaviour in everything from our social lives to business, global politics to evolutionary biology. It provides a thrilling new perspective on the world we live in.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781785780837"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1785780832"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZPLADAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZPLADAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZPLADAAAQBAJ&printsec=frontcover&dq=subject:mathematics&hl=&cd=247&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZPLADAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZPLADAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 4.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZPLADAAAQBAJ&rdid=book-ZPLADAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4790000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Introducing_Game_Theory-sample-epub.acsm?id=ZPLADAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Introducing_Game_Theory-sample-pdf.acsm?id=ZPLADAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZPLADAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bXJiDwAAQBAJ",
+   "etag": "yEmbpApagEA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bXJiDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Mastering Machine Learning for Penetration Testing",
+    "subtitle": "Develop an extensive skill set to break self-learning systems using Python",
+    "authors": [
+     "Chiheb Chebbi"
+    ],
+    "publisher": "Packt Publishing Ltd",
+    "publishedDate": "2018-06-27",
+    "description": "Become a master at penetration testing using machine learning with Python Key Features Identify ambiguities and breach intelligent security systems Perform unique cyber attacks to breach robust systems Learn to leverage machine learning algorithms Book Description Cyber security is crucial for both businesses and individuals. As systems are getting smarter, we now see machine learning interrupting computer security. With the adoption of machine learning in upcoming security products, it’s important for pentesters and security researchers to understand how these systems work, and to breach them for testing purposes. This book begins with the basics of machine learning and the algorithms used to build robust systems. Once you’ve gained a fair understanding of how security products leverage machine learning, you'll dive into the core concepts of breaching such systems. Through practical use cases, you’ll see how to find loopholes and surpass a self-learning security system. As you make your way through the chapters, you’ll focus on topics such as network intrusion detection and AV and IDS evasion. We’ll also cover the best practices when identifying ambiguities, and extensive techniques to breach an intelligent system. By the end of this book, you will be well-versed with identifying loopholes in a self-learning security system and will be able to efficiently breach a machine learning system. What you will learn Take an in-depth look at machine learning Get to know natural language processing (NLP) Understand malware feature engineering Build generative adversarial networks using Python libraries Work on threat hunting with machine learning and the ELK stack Explore the best practices for machine learning Who this book is for This book is for pen testers and security professionals who are interested in learning techniques to break an intelligent security system. Basic knowledge of Python is needed, but no prior knowledge of machine learning is necessary.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781788993111"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "178899311X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bXJiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bXJiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bXJiDwAAQBAJ&printsec=frontcover&dq=subject:mathematics&hl=&cd=248&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bXJiDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bXJiDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bXJiDwAAQBAJ&rdid=book-bXJiDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.199E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.979E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bXJiDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sb0PAAAAQBAJ",
+   "etag": "RWQ2tJC3yc0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sb0PAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Love and Math",
+    "subtitle": "The Heart of Hidden Reality",
+    "authors": [
+     "Edward Frenkel"
+    ],
+    "publisher": "Basic Books",
+    "publishedDate": "2013-10-01",
+    "description": "An awesome, globe-spanning, and New York Times best-selling journey through the beauty and power of mathematics What if you had to take an art class in which you were only taught how to paint a fence? What if you were never shown the paintings of van Gogh and Picasso, weren't even told they existed? Alas, this is how math is taught, and so for most of us it becomes the intellectual equivalent of watching paint dry. In Love and Math, renowned mathematician Edward Frenkel reveals a side of math we've never seen, suffused with all the beauty and elegance of a work of art. In this heartfelt and passionate book, Frenkel shows that mathematics, far from occupying a specialist niche, goes to the heart of all matter, uniting us across cultures, time, and space. Love and Math tells two intertwined stories: of the wonders of mathematics and of one young man's journey learning and living it. Having braved a discriminatory educational system to become one of the twenty-first century's leading mathematicians, Frenkel now works on one of the biggest ideas to come out of math in the last 50 years: the Langlands Program. Considered by many to be a Grand Unified Theory of mathematics, the Langlands Program enables researchers to translate findings from one field to another so that they can solve problems, such as Fermat's last theorem, that had seemed intractable before. At its core, Love and Math is a story about accessing a new way of thinking, which can enrich our lives and empower us to better understand the world and our place in it. It is an invitation to discover the magic hidden universe of mathematics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780465069958"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0465069959"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.17.18.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sb0PAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sb0PAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=sb0PAAAAQBAJ&printsec=frontcover&dq=subject:mathematics&hl=&cd=249&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sb0PAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sb0PAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sb0PAAAAQBAJ&rdid=book-sb0PAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Love_and_Math-sample-epub.acsm?id=sb0PAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Love_and_Math-sample-pdf.acsm?id=sb0PAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sb0PAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iU4zDAAAQBAJ",
+   "etag": "si+sC7IC0jc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iU4zDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Ordinary Differential Equations",
+    "subtitle": "An Elementary Textbook for Students of Mathematics, Engineering, and the Sciences",
+    "authors": [
+     "Morris Tenenbaum",
+     "Harry Pollard"
+    ],
+    "publisher": "Courier Corporation",
+    "publishedDate": "1963",
+    "description": "Skillfully organized introductory text examines origin of differential equations, then defines basic terms and outlines the general solution of a differential equation. Subsequent sections deal with integrating factors; dilution and accretion problems; linearization of first order systems; Laplace Transforms; Newton's Interpolation Formulas, more.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486649405"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0486649407"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 808,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iU4zDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iU4zDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=iU4zDAAAQBAJ&printsec=frontcover&dq=subject:mathematics&hl=&cd=250&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=iU4zDAAAQBAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ordinary_Differential_Equations.html?hl=&id=iU4zDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iU4zDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xhPNBQAAQBAJ",
+   "etag": "BmsaJ8S3duk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xhPNBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Generalized Additive Models",
+    "subtitle": "An Introduction with R",
+    "authors": [
+     "Simon N. Wood"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "2006-02-27",
+    "description": "Now in widespread use, generalized additive models (GAMs) have evolved into a standard statistical methodology of considerable flexibility. While Hastie and Tibshirani's outstanding 1990 research monograph on GAMs is largely responsible for this, there has been a long-standing need for an accessible introductory treatment of the subject that also emphasizes recent penalized regression spline approaches to GAMs and the mixed model extensions of these models. Generalized Additive Models: An Introduction with R imparts a thorough understanding of the theory and practical applications of GAMs and related advanced models, enabling informed use of these very flexible tools. The author bases his approach on a framework of penalized regression splines, and builds a well-grounded foundation through motivating chapters on linear and generalized linear models. While firmly focused on the practical aspects of GAMs, discussions include fairly full explanations of the theory underlying the methods. Use of the freely available R software helps explain the theory and illustrates the practicalities of linear, generalized linear, and generalized additive models, as well as their mixed effect extensions. The treatment is rich with practical examples, and it includes an entire chapter on the analysis of real data sets using R and the author's add-on package mgcv. Each chapter includes exercises, for which complete solutions are provided in an appendix. Concise, comprehensive, and essentially self-contained, Generalized Additive Models: An Introduction with R prepares readers with the practical skills and the theoretical background needed to use and understand GAMs and to move on to other GAM-related methods and models, such as SS-ANOVA, P-splines, backfitting and Bayesian approaches to smoothing and additive modelling.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781420010404"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1420010409"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xhPNBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xhPNBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xhPNBQAAQBAJ&printsec=frontcover&dq=subject:mathematics&hl=&cd=251&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xhPNBQAAQBAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Generalized_Additive_Models.html?hl=&id=xhPNBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Generalized_Additive_Models-sample-pdf.acsm?id=xhPNBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xhPNBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W9AxAjSiIaUC",
+   "etag": "Ll482tgwkwU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W9AxAjSiIaUC",
+   "volumeInfo": {
+    "title": "Trigonometric Series",
+    "authors": [
+     "A. Zygmund"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2002",
+    "description": "Both volumes of classic text on trigonometric series, with a foreword by Robert Fefferman.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521890535"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521890533"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 747,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=W9AxAjSiIaUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=W9AxAjSiIaUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=W9AxAjSiIaUC&printsec=frontcover&dq=subject:mathematics&hl=&cd=252&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=W9AxAjSiIaUC&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Trigonometric_Series.html?hl=&id=W9AxAjSiIaUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=W9AxAjSiIaUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HOsvllRMMP8C",
+   "etag": "8WlhLTcgkXk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HOsvllRMMP8C",
+   "volumeInfo": {
+    "title": "An Introduction to Neural Networks",
+    "authors": [
+     "Kevin Gurney"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "1997-08-05",
+    "description": "Though mathematical ideas underpin the study of neural networks, the author presents the fundamentals without the full mathematical apparatus. All aspects of the field are tackled, including artificial neurons as models of their real counterparts; the geometry of network action in pattern space; gradient descent methods, including back-propagation; associative memory and Hopfield nets; and self-organization and feature maps. The traditionally difficult topic of adaptive resonance theory is clarified within a hierarchical description of its operation. The book also includes several real-world examples to provide a concrete focus. This should enhance its appeal to those involved in the design, construction and management of networks in commercial environments and who wish to improve their understanding of network simulator packages. As a comprehensive and highly accessible introduction to one of the most important topics in cognitive and computer science, this volume should interest a wide range of readers, both students and professionals, in cognitive science, psychology, computer science and electrical engineering.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1857285034"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781857285031"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 234,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 8,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HOsvllRMMP8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HOsvllRMMP8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HOsvllRMMP8C&printsec=frontcover&dq=subject:mathematics&hl=&cd=253&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HOsvllRMMP8C&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/An_Introduction_to_Neural_Networks.html?hl=&id=HOsvllRMMP8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/An_Introduction_to_Neural_Networks-sample-pdf.acsm?id=HOsvllRMMP8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HOsvllRMMP8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "egwrDAAAQBAJ",
+   "etag": "FA+5C19Jwsc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/egwrDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Advanced Differential Equations",
+    "authors": [
+     "M.D.Raisinghania"
+    ],
+    "publisher": "S. Chand Publishing",
+    "publishedDate": "1995-03-01",
+    "description": "This book is especially prepared for B.A., B.Sc. and honours (Mathematics and Physics), M.A/M.Sc. (Mathematics and Physics), B.E. Students of Various Universities and for I.A.S., P.C.S., AMIE, GATE, and other competitve exams.Almost all the chapters have been rewritten so that in the present form, the reader will not find any difficulty in understanding the subject matter.The matter of the previous edition has been re-organised so that now each topic gets its proper place in the book.More solved examples have been added so that now each topic gets its proper place in the book. References to the latest papers of various universities and I.A.S. examination have been made at proper places.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788121908931"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8121908930"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 635,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=egwrDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=egwrDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=egwrDAAAQBAJ&printsec=frontcover&dq=subject:mathematics&hl=&cd=254&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=egwrDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=egwrDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.49,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.87,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=egwrDAAAQBAJ&rdid=book-egwrDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.249E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.787E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Advanced_Differential_Equations-sample-pdf.acsm?id=egwrDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=egwrDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e8xKDAAAQBAJ",
+   "etag": "u7hky20iyRQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e8xKDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Introduzione alla teoria della computazione",
+    "authors": [
+     "Michael Sipser"
+    ],
+    "publisher": "Maggioli Editore",
+    "publishedDate": "2016",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788891616180"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8891616184"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 498,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=e8xKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=e8xKDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "it",
+    "previewLink": "http://books.google.com/books?id=e8xKDAAAQBAJ&printsec=frontcover&dq=subject:mathematics&hl=&cd=255&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=e8xKDAAAQBAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Introduzione_alla_teoria_della_computazi.html?hl=&id=e8xKDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=e8xKDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3uqZ_81If4UC",
+   "etag": "evHA+ZK6qEU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3uqZ_81If4UC",
+   "volumeInfo": {
+    "title": "Sample Size Calculations",
+    "subtitle": "Practical Methods for Engineers and Scientists",
+    "authors": [
+     "Paul Mathews"
+    ],
+    "publisher": "Mathews Malnar and Bailey",
+    "publishedDate": "2010",
+    "description": "Sample Size Calculations: Practical Methods for Engineers and Scientists presents power and sample size calculations for common statistical analyses including methods for means, standard deviations, proportions, counts, regression, correlation, and measures of agreement. Topics of special interest to quality engineering professionals include designed experiments, reliability studies, statistical process control, acceptance sampling, process capability analysis, statistical tolerancing, and gage error studies. The book emphasizes approximate methods, but exact methods are presented when the approximate methods fail. Monte Carlo and bootstrap methods are introduced for situations that don't satisfy the assumptions of the analytical methods. Solutions are presented for more than 170 example problems and solutions for selected example problems using PASS, MINITAB, Piface, and R are posted on the Internet.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780615324616"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0615324614"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 338,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3uqZ_81If4UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3uqZ_81If4UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=3uqZ_81If4UC&printsec=frontcover&dq=subject:mathematics&hl=&cd=256&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=3uqZ_81If4UC&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sample_Size_Calculations.html?hl=&id=3uqZ_81If4UC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3uqZ_81If4UC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MrGFDWUxhAQC",
+   "etag": "VkozlSKVsUg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MrGFDWUxhAQC",
+   "volumeInfo": {
+    "title": "Calculus of a Single Variable",
+    "authors": [
+     "Ron Larson",
+     "Robert P. Hostetler",
+     "Bruce Edwards"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2005-01-19",
+    "description": "Ideal for the single-variable, one-, or two-semester calculus course, Calculus of a Single Variable, 8/e, contains the first 9 chapters of Calculus, 8/e. The text continues to offer instructors and students new and innovative teaching and learning resources. The Calculus series was the first to use computer-generated graphics, to include exercises involving the use of computers and graphing calculators, to be available in an interactive CD-ROM format, to be offered as a complete, online calculus course, and to offer a two-semester Calculus I with Precalculus text. Every edition of the series has made the mastery of traditional calculus skills a priority, while embracing the best features of new technology and, when appropriate, calculus reform ideas. Now, the Eighth Edition is the first calculus program to offer algorithmic homework and testing created in Maple so that answers can be evaluated with complete mathematical accuracy. Two primary objectives guided the authors in writing this book: to develop precise, readable materials for students that clearly define and demonstrate concepts and rules of calculus and to design comprehensive teaching resources for instructors that employ proven pedagogical techniques and saves the instructor time. The Eighth Edition continues to provide an evolving range of conceptual, technological, and creative tools that enable instructors to teach the way they want to teach and students to learn they way they learn best. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618503032"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "061850303X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 912,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MrGFDWUxhAQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MrGFDWUxhAQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=MrGFDWUxhAQC&printsec=frontcover&dq=subject:mathematics&hl=&cd=257&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=MrGFDWUxhAQC&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Calculus_of_a_Single_Variable.html?hl=&id=MrGFDWUxhAQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MrGFDWUxhAQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z4XECiCoei0C",
+   "etag": "jfP5h753WfM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z4XECiCoei0C",
+   "volumeInfo": {
+    "title": "Calculus: Early Transcendentals",
+    "authors": [
+     "Soo Tan"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2010-01-07",
+    "description": "Known for accuracy, precision, and rigor, Soo Tan now brings those same qualities to the Calculus course. With his clear, concise writing style, and use of relevant, real world examples, Tan introduces abstract mathematical concepts with his intuitive approach that captures student interest without compromising mathematical rigor. In keeping with this emphasis on conceptual understanding, each exercise set begins with concept questions and each end-of-chapter review section includes fill-in-the-blank questions which help students master the definitions and theorems in each chapter. Additionally, many questions asking for the interpretation of graphical, numerical, and algebraic results are included among both the examples and the exercise sets. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780534465544"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0534465544"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1464,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=z4XECiCoei0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=z4XECiCoei0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=z4XECiCoei0C&printsec=frontcover&dq=subject:mathematics&hl=&cd=258&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=z4XECiCoei0C&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Calculus_Early_Transcendentals.html?hl=&id=z4XECiCoei0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=z4XECiCoei0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Altdh0pTQ2oC",
+   "etag": "id1SmTUQQDE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Altdh0pTQ2oC",
+   "volumeInfo": {
+    "title": "R for Stata Users",
+    "authors": [
+     "Robert A. Muenchen",
+     "Joseph M. Hilbe"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2010-04-26",
+    "description": "Stata is the most flexible and extensible data analysis package available from a commercial vendor. R is a similarly flexible free and open source package for data analysis, with over 3,000 add-on packages available. This book shows you how to extend the power of Stata through the use of R. It introduces R using Stata terminology with which you are already familiar. It steps through more than 30 programs written in both languages, comparing and contrasting the two packages' different approaches. When finished, you will be able to use R in conjunction with Stata, or separately, to import data, manage and transform it, create publication quality graphics, and perform basic statistical analyses. A glossary defines over 50 R terms using Stata jargon and again using more formal R terminology. The table of contents and index allow you to find equivalent R functions by looking up Stata commands and vice versa. The example programs and practice datasets for both R and Stata are available for download.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1441913181"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781441913180"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 530,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Altdh0pTQ2oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Altdh0pTQ2oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Altdh0pTQ2oC&printsec=frontcover&dq=subject:mathematics&hl=&cd=259&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Altdh0pTQ2oC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Altdh0pTQ2oC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 169.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 135.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Altdh0pTQ2oC&rdid=book-Altdh0pTQ2oC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.69E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.352E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 5.915E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.146E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/R_for_Stata_Users-sample-epub.acsm?id=Altdh0pTQ2oC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/R_for_Stata_Users-sample-pdf.acsm?id=Altdh0pTQ2oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Altdh0pTQ2oC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_OnjBgpuhWcC",
+   "etag": "w0OoQKPG0eM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_OnjBgpuhWcC",
+   "volumeInfo": {
+    "title": "The Oxford Dictionary of Statistical Terms",
+    "authors": [
+     "Yadolah Dodge"
+    ],
+    "publisher": "Oxford University Press on Demand",
+    "publishedDate": "2006",
+    "description": "This is the new-in-paperback edition of The Oxford Dictionary of Statistical Terms, the much-awaited sixth edition of the acclaimed standard reference work in statistics, published on behalf of the International Statistical Institute. The first edition, known as the Dictionary of StatisticalTerms, was edited in 1957 by the late Sir Maurice Kendall and the late Dr W.R. Buckland. As one of the first dictionaries of statistics it set high standards for the subject, and became a well-respected reference. This edition has been carefully updated and extended to include the most recent terminology and techniques in statistics. Significant revision and expansion from an international editorial board of senior statisticians has resulted in a comprehenisive reference text which includes 30% more materialthan previous editions. Ideal for all who use statistics in the workplace and in research including all scientists and social scientists, especially in law, politics, finance, business, and history, it is an indispensable reference.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0199206139"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199206131"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 498,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_OnjBgpuhWcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_OnjBgpuhWcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_OnjBgpuhWcC&printsec=frontcover&dq=subject:mathematics&hl=&cd=260&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_OnjBgpuhWcC&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Oxford_Dictionary_of_Statistical_Ter.html?hl=&id=_OnjBgpuhWcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_OnjBgpuhWcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zXnSxY9G2JgC",
+   "etag": "R93wKCKTcyI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zXnSxY9G2JgC",
+   "volumeInfo": {
+    "title": "Numerical Analysis",
+    "authors": [
+     "Richard L. Burden",
+     "J. Douglas Faires"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2010-08-09",
+    "description": "This well-respected text gives an introduction to the theory and application of modern numerical approximation techniques for students taking a one- or two-semester course in numerical analysis. With an accessible treatment that only requires a calculus prerequisite, Burden and Faires explain how, why, and when approximation techniques can be expected to work, and why, in some situations, they fail. A wealth of examples and exercises develop students' intuition, and demonstrate the subject's practical applications to important everyday problems in math, computing, engineering, and physical science disciplines. The first book of its kind built from the ground up to serve a diverse undergraduate audience, three decades later Burden and Faires remains the definitive introduction to a vital and practical subject. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780538733519"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0538733519"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 888,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zXnSxY9G2JgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zXnSxY9G2JgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zXnSxY9G2JgC&printsec=frontcover&dq=subject:mathematics&hl=&cd=261&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=zXnSxY9G2JgC&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Numerical_Analysis.html?hl=&id=zXnSxY9G2JgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zXnSxY9G2JgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cdQoDwAAQBAJ",
+   "etag": "R9URiE/zLCM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cdQoDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Predictive Control for Linear and Hybrid Systems",
+    "authors": [
+     "Francesco Borrelli",
+     "Alberto Bemporad",
+     "Manfred Morari"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2017-06-22",
+    "description": "With a simple approach that includes real-time applications and algorithms, this book covers the theory of model predictive control (MPC).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781107016880"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1107016886"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 440,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cdQoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cdQoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cdQoDwAAQBAJ&printsec=frontcover&dq=subject:mathematics&hl=&cd=262&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=cdQoDwAAQBAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Predictive_Control_for_Linear_and_Hybrid.html?hl=&id=cdQoDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cdQoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jIijBgAAQBAJ",
+   "etag": "BfWm36GipI4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jIijBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Analysis 2",
+    "authors": [
+     "Christian Blatter"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2013-03-07",
+    "description": "Auf eine moderne und didaktische Vorlesungspräsentation abgestimmt, bietet der zweibändige Analysiszyklus von Prof. Blatter eine gut fundierte Einführung in die Differential- und Integralrechnung. Durch seine anschauliche und mit vielen Beispielen aufgelockerte Darstellung wird insbesondere das Bedürfnis nach Anwendungen - auch aus der Physik - erfüllt. Die dritte Auflage wurde vollständig überarbeitet und neu erfaßt. Schwerpunkte von Band 2 sind die ausführlichere Behandlung der Differentialgleichungen und der Vektoranalysis, sowie der Kapitel zur Fourier-Analysis. In allen Fällen wurde auf zahlreiche Beispiele und die Einbeziehung von Anwendungen aus verschiedenen Bereichen besonderer Wert gelegt.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642776472"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642776477"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 410,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jIijBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jIijBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=jIijBgAAQBAJ&printsec=frontcover&dq=subject:mathematics&hl=&cd=263&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jIijBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jIijBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 39.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jIijBgAAQBAJ&rdid=book-jIijBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.949E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Analysis_2-sample-pdf.acsm?id=jIijBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jIijBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ANBFswEACAAJ",
+   "etag": "QtyJXQLRt3A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ANBFswEACAAJ",
+   "volumeInfo": {
+    "title": "Gröbner Bases",
+    "subtitle": "A Computational Approach to Commutative Algebra",
+    "authors": [
+     "Thomas Becker",
+     "Volker Weispfenning"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2011-09-30",
+    "description": "The origins of the mathematics in this book date back more than two thou sand years, as can be seen from the fact that one of the most important algorithms presented here bears the name of the Greek mathematician Eu clid. The word \"algorithm\" as well as the key word \"algebra\" in the title of this book come from the name and the work of the ninth-century scientist Mohammed ibn Musa al-Khowarizmi, who was born in what is now Uzbek istan and worked in Baghdad at the court of Harun al-Rashid's son. The word \"algorithm\" is actually a westernization of al-Khowarizmi's name, while \"algebra\" derives from \"al-jabr,\" a term that appears in the title of his book Kitab al-jabr wa'l muqabala, where he discusses symbolic methods for the solution of equations. This close connection between algebra and al gorithms lasted roughly up to the beginning of this century; until then, the primary goal of algebra was the design of constructive methods for solving equations by means of symbolic transformations. During the second half of the nineteenth century, a new line of thought began to enter algebra from the realm of geometry, where it had been successful since Euclid's time, namely, the axiomatic method.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1461209145"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781461209140"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 576,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ANBFswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ANBFswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ANBFswEACAAJ&dq=subject:mathematics&hl=&cd=264&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ANBFswEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Gr%C3%B6bner_Bases.html?hl=&id=ANBFswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ANBFswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ABClLthrwEsC",
+   "etag": "GSfSCMzf5XQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ABClLthrwEsC",
+   "volumeInfo": {
+    "title": "The Catalyst",
+    "authors": [
+     "Institute for Social Service Alternatives"
+    ],
+    "publisher": "Rex Bookstore, Inc.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ABClLthrwEsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ABClLthrwEsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ABClLthrwEsC&printsec=frontcover&dq=subject:mathematics&hl=&cd=265&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ABClLthrwEsC&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Catalyst.html?hl=&id=ABClLthrwEsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ABClLthrwEsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gnzbswEACAAJ",
+   "etag": "Efqi39ja0wo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gnzbswEACAAJ",
+   "volumeInfo": {
+    "title": "Encyclopaedia of Mathematics",
+    "authors": [
+     "Michiel Hazewinkel"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2012-05-22",
+    "description": "This ENCYCLOPAEDIA OF MATHEMATICS aims to be a reference work for all parts of mathema tics. It is a translation with updates and editorial comments of the Soviet Mathematical Encyclo paedia published by 'Soviet Encyclopaedia Publishing House' in five volumes in 1977 - 1985. The annotated translation consists of ten volumes including a special index volume. There are three kinds of articles in this ENCYCLOPAEDIA. First of all there are survey-type articles dealing with the various main directions in mathematics (where a rather fine subdivision has been used). The main requirement for these articles has been that they should give a reason ably complete up-to-date account of the current state of affairs in these areas and that they should be maximally accessible. On the whole, these articles should be understandable to mathematics students in their first specialization years, to graduates from other mathematical areas and, depending on the specific subject, to specialists in other domains of science, en gineers and teachers of mathematics. These articles treat their material at a fairly general level and aim to give an idea of the kind of problems, techniques and concepts involved in the area in question. They also contain background and motivation rather than precise statements of pre cise theorems with detailed definitions and technical details on how to carry out proofs and con structions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "940151240X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789401512404"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 488,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gnzbswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gnzbswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=gnzbswEACAAJ&dq=subject:mathematics&hl=&cd=266&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=gnzbswEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Encyclopaedia_of_Mathematics.html?hl=&id=gnzbswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gnzbswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7dRoDQAAQBAJ",
+   "etag": "+y0sAYG5/GA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7dRoDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Graph Algorithms and Applications 5",
+    "authors": [
+     "Giuseppe Liotta",
+     "Roberto Tamassia",
+     "Ioannis G. Tollis"
+    ],
+    "publisher": "World Scientific",
+    "publishedDate": "2006",
+    "description": "This book contains Volume 8 of the Journal of Graph Algorithms and Applications (JGAA). JGAA is a peer-reviewed scientific journal devoted to the publication of high-quality research papers on the analysis, design, implementation, and applications of graph algorithms. Areas of interest include computational biology, computational geometry, computer graphics, computer-aided design, computer and interconnection networks, constraint systems, databases, graph drawing, graph embedding and layout, knowledge representation, multimedia, software engineering, telecommunications networks, user interfaces and visualization, and VLSI circuit design.Graph Algorithms and Applications 5 presents contributions from prominent authors and includes selected papers from the Tenth International Symposium on Graph Drawing (GD 2002). All papers in the book have extensive diagrams and offer a unique treatment of graph algorithms focusing on the important applications.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789812568458"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "981256845X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 366,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7dRoDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7dRoDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7dRoDQAAQBAJ&printsec=frontcover&dq=subject:mathematics&hl=&cd=267&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=7dRoDQAAQBAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Graph_Algorithms_and_Applications_5.html?hl=&id=7dRoDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7dRoDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ckTFAAAACAAJ",
+   "etag": "rhmes2TVPcg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ckTFAAAACAAJ",
+   "volumeInfo": {
+    "title": "Math, Grade 2",
+    "authors": [
+     "School Specialty Publishing"
+    ],
+    "publisher": "Frank Schaffer Publications",
+    "publishedDate": "2006-03",
+    "description": "Skills for Scholars Math provides children in grade 2 with necessary math instruction. Offering 80 pages of full-color activities, perforated pages, easy-to-follow directions, and complete answer key, children will have fun learning important math skills. Features activities that teach: ~ 2- & 3-digit addtion & subtraction ~ Skip counting ~ Place values ~ Multiplication & division ~ Geometry & measurement ~ Fractions ~ Time & money The popular Skills for Scholars Workbook series offers a full complement of instruction, activities, and information in 51 subject-specific workbooks. Encompassing preschool to grade 6, this series covers key subjects including basic skills, English & grammar, math, phonics, reading, science, and Spanish. This series is designed for students who need intervention or enrichment and gives them a solid foundation in key skills necessary for success in the classroom",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0769682227"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780769682228"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ckTFAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ckTFAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ckTFAAAACAAJ&dq=subject:mathematics&hl=&cd=268&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ckTFAAAACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Math_Grade_2.html?hl=&id=ckTFAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ckTFAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cbqkugEACAAJ",
+   "etag": "cmcyzV2QWz4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cbqkugEACAAJ",
+   "volumeInfo": {
+    "title": "Mathematik für Ökonomen",
+    "authors": [
+     "Frank Riedel",
+     "Philipp Wichardt"
+    ],
+    "publishedDate": "2007",
+    "description": "Der moderne Wirtschaftswissenschaftler hat profunde Kenntnisse der Mathematik. Mit Hilfe mathematischer Methoden werden heute etwa Optionsscheine an der Börse bewertet oder Auktionen entworfen. Zudem bildet die Mathematik die Basis für empirisches Arbeiten mit Hilfe statistischer Methoden. In allen Arbeitsfeldern des Ökonomen ist somit eine gute ökonomische Intuition gepaart mit mathematischem Sachverstand unerlässlich geworden. Im Unterschied zu vielen anderen Lehrbüchern beschränkt sich dieses Buch nicht auf die Besprechung der verschiedenen Methoden und auf ein reines Aufreihen der verschiedenen Regeln und Theoreme. Vielmehr beweisen die Autoren die wichtigsten Aussagen, um dem Leser ein Verständnis für die Richtigkeit mathematischer Aussagen und Beweistechniken zu vermitteln. Des Weiteren werden alle mathematischen Methoden auch an Hand von ökonomischen Beispielen verdeutlicht.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3540688722"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540688723"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 326,
+    "printType": "BOOK",
+    "categories": [
+     "Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cbqkugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cbqkugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=cbqkugEACAAJ&dq=subject:mathematics&hl=&cd=269&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=cbqkugEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mathematik_f%C3%BCr_%C3%96konomen.html?hl=&id=cbqkugEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cbqkugEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sembQgAACAAJ",
+   "etag": "+biTxqDYegQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sembQgAACAAJ",
+   "volumeInfo": {
+    "title": "Div, Grad, Curl, and All that",
+    "subtitle": "An Informal Text on Vector Calculus",
+    "authors": [
+     "Harry Moritz Schey"
+    ],
+    "publisher": "W W Norton & Company Incorporated",
+    "publishedDate": "2005",
+    "description": "This new fourth edition of the acclaimed and bestselling Div, Grad, Curl, and All That has been carefully revised and now includes updated notations and seven new example exercises.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393925161"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393925166"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 163,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sembQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sembQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=sembQgAACAAJ&dq=subject:mathematics&hl=&cd=270&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=sembQgAACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Div_Grad_Curl_and_All_that.html?hl=&id=sembQgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sembQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tU8KG7D03DAC",
+   "etag": "XbW4KYe/T2E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tU8KG7D03DAC",
+   "volumeInfo": {
+    "title": "Computer Science - Theory and Applications",
+    "subtitle": "Third International Computer Science Symposium in Russia, CSR 2008, Moscow, Russia, June 7-12, 2008, Proceedings",
+    "authors": [
+     "Edward A. Hirsch",
+     "Alexander A. Razborov",
+     "Alexei Semenov",
+     "Anatol Slissenko"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2008-05-08",
+    "description": "The Third International Computer Science Symposium in Russia (CSR-2008) was held during June 7-12, 2008 in Moscow, Russia, hosted by Dorodnicyn Computing Centre of Russian Academy of Sciences, Institute for System P- gramming of Russian Academy of Sciences, Moscow State University, Moscow Institute of Open Education, andInstitute ofNew Technologies.It was the third event in the series of regular international meetings following CSR-2006 in St. Petersburg and CSR-2007 in Ekaterinburg. The symposiumwascomposedof twotracks: Theory andApplications/Te- nology.The opening lecture was given by Avi Wigdersonand eight other invited plenarylecturesweregivenby EricAllender, ZurabKhasidashvili, LeonidLevin, Pavel Pudl ́ ak, Florin Spanachi, Limsoon Wong, Yuri Zhuravlev and Konstantin Rudakov, and Uri Zwick. This volume contains the accepted papers of both tracks and also some of the abstracts of the invited speakers. The scope of the proposed topics for the symposium was quite broad and covered basically all areas of computer science and its applications. We received 103 papers in total. The Program Committee of the Theory Track selected 27 papers out of 62 submissions. The Program Committee of the Applications/Technology Track selected 6 papers out of 41 submissions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540797081"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3540797084"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 409,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tU8KG7D03DAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tU8KG7D03DAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tU8KG7D03DAC&printsec=frontcover&dq=subject:mathematics&hl=&cd=271&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tU8KG7D03DAC&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Computer_Science_Theory_and_Applications.html?hl=&id=tU8KG7D03DAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Computer_Science_Theory_and_Applications-sample-pdf.acsm?id=tU8KG7D03DAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tU8KG7D03DAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dbS5IQ8P5gYC",
+   "etag": "wbwV/DQHluc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dbS5IQ8P5gYC",
+   "volumeInfo": {
+    "title": "Time Series Analysis and Its Applications",
+    "subtitle": "With R Examples",
+    "authors": [
+     "Robert H. Shumway",
+     "David S. Stoffer"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2010-11-24",
+    "description": "Time Series Analysis and Its Applications presents a balanced and comprehensive treatment of both time and frequency domain methods with accompanying theory. Numerous examples using nontrivial data illustrate solutions to problems such as discovering natural and anthropogenic climate change, evaluating pain perception experiments using functional magnetic resonance imaging, and monitoring a nuclear test ban treaty. The book is designed to be useful as a text for graduate level students in the physical, biological and social sciences and as a graduate level text in statistics. Some parts may also serve as an undergraduate introductory course. Theory and methodology are separated to allow presentations on different levels. In addition to coverage of classical methods of time series regression, ARIMA models, spectral analysis and state-space models, the text includes modern developments including categorical time series analysis, multivariate spectral methods, long memory series, nonlinear models, resampling techniques, GARCH models, stochastic volatility, wavelets and Monte Carlo Markov chain integration methods. The third edition includes a new section on testing for unit roots and the material on state-space modeling, ARMAX models, and regression with autocorrelated errors have been expanded. Also new to this edition is the enhanced use of the freeware statistical package R. In particular, R code is now included in the text for nearly all of the numerical examples. Data sets and additional R scripts are now provided in one file that may be downloaded via the World Wide Web. This R supplement is a small compressed file that can be loaded easily into R making all the data sets and scripts available to the user with one simple command. The website for the text includes the code used in each example so that the reader may simply copy-and-paste code directly into R. Appendix R, which is new to this edition, provides a reference for the data sets and our R scripts that are used throughout the text. In addition, Appendix R includes a tutorial on basic R commands as well as an R time series tutorial.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781441978646"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "144197864X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 596,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dbS5IQ8P5gYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dbS5IQ8P5gYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=dbS5IQ8P5gYC&dq=subject:mathematics&hl=&cd=272&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=dbS5IQ8P5gYC&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Time_Series_Analysis_and_Its_Application.html?hl=&id=dbS5IQ8P5gYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dbS5IQ8P5gYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JpyvvuTFhDIC",
+   "etag": "p8g3VPWRUcU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JpyvvuTFhDIC",
+   "volumeInfo": {
+    "title": "Schaum's Outline of Differential Geometry",
+    "authors": [
+     "Martin M. Lipschutz"
+    ],
+    "publisher": "McGraw Hill Professional",
+    "publishedDate": "1969-06-22",
+    "description": "For senior undergraduates or first year graduate students.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0070379858"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780070379855"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 269,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JpyvvuTFhDIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JpyvvuTFhDIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=JpyvvuTFhDIC&dq=subject:mathematics&hl=&cd=273&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=JpyvvuTFhDIC&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Schaum_s_Outline_of_Differential_Geometr.html?hl=&id=JpyvvuTFhDIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JpyvvuTFhDIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PcqiXD_BxA4C",
+   "etag": "5T6lvZH7Rng",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PcqiXD_BxA4C",
+   "volumeInfo": {
+    "title": "Concepts of Modern Mathematics",
+    "authors": [
+     "Ian Stewart"
+    ],
+    "publisher": "Courier Corporation",
+    "publishedDate": "1995-02-01",
+    "description": "Presents a humorous look at the concepts of \"new math.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486284247"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486284248"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 339,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.4.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PcqiXD_BxA4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PcqiXD_BxA4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=PcqiXD_BxA4C&dq=subject:mathematics&hl=&cd=274&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=PcqiXD_BxA4C&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Concepts_of_Modern_Mathematics.html?hl=&id=PcqiXD_BxA4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PcqiXD_BxA4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7tntAAAAMAAJ",
+   "etag": "hfVf6zFYK/Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7tntAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Applied Statistics for the Behavioral Sciences",
+    "authors": [
+     "Dennis E. Hinkle",
+     "William Wiersma",
+     "Stephen G. Jurs"
+    ],
+    "publisher": "Houghton Mifflin College Division",
+    "publishedDate": "2003",
+    "description": "This introductory text provides students with a conceptual understanding of basic statistical procedures, as well as the computational skills needed to complete them. The clear presentation, accessible language, and step-by-step instruction make it easy for students from a variety of social science disciplines to grasp the material. The scenarios presented in chapter exercises span the curriculum, from political science to marketing, so that students make a connection between their own area of interest and the study of statistics. Unique coverage focuses on concepts critical to understanding current statistical research such as power and sample size, multiple comparison tests, multiple regression, and analysis of covariance. Additional SPSS coverage throughout the text includes computer printouts and expanded discussion of their contents in interpreting the results of sample exercises.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0618124055"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618124053"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 756,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7tntAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7tntAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7tntAAAAMAAJ&dq=subject:mathematics&hl=&cd=275&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=7tntAAAAMAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Applied_Statistics_for_the_Behavioral_Sc.html?hl=&id=7tntAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7tntAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AsdUAAAAYAAJ",
+   "etag": "hRQK1qlG10M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AsdUAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Encyclopedia of Statistical Sciences",
+    "authors": [
+     "Samuel Kotz",
+     "N. Balakrishnan"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2006",
+    "description": "Entries cover statistical theory, methods, and applications. Includes the latest topics and advances made in statistical science over the past decade--in areas such as computer-intensive statistical methodology, genetics, medicine, the environment, and other applications.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0471743801"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780471743804"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 722,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AsdUAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AsdUAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=AsdUAAAAYAAJ&dq=subject:mathematics&hl=&cd=276&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=AsdUAAAAYAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Encyclopedia_of_Statistical_Sciences.html?hl=&id=AsdUAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AsdUAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "j1QIhvihBO4C",
+   "etag": "Zhj180+ls0Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j1QIhvihBO4C",
+   "volumeInfo": {
+    "title": "Schaum's Outline of Numerical Analysis",
+    "authors": [
+     "Francis Scheid"
+    ],
+    "publisher": "McGraw Hill Professional",
+    "publishedDate": "1988",
+    "description": "If you want top grades and thorough understanding of numerical analysis, this powerful study tool is the best tutor you can have! It takes you step-by-step through the subject and gives you accompanying related problems with fully worked solutions. You also get additional problems to solve on your own, working at your own speed. (Answers at the back show you how you’re doing.) Famous for their clarity, wealth of illustrations and examples—and lack of dreary minutiae—Schaum’s Outlines have sold more than 30 million copies worldwide. This guide will show you why!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0070552215"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780070552210"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 471,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=j1QIhvihBO4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=j1QIhvihBO4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=j1QIhvihBO4C&dq=subject:mathematics&hl=&cd=277&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=j1QIhvihBO4C&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Schaum_s_Outline_of_Numerical_Analysis.html?hl=&id=j1QIhvihBO4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=j1QIhvihBO4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wZNRAAAAMAAJ",
+   "etag": "gEEWhNv5e88",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wZNRAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Probability, reliability, and statistical methods in engineering design",
+    "authors": [
+     "Achintya Haldar",
+     "Sankaran Mahadevan"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2000",
+    "description": "Learn the tools to assess product reliability! Haldar and Mahadevan crystallize the research and experience of the last few decades into the most up-to-date book on risk-based design concepts in engineering available. The fundamentals of reliability and statistics necessary for risk-based engineering analysis and design are clearly presented. And with the help of many practical examples integrated throughout the text, the material is made very relevant to today's practice. Key Features * Covers all the fundamental concepts and mathematical skills needed to conduct reliability assessments. * Presents the most widely-used reliability assessment methods. * Concepts that are required for the implementation of risk-based design in practical problems are developed gradually. * Both risk-based and deterministic design concepts are included to show the transition from traditional to modern design practice.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0471331198"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780471331193"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wZNRAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wZNRAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wZNRAAAAMAAJ&dq=subject:mathematics&hl=&cd=278&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=wZNRAAAAMAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Probability_reliability_and_statistical.html?hl=&id=wZNRAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wZNRAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Mkm7AAAAIAAJ",
+   "etag": "N3wQO8gcPr8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Mkm7AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Game theory with applications to economics",
+    "authors": [
+     "James W. Friedman"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1990-10-04",
+    "description": "Drawing on examples from current economic literature and politics, this is the first book on game theory at an introductory, but not elementary, level. The author covers topics of great actual or potential use in economics, such as noncooperative games, infinitely repeated games, finitely repeated games, two-person cooperative games, and cooperative games with and without side payments. Thoroughly revised, the new second edition of this authoritative book includes greatly expanded coverage of equilibrium refinements, and the \"folk theorem\" for repeated games as well as a new chapter on finite noncooperative games.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105034082524"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 322,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Mkm7AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Mkm7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Mkm7AAAAIAAJ&dq=subject:mathematics&hl=&cd=279&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Mkm7AAAAIAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Game_theory_with_applications_to_economi.html?hl=&id=Mkm7AAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Mkm7AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pAMQAQAAIAAJ",
+   "etag": "MIxwiEvLt1c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pAMQAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Complexity",
+    "subtitle": "life at the edge of chaos",
+    "authors": [
+     "Roger Lewin"
+    ],
+    "publishedDate": "1993",
+    "description": "\"Put together one of the world's best science writers with one of the universe's most fascinating subjects and you are bound to produce a wonderful book. . . . The subject of complexity is vital and controversial. This book is important and beautifully done.\"--Stephen Jay Gould \"ÝComplexity ̈ is that curious mix of complication and organization that we find throughout the natural and human worlds: the workings of a cell, the structure of the brain, the behavior of the stock market, the shifts of political power. . . . It is time science . . . thinks about meaning as well as counting information. . . . This is the core of the complexity manifesto. Read it, think about it . . . but don't ignore it.\"--Ian Stewart, \"Nature\" This second edition has been brought up to date with an essay entitled \"On the Edge in the Business World\" and an interview with John Holland, author of \"Emergence: From Chaos to Order.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0020147953"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780020147954"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pAMQAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pAMQAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pAMQAQAAIAAJ&dq=subject:mathematics&hl=&cd=280&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=pAMQAQAAIAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Complexity.html?hl=&id=pAMQAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pAMQAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

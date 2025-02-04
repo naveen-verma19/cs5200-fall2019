@@ -1,0 +1,3233 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 338,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "th3fbFI1DaMC",
+   "etag": "uL1U1OwjjQY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/th3fbFI1DaMC",
+   "volumeInfo": {
+    "title": "All of Statistics",
+    "subtitle": "A Concise Course in Statistical Inference",
+    "authors": [
+     "Larry Wasserman",
+     "Larry Alan Wasserman"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2004-09-17",
+    "description": "This book surveys a broad range of topics in probability and mathematical statistics. It provides the statistical background that a computer scientist needs to work in the area of machine learning.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0387402721"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387402727"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 442,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=th3fbFI1DaMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=th3fbFI1DaMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=th3fbFI1DaMC&printsec=frontcover&dq=subject:science&hl=&cd=201&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=th3fbFI1DaMC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/All_of_Statistics.html?hl=&id=th3fbFI1DaMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/All_of_Statistics-sample-pdf.acsm?id=th3fbFI1DaMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=th3fbFI1DaMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2rkHQpToi9sC",
+   "etag": "hneMEn6w4gw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2rkHQpToi9sC",
+   "volumeInfo": {
+    "title": "Encyclopedia of Marine Mammals",
+    "authors": [
+     "William F. Perrin",
+     "Bernd Würsig",
+     "J.G.M. Thewissen"
+    ],
+    "publisher": "Academic Press",
+    "publishedDate": "2009-02-26",
+    "description": "This thorough revision of the classic Encyclopedia of Marine Mammals brings this authoritative book right up-to-date. Articles describe every species in detail, based on the very latest taxonomy, and a host of biological, ecological and sociological aspects relating to marine mammals. The latest information on the biology, ecology, anatomy, behavior and interactions with man is provided by a cast of expert authors – all presented in such detail and clarity to support both marine mammal specialists and the serious naturalist. Fully referenced throughout and with a fresh selection of the best color photographs available, the long-awaited second edition remains at the forefront as the go-to reference on marine mammals. More than 20% NEW MATERIAL includes articles on Climate Change, Pacific White-sided Dolphins, Sociobiology, Habitat Use, Feeding Morphology and more Over 260 articles on the individual species with topics ranging from anatomy and behavior, to conservation, exploitation and the impact of global climate change on marine mammals New color illustrations show every species and document topical articles FROM THE FIRST EDITION “This book is so good...a bargain, full of riches...packed with fascinating up to date information. I recommend it unreservedly it to individuals, students, and researchers, as well as libraries.\" --Richard M. Laws, MARINE MAMMALS SCIENCE \"...establishes a solid and satisfying foundation for current study and future exploration\" --Ronald J. Shusterman, SCIENCE",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0080919936"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780080919935"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1352,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2rkHQpToi9sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2rkHQpToi9sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2rkHQpToi9sC&printsec=frontcover&dq=subject:science&hl=&cd=202&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2rkHQpToi9sC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2rkHQpToi9sC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 160.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 128.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2rkHQpToi9sC&rdid=book-2rkHQpToi9sC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.6E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.28E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 5.76E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.299E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Encyclopedia_of_Marine_Mammals-sample-epub.acsm?id=2rkHQpToi9sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Encyclopedia_of_Marine_Mammals-sample-pdf.acsm?id=2rkHQpToi9sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2rkHQpToi9sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vxg9Z4aJ36MC",
+   "etag": "Ygi76lSLXxw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vxg9Z4aJ36MC",
+   "volumeInfo": {
+    "title": "Principles of Composite Material Mechanics, Third Edition",
+    "authors": [
+     "Ronald F. Gibson"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "2011-09-21",
+    "description": "Principles of Composite Material Mechanics, Third Edition presents a unique blend of classical and contemporary mechanics of composites technologies. While continuing to cover classical methods, this edition also includes frequent references to current state-of-the-art composites technology and research findings. New to the Third Edition Many new worked-out example problems, homework problems, figures, and references An appendix on matrix concepts and operations Coverage of particle composites, nanocomposites, nanoenhancement of conventional fiber composites, and hybrid multiscale composites Expanded coverage of finite element modeling and test methods Easily accessible to students, this popular bestseller incorporates the most worked-out example problems and exercises of any available textbook on mechanics of composite materials. It offers a rich, comprehensive, and up-to-date foundation for students to begin their work in composite materials science and engineering. A solutions manual and PowerPoint presentations are available for qualifying instructors.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781439850053"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1439850054"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 683,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vxg9Z4aJ36MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vxg9Z4aJ36MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vxg9Z4aJ36MC&printsec=frontcover&dq=subject:science&hl=&cd=203&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=vxg9Z4aJ36MC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Principles_of_Composite_Material_Mechani.html?hl=&id=vxg9Z4aJ36MC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vxg9Z4aJ36MC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5O0somr0w18C",
+   "etag": "F0jVuZZO/YA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5O0somr0w18C",
+   "volumeInfo": {
+    "title": "Fields' Virology",
+    "authors": [
+     "David Mahan Knipe",
+     "Peter M. Howley"
+    ],
+    "publisher": "Lippincott Williams & Wilkins",
+    "publishedDate": "2007",
+    "description": "Accompanying CD-ROM has same title as book.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0781760607"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780781760607"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 3177,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5O0somr0w18C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5O0somr0w18C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5O0somr0w18C&printsec=frontcover&dq=subject:science&hl=&cd=204&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5O0somr0w18C&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fields_Virology.html?hl=&id=5O0somr0w18C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5O0somr0w18C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X18PF4oKyrUC",
+   "etag": "40ijkTbGWLA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X18PF4oKyrUC",
+   "volumeInfo": {
+    "title": "The Classical Theory of Fields",
+    "authors": [
+     "L D Landau",
+     "Lev Davydovič Landau (Physicien, Union Soviétique)",
+     "Евгений Михайлович Лифшиц"
+    ],
+    "publisher": "Butterworth-Heinemann",
+    "publishedDate": "1975",
+    "description": "The fourth edition contains seven new sections with chapters on General Relativity, Gravitational Waves and Relativistic Cosmology. The text has been thoroughly revised and additional problems inserted. The Complete course of Theoretical Physics by Landau and Lifshitz, recognized as two of the world's outstanding physicists, is published in full by Butterworth-Heinemann. It comprises nine volumes, covering all branches of the subject; translations from the Russian are by leading scientists.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0750627689"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750627689"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 402,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=X18PF4oKyrUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=X18PF4oKyrUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=X18PF4oKyrUC&printsec=frontcover&dq=subject:science&hl=&cd=205&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=X18PF4oKyrUC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Classical_Theory_of_Fields.html?hl=&id=X18PF4oKyrUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=X18PF4oKyrUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lGCLrh0DIwEC",
+   "etag": "uql3a2Z58oE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lGCLrh0DIwEC",
+   "volumeInfo": {
+    "title": "ISCN 2013",
+    "subtitle": "An International System for Human Cytogenetic Nomenclature (2013)",
+    "authors": [
+     "International Standing Committee on Human Cytogenetic Nomenclature"
+    ],
+    "publisher": "Karger Medical and Scientific Publishers",
+    "publishedDate": "2013",
+    "description": "This publication extends the now classic system of human cytogenetic nomenclature prepared by an expert committee and published in collaboration with Cytogenetic and Genome Research' since 1963. Revised and finalized by the ISCN Committee and its advisors at a meeting in Seattle, Wash., in April 2012, the ISCN 2013 updates, revises and incorporates all previous human cytogenetic nomenclature recommendations into one systematically organized publication that supersedes all previous ISCN recommendations. There are several new features in ISCN 2013: an update of the microarray nomenclature, many more illustrative examples of uses of nomenclature in all sections some definitions including chromothripsis and duplication a new chapter for nomenclature that can be used for any region-specific assay. The ISCN 2013 is an indispensable reference volume for human cytogeneticists, technicians and students for the interpretation and communication of human cytogenetic nomenclature.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783318022537"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3318022535"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 140,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lGCLrh0DIwEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lGCLrh0DIwEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lGCLrh0DIwEC&printsec=frontcover&dq=subject:science&hl=&cd=206&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lGCLrh0DIwEC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ISCN_2013.html?hl=&id=lGCLrh0DIwEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lGCLrh0DIwEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xrmaSYfLOQ8C",
+   "etag": "yyNbCeRmSTg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xrmaSYfLOQ8C",
+   "volumeInfo": {
+    "title": "Postmodern Geographies",
+    "subtitle": "The Reassertion of Space in Critical Social Theory",
+    "authors": [
+     "Edward W. Soja",
+     "Soja"
+    ],
+    "publisher": "Verso",
+    "publishedDate": "1989",
+    "description": "Written by one of America's foremost geographers, Postmodern Geographies contests the tendency, still dominant in most social science, to reduce human geography to a reflective mirror, or, as Marx called it, an \"unnecessary complication.\" Beginning with a powerful critique of historicism and its constraining effects on the geographical imagination, Edward Soja builds on the work of Foucault, Berger, Giddens, Berman, Jameson and, above all, Henri Lefebvre, to argue for a historical and geographical materialism, a radical rethinking of the dialectics of space, time and social being. Soja charts the respatialization of social theory from the still unfolding encounter between Western Marxism and modern geography, through the current debates on the emergence of a postfordist regime of \"flexible accumulation.\" The postmodern geography of Los Angeles, exposed in a provocative pair of essays, serves as a model in his account of the contemporary struggle for control over the social production of space.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0860919366"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780860919360"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 266,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xrmaSYfLOQ8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xrmaSYfLOQ8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xrmaSYfLOQ8C&printsec=frontcover&dq=subject:science&hl=&cd=207&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xrmaSYfLOQ8C&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Postmodern_Geographies.html?hl=&id=xrmaSYfLOQ8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Postmodern_Geographies-sample-epub.acsm?id=xrmaSYfLOQ8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xrmaSYfLOQ8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dL5_B1Pe3ZEC",
+   "etag": "FoX7NKWpr/c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dL5_B1Pe3ZEC",
+   "volumeInfo": {
+    "title": "XXXXX",
+    "authors": [
+     "Martin Howse"
+    ],
+    "publisher": "xxxxx",
+    "publishedDate": "2006",
+    "description": "xxxxx proposes a radical, new space for artistic exploration, with essential contributions from a diverse range of artists, theorists, and scientists. Combining intense background material, code listings, screenshots, new translation, [the] xxxxx [reader] functions as both guide and manifesto for a thought movement which is radically opposed to entropic contemporary economies. xxxxx traces a clear line across eccentric and wide ranging texts under the rubric of life coding which can well be contrasted with the death drive of cynical economy with roots in rationalism and enlightenment thought. Such philosophy, world as machine, informs its own deadly flipside embedded within language and technology. xxxxx totally unpicks this hiroshimic engraving, offering an dandyish alternative by way of deep examination of software and substance. Life coding is primarily active, subsuming deprecated psychogeography in favour of acute wonderland technology, wary of any assumed transparency. Texts such as Endonomadology, a text from celebrated biochemist and chaos theory pioneer Otto E. Roessler, who features heavily throughout this intense volume, make plain the sadistic nature and active legacy of rationalist thought. At the same time, through the science of endophysics, a physics from the inside elaborated here, a delicate theory of the world as interface is proposed. xxxxx is very much concerned with the joyful elaboration of a new real; software-led propositions which are active and constructive in eviscerating contemporary economic culture. xxxxx embeds Perl Routines to Manipulate London, by way of software artist and Mongrel Graham Harwood, a Universal Dovetailer in the Lisp language from AI researcher Bruno Marchal rewriting the universe as code, and self explanatory Pornographic Coding from plagiarist and author Stewart Home and code art guru Florian Cramer. Software is treated as magical, electromystical, contrasting with the tedious GUI desktop applications and user-led drudgery expressed within a vast ghost-authored literature which merely serves to rehearse again and again the demands of industry and economy. Key texts, which well explain the magic and sheer art of programming for the absolute beginner are published here. Software subjugation is made plain within the very title of media theorist Friedrich Kittler's essay Protected Mode, published in this volume. Media, technology and destruction are further elaborated across this work in texts such as War.pl, Media and Drugs in Pynchon's Second World War, again from Kittler, and Simon Ford's elegant take on J.G Ballard's crashed cars exhibition of 1970, A Psychopathic Hymn. Software and its expansion stand in obvious relation to language. Attacking transparency means examining the prison cell or virus of language; life coding as William Burrough's cutup. And perhaps the most substantial and thorough-going examination is put forward by daring Vienna actionist Oswald Wiener in his Notes on the Concept of the Bio-adapter which has been thankfully unearthed here. Equally, Olga Goriunova's extensive examination of a new Russian literary trend, the online male literature of udaff.com provides both a reexamination of culture and language, and an example of the diversity of xxxxx; a diversity well reflected in background texts ranging across subjects such as Leibniz' monadology, the ur-crash of supreme flaneur Thomas de Quincey and several rewritings of the forensic model of Jack the Ripper thanks to Stewart Home and Martin Howse. xxxxx liberates software from the machinic, and questions the transparency of language, proposing a new world view, a sheer electromysticism which is well explained with reference to the works of Thomas Pynchon in Friedrich Kittler's essay, translated for the first time into English, which closes xxxxx. Further contributors include Hal Abelson, Leif Elggren, Jonathan Kemp, Aymeric Mansoux, and socialfiction.org.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780955066443"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0955066441"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 475,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dL5_B1Pe3ZEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dL5_B1Pe3ZEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=dL5_B1Pe3ZEC&printsec=frontcover&dq=subject:science&hl=&cd=208&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=dL5_B1Pe3ZEC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/XXXXX.html?hl=&id=dL5_B1Pe3ZEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dL5_B1Pe3ZEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TjxqDwAAQBAJ",
+   "etag": "gXvvng56fbE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TjxqDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Midnight in Chernobyl",
+    "subtitle": "The Untold Story of the World's Greatest Nuclear Disaster",
+    "authors": [
+     "Adam Higginbotham"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2019-02-12",
+    "description": "NEW YORK TIMES BESTSELLER Journalist Adam Higginbotham’s definitive, years-in-the-making account of the Chernobyl nuclear power plant disaster—and a powerful investigation into how propaganda, secrecy, and myth have obscured the true story of one of the twentieth century’s greatest disasters. Early in the morning of April 26, 1986, Reactor Number Four of the Chernobyl Atomic Energy Station exploded, triggering history’s worst nuclear disaster. In the thirty years since then, Chernobyl has become lodged in the collective nightmares of the world: shorthand for the spectral horrors of radiation poisoning, for a dangerous technology slipping its leash, for ecological fragility, and for what can happen when a dishonest and careless state endangers its citizens and the entire world. But the real story of the accident, clouded from the beginning by secrecy, propaganda, and misinformation, has long remained in dispute. Drawing on hundreds of hours of interviews conducted over the course of more than ten years, as well as letters, unpublished memoirs, and documents from recently-declassified archives, Adam Higginbotham has written a harrowing and compelling narrative which brings the disaster to life through the eyes of the men and women who witnessed it firsthand. The result is a masterful nonfiction thriller, and the definitive account of an event that changed history: a story that is more complex, more human, and more terrifying than the Soviet myth. Midnight in Chernobyl is an indelible portrait of one of the great disasters of the twentieth century, of human resilience and ingenuity, and the lessons learned when mankind seeks to bend the natural world to his will—lessons which, in the face of climate change and other threats, remain not just vital but necessary.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781501134647"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1501134647"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 560,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TjxqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TjxqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TjxqDwAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=209&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=TjxqDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TjxqDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=TjxqDwAAQBAJ&rdid=book-TjxqDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Midnight_in_Chernobyl-sample-epub.acsm?id=TjxqDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TjxqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WxhLA4J51BMC",
+   "etag": "5IYwHRxUDc8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WxhLA4J51BMC",
+   "volumeInfo": {
+    "title": "The New World Champion Paper Airplane Book",
+    "subtitle": "Featuring the World Record-Breaking Design, with Tear-Out Planes to Fold and Fly",
+    "authors": [
+     "John M. Collins"
+    ],
+    "publisher": "Ten Speed Press",
+    "publishedDate": "2013-03-26",
+    "description": "A collection of easy-to-fold paper airplane designs and innovative theories of flight, including the author's Guinness World Record-breaking airplane. Features 16 tear-out model planes. Will YOU be the next to break the WORLD RECORD? Anything is possible with The New World Champion Paper Airplane Book, the newest collection of designs and theories of flight from John M. Collins, the man behind the Guinness World Record–breaking distance plane. Featuring twenty-two unique airplane designs with step-by-step instructional photos, plus tear-out models printed on regulation-weight paper stock, this entertaining and informative guide promises hours of flying fun. Take your paper airplane–making to the next level with features such as: · Instructions for folding “Suzanne,” the plane that shattered the previous world record by flying an unprecedented 226 feet, 10 inches, and garnered more than three million views on YouTube · Four “Follow Foil” aircraft that can stay aloft for minutes at a time · A pioneering cambered-wing plane · A primer on flight theory, and how it applies to paper airplanes · Tips for improving the accuracy and distance of your throws · The adjusting technique that helped break the record · And more!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781607743897"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1607743892"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WxhLA4J51BMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WxhLA4J51BMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=WxhLA4J51BMC&printsec=frontcover&dq=subject:science&hl=&cd=210&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WxhLA4J51BMC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WxhLA4J51BMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WxhLA4J51BMC&rdid=book-WxhLA4J51BMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_New_World_Champion_Paper_Airplane_Bo-sample-epub.acsm?id=WxhLA4J51BMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WxhLA4J51BMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "J26KoKtyTxkC",
+   "etag": "A3znz7xUkZU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J26KoKtyTxkC",
+   "volumeInfo": {
+    "title": "The Pasteurization of France",
+    "authors": [
+     "Bruno Latour"
+    ],
+    "publisher": "Harvard University Press",
+    "publishedDate": "1993",
+    "description": "Describes Pasteur's roles in improving health practices in France and identifies the other forces that helped implement his ideas about health care.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674657616"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674657618"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 273,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=J26KoKtyTxkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=J26KoKtyTxkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=J26KoKtyTxkC&printsec=frontcover&dq=subject:science&hl=&cd=211&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=J26KoKtyTxkC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Pasteurization_of_France.html?hl=&id=J26KoKtyTxkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Pasteurization_of_France-sample-epub.acsm?id=J26KoKtyTxkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=J26KoKtyTxkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0lpVDwAAQBAJ",
+   "etag": "zUINEPZFbus",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0lpVDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Elektromagnetika",
+    "authors": [
+     "Erfan Achmad Dahlan"
+    ],
+    "publisher": "Universitas Brawijaya Press",
+    "publishedDate": "2017-03-01",
+    "description": "Teori Medan Elektromagnetika sering kali disebut Elektromagnetika (EM) adalah cabang ilmu fisika atau teknik elektro yang mempelajari gejala-gejala medan listrik, medan magnetik dan juga medan elektromagnetik. Bidang kajiannya adalah interaksi antara muatan listrik statis dan gerakan muatan listrik yang meliputi analisis, sintesis, interpretasi fisik, dan aplikasi medan listrik dan magnetik. Definisi lain dari Elektromagnetika adalah studi pengaruh muatan-muatan dalam keadaaan statis dan muatan-muatan dalam keadaan bergerak. Secara khusus disebut elektrostatika bila muatan-muatannya dalam keadaan diam (atau statis), magnetstatika bila muatan-muatannya bergerak dengan kecepatan mantap dan disebut gelombang elektromagnetika bila muatan-muatannya bergerak dengan kecepatan berubah waktu.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9786024321239"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "6024321236"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 268,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0lpVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0lpVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "id",
+    "previewLink": "http://books.google.com/books?id=0lpVDwAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=212&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0lpVDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0lpVDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.32,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.32,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0lpVDwAAQBAJ&rdid=book-0lpVDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7320000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7320000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Elektromagnetika-sample-pdf.acsm?id=0lpVDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0lpVDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nj8ixXhFgLAC",
+   "etag": "7yjQacQYBNE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nj8ixXhFgLAC",
+   "volumeInfo": {
+    "title": "Agricultural Revolution in England",
+    "subtitle": "The Transformation of the Agrarian Economy 1500-1850",
+    "authors": [
+     "Mark Overton"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1996-04-18",
+    "description": "This book is the first available survey of English agriculture between 1500 and 1850. Written specifically for students, it combines new material with an analysis of the existing literature. It describes farming in the sixteenth century, analyzes the reasons for improvements in agricultural output and productivity, and examines changes in the agrarian economy and society. Professor Overton argues that the impact of these related changes in productivity and social and economic structure in the century after 1750 amount to an agricultural revolution.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521568595"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521568593"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 258,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nj8ixXhFgLAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nj8ixXhFgLAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nj8ixXhFgLAC&printsec=frontcover&dq=subject:science&hl=&cd=213&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nj8ixXhFgLAC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Agricultural_Revolution_in_England.html?hl=&id=nj8ixXhFgLAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nj8ixXhFgLAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "m7c8nNLPwaIC",
+   "etag": "euSi/5pruZs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m7c8nNLPwaIC",
+   "volumeInfo": {
+    "title": "Solving Ordinary Differential Equations II",
+    "subtitle": "Stiff and Differential-Algebraic Problems",
+    "authors": [
+     "Ernst Hairer",
+     "Syvert Paul Nørsett",
+     "Gerhard Wanner"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "1993",
+    "description": "The subject of this book is the solution of stiff differential equations and of differential-algebraic systems. This second edition contains new material including new numerical tests, recent progress in numerical differential-algebraic equations, and improved FORTRAN codes. From the reviews: \"A superb book...Throughout, illuminating graphics, sketches and quotes from papers of researchers in the field add an element of easy informality and motivate the text.\" --MATHEMATICS TODAY",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3540604529"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540604525"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 614,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=m7c8nNLPwaIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=m7c8nNLPwaIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=m7c8nNLPwaIC&printsec=frontcover&dq=subject:science&hl=&cd=214&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=m7c8nNLPwaIC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Solving_Ordinary_Differential_Equations.html?hl=&id=m7c8nNLPwaIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Solving_Ordinary_Differential_Equations-sample-pdf.acsm?id=m7c8nNLPwaIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=m7c8nNLPwaIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xtSSDwAAQBAJ",
+   "etag": "m76bSV8ItEw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xtSSDwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Game",
+    "authors": [
+     "Alessandro Baricco"
+    ],
+    "publisher": "Anagrama",
+    "publishedDate": "2019-05-22",
+    "description": "Doce años después de Los bárbaros, donde Baricco reflexionaba sobre la mutación –que no invasión– que estaba sufriendo nuestra sociedad debido al impacto de las nuevas tecnologías, llega ahora The Game, donde el autor traza la cartografía (y la historia, a partir de lo que él denomina fósiles, desde los pioneros hasta nuestros días) de la insurrección digital. No se trata de una mera revolución tecnológica, sino del colapso de los paradigmas de la sociedad del siglo XX, considerada catastrófica por jóvenes inicialmente relacionados con movimientos contraculturales. Por increíble que nos parezca, en poco más de tres décadas, ordenadores personales, smartphones y otros dispositivos digitales (meras herramientas, de hecho) se han hecho imprescindibles y, sobre todo, han ido cambiando la sustancia misma de nuestra concepción de la realidad y nuestra relación con ella. Y lo han hecho con una lógica que en gran parte es heredera de los videojuegos (de ahí el título de este ensayo): hacerlo todo más fácil, más agradable, aunque por debajo haya un gran despliegue tecnológico. Pero ha sido la proliferación de programas y aplicaciones –Google, Facebook, YouTube, Twitter, Tinder: sus nombres nos resultan tan familiares que a estas alturas resulta inconcebible vivir sin ellos– lo que ha permitido el despliegue de este nuevo modo de entender el mundo en forma de redes (desde las informativas hasta las sociales) que amplían nuestra experiencia. Evidentemente, existen también peligros innegables (el surgimiento de nuevas élites, cierto egoísmo de las masas, la expansión de los populismos o de las fake news...), aunque, advierte Baricco, estos no sean fenómenos completamente desconocidos. Sin embargo, también se percibe la importancia creciente de un nuevo desafío al que no podemos dar la espalda: la Inteligencia Artificial.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788433940261"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8433940260"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 328,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xtSSDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xtSSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=xtSSDwAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=215&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xtSSDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xtSSDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xtSSDwAAQBAJ&rdid=book-xtSSDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Game-sample-epub.acsm?id=xtSSDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Game-sample-pdf.acsm?id=xtSSDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xtSSDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6jOnlRViWPoC",
+   "etag": "7nK65yKut70",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6jOnlRViWPoC",
+   "volumeInfo": {
+    "title": "Beam",
+    "subtitle": "The Race to Make the Laser",
+    "authors": [
+     "Jeff Hecht"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2005-03-10",
+    "description": "In 1954, Charles Townes invented the laser's microwave cousin, the maser. The next logical step was to extend the same physical principles to the shorter wavelengths of light, but the idea did not catch fire until October 1957, when Townes asked Gordon Gould about Gould's research on using light to excite thallium atoms. Each took the idea and ran with it. The independent-minded Gould sought the fortune of an independent inventor; the professorial Townes sought the fame of scientific recognition. Townes enlisted the help of his brother-in-law, Arthur Schawlow, and got Bell Labs into the race. Gould turned his ideas into a patent application and a million-dollar defense contract. They soon had company. Ali Javan, one of Townes's former students, began pulling 90-hour weeks at Bell Labs with colleague Bill Bennett. And far away in California a bright young physicist named Ted Maiman became a very dark horse in the race. While Schawlow proclaimed that ruby could never make a laser, Maiman slowly convinced himself it would. As others struggled with recalcitrant equipment and military secrecy, Maiman built a tiny and elegant device that fit in the palm of his hand. His ruby laser worked the first time he tried it, on May 16, 1960, but afterwards he had to battle for acceptance as the man who made the first laser. Beam is a fascinating tale of a remarkable and powerful invention that has become a symbol of modern technology.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780198032496"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0198032498"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6jOnlRViWPoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6jOnlRViWPoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6jOnlRViWPoC&printsec=frontcover&dq=subject:science&hl=&cd=216&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6jOnlRViWPoC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6jOnlRViWPoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=6jOnlRViWPoC&rdid=book-6jOnlRViWPoC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.299E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.379E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Beam-sample-epub.acsm?id=6jOnlRViWPoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Beam-sample-pdf.acsm?id=6jOnlRViWPoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6jOnlRViWPoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Pj7xJRuhZxUC",
+   "etag": "nYEStfvNNVY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Pj7xJRuhZxUC",
+   "volumeInfo": {
+    "title": "An Introduction to Medicinal Chemistry",
+    "authors": [
+     "Graham L. Patrick"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2013-01-10",
+    "description": "This volume provides an introduction to medicinal chemistry. It covers basic principles and background, and describes the general tactics and strategies involved in developing an effective drug.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199697397"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0199697396"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 789,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Pj7xJRuhZxUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Pj7xJRuhZxUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Pj7xJRuhZxUC&printsec=frontcover&dq=subject:science&hl=&cd=217&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Pj7xJRuhZxUC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/An_Introduction_to_Medicinal_Chemistry.html?hl=&id=Pj7xJRuhZxUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Pj7xJRuhZxUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5gCHckKszz0C",
+   "etag": "MgK/4dC7DnI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5gCHckKszz0C",
+   "volumeInfo": {
+    "title": "The Dictionary of Human Geography",
+    "authors": [
+     "Derek Gregory",
+     "Ron Johnston",
+     "Geraldine Pratt",
+     "Michael Watts",
+     "Sarah Whatmore"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2011-09-23",
+    "description": "With clear, critical, and constructive surveys of key terms by leading researchers in the field, The Dictionary of Human Geography, fifth edition, remains the definitive guide to the concepts and debates in human geography. Comprehensively revised new edition of a highly successful text with over 300 key terms appearing for the first time Situates Human Geography within the humanities, social sciences and sciences as a whole Written by leading experts in the field Major entries not only describe the development of concepts, contributions and debates in Human Geography but also advance them Features a new consolidated bibliography along with a detailed index and systematic cross-referencing of headwords",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781444359954"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1444359959"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1072,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 11,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.8.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5gCHckKszz0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5gCHckKszz0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5gCHckKszz0C&printsec=frontcover&dq=subject:science&hl=&cd=218&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5gCHckKszz0C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5gCHckKszz0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 54.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 43.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5gCHckKszz0C&rdid=book-5gCHckKszz0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.399E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Dictionary_of_Human_Geography-sample-epub.acsm?id=5gCHckKszz0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Dictionary_of_Human_Geography-sample-pdf.acsm?id=5gCHckKszz0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5gCHckKszz0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tXucAQAAQBAJ",
+   "etag": "CND2t6CMw/s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tXucAQAAQBAJ",
+   "volumeInfo": {
+    "title": "A Dictionary of British Place-Names",
+    "authors": [
+     "David Mills"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2011-10-20",
+    "description": "Includes a representative selection of some 17,000 major place-names from the whole of the British Isles: England, Scotland and the Scottish islands, Wales, Northern Ireland and the Republic of Ireland, the Channel Islands and the Isle of Man.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199609086"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "019960908X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 532,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tXucAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tXucAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tXucAQAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=219&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tXucAQAAQBAJ&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Dictionary_of_British_Place_Names.html?hl=&id=tXucAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tXucAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bKdZZOkEil8C",
+   "etag": "fw0WPD/TAKQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bKdZZOkEil8C",
+   "volumeInfo": {
+    "title": "The Sleep of Others and the Transformations of Sleep Research",
+    "authors": [
+     "Kenton Kroker"
+    ],
+    "publisher": "University of Toronto Press",
+    "publishedDate": "2007",
+    "description": "We tend to think of sleep as a private concern, a night-time retreat from the physical world into the realm of the subconscious. Yet sleep also has a public side; it has been the focal point of religious ritual, philosophic speculation, political debate, psychological research, and more recently, neuroscientific investigation and medical practice. In this first ever history of sleep research, Kenton Kroker draws on a wide range of material to present the story of how an investigative field - at one time dominated by the study of dreams - slowly morphed into a laboratory-based discipline. The result of this transformation, Kroker argues, has changed the very meaning of sleep from its earlier conception to an issue for public health and biomedical intervention. Examining a vast historical period of 2500 years, Kroker separates the problems associated with the history of dreaming from those associated with sleep itself and charts sleep-related diseases such as narcolepsy, insomnia, and sleep apnea. He describes the discovery of rapid eye movement - REM - during the 1950s, and shows how this discovery initiated the creation of 'dream laboratories' that later emerged as centres for sleep research during the 1960s and 1970s. Kroker's work is unique in subject and scope and will be enormously useful for both sleep researchers, medical historians, and anybody who's ever lost a night's sleep.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802037695"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0802037690"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 533,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bKdZZOkEil8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bKdZZOkEil8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bKdZZOkEil8C&printsec=frontcover&dq=subject:science&hl=&cd=220&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=bKdZZOkEil8C&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Sleep_of_Others_and_the_Transformati.html?hl=&id=bKdZZOkEil8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Sleep_of_Others_and_the_Transformati-sample-epub.acsm?id=bKdZZOkEil8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bKdZZOkEil8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "A6_N3ACsQgEC",
+   "etag": "ZdiC+kq1Rv4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/A6_N3ACsQgEC",
+   "volumeInfo": {
+    "title": "Environmental Hazards",
+    "subtitle": "Assessing Risk and Reducing Disaster",
+    "authors": [
+     "Keith Smith"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2013",
+    "description": "The expanded fifth edition of Environmental Hazards provides a balanced overview of all the major rapid-onset events that threaten people and what they value in the twenty-first century. It integrates cutting-edge material from the physical and social sciences to demonstrate how natural and human systems interact to place communities of all sizes, and at all stages of economic development, at risk. It also shows how the existing losses to life and property can be reduced. Part I of this established textbook defines basic concepts of hazard, risk, vulnerability and disaster. Critical attention is given to the evolution of theory, to the scale of disaster impact and to the various strategies that have been developed to minimise the impact of damaging events. Part II employs a consistent chapter structure to explain how individual hazards, such as earthquakes, severe storms, floods and droughts, plus biophysical and technological processes, create distinctive patterns of loss throughout the world. The ways in which different societies make a positive response to these threats are placed in the context of ongoing global change. In this extensively revised edition: An entirely new and innovative chapter explains how modern-day complexity contributes to the generation of hazard and risk Additional material supplies fresh perspectives on landslides, biophysical hazards and the increasingly important role of global-scale processes The increased use of boxed sections allows a greater focus on significant generic issues and offers more opportunity to examine a carefully selected range of up-to-date case studies Each chapter now concludes with an annotated list of key resources, including further reading and relevant websites. Environmental Hazards is a well-written and generously illustrated introduction to all the natural, social and technological events that combine to cause death and destruction across the globe. It draws on the latest research findings to guide the student from common problems, theories and policies to explore practical, real-world situations. This authoritative, yet accessible, book captures both the complexity and dynamism of environmental hazards and has become essential reading for students of every kind seeking to understand the nature and consequences of a most important contemporary issue.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415681056"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0415681057"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 478,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=A6_N3ACsQgEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=A6_N3ACsQgEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=A6_N3ACsQgEC&printsec=frontcover&dq=subject:science&hl=&cd=221&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=A6_N3ACsQgEC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Environmental_Hazards.html?hl=&id=A6_N3ACsQgEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=A6_N3ACsQgEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hsjGFLvLnQIC",
+   "etag": "n5Olpk5+r98",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hsjGFLvLnQIC",
+   "volumeInfo": {
+    "title": "Introduction to Polymer Physics",
+    "authors": [
+     "Masao Doi"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "1996",
+    "description": "A concise textbook, providing an introduction to the modern theory of polymer physics for the graduate student. Clearly written, it describes basic concepts and methods to discuss the statistical properties of the assembly of chain-like molecules. Covering both equilibrium and nonequilibrium properties this text is suitable for short courses on polymer physics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0198517890"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780198517894"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 120,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hsjGFLvLnQIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hsjGFLvLnQIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hsjGFLvLnQIC&printsec=frontcover&dq=subject:science&hl=&cd=222&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=hsjGFLvLnQIC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Polymer_Physics.html?hl=&id=hsjGFLvLnQIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hsjGFLvLnQIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KqwyCgAAQBAJ",
+   "etag": "s5AplCby6XQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KqwyCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Principles of Neurobiology",
+    "authors": [
+     "Liqun Luo"
+    ],
+    "publisher": "Garland Science",
+    "publishedDate": "2015-07-14",
+    "description": "Principles of Neurobiology presents the major concepts of neuroscience with an emphasis on how we know what we know. The text is organized around a series of key experiments to illustrate how scientific progress is made and helps upper-level undergraduate and graduate students discover the relevant primary literature. Written by a single author in",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781317553830"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1317553837"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 696,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KqwyCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KqwyCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=KqwyCgAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=223&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KqwyCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KqwyCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 115.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 92.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KqwyCgAAQBAJ&rdid=book-KqwyCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.15E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.2E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Principles_of_Neurobiology-sample-pdf.acsm?id=KqwyCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KqwyCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "11ATwTKd4iEC",
+   "etag": "SNRmKg7Llak",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/11ATwTKd4iEC",
+   "volumeInfo": {
+    "title": "Dwellings",
+    "subtitle": "A Spiritual History of the Living World",
+    "authors": [
+     "Linda Hogan"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "1996-09-17",
+    "description": "Written in the form of stories and suffused with a reverence for the earth, a collection of meditations explores the mysteries of such subjects as bees, porcupines, caves, and the myths and rituals of Native American cultures. Reprint. 20,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780684830339"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0684830337"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=11ATwTKd4iEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=11ATwTKd4iEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=11ATwTKd4iEC&printsec=frontcover&dq=subject:science&hl=&cd=224&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=11ATwTKd4iEC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dwellings.html?hl=&id=11ATwTKd4iEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=11ATwTKd4iEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OLNeNIbD3jUC",
+   "etag": "+TbWxSPqOZA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OLNeNIbD3jUC",
+   "volumeInfo": {
+    "title": "From the Calculus to Set Theory, 1630-1910",
+    "subtitle": "An Introductory History",
+    "authors": [
+     "I. Grattan-Guinness",
+     "H. J. M. Bos"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "2000",
+    "description": "From the Calculus to Set Theory traces the development of the calculus from the early seventeenth century through its expansion into mathematical analysis to the developments in set theory and the foundations of mathematics in the early twentieth century. It chronicles the work of mathematicians from Descartes and Newton to Russell and Hilbert and many, many others while emphasizing foundational questions and underlining the continuity of developments in higher mathematics. The other contributors to this volume are H. J. M. Bos, R. Bunn, J. W. Dauben, T. W. Hawkins, and K. Møller-Pedersen.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0691070822"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691070827"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 306,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OLNeNIbD3jUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OLNeNIbD3jUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OLNeNIbD3jUC&printsec=frontcover&dq=subject:science&hl=&cd=225&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OLNeNIbD3jUC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/From_the_Calculus_to_Set_Theory_1630_191.html?hl=&id=OLNeNIbD3jUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/From_the_Calculus_to_Set_Theory_1630_191-sample-epub.acsm?id=OLNeNIbD3jUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/From_the_Calculus_to_Set_Theory_1630_191-sample-pdf.acsm?id=OLNeNIbD3jUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OLNeNIbD3jUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xFjGDCmLuKQC",
+   "etag": "1PnDfGr8LcQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xFjGDCmLuKQC",
+   "volumeInfo": {
+    "title": "Aceites y grasas industriales",
+    "authors": [
+     "Alton Edward Bailey"
+    ],
+    "publisher": "Reverte",
+    "publishedDate": "2001",
+    "description": "Al escribir este volumen se ha tratado de hacer, principalmente, un texto sobre Tecnología de aceites y grasas; por esto, en su mayor parte (secciones C y D), se dedica a la descripción y estudio de los productos grasos de importancia comercial y a los productos usados en la manufactura de estos productos. En las dos secciones preliminares (A y B), se revisan brevemente la naturaleza, propiedades físicas y propiedades químicas de los aceites y grasas, y se estudian la composición, características y disponibilidades de las materias primas para la obtención de aquéllos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8429179011"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788429179019"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 746,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 9,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xFjGDCmLuKQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xFjGDCmLuKQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=xFjGDCmLuKQC&printsec=frontcover&dq=subject:science&hl=&cd=226&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xFjGDCmLuKQC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Aceites_y_grasas_industriales.html?hl=&id=xFjGDCmLuKQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xFjGDCmLuKQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e_k0TQVQ5HcC",
+   "etag": "kMjYowL/1Is",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e_k0TQVQ5HcC",
+   "volumeInfo": {
+    "title": "Dinosaur in a Haystack",
+    "authors": [
+     "Stephen Jay Gould"
+    ],
+    "publisher": "Harvard University Press",
+    "publishedDate": "2011-10-01",
+    "description": "From fads to fungus, baseball to beeswax, Gould always circles back to the great themes of time, change, and history, carrying readers home to the centering theme of evolution.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674061606"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0674061608"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=e_k0TQVQ5HcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=e_k0TQVQ5HcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=e_k0TQVQ5HcC&printsec=frontcover&dq=subject:science&hl=&cd=227&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=e_k0TQVQ5HcC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dinosaur_in_a_Haystack.html?hl=&id=e_k0TQVQ5HcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=e_k0TQVQ5HcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aU6vcy5L8GAC",
+   "etag": "TCJw0pj1ejo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aU6vcy5L8GAC",
+   "volumeInfo": {
+    "title": "Solar System Dynamics",
+    "authors": [
+     "Carl D. Murray",
+     "Stanley F. Dermott"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1999",
+    "description": "The Solar System is a complex and fascinating dynamical system. This is the first textbook to describe comprehensively the dynamical features of the Solar System and to provide students with all the mathematical tools and physical models they need to understand how it works. It is a benchmark publication in the field of planetary dynamics and destined to become a classic. Clearly written and well illustrated, Solar System Dynamics shows how a basic knowledge of the two- and three-body problems and perturbation theory can be combined to understand features as diverse as the tidal heating of Jupiter's moon Io, the origin of the Kirkwood gaps in the asteroid belt, and the radial structure of Saturn's rings. Problems at the end of each chapter and a free Internet Mathematica® software package are provided. Solar System Dynamics provides an authoritative textbook for courses on planetary dynamics and celestial mechanics. It also equips students with the mathematical tools to tackle broader courses on dynamics, dynamical systems, applications of chaos theory and non-linear dynamics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521575974"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521575973"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 592,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aU6vcy5L8GAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aU6vcy5L8GAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=aU6vcy5L8GAC&printsec=frontcover&dq=subject:science&hl=&cd=228&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=aU6vcy5L8GAC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Solar_System_Dynamics.html?hl=&id=aU6vcy5L8GAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aU6vcy5L8GAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GQ3TI5njXfIC",
+   "etag": "lK1qpj2t0AE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GQ3TI5njXfIC",
+   "volumeInfo": {
+    "title": "The Creationists",
+    "subtitle": "From Scientific Creationism to Intelligent Design",
+    "authors": [
+     "Ronald L. Numbers"
+    ],
+    "publisher": "Harvard University Press",
+    "publishedDate": "2006",
+    "description": "In light of the embattled status of evolutionary theory, particularly as \"intelligent design\" makes headway against Darwinism in the schools and in the courts, this now classic account of the roots of creationism assumes new relevance. Expanded and updated to account for the appeal of intelligent design and the global spread of creationism, The Creationists offers a thorough, clear, and balanced overview of the arguments and figures at the heart of the debate. Praised by both creationists and evolutionists for its comprehensiveness, the book meticulously traces the dramatic shift among Christian fundamentalists from acceptance of the earth's antiquity to the insistence of present-day scientific creationists that most fossils date back to Noah's flood and its aftermath. Focusing especially on the rise of this \"flood geology,\" Ronald L. Numbers chronicles the remarkable resurgence of antievolutionism since the 1960s, as well as the creationist movement's tangled religious roots in the theologies of late-nineteenth- and early-twentieth-century Baptists, Presbyterians, Lutherans, and Adventists, among others. His book offers valuable insight into the origins of various \"creation science\" think tanks and the people behind them. It also goes a long way toward explaining how creationism, until recently viewed as a \"peculiarly American\" phenomenon, has quietly but dynamically spread internationally--and found its expression outside Christianity in Judaism and Islam.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674023390"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674023390"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 606,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GQ3TI5njXfIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GQ3TI5njXfIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=GQ3TI5njXfIC&printsec=frontcover&dq=subject:science&hl=&cd=229&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=GQ3TI5njXfIC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Creationists.html?hl=&id=GQ3TI5njXfIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Creationists-sample-epub.acsm?id=GQ3TI5njXfIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GQ3TI5njXfIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eM1UCwAAQBAJ",
+   "etag": "6DKz0aONl7A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eM1UCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Física 1 para Bachillerato Tecnológico",
+    "authors": [
+     "Héctor Pérez Montiel"
+    ],
+    "publisher": "Grupo Editorial Patria",
+    "publishedDate": "2015-05-30",
+    "description": "Física 1 para bachilleratos tecnológicos del profesor Héctor Pérez Montiel tiene la finalidad de contribuir a lograr que los estudiantes desarrollen su capacidad de aprender a aprender y construyan su aprendizaje. La obra está hecha con un enfoque por competencias y desarrolla los siguientes conceptos fundamentales: movimiento, fuerza y masa. Cada concepto inicia con una evaluación diagnóstica y un tema integrador. La estrategia didáctica está constituida por una serie de actividades que se organizan en tres momentos: apertura, desarrollo y cierre. Asimismo, se integran diferentes instrumentos de evaluación como rúbricas, listas de cotejo y coevaluaciones para el manejo de conceptos. Por su parte, las autoevaluaciones de desempeño le permiten al estudiante valorar y reflexionar acerca de su actuación en el proceso de aprendizaje.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9786077442431"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "6077442437"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eM1UCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eM1UCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=eM1UCwAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=230&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=eM1UCwAAQBAJ&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/F%C3%ADsica_1_para_Bachillerato_Tecnol%C3%B3gico.html?hl=&id=eM1UCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/F%C3%ADsica_1_para_Bachillerato_Tecnol%C3%B3gico-sample-pdf.acsm?id=eM1UCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eM1UCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "25RjDwAAQBAJ",
+   "etag": "tYVD7LjvqJE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/25RjDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Analisis makanan",
+    "authors": [
+     "Abdul Rohman",
+     "Sumantri"
+    ],
+    "publisher": "UGM PRESS",
+    "publishedDate": "2018-07-11",
+    "description": "Buku analisis makanan ini menguraikan secara teoretis dan praktis hal-hal yang terkait dengan bahan makanan seperti karbohidrat, protein, lemak, vitamin, air dan mineral, serta bahan tambahan makanan. Metode analisis yang digunakan dalam buku ini adalah metode titrimetri, spektrofotometri dan kromatografi. [UGM Press, UGM, Gadjah Mada University Press]",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789794206560"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9794206563"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 269,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=25RjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=25RjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "id",
+    "previewLink": "http://books.google.com/books?id=25RjDwAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=231&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=25RjDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=25RjDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.09,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 4.09,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=25RjDwAAQBAJ&rdid=book-25RjDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4090000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4090000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Analisis_makanan-sample-pdf.acsm?id=25RjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=25RjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BYZXDwAAQBAJ",
+   "etag": "p60uPkXNX/I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BYZXDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Applied Hydrogeology",
+    "subtitle": "Fourth Edition",
+    "authors": [
+     "C. W. Fetter"
+    ],
+    "publisher": "Waveland Press",
+    "publishedDate": "2018-04-23",
+    "description": "Hydrogeology’s importance has grown to become an integral part not only of geology curricula, but also those in environmental science and engineering. Applied Hydrogeology serves all these students, presenting the subject’s fundamental concepts in addition to its importance in other disciplines. Fetter skillfully addresses both physical and chemical hydrogeology, highlighting problem solving throughout the book. Case studies, Excel-based projects, and working student versions of software used by groundwater professionals supplement the fourth edition’s insightful explanations and succinct solutions to real-world challenges. Each chapter concludes with example problems, a notation of symbols, and informative analysis. A glossary of hydrogeological terms adds significant value to this comprehensive text. Fetter’s accessible coverage prepares readers for success in their careers well beyond the classroom.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781478637448"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1478637447"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 598,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BYZXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BYZXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BYZXDwAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=232&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BYZXDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BYZXDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 63.71,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 50.97,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BYZXDwAAQBAJ&rdid=book-BYZXDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.371E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.097E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Applied_Hydrogeology-sample-pdf.acsm?id=BYZXDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BYZXDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rIobbOxC4j4C",
+   "etag": "+ICJK2KIoio",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rIobbOxC4j4C",
+   "volumeInfo": {
+    "title": "Bose-Einstein Condensation",
+    "authors": [
+     "Lev. P. Pitaevskii",
+     "S. Stringari",
+     "Sandro Stringari"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2003-04-03",
+    "description": "Bose-Einstein condensation represents a new state of matter and is one of the cornerstones of quantum physics, resulting in the 2001 Nobel Prize. Providing a useful introduction to one of the most exciting fields of physics today, this text will be of interest to a growing community of physicists, and is easily accessible to non-specialists alike.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0198507194"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780198507192"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 382,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rIobbOxC4j4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rIobbOxC4j4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=rIobbOxC4j4C&printsec=frontcover&dq=subject:science&hl=&cd=233&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=rIobbOxC4j4C&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Bose_Einstein_Condensation.html?hl=&id=rIobbOxC4j4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rIobbOxC4j4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IWQ_y90P2uIC",
+   "etag": "ve962Ae9wG4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IWQ_y90P2uIC",
+   "volumeInfo": {
+    "title": "Genius",
+    "subtitle": "The Life and Science of Richard Feynman",
+    "authors": [
+     "James Gleick"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "1993",
+    "description": "A biography of the flamboyant Nobel Prize-winning scientist describes how Feynman cracked safes, played the bongos, studied the behavior of Jell-O, and conducted experiments in seduction, all in the name of science. Reprint. 125,000 first printing. $50,000 ad/promo. Tour.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780679747048"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0679747044"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 531,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 16,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IWQ_y90P2uIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IWQ_y90P2uIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IWQ_y90P2uIC&printsec=frontcover&dq=subject:science&hl=&cd=234&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=IWQ_y90P2uIC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Genius.html?hl=&id=IWQ_y90P2uIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IWQ_y90P2uIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tghQAoCWjvcC",
+   "etag": "EiTF+Dph5Zk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tghQAoCWjvcC",
+   "volumeInfo": {
+    "title": "The Upcycle",
+    "subtitle": "Beyond Sustainability--Designing for Abundance",
+    "authors": [
+     "William McDonough",
+     "Michael Braungart"
+    ],
+    "publisher": "North Point Press",
+    "publishedDate": "2013-04-16",
+    "description": "From the authors of Cradle to Cradle, we learn what's next: The Upcycle The Upcycle is the eagerly awaited follow-up to Cradle to Cradle, one of the most consequential ecological manifestoes of our time. Now, drawing on the green living lessons gained from 10 years of putting the Cradle to Cradle concept into practice with businesses, governments, and ordinary people, William McDonough and Michael Braungart envision the next step in the solution to our ecological crisis: We don't just use or reuse and recycle resources with greater effectiveness, we actually improve the natural world as we live, create, and build. For McDonough and Braungart, the questions of resource scarcity and sustainability are questions of design. They are practical-minded visionaries: They envision beneficial designs of products, buildings, and business practices—and they show us these ideas being put to use around the world as everyday objects like chairs, cars, and factories are being reimagined not just to sustain life on the planet but to grow it. It is an eye-opening, inspiring tour of our green future as it unfolds in front of us. The Upcycle is as ambitious as such classics as Rachel Carson's Silent Spring—but its mission is very different. McDonough and Braungart want to turn on its head our very understanding of the human role on earth: Instead of protecting the planet from human impact, why not redesign our activity to improve the environment? We can have a beneficial, sustainable footprint. Abundance for all. The goal is within our reach.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781429969055"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1429969059"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tghQAoCWjvcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tghQAoCWjvcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tghQAoCWjvcC&printsec=frontcover&dq=subject:science&hl=&cd=235&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tghQAoCWjvcC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tghQAoCWjvcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tghQAoCWjvcC&rdid=book-tghQAoCWjvcC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Upcycle-sample-epub.acsm?id=tghQAoCWjvcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tghQAoCWjvcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mGVzDwAAQBAJ",
+   "etag": "uV6wtlTmFFs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mGVzDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Bottle of Lies",
+    "subtitle": "The Inside Story of the Generic Drug Boom",
+    "authors": [
+     "Katherine Eban"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2019-05-14",
+    "description": "From an award-winning journalist, an explosive narrative investigation of the generic drug boom that reveals fraud and life-threatening dangers on a global scale—The Jungle for pharmaceuticals Many have hailed the widespread use of generic drugs as one of the most important public-health developments of the twenty-first century. Today, almost 90 percent of our pharmaceutical market is comprised of generics, the majority of which are manufactured overseas. We have been reassured by our doctors, our pharmacists and our regulators that generic drugs are identical to their brand-name counterparts, just less expensive. But is this really true? Katherine Eban’s Bottle of Lies exposes the deceit behind generic-drug manufacturing—and the attendant risks for global health. Drawing on exclusive accounts from whistleblowers and regulators, as well as thousands of pages of confidential FDA documents, Eban reveals an industry where fraud is rampant, companies routinely falsify data, and executives circumvent almost every principle of safe manufacturing to minimize cost and maximize profit, confident in their ability to fool inspectors. Meanwhile, patients unwittingly consume medicine with unpredictable and dangerous effects. The story of generic drugs is truly global. It connects middle America to China, India, sub-Saharan Africa and Brazil, and represents the ultimate litmus test of globalization: what are the risks of moving drug manufacturing offshore, and are they worth the savings? A decade-long investigation with international sweep, high-stakes brinkmanship and big money at its core, Bottle of Lies reveals how the world’s greatest public-health innovation has become one of its most astonishing swindles.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780062338808"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0062338803"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mGVzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mGVzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mGVzDwAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=236&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mGVzDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mGVzDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=mGVzDwAAQBAJ&rdid=book-mGVzDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Bottle_of_Lies-sample-epub.acsm?id=mGVzDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mGVzDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_D64DwAAQBAJ",
+   "etag": "oaYhNxfRd6Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_D64DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Meatonomics",
+    "subtitle": "How the Rigged Economics of Meat and Dairy Make You Consume Too Much─And How to Eat Better, Live Longer, and Spend Smarter",
+    "authors": [
+     "David Robinson Simon"
+    ],
+    "publisher": "Mango Media Inc.",
+    "publishedDate": "2013-09-01",
+    "description": "How the Meat Industry is Conning the Nation Eating animals is eating into our wallets. Few Americans are aware of the realities of the economic system that supports our country's supply of animal foods. Yet these forces affect us in ways we can hardly imagine. Though we only fork over a few dollars per pound of meat products at the grocery store, we end up paying much more than that in tax dollar-fueled government subsidies. $38 billion more, to be exact. And that's just one layer of hidden costs. More than our health is at stake. Animal food producers influence our buying choices with artificially low prices, misleading messages, and heavy legislation and regulation control. But learning how these forces work can help you improve both your personal life and the world in so many important ways. Life-changing foods like those in a plant-based diet will do more than just improve your waistline. The information in Meatonomics can help you save money, lose weight, live longer, boost your health, protect animals and the planet from abuse, and preserve rural communities worldwide. Learn to make better, more informed decisions on what to buy and how to eat. Dr. David Robinson Simon is a lawyer and an advocate for sustainable consumption. In Meatonomics, he uses his excellent truth-finding skills to show you: • How government marketing is influencing what we think of as healthy eating • Just how much of our money is being burnt through by the meat production industry • What we can do to change ourselves and our country for the better Readers of sustainable food and healthy eating books like Comfortably Unaware, Whole, and The China Study will be astounded by the dark, hidden truth behind the meat industry, exposed in Meatonomics: How the Rigged Economics of Meat and Dairy Make You Consume Too Much―and How to Eat Better, Live Longer, and Spend Smarter.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781609258610"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1609258614"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 289,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_D64DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_D64DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_D64DwAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=237&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_D64DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_D64DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_D64DwAAQBAJ&rdid=book-_D64DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.195E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.317E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_D64DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zxn3TgTOxggC",
+   "etag": "5gtqOixjbEY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zxn3TgTOxggC",
+   "volumeInfo": {
+    "title": "Environmental Pollution and Control",
+    "authors": [
+     "J. Jeffrey Peirce",
+     "P Aarne Vesilind",
+     "Ruth Weiner"
+    ],
+    "publisher": "Butterworth-Heinemann",
+    "publishedDate": "1998-01-15",
+    "description": "Complex environmental problems are often reduced to an inappropriate level of simplicity. While this book does not seek to present a comprehensive scientific and technical coverage of all aspects of the subject matter, it makes the issues, ideas, and language of environmental engineering accessible and understandable to the nontechnical reader. Improvements introduced in the fourth edition include a complete rewrite of the chapters dealing with risk assessment and ethics, the introduction of new theories of radiation damage, inclusion of environmental disasters like Chernobyl and Bhopal, and general updating of all the content, specifically that on radioactive waste. Since this book was first published in 1972, several generations of students have become environmentally aware and conscious of their responsibilities to the planet earth. Many of these environmental pioneers are now teaching in colleges and universities, and have in their classes students with the same sense of dedication and resolve that they themselves brought to the discipline. In those days, it was sometimes difficult to explain what indeed environmental science or engineering was, and why the development of these fields was so important to the future of the earth and to human civilization. Today there is no question that the human species has the capability of destroying its collective home, and that we have indeed taken major steps toward doing exactly that. And yet, while, a lot has changed in a generation, much has not. We still have air pollution; we still contaminate our water supplies; we still dispose of hazardous materials improperly; we still destroy natural habitats as if no other species mattered. And worst of all, we still continue to populate the earth at an alarming rate. There is still a need for this book, and for the college and university courses that use it as a text, and perhaps this need is more acute now than it was several decades ago. Although the battle to preserve the environment is still raging, some of the rules have changed. We now must take into account risk to humans, and be able to manipulate concepts of risk management. With increasing population, and fewer alternatives to waste disposal, this problem is intensified. Environmental laws have changed, and will no doubt continue to evolve. Attitudes toward the environment are often couched in what has become known as the environmental ethic. Finally, the environmental movement has become powerful politically, and environmentalism can be made to serve a political agenda. In revising this book, we have attempted to incorporate the evolving nature of environmental sciences and engineering by adding chapters as necessary and eliminating material that is less germane to today's students. We have nevertheless maintained the essential feature of this book -- to package the more important aspects of environmental engineering science and technology in an organized manner and present this mainly technical material to a nonengineering audience. This book has been used as a text in courses which require no prerequisites, although a high school knowledge of chemistry is important. A knowledge of college level algebra is also useful, but calculus is not required for the understanding of the technical and scientific concepts. We do not intend for this book to be scientifically and technically complete. In fact, many complex environmental problems have been simplified to the threshold of pain for many engineers and scientists. Our objective, however, is not to impress nontechnical students with the rigors and complexities of pollution control technology but rather to make some of the language and ideas of environmental engineering and science more understandable.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0080531113"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780080531113"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zxn3TgTOxggC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zxn3TgTOxggC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zxn3TgTOxggC&printsec=frontcover&dq=subject:science&hl=&cd=238&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zxn3TgTOxggC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zxn3TgTOxggC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 93.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.71,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zxn3TgTOxggC&rdid=book-zxn3TgTOxggC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.395E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.971E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.382E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.111E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Environmental_Pollution_and_Control-sample-epub.acsm?id=zxn3TgTOxggC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Environmental_Pollution_and_Control-sample-pdf.acsm?id=zxn3TgTOxggC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zxn3TgTOxggC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qWHSqXGfsfQC",
+   "etag": "IfUshhsxk7A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qWHSqXGfsfQC",
+   "volumeInfo": {
+    "title": "Introduction to Space Physics",
+    "authors": [
+     "Atmo Kivelson"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1995-04-28",
+    "description": "This text provides a comprehensive introduction to space physics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521457149"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521457149"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 568,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qWHSqXGfsfQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qWHSqXGfsfQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=qWHSqXGfsfQC&printsec=frontcover&dq=subject:science&hl=&cd=239&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=qWHSqXGfsfQC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Space_Physics.html?hl=&id=qWHSqXGfsfQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qWHSqXGfsfQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Mh7Lo_MRIxgC",
+   "etag": "5S63MPLwvWU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Mh7Lo_MRIxgC",
+   "volumeInfo": {
+    "title": "A Walk Through the Heavens",
+    "subtitle": "A Guide to Stars and Constellations and Their Legends",
+    "authors": [
+     "Milton D. Heifetz",
+     "Wil Tirion"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2004-02-12",
+    "description": "Introduces the patterns of the night sky with simplified maps to guide beginners in locating the constellations and the stars within them, and includes ancient myths and legends related to the stars.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521544157"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521544153"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 87,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.2.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Mh7Lo_MRIxgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Mh7Lo_MRIxgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Mh7Lo_MRIxgC&printsec=frontcover&dq=subject:science&hl=&cd=240&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Mh7Lo_MRIxgC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Walk_Through_the_Heavens.html?hl=&id=Mh7Lo_MRIxgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Mh7Lo_MRIxgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

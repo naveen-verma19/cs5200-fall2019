@@ -1,0 +1,2766 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 330,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3U4FuhDsxukC",
+   "etag": "8CWCK5H0skI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3U4FuhDsxukC",
+   "volumeInfo": {
+    "title": "Relationscapes",
+    "subtitle": "Movement, Art, Philosophy",
+    "authors": [
+     "Erin Manning"
+    ],
+    "publisher": "MIT Press",
+    "publishedDate": "2009",
+    "description": "A new philosophy of movement that explores the active relation between sensation and thought through the prisms of dance, cinema, art, and new media.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262134903"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "026213490X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 268,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3U4FuhDsxukC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3U4FuhDsxukC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=3U4FuhDsxukC&printsec=frontcover&dq=subject:technology&hl=&cd=161&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=3U4FuhDsxukC&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Relationscapes.html?hl=&id=3U4FuhDsxukC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Relationscapes-sample-epub.acsm?id=3U4FuhDsxukC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3U4FuhDsxukC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oJVvDgAAQBAJ",
+   "etag": "1u7OiiKKGME",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oJVvDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Philosophy, Technology, and the Environment",
+    "authors": [
+     "David M. Kaplan"
+    ],
+    "publisher": "MIT Press",
+    "publishedDate": "2017-03-03",
+    "description": "Contributions by prominent scholars examining the intersections of environmental philosophy and philosophy of technology.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262035668"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0262035669"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oJVvDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oJVvDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=oJVvDgAAQBAJ&printsec=frontcover&dq=subject:technology&hl=&cd=162&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=oJVvDgAAQBAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Philosophy_Technology_and_the_Environmen.html?hl=&id=oJVvDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oJVvDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bfQ7DQAAQBAJ",
+   "etag": "hNxHFtjVPwA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bfQ7DQAAQBAJ",
+   "volumeInfo": {
+    "title": "The Theory And Practice Of Hydrodynamics And Vibration",
+    "authors": [
+     "Chakrabarti Subrata Kumar"
+    ],
+    "publisher": "World Scientific Publishing Company",
+    "publishedDate": "2002-11-05",
+    "description": "This book covers the basics of the hydrodynamics and vibration of structures subjected to environmental loads. It describes the interaction of hydrodynamics with the associated vibration of structures, giving simple explanations. Emphasis is placed on the applications of the theory to practical problems. Several case studies are provided to show how the theory outlined in the book is applied in the design of structures. Background material needed for understanding fluid-induced vibrations of structures is given to make the book reasonably self-sufficient. Examples are taken mainly from the novel structures that are of interest today, including ocean and offshore structures and components.Besides being a text for undergraduates, this book can serve as a handy reference for design engineers and consultants involved in the design of structures subjected to dynamics and vibration.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789813102460"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9813102462"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 484,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bfQ7DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bfQ7DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bfQ7DQAAQBAJ&printsec=frontcover&dq=subject:technology&hl=&cd=163&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bfQ7DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bfQ7DQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 42.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.08,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bfQ7DQAAQBAJ&rdid=book-bfQ7DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.2E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.108E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 1.68E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.512E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 180.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Theory_And_Practice_Of_Hydrodynamics-sample-pdf.acsm?id=bfQ7DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bfQ7DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zdBEAwAAQBAJ",
+   "etag": "cJtqyDURvh0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zdBEAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Two Serpents Rise",
+    "authors": [
+     "Max Gladstone"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2013-10-29",
+    "description": "When his father, the last priest of the old gods and leader of the True Quechal terrorists, is wanted in connection to the attacks on the water supply, Caleb Altemoc and crazy Mal, bound by lust, must play a dangerous game where gods and people are pawns.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780765333124"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0765333120"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 13,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zdBEAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zdBEAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zdBEAwAAQBAJ&printsec=frontcover&dq=subject:technology&hl=&cd=164&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=zdBEAwAAQBAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Two_Serpents_Rise.html?hl=&id=zdBEAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zdBEAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4jZD8kHSYEoC",
+   "etag": "SEoOpGVMf90",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4jZD8kHSYEoC",
+   "volumeInfo": {
+    "title": "Managing Technological Change",
+    "subtitle": "A Strategic Partnership Approach",
+    "authors": [
+     "Carol Joyce Haddad"
+    ],
+    "publisher": "SAGE",
+    "publishedDate": "2002-05-16",
+    "description": "Management of technology (MOT) is a field of study dedicated to the planning and ongoing assessment of technology in organizations, incorporating the innovation, development, and engineering processes into one discipline. Managing Technological Change: A Strategic Partnership Approach fills a critical void by presenting an integrative, strategic, and participative approach to technology management from a multi-industry perspective.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761925643"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761925644"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 146,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4jZD8kHSYEoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4jZD8kHSYEoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4jZD8kHSYEoC&printsec=frontcover&dq=subject:technology&hl=&cd=165&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4jZD8kHSYEoC&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Managing_Technological_Change.html?hl=&id=4jZD8kHSYEoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4jZD8kHSYEoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "73T2B7SAQmUC",
+   "etag": "Zn2/TegxAbQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/73T2B7SAQmUC",
+   "volumeInfo": {
+    "title": "Fast Cars, Clean Bodies",
+    "subtitle": "Decolonization and the Reordering of French Culture",
+    "authors": [
+     "Kristin Ross"
+    ],
+    "publisher": "MIT Press",
+    "publishedDate": "1996",
+    "description": "Fast Cars, Clean Bodies examines the crucial decade from Dien Bien Phu to the mid-1960s when France shifted rapidly from an agrarian, insular, and empire-oriented society to a decolonized, Americanized, and fully industrial one. In this analysis of a startling cultural transformation Kristin Ross finds the contradictions of the period embedded in its various commodities and cultural artifacts--automobiles, washing machines, women's magazines, film, popular fiction, even structuralism--as well as in the practices that shape, determine, and delimit their uses. In each of the book's four chapters, a central object of mythical image is refracted across a range of discursive and material spaces: social and private, textual and cinematic, national and international. The automobile, the new cult of cleanliness in the capital and the colonies, the waning of Sartre and de Beauvoir as the couple of national attention, and the emergence of reshaped, functionalist masculinities (revolutionary, corporate, and structural) become the key elements in this prehistory of postmodernism in France. Modernization ideology, Ross argues, offered the promise of limitless, even timeless, development. By situating the rise of \"end of history\" ideologies within the context of France's transition into mass culture and consumption, Ross returns the touted timelessness of modernization to history. She shows how the realist fiction and film of the period, as well as the work of social theorists such as Barthes, Lefebvre, and Morin who began at the time to conceptualize \"everyday life,\" laid bare the disruptions and the social costs of events. And she argues that the logic of the racism prevalent in France today, focused on the figure of the immigrant worker, is itself the outcome of the French state's embrace of capitalist modernization ideology in the 1950s and 1960s.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0262680912"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262680912"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 261,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=73T2B7SAQmUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=73T2B7SAQmUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=73T2B7SAQmUC&printsec=frontcover&dq=subject:technology&hl=&cd=166&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=73T2B7SAQmUC&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fast_Cars_Clean_Bodies.html?hl=&id=73T2B7SAQmUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=73T2B7SAQmUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Pip2eSXdvhcC",
+   "etag": "UIDCpsnKgZ0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Pip2eSXdvhcC",
+   "volumeInfo": {
+    "title": "The Critical Villager",
+    "subtitle": "Beyond Community Participation",
+    "authors": [
+     "Eric Dudley"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1993",
+    "description": "When aid to the Third World actually works it is usually on such a small scale that it makes little impact on the world's problems. Can demands for generalizable actions be reconciled with location-specific solutions? The Critical Villager considers how community-based technical aid can be made more effective and sustainable. Calling for development workers, policy makers and researchers to put themselves in the place of the intended beneficiaries of aid, it suggests concrete principles for action and research. It argues that participatory research and 'transfer of technology' should not be regarded as rival models for development but rather as complementary components in a single process of effective aid.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415073448"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415073448"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 173,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Pip2eSXdvhcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Pip2eSXdvhcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Pip2eSXdvhcC&printsec=frontcover&dq=subject:technology&hl=&cd=167&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Pip2eSXdvhcC&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Critical_Villager.html?hl=&id=Pip2eSXdvhcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Pip2eSXdvhcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CcqzBgAAQBAJ",
+   "etag": "6sNJlvXsARA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CcqzBgAAQBAJ",
+   "volumeInfo": {
+    "title": "L'anima delle macchine",
+    "subtitle": "Tecnodestino, dipendenza tecnologica e uomo virtuale",
+    "authors": [
+     "Paolo Gallina"
+    ],
+    "publisher": "EDIZIONI DEDALO",
+    "publishedDate": "2015-02-10",
+    "description": "Questo saggio ruota attorno a un’ipotesi impopolare: abbiamo bisogno di macchine e tecnologia come di amore e ossigeno. L’au\u00adtore dà corpo alla tesi descrivendo sia gli aspetti tecnologici delle macchine, che tendono a diventare sempre più «simili all’uomo», sia il rapporto emotivo dell’uomo con la macchina. Forte di un’attiva ricerca sul campo, l’autore mescola con irriverenza ed equilibrio casi scientifici a esperienze quotidiane di vita domestica, fornendo un quadro insospettato e convincente della nostra dipendenza tecnologica. Per raggiungere ta\u00adle scopo, adotta uno stile semplice e lineare, a trat\u00adti divertente, condito di molti esempi, come «la tortura di una for\u00admi\u00adca», «i fumetti manga» e la «ricerca della felicità». Alla fine di questo viaggio scientifico, il lettore arriverà a comprendere i meccani\u00ad\u00adsmi consci e inconsci con cui la mente uma\u00adna si adatta ai robot, ai prodotti digitali e agli innumerevoli sistemi di real\u00adtà virtuale che il genere umano ha costruito attorno a sé.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788822068569"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8822068564"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CcqzBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CcqzBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "it",
+    "previewLink": "http://books.google.com/books?id=CcqzBgAAQBAJ&printsec=frontcover&dq=subject:technology&hl=&cd=168&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=CcqzBgAAQBAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/L_anima_delle_macchine.html?hl=&id=CcqzBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CcqzBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VPDqnGGHpHYC",
+   "etag": "iYYMqFlVa9w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VPDqnGGHpHYC",
+   "volumeInfo": {
+    "title": "Science and Technology in Medieval European Life",
+    "authors": [
+     "Jeffrey R. Wigelsworth"
+    ],
+    "publisher": "Greenwood Publishing Group",
+    "publishedDate": "2006",
+    "description": "Describes how science and technology impacted the daily life of people during the Middle Ages",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0313337543"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780313337543"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 169,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VPDqnGGHpHYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VPDqnGGHpHYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=VPDqnGGHpHYC&printsec=frontcover&dq=subject:technology&hl=&cd=169&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VPDqnGGHpHYC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VPDqnGGHpHYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 39.46,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VPDqnGGHpHYC&rdid=book-VPDqnGGHpHYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.995E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.946E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Science_and_Technology_in_Medieval_Europ-sample-epub.acsm?id=VPDqnGGHpHYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Science_and_Technology_in_Medieval_Europ-sample-pdf.acsm?id=VPDqnGGHpHYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VPDqnGGHpHYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NDX1J9wb8r8C",
+   "etag": "7AXbm/dPFDM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NDX1J9wb8r8C",
+   "volumeInfo": {
+    "title": "Representations of the Post/human",
+    "subtitle": "Monsters, Aliens, and Others in Popular Culture",
+    "authors": [
+     "Elaine L. Graham"
+    ],
+    "publisher": "Rutgers University Press",
+    "publishedDate": "2002",
+    "description": "This work draws together a wide range of literature on contemporary technologies and their ethical implications. It focuses on advances in medical, reproductive, genetic and information technologies.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813530598"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813530598"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 259,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NDX1J9wb8r8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NDX1J9wb8r8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NDX1J9wb8r8C&printsec=frontcover&dq=subject:technology&hl=&cd=170&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NDX1J9wb8r8C&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Representations_of_the_Post_human.html?hl=&id=NDX1J9wb8r8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NDX1J9wb8r8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1gjamJOh4hgC",
+   "etag": "WOsa7z0JNaE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1gjamJOh4hgC",
+   "volumeInfo": {
+    "title": "Engineers of Happy Land",
+    "subtitle": "Technology and Nationalism in a Colony",
+    "authors": [
+     "Rudolf Mrázek"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "2002",
+    "description": "Based on close reading of historical documents--poetry as much as statistics--and focused on the conceptualization of technology, this book is an unconventional evocation of late colonial Netherlands East Indies (today Indonesia). In considering technology and the ways that people use and think about things, Rudolf Mrázek invents an original way to talk about freedom, colonialism, nationalism, literature, revolution, and human nature. The central chapters comprise vignettes and take up, in turn, transportation (from shoes to road-building to motorcycle clubs), architecture (from prison construction to home air-conditioning), optical technologies (from photography to fingerprinting), clothing and fashion, and the introduction of radio and radio stations. The text clusters around a group of fascinating recurring characters representing colonialism, nationalism, and the awkward, inevitable presence of the European cultural, intellectual, and political avant-garde: Tillema, the pharmacist-author of Kromoblanda; the explorer/engineer IJzerman; the \"Javanese princess\" Kartina; the Indonesia nationalist journalist Mas Marco; the Dutch novelist Couperus; the Indonesian novelist Pramoedya Ananta Toer; and Dutch left-wing liberal Wim Wertheim and his wife. In colonial Indies, as elsewhere, people employed what Proust called \"remembering\" and what Heidegger called \"thinging\" to sense and make sense of the world. In using this observation to approach Indonesian society, Mrázek captures that society off balance, allowing us to see it in unfamiliar positions. The result is a singular work with surprises for readers throughout the social sciences, not least those interested in Southeast Asia or colonialism more broadly.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0691091625"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691091624"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 311,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1gjamJOh4hgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1gjamJOh4hgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=1gjamJOh4hgC&printsec=frontcover&dq=subject:technology&hl=&cd=171&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=1gjamJOh4hgC&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Engineers_of_Happy_Land.html?hl=&id=1gjamJOh4hgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Engineers_of_Happy_Land-sample-pdf.acsm?id=1gjamJOh4hgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1gjamJOh4hgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2XgshVV76LMC",
+   "etag": "l6wy22tGooI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2XgshVV76LMC",
+   "volumeInfo": {
+    "title": "Ingenious Pursuits",
+    "subtitle": "Building the Scientific Revolution",
+    "authors": [
+     "Lisa Jardine"
+    ],
+    "publisher": "Anchor",
+    "publishedDate": "2000",
+    "description": "The author of the critically acclaimed Worldly Goods presents a thoughtful reassessment of the Renaissance in terms of its influence on the history of science, relating the era's imaginative, artistic endeavors to the creative inspiration behind the scientific discoveries of the period. Reprint. 20,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780385720014"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0385720017"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 444,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.4.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2XgshVV76LMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2XgshVV76LMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2XgshVV76LMC&printsec=frontcover&dq=subject:technology&hl=&cd=172&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=2XgshVV76LMC&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ingenious_Pursuits.html?hl=&id=2XgshVV76LMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2XgshVV76LMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oV7mBQAAQBAJ",
+   "etag": "l1J/Z24Kf4Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oV7mBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Unusual and Awesome Jobs Using Technology",
+    "subtitle": "Roller Coaster Designer, Space Robotics Engineer, and More",
+    "authors": [
+     "Linda LeBoutillier"
+    ],
+    "publisher": "Capstone",
+    "publishedDate": "2015",
+    "description": "Discusses jobs that use technology, including a roller coaster designer, a space robotics engineer, and a wind turbine technician.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781491420294"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1491420294"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oV7mBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oV7mBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=oV7mBQAAQBAJ&printsec=frontcover&dq=subject:technology&hl=&cd=173&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=oV7mBQAAQBAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Unusual_and_Awesome_Jobs_Using_Technolog.html?hl=&id=oV7mBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oV7mBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IitJzlAtHLoC",
+   "etag": "hY4UPbXQW1o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IitJzlAtHLoC",
+   "volumeInfo": {
+    "title": "Virtual Anxiety",
+    "subtitle": "Photography, New Technologies and Subjectivity",
+    "authors": [
+     "Sarah Kember"
+    ],
+    "publisher": "Manchester University Press",
+    "publishedDate": "1998",
+    "description": "VIRTUAL ANXIETY examines the fears and hopes surrounding imaging, information, and reproductive technologies. Concentrating on the contexts of medicine and law, the book contains new research on body scanners and criminal identification technologies, as well as studies on the visible human project, citing specifically the murder of one James Bulger. 16 illustrations.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0719045290"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780719045295"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 150,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IitJzlAtHLoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IitJzlAtHLoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IitJzlAtHLoC&printsec=frontcover&dq=subject:technology&hl=&cd=174&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=IitJzlAtHLoC&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Virtual_Anxiety.html?hl=&id=IitJzlAtHLoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IitJzlAtHLoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yfmQps9CiJ8C",
+   "etag": "mjf+sYJO7kk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yfmQps9CiJ8C",
+   "volumeInfo": {
+    "title": "Exploring the Black Box",
+    "subtitle": "Technology, Economics, and History",
+    "authors": [
+     "Nathan Rosenberg",
+     "Rosenberg Nathan"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1994-03-10",
+    "description": "This book presents a unique account of how technological change is generated and the processes by which improved technologies are introduced into economic activity. The central theme of the book is the idea that technological changes are often \"path dependent\": their form and direction tend to be influenced strongly by the particular sequence of earlier events out of which a new technology has emerged. Individual chapters explore the particular features of new technologies in different historical and sectoral contexts.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521459559"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521459556"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 274,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yfmQps9CiJ8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yfmQps9CiJ8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=yfmQps9CiJ8C&printsec=frontcover&dq=subject:technology&hl=&cd=175&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=yfmQps9CiJ8C&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Exploring_the_Black_Box.html?hl=&id=yfmQps9CiJ8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yfmQps9CiJ8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "91FikR3rUtAC",
+   "etag": "dJnOpa5M/Mo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/91FikR3rUtAC",
+   "volumeInfo": {
+    "title": "Technology and Culture in Greek and Roman Antiquity",
+    "authors": [
+     "S. Cuomo"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2007-08-02",
+    "description": "This book uses five case-studies to set ancient technical knowledge in its political, social and intellectual context.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521810739"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0521810736"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 212,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=91FikR3rUtAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=91FikR3rUtAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=91FikR3rUtAC&printsec=frontcover&dq=subject:technology&hl=&cd=176&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=91FikR3rUtAC&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Technology_and_Culture_in_Greek_and_Roma.html?hl=&id=91FikR3rUtAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=91FikR3rUtAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mraCffnS9VsC",
+   "etag": "B4N9BGUsZBo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mraCffnS9VsC",
+   "volumeInfo": {
+    "title": "Paper Machine",
+    "authors": [
+     "Jacques Derrida"
+    ],
+    "publisher": "Stanford University Press",
+    "publishedDate": "2005",
+    "description": "This book questions the book itself, archivization, machines for writing, and the mechanicity inherent in language, the media, and intellectuals. Derrida questions what takes place between the paper and the machine inscribing it. He examines what becomes of the archive when the world of paper is subsumed in new machines for virtualization, and whether there can be a virtual event or a virtual archive. Derrida continues his long-standing investigation of these issues, and ties them into the new themes that governed his teaching and thinking in the past few years: the secret, pardon, perjury, state sovereignty, hospitality, the university, animal rights, capital punishment, the question of what sort of mediatized world is replacing the print epoch, and the question of the \u0093wholly other.\u0094 Derrida is remarkable at making seemingly occasional pieces into part of a complexly interconnected trajectory of thought.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0804746206"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780804746205"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 203,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mraCffnS9VsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mraCffnS9VsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mraCffnS9VsC&printsec=frontcover&dq=subject:technology&hl=&cd=177&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mraCffnS9VsC&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Paper_Machine.html?hl=&id=mraCffnS9VsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Paper_Machine-sample-epub.acsm?id=mraCffnS9VsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mraCffnS9VsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Hgvi3wyYzkcC",
+   "etag": "qguv5WbUxjk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Hgvi3wyYzkcC",
+   "volumeInfo": {
+    "title": "Makers",
+    "authors": [
+     "Cory Doctorow"
+    ],
+    "publisher": "HarperCollins UK",
+    "publishedDate": "2010",
+    "description": "Perry and Lester invent all sorts of things. Seashell robots that make toast, Boogie Woogie Elmo dolls that drive cars. They also invent an entirely new economic system. Together they transform a country, and journalist Suzanne Church is there to document it.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780007327898"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0007327897"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Businesspeople"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 37,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Hgvi3wyYzkcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Hgvi3wyYzkcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Hgvi3wyYzkcC&dq=subject:technology&hl=&cd=178&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Hgvi3wyYzkcC&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Makers.html?hl=&id=Hgvi3wyYzkcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Hgvi3wyYzkcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YzzbAAAAMAAJ",
+   "etag": "aYpX+Z04vaU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YzzbAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Cathedral, Forge, and Waterwheel",
+    "subtitle": "Technology and Invention in the Middle Ages",
+    "authors": [
+     "Frances Gies",
+     "Joseph Gies"
+    ],
+    "publisher": "HarperCollins Publishers",
+    "publishedDate": "1994",
+    "description": "A fascinating exploration of how Western Europe, after the chaos of the Dark Ages, rose to lead the world in technology examines how such inventions as the spinning wheel, the flying buttress, and the blast furnace helped create Western culture.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015062086254"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 357,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YzzbAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YzzbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YzzbAAAAMAAJ&dq=subject:technology&hl=&cd=179&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YzzbAAAAMAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cathedral_Forge_and_Waterwheel.html?hl=&id=YzzbAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YzzbAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_erWAAAACAAJ",
+   "etag": "48rRXRB1JiE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_erWAAAACAAJ",
+   "volumeInfo": {
+    "title": "中国科学技术典籍通汇/技术卷",
+    "subtitle": "",
+    "publishedDate": "1994",
+    "description": "《中国科学技术典籍通汇》主编为任继愈",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "7534713595"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9787534713590"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "zh-CN",
+    "previewLink": "http://books.google.com/books?id=_erWAAAACAAJ&dq=subject:technology&hl=&cd=180&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_erWAAAACAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%85%B8%E7%B1%8D%E9%80%9A%E6%B1%87_%E6%8A%80%E6%9C%AF%E5%8D%B7.html?hl=&id=_erWAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_erWAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TbfCrQEACAAJ",
+   "etag": "4/HAKq4rrWc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TbfCrQEACAAJ",
+   "volumeInfo": {
+    "title": "Future Crimes",
+    "subtitle": "How Our Radical Dependence on Technology Threatens Us All",
+    "authors": [
+     "Marc Goodman"
+    ],
+    "publisher": "Anchor Canada",
+    "publishedDate": "2016-01-12",
+    "description": "One of the world's leading authorities on global security, Marc Goodman takes readers deep into the digital underground to illuminate the alarming ways criminals, corporations, and even countries are using new and emerging technologies against you--and how this makes everyone more vulnerable than you ever thought possible. Technological advances have benefited our world in immeasurable ways--but there is an ominous flip side. Criminals are often the earliest, and most innovative, adopters of technology, and modern times have led to modern crimes. Today's criminals steal identities, drain online bank accounts and wipe out computer servers. It's disturbingly easy to activate baby monitors to spy on families, pacemakers can be hacked to deliver a lethal jolt of electricity, and thieves are analyzing your social media in order to determine the best time for a home invasion. Meanwhile, 3D printers produce AK-47s, terrorists can download the recipe for the Ebola virus, and drug cartels are building drones. This is just the beginning of the tsunami of technological threats coming our way. In Future Crimes, Marc Goodman rips opens his database of hundreds of real cases to give us front-row access to these impending perils. Reading like a sci-fi thriller, Future Crimes raises tough questions about the expanding role of technology in our lives. Future Crimes is a call to action for better security measures worldwide, but most importantly, it will empower readers to protect themselves against looming threats--before it's too late.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0385682581"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780385682589"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 464,
+    "printType": "BOOK",
+    "categories": [
+     "Computer crimes"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TbfCrQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TbfCrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TbfCrQEACAAJ&dq=subject:technology&hl=&cd=181&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=TbfCrQEACAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Future_Crimes.html?hl=&id=TbfCrQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TbfCrQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TVQKswEACAAJ",
+   "etag": "qlDTBI5dPnU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TVQKswEACAAJ",
+   "volumeInfo": {
+    "title": "The Technical Alphabet",
+    "subtitle": "Technology Literacy Starts with the ABCs",
+    "authors": [
+     "Melissa Jawaharlal",
+     "Lavanya Jawaharlal"
+    ],
+    "publishedDate": "2015-09-25",
+    "description": "Reading begins with story time - so should technology literacy. The Technical Alphabet is a powerful tool to introduce young minds to the technology around them in a fun, educational way. Understanding the world around us invariably requires the understanding of the technology we use. Introducing children to new words like \"axle\" and \"beam\" will spur their curiosity and em¬power them with a better and deeper understanding of today's high tech world.Let's set up our new generation with the tools they need to grow up with a better understanding of science and technology. By having our kids \"talking technical\" early, they'll be empowered with the fundamental technical elements of our modern society!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0996086226"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780996086226"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TVQKswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TVQKswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TVQKswEACAAJ&dq=subject:technology&hl=&cd=182&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=TVQKswEACAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Technical_Alphabet.html?hl=&id=TVQKswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TVQKswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lo1UAAAAMAAJ",
+   "etag": "jng/7yTg6aE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lo1UAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Encyclopedia of physical science and technology",
+    "authors": [
+     "Robert Allen Meyers"
+    ],
+    "publisher": "Academic Pr",
+    "publishedDate": "2002",
+    "description": "Nine years has passed since the 1992 second edition of the encyclopedia was published. This completely revised third edition, which is a university and professional level compendium of chemistry, molecular biology, mathematics, and engineering, is refreshed with numerous articles about current research in these fields. For example, the new edition has an increased emphasis on information processing and biotechnology, reflecting the rapid growth of these areas. The continuing Editor-in-Chief, Robert Meyers, and the Board prepared a new topical outline of physical science and technology to define complete coverage. Section editors are either Nobel Laureates or editors of key journals in their fields. Additional Board members representing the global scientific community were also recruited. The new 18-volume edition of the Encyclopedia of Physical Science and Technology, 3E, will have the added feature of an Index Volume, containing abstracts of all of the articles in the encyclopedia. The latest edition of the Encyclopedia of Physical Science and Technology: Has been completely updated with no less than 90% revised material and 50% new content throughout the volumes Presents eighteen volumes, nearly 800 authoritative articles and 14,500 pages Is lavishly illustrated with over 7,000 photographs, illustrations and tables Presents an increased emphasis on the hottest topics such as information processing, environmental science, biotechnology and biomedicine Includes a final Index Volume containing Thematic, Relational and Subject indexes",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015053135045"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 15453,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lo1UAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lo1UAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lo1UAAAAMAAJ&dq=subject:technology&hl=&cd=183&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lo1UAAAAMAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Encyclopedia_of_physical_science_and_tec.html?hl=&id=lo1UAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lo1UAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XD9evgAACAAJ",
+   "etag": "RXVRJk/sWZk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XD9evgAACAAJ",
+   "volumeInfo": {
+    "title": "Technology Vs. Humanity",
+    "subtitle": "The Coming Clash Between Man and Machine",
+    "authors": [
+     "Gerd Leonhard"
+    ],
+    "publishedDate": "2016-09-06",
+    "description": "Futurist Gerd Leonhard breaks new ground again by bringing together mankind's urge to upgrade and automate everything-down to human biology itself-with our timeless quest for freedom and happiness. Before it's too late, we must stop and ask the big questions: How do we embrace technology without becoming it? When it happens-gradually, then suddenly-the machine era will create the greatest watershed in human life on Earth. Technology vs. Humanity is one of the last moral maps we'll get as humanity enters the Jurassic Park of Big Tech. Artificial intelligence. Cognitive computing. The Singularity. Digital obesity. Printed food. The Internet of Things. The death of privacy. The end of work-as-we-know-it, and radical longevity: The imminent clash between technology and humanity is already rushing towards us. What moral values are you prepared to stand up for-before being human alters its meaning forever? Gerd Leonhard is a new kind of futurist schooled in the humanities as much as in technology. In his most provocative book to date, he explores the exponential changes swamping our societies, providing rich insights and deep wisdom for business leaders, professionals and anyone with decisions to make in this new era. If you take being human for granted, press Reset now with this passionately argued call to create a genuinely braver new world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0993295827"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780993295829"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XD9evgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XD9evgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XD9evgAACAAJ&dq=subject:technology&hl=&cd=184&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XD9evgAACAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Technology_Vs_Humanity.html?hl=&id=XD9evgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XD9evgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aRBDAQAAIAAJ",
+   "etag": "zOtxE3Ss9LM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aRBDAQAAIAAJ",
+   "volumeInfo": {
+    "title": "TechnoStress",
+    "subtitle": "coping with technology @work @home @play",
+    "authors": [
+     "Michelle M. Weil",
+     "Larry D. Rosen"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "1997-09-25",
+    "description": "Explains how and why technology increases stress, and offers tools and techniques to help cope with the changes of modern life",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSD:31822025794322"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aRBDAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aRBDAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=aRBDAQAAIAAJ&dq=subject:technology&hl=&cd=185&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=aRBDAQAAIAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/TechnoStress.html?hl=&id=aRBDAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aRBDAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QXqePwAACAAJ",
+   "etag": "1gZvJfN93Pw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QXqePwAACAAJ",
+   "volumeInfo": {
+    "title": "Distracted",
+    "subtitle": "The Erosion of Attention and the Coming Dark Age",
+    "authors": [
+     "Maggie Jackson"
+    ],
+    "publishedDate": "2009",
+    "description": "Distracted is a gripping expos of this hyper-mobile, cyber-centric, attention-deficient life. Day by day, we are eroding our capacity for deep attention the building block of intimacy, wisdom, and cultural progress.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1591027489"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781591027485"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 327,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QXqePwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QXqePwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=QXqePwAACAAJ&dq=subject:technology&hl=&cd=186&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=QXqePwAACAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Distracted.html?hl=&id=QXqePwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QXqePwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CNQeAQAAIAAJ",
+   "etag": "iTIUpvR65gU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CNQeAQAAIAAJ",
+   "volumeInfo": {
+    "title": "The new how things work",
+    "subtitle": "Everyday technology explained",
+    "authors": [
+     "John Langone"
+    ],
+    "publisher": "National Geographic",
+    "publishedDate": "2004-09-14",
+    "description": "An introduction to the inner workings of everyday technology, from fiber optics to an electric razor.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105120007005"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CNQeAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CNQeAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=CNQeAQAAIAAJ&dq=subject:technology&hl=&cd=187&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=CNQeAQAAIAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_new_how_things_work.html?hl=&id=CNQeAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CNQeAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OMQeAQAAIAAJ",
+   "etag": "J4LCnQvWgT8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OMQeAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Alternative Energy Resources",
+    "subtitle": "The Quest for Sustainable Energy",
+    "authors": [
+     "Paul Kruger"
+    ],
+    "publisher": "John Wiley & Sons Incorporated",
+    "publishedDate": "2006-03-10",
+    "description": "A balanced introduction to tomorrow's energy sources Over the course of the next fifty years, there will be a shift in the quest for sustainble energy, including a major change in transportation from internal combustion engines burning petroleum-derived fuels to newer technology engines using new transportation fuels. Alternative Energy Reources examines our options for energy sources with a focus on hydrogen as a large-scale, secondary energy vector parallel to electricity. As the price of petroleum products increases, the world is scrambling to find a suitable replacement energy source. In this comprehensive primer, Professor Paul Kruger examines energy use throughout history and the exponential expansion of our energy use beginning with the Industrial Revolution through the present day. The book then analyzes the various alternative energy sources available, including renewable energy (hydroelectric, solar, wind, biomass, and geothermal), nuclear, and hydrogen. He addresses each energy source's pros and cons based on our needs, availability, and environmental impact aspects. Finally, Dr. Kruger proposes the use of hydrogen as a fuel to sustain our energy supply produced by appropriate technology mixtures of renewable and nuclear energy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0471772089"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780471772088"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OMQeAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OMQeAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OMQeAQAAIAAJ&dq=subject:technology&hl=&cd=188&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OMQeAQAAIAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Alternative_Energy_Resources.html?hl=&id=OMQeAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OMQeAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lXrbAAAAMAAJ",
+   "etag": "/wQBJQBvNcE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lXrbAAAAMAAJ",
+   "volumeInfo": {
+    "title": "All the Modern Conveniences",
+    "subtitle": "American Household Plumbing, 1840-1890",
+    "authors": [
+     "Maureen Ogle"
+    ],
+    "publishedDate": "1996",
+    "description": "As any American who has traveled abroad knows, the American home contains more, and more elaborate, plumbing than any other in the world. Indeed, Americans are renowned for their obsession with cleanliness. Although plumbing has occupied a central position in American life since the mid-nineteenth century, little scholarly attention has been paid to its history. Now, in All the Modern Conveniences, Maureen Ogle presents a fascinating study that explores the development of household plumbing in nineteenth-century America. Until 1840, indoor plumbing could be found only in mansions and first-class hotels. Then, in the decade before midcentury, Americans representing a wider range of economic circumstances began to install household plumbing with increasing eagerness. Ogle draws on a wide assortment of contemporary sources--sanitation reports, builders' manuals, fixture catalogues, patent applications, and popular scientific tracts--to show how the demand for plumbing was prompted more by an emerging middle-class culture of convenience, reform, and domestic life than by fears about poor hygiene and inadequate sanitation. She also examines advancements in water-supply and waste-management technology, the architectural considerations these amenities entailed, and the scientific approach to sanitation that began to emerge by century's end. \"As part of this well-researched study, Maureen Ogle links cities, politicians, systems, sanitarians, and ideas to produce a compelling account of household plumbing--a taken-for-granted set of devices that allowed Americans to express their individualism and their commitment to 'science.'\"--Mark H. Rose, Florida Atlantic University",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015035763914"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lXrbAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lXrbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lXrbAAAAMAAJ&dq=subject:technology&hl=&cd=189&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lXrbAAAAMAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/All_the_Modern_Conveniences.html?hl=&id=lXrbAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lXrbAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mMXaAAAAMAAJ",
+   "etag": "yFk0FcJJZOw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mMXaAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Roving Mind",
+    "authors": [
+     "Isaac Asimov"
+    ],
+    "publishedDate": "1983",
+    "description": "Isaac Asimov's death on April 6, 19892, was a great loss to the world of both science and literature. This collection of essays reflects Asimov's extraordinary skill in disseminating knowledge from across the spectrum of human thought. Included are thoughtful and touching tributes from colleagues and friends who discuss Asimov's work and his inspiration and impact on others.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015001708356"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 350,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mMXaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mMXaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mMXaAAAAMAAJ&dq=subject:technology&hl=&cd=190&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mMXaAAAAMAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Roving_Mind.html?hl=&id=mMXaAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mMXaAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hwKAAAAAMAAJ",
+   "etag": "omGluZxAOn4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hwKAAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Gray World, Green Heart",
+    "subtitle": "Technology, Nature, and the Sustainable Landscape",
+    "authors": [
+     "Robert L. Thayer"
+    ],
+    "publisher": "John Wiley & Sons Incorporated",
+    "publishedDate": "1994",
+    "description": "Going beyond the techniques and technology of sustainability, this study aims to provide a theoretical framework for sustainable design within broader cultural and artistic trends. The author examines the conflict between technology and nature in the industrialized world.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015032836200"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hwKAAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hwKAAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hwKAAAAAMAAJ&dq=subject:technology&hl=&cd=191&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=hwKAAAAAMAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Gray_World_Green_Heart.html?hl=&id=hwKAAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hwKAAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2xlGAQAAIAAJ",
+   "etag": "UrtaET/hAiw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2xlGAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Electric Machinery and Power System Fundamentals",
+    "authors": [
+     "Stephen J. Chapman"
+    ],
+    "publisher": "McGraw-Hill Science/Engineering/Math",
+    "publishedDate": "2002",
+    "description": "Stephen J. Chapman is a leading author in the area of machines. He brings his expertise to the table again in An \"Introduction to Electric Machinery and Power Systems.\" This text is designed to be used in a course that combines machinery and power systems into one semester. Chapman's new book is designed to be flexible and allow instructors to choose chapters \"a la carte\", sot he instructor controls the emphasis. Chapman has written a book that give students what they need to know to be real-world engineers. It focuses on principles and teaches students how to use information as opposed to do a lot of calculations that would rarely be done by a practicing engineer. He compresses the material by focusing on its essence, underlying principles. Matlab is used throughout the book in examples and problems.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSD:31822029915279"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 673,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2xlGAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2xlGAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2xlGAQAAIAAJ&dq=subject:technology&hl=&cd=192&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=2xlGAQAAIAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Electric_Machinery_and_Power_System_Fund.html?hl=&id=2xlGAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2xlGAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "do2rvQEACAAJ",
+   "etag": "s1quJWF/Jmo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/do2rvQEACAAJ",
+   "volumeInfo": {
+    "title": "STEM Education",
+    "subtitle": "An Emerging Field of Inquiry",
+    "authors": [
+     "Tasos Barkatsas",
+     "Nicky Carr",
+     "Grant Cooper"
+    ],
+    "publisher": "Global Education in the 21st C",
+    "publishedDate": "2018-11",
+    "description": "This book presents a contemporary focus on significant issues in STEM teaching, learning and research that are valuable in preparing students for a digital 21st century. The book chapters cover a wide spectrum of issues and topics using a wealth of research methodologies and methods.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "900439138X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789004391383"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=do2rvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=do2rvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=do2rvQEACAAJ&dq=subject:technology&hl=&cd=193&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=do2rvQEACAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/STEM_Education.html?hl=&id=do2rvQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=do2rvQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NmgBnwEACAAJ",
+   "etag": "reqXT4hvZ8o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NmgBnwEACAAJ",
+   "volumeInfo": {
+    "title": "The Big Disconnect",
+    "subtitle": "The Story of Technology and Loneliness",
+    "authors": [
+     "Giles Slade"
+    ],
+    "publishedDate": "2012",
+    "description": "Argues that our growing technological world is detrimental to the human spirit and that people need to reconnect with not only other people, but also the non-human natural world. Original.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1616145951"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781616145958"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 306,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NmgBnwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NmgBnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NmgBnwEACAAJ&dq=subject:technology&hl=&cd=194&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NmgBnwEACAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Big_Disconnect.html?hl=&id=NmgBnwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NmgBnwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vTwhAQAAIAAJ",
+   "etag": "AcfB5DP3T74",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vTwhAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Technology in America",
+    "subtitle": "A Brief History",
+    "authors": [
+     "Alan I Marcus",
+     "Howard P. Segal"
+    ],
+    "publisher": "Wadsworth Publishing Company",
+    "publishedDate": "1999",
+    "description": "This brief history of technology in America begins with the colonial period but emphasizes the nineteenth and twentieth centuries. The authors break new ground by concentrating on the impact of American society and culture on technology, instead of taking the traditional approach (considering the impact of technology on culture). The organization of the text reflects this perspective by following conventional American history periodization rather than a more limited industry-oriented outline (pre-industrial, industrial, and postindustrial). Part Two employs systems and systemization as a theme. The final section of the text (post-1950) has been completely rewritten to reflect recent scholarship and technological advances.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105028584451"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vTwhAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vTwhAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vTwhAQAAIAAJ&dq=subject:technology&hl=&cd=195&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=vTwhAQAAIAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Technology_in_America.html?hl=&id=vTwhAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vTwhAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nm25AAAAIAAJ",
+   "etag": "4OZr8tQAUCI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nm25AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Contested Futures",
+    "subtitle": "A Sociology of Prospective Techno-science",
+    "authors": [
+     "Nik Brown",
+     "Brian Rappert",
+     "Andrew Webster"
+    ],
+    "publisher": "Ashgate Pub Limited",
+    "publishedDate": "2000-01-01",
+    "description": "Examining the relationship between social action and the future, this book interrogates the metaphors and practices through which the future is mobilized as an object of present day action and agency. It shifts the analytical gaze from 'looking into' the",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0754612635"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780754612636"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 277,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nm25AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nm25AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nm25AAAAIAAJ&dq=subject:technology&hl=&cd=196&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nm25AAAAIAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Contested_Futures.html?hl=&id=nm25AAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nm25AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RGZThgdCoP4C",
+   "etag": "hZGyQLPQO+M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RGZThgdCoP4C",
+   "volumeInfo": {
+    "title": "Take It Personally",
+    "subtitle": "How to Make Conscious Choices to Change the World",
+    "authors": [
+     "Anita Roddick"
+    ],
+    "publisher": "HarperThorsons",
+    "publishedDate": "2001",
+    "description": "In this work, outspoken business leader Anita Roddick brings together the voices of some of the most prominent authorities on the phenomenon of Globalization, including Susan George, David Korten and Naomi Klein. Full of images, this book gets right to the heart of the issue, exploding the myths that would have us believe Globalization is a force for good. Covering aspects of the subject as diverse as human rights, the environment, international finance, health, the food we eat and trade, the book combines medium-length articles with quotes, case notes and interviews. This book constitutes a call to action, showing how each and every one of us can take on the corporate.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0007128983"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780007128983"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 255,
+    "printType": "BOOK",
+    "categories": [
+     "Globalization"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RGZThgdCoP4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RGZThgdCoP4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RGZThgdCoP4C&dq=subject:technology&hl=&cd=197&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RGZThgdCoP4C&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Take_It_Personally.html?hl=&id=RGZThgdCoP4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RGZThgdCoP4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o2hRAAAAMAAJ",
+   "etag": "089wlg8xlAk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o2hRAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Technology in Postwar America",
+    "subtitle": "A History",
+    "authors": [
+     "Carroll W. Pursell"
+    ],
+    "publishedDate": "2007",
+    "description": "Carroll Pursell tells the story of the evolution of American technology since World War II. His fascinating and surprising history links pop culture icons with landmarks in technological innovation and shows how postwar politics left their mark on everything from television, automobiles, and genetically engineered crops to contraceptives, Tupperware, and the Veg-O-Matic. Just as America's domestic and international policies became inextricably linked during the Cold War, so did the nation's public and private technologies. The spread of the suburbs fed into demands for an interstate highway system, which itself became implicated in urban renewal projects. Fear of slipping into a postwar economic depression was offset by the creation of \"a consumers' republic\" in which buying and using consumer goods became the ultimate act of citizenship and a symbol of an \"American Way of Life.\" Pursell begins with the events of World War II and the increasing belief that technological progress and the science that supported it held the key to a stronger, richer, and happier America. He looks at the effect of returning American servicemen and servicewomen and the Marshall Plan, which sought to integrate Western Europe into America's economic, business, and technological structure. He considers the accumulating \"problems\" associated with American technological supremacy, which, by the end of the 1960s, led to a crisis of confidence. Pursell concludes with an analysis of how consumer technologies create a cultural understanding that makes political technologies acceptable and even seem inevitable, while those same political technologies provide both form and content for the technologies found at home and at work. By understanding this history, Pursell hopes to advance a better understanding of the postwar American self.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015068820730"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=o2hRAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=o2hRAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=o2hRAAAAMAAJ&dq=subject:technology&hl=&cd=198&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=o2hRAAAAMAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Technology_in_Postwar_America.html?hl=&id=o2hRAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=o2hRAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lKUeAQAAIAAJ",
+   "etag": "bPiZ8r0T12o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lKUeAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Discrete-Time Processing of Speech Signals",
+    "authors": [
+     "John R. Jr Deller",
+     "John H. L. Hansen",
+     "John G. Proakis"
+    ],
+    "publisher": "Wiley-IEEE Press",
+    "publishedDate": "2000",
+    "description": "Commercial applications of speech processing and recognition are fast becoming a growth industry that will shape the next decade. Now students and practicing engineers of signal processing can find in a single volume the fundamentals essential to understanding this rapidly developing field. IEEE Press is pleased to publish a classic reissue of Discrete-Time Processing of Speech Signals. Specially featured in this reissue is the addition of valuable World Wide Web links to the latest speech data references. This landmark book offers a balanced discussion of both the mathematical theory of digital speech signal processing and critical contemporary applications. The authors provide a comprehensive view of all major modern speech processing areas: speech production physiology and modeling, signal analysis techniques, coding, enhancement, quality assessment, and recognition. You will learn the principles needed to understand advanced technologies in speech processing -- from speech coding for communications systems to biomedical applications of speech analysis and recognition. Ideal for self-study or as a course text, this far-reaching reference book offers an extensive historical context for concepts under discussion, end-of-chapter problems, and practical algorithms. Discrete-Time Processing of Speech Signals is the definitive resource for students, engineers, and scientists in the speech processing field. An Instructor's Manual presenting detailed solutions to all the problems in the book is available upon request from the Wiley Makerting Department.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105028585797"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 908,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lKUeAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lKUeAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lKUeAQAAIAAJ&dq=subject:technology&hl=&cd=199&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lKUeAQAAIAAJ&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Discrete_Time_Processing_of_Speech_Signa.html?hl=&id=lKUeAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lKUeAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ixnpRIr_CHUC",
+   "etag": "kMT5gjRl9jE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ixnpRIr_CHUC",
+   "volumeInfo": {
+    "title": "Schaum's Outline of Feedback and Control Systems, Second Edition",
+    "authors": [
+     "Joseph J. DiStefano",
+     "Allen J. Stubberud",
+     "Allen Stubberud",
+     "Ivan Williams"
+    ],
+    "publisher": "McGraw Hill Professional",
+    "publishedDate": "1995",
+    "description": "If you want top grades and thorough understanding of feedback and control systems—both analog and digital—in less study time, this powerful study tool is the best tutor you can have! It takes you step-by-step through the subject and gives you accompanying problems with fully worked solutions—plus hundreds of additional problems with answers at the end of chapters, so you can measure your progress. You also get the benefit of clear, detailed illustrations. Famous for their clarity, wealth of illustrations and examples—and lack of tedious detail—Schaum’s Outlines have sold more than 30 million copies worldwide. This guide will show you why!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0070170525"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780070170520"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "Study Aids"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ixnpRIr_CHUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ixnpRIr_CHUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ixnpRIr_CHUC&dq=subject:technology&hl=&cd=200&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ixnpRIr_CHUC&dq=subject:technology&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Schaum_s_Outline_of_Feedback_and_Control.html?hl=&id=ixnpRIr_CHUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ixnpRIr_CHUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

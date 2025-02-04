@@ -1,0 +1,2847 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 143,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "jc9TsgXn6zwC",
+   "etag": "PapIePuBaCs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jc9TsgXn6zwC",
+   "volumeInfo": {
+    "title": "How Literature Saved My Life",
+    "authors": [
+     "David Shields"
+    ],
+    "publisher": "Alfred a Knopf Incorporated",
+    "publishedDate": "2013",
+    "description": "Blends criticism, anthropology, and biography to celebrate the power of literature, concluding that the fundamental truths found in literature render it an essential component of life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307961525"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0307961524"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jc9TsgXn6zwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jc9TsgXn6zwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jc9TsgXn6zwC&dq=subject:Nonfiction&hl=&cd=41&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jc9TsgXn6zwC&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/How_Literature_Saved_My_Life.html?hl=&id=jc9TsgXn6zwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jc9TsgXn6zwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9f-KDQAAQBAJ",
+   "etag": "vU3P/Mg1vi8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9f-KDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Life After Death",
+    "subtitle": "The Burden of Proof",
+    "authors": [
+     "Deepak Chopra"
+    ],
+    "publisher": "Harmony",
+    "publishedDate": "2008-09",
+    "description": "The author explores the mysteries of life after death, interweaving scientific research and the wisdom of ancient Vedanta sages to describe what happens to us when we die and to build a case for an afterlife.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400052356"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1400052351"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 282,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9f-KDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9f-KDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9f-KDQAAQBAJ&printsec=frontcover&dq=subject:Nonfiction&hl=&cd=42&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9f-KDQAAQBAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Life_After_Death.html?hl=&id=9f-KDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9f-KDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CS-Fw0WVSXYC",
+   "etag": "y2pJmJy0Gcs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CS-Fw0WVSXYC",
+   "volumeInfo": {
+    "title": "Nonfiction Literacy",
+    "subtitle": "Ideas and Activities",
+    "authors": [
+     "Gretchen G. Courtney",
+     "Sarah A. Jossart"
+    ],
+    "publisher": "Kendall Hunt",
+    "publishedDate": "2002-02-13",
+    "description": "Nonfiction Literacy: Ideas and Activities",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0787290890"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780787290894"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CS-Fw0WVSXYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CS-Fw0WVSXYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=CS-Fw0WVSXYC&printsec=frontcover&dq=subject:Nonfiction&hl=&cd=43&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=CS-Fw0WVSXYC&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Nonfiction_Literacy.html?hl=&id=CS-Fw0WVSXYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CS-Fw0WVSXYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xPiStAEACAAJ",
+   "etag": "G9TZedchl9c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xPiStAEACAAJ",
+   "volumeInfo": {
+    "title": "Wasteland",
+    "subtitle": "The Great War and the Origins of Modern Horror",
+    "authors": [
+     "W. Scott Poole"
+    ],
+    "publisher": "Counterpoint LLC",
+    "publishedDate": "2018",
+    "description": "\"The roots of modern horror are found in the First World War. It was the most devastating event to occur in the early 1900s, with 38 million dead and 17 million wounded in the most grotesque of ways, owing to the new machines brought to war. If Downton Abbey showed the ripple effect of this catastrophe above stairs, Wasteland reveals how it made its way into the darker corners of our psyche on the bloody battlefield, the screaming asylum, and desolated cities and villages. Historian W. Scott Poole chronicles the era's major figures and their influences--Freud, T.S. Eliot, H.P. Lovecraft, Wilfred Owen and Peter Lorre, David Cronenberg and Freddy Krueger--as well as cult favorites and the collective unconscious. Wasteland is a surprising--but wholly convincing--perspective on horror that also speaks to the audience for history, film, and popular culture. November 11th, 2018 is the 100th anniversary of the signing of the Armistice that brought the First World War to a close, and a number of smart and well-received recent histories have helped us reevaluate this conflict. Now W. Scott Poole takes us behind the frontlines of battle to the dark places of the imagination where the legacy of the war to end all wars lives on\" --",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1640090932"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781640090934"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 289,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xPiStAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xPiStAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xPiStAEACAAJ&dq=subject:Nonfiction&hl=&cd=44&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xPiStAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Wasteland.html?hl=&id=xPiStAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xPiStAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0KL4MAAACAAJ",
+   "etag": "6OJNotuoN/4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0KL4MAAACAAJ",
+   "volumeInfo": {
+    "title": "El Norte",
+    "subtitle": "The Epic and Forgotten Story of Hispanic North America",
+    "authors": [
+     "Carrie Gibson"
+    ],
+    "publishedDate": "2019",
+    "description": "A sweeping saga of the Spanish history and influence in North America over five centuries, from the acclaimed author of Empire's Crossroads",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0802127029"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802127020"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 560,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0KL4MAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0KL4MAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0KL4MAAACAAJ&dq=subject:Nonfiction&hl=&cd=45&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0KL4MAAACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/El_Norte.html?hl=&id=0KL4MAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0KL4MAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RcnywAEACAAJ",
+   "etag": "1kynZ5bXXUY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RcnywAEACAAJ",
+   "volumeInfo": {
+    "title": "A Savage Order",
+    "subtitle": "How the World's Deadliest Countries Can Forge a Path to Security",
+    "authors": [
+     "Rachel Kleinfeld"
+    ],
+    "publisher": "Pantheon Books",
+    "publishedDate": "2018",
+    "description": "Drawing on fifteen years of firsthand field research, a foreign policy expert describes how extreme violence cripples democracies and discusses how some societies have successfully fought massive violence and reclaimed security.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1101871997"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101871997"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RcnywAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RcnywAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RcnywAEACAAJ&dq=subject:Nonfiction&hl=&cd=46&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RcnywAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Savage_Order.html?hl=&id=RcnywAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RcnywAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "btbSugEACAAJ",
+   "etag": "mUvqnsNJ5rA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/btbSugEACAAJ",
+   "volumeInfo": {
+    "title": "How to Disappear",
+    "subtitle": "Notes on Invisibility in a Time of Transparency",
+    "authors": [
+     "Akiko Busch"
+    ],
+    "publisher": "Penguin Books",
+    "publishedDate": "2019",
+    "description": "Vivid, surprising, and utterly timely, Akiko Busch's HOW TO DISAPPEAR explores the idea of invisibility in nature, art, and science, in search of a more joyful and peaceful way of living in today's increasingly surveilled and publicity-obsessed world In our increasingly networked and image-saturated lives, the notion of disappearing has never been both more enchanting and yet fanciful. Today, we are relentlessly encouraged, even conditioned, to reveal, share, and self-promote. The pressure to be public comes not just from our peers, but vast and pervasive technology companies, which want to profit from patterns in our behavior. A lifelong student and observer of the natural world, Busch sets out to explore her own uneasiness with this arrangement, and what she senses is a widespread desire for a less scrutinized way of life--for invisibility. Writing in rich painterly detail about her own life, her family, and some of the world's most exotic and remote places--from the Cayman Islands to Iceland--she savors the pleasures of being unseen. Discovering and dramatizing a wonderful range of ways of disappearing, from virtual reality goggles that trick the wearer into believing her body has disappeared and to the way Virginia Woolf's fictional Mrs. Dalloway feels a flickering of personhood as an older woman, Busch deliberates on subjects new and old with equal sensitivity and incisiveness. A unique and exhilarating accomplishment, HOW TO DISAPPEAR is a shimmering collage of poetry, cinema, memoir, myth, and much more, which overturns the dangerous modern assumption that somehow fame and visibility equate to success and happiness. Busch presents a field guide to invisibility, reacquainting us with the merits of the inconspicuousness, and finds genuine alternatives to the typical life of perpetual exposure. Accessing timeless truths in order to speak to our most urgent contemporary problems, she inspires us to develop a deeper appreciation for personal privacy in a vast and invasive world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1101980427"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101980422"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Invisibility"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=btbSugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=btbSugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=btbSugEACAAJ&dq=subject:Nonfiction&hl=&cd=47&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=btbSugEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Disappear.html?hl=&id=btbSugEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=btbSugEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H4imswEACAAJ",
+   "etag": "NX2+hJr4fT8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H4imswEACAAJ",
+   "volumeInfo": {
+    "title": "Taste and See",
+    "subtitle": "Discovering God Among Butchers, Bakers, and Fresh Food Makers",
+    "authors": [
+     "Margaret Feinberg"
+    ],
+    "publishedDate": "2019-01-22",
+    "description": "God is a foodie who wants to transform your supper into sacrament. Margaret Feinberg invites you on a global adventure to descend into a salt mine, knead bread, harvest olives, and pluck fresh figs. What you discover will forever change the way you read the Bible---and approach every meal. Plus, delicious recipes inside.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0310354862"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780310354864"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=H4imswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=H4imswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=H4imswEACAAJ&dq=subject:Nonfiction&hl=&cd=48&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=H4imswEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Taste_and_See.html?hl=&id=H4imswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=H4imswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8V6RDwAAQBAJ",
+   "etag": "20Cfo2XUMLs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8V6RDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Financial Freedom",
+    "subtitle": "A Proven Path to All the Money You Will Ever Need",
+    "authors": [
+     "Grant Sabatier"
+    ],
+    "publisher": "Avery",
+    "publishedDate": "2019",
+    "description": "On August 25, 2010, Grant Sabatier woke to find he had $2.26 in his bank account. Five years later, he had a net worth of over $1,000,000. In Financial Freedom, he takes you step-by-step through the strategies he used so that you too can get out of debt, make your 9-5 job optional, and above all, live the life you want. With Financial Freedom, you really can have all the money you will ever need.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780525540885"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0525540881"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "BUSINESS & ECONOMICS"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8V6RDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8V6RDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=8V6RDwAAQBAJ&dq=subject:Nonfiction&hl=&cd=49&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=8V6RDwAAQBAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Financial_Freedom.html?hl=&id=8V6RDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8V6RDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LwJRtAEACAAJ",
+   "etag": "ufaRpu6nEbE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LwJRtAEACAAJ",
+   "volumeInfo": {
+    "title": "The Prison Letters of Nelson Mandela",
+    "authors": [
+     "Nelson Mandela"
+    ],
+    "publisher": "LIVERIGHT",
+    "publishedDate": "2018",
+    "description": "The first, and only, authorized and authenticated collection of correspondence spanning the 27 years Nelson Mandela was held as a political prisoner. While incarcerated in South Africa in four prisons as a sentenced prisoner between 1962 and 1990, Mandela wrote hundreds of letters to loved ones, followers, prison authorities, and government officials documenting his plight as the most prominent political prisoner of the twentieth century. Here, the letters--many of them never before seen by the public--have been assembled from the collections held by the Nelson Mandela Foundation, the South African National Archives, and the Mandela family, amongst others, together with a foreword by Zamaswazi Dlamini-Mandela, granddaughter of Nelson Mandela. With accompanying facsimiles of some of the actual letters with generous annotations, the book provides a personal and intimate portrait of the lawyer and political activist as husband, parent, friend, and political prisoner, reflecting on everything from the trajectory of the anti-apartheid movement to the death of his beloved son, Thembi, in Cape Town in 1969. Quietly impassioned and (despite occasional heavy censorship) eloquent, they reveal both the extraordinary compassion of a father and the unbending will of a man who refused to compromise his ethical values in the face of the most extraordinary human punishment and psychological abuse. The volume covers every aspect of life behind bars for the future South African leader, whose voice the apartheid government attempted to stifle at every possible opportunity. The Prison Letters of Nelson Mandela form a new autobiographical vision. Images throughout",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1631491172"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781631491177"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 620,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LwJRtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LwJRtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=LwJRtAEACAAJ&dq=subject:Nonfiction&hl=&cd=50&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=LwJRtAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Prison_Letters_of_Nelson_Mandela.html?hl=&id=LwJRtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LwJRtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EZratAEACAAJ",
+   "etag": "WRdRXtBlAZk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EZratAEACAAJ",
+   "volumeInfo": {
+    "title": "Proust's Duchess",
+    "subtitle": "How Three Celebrated Women Captured the Imagination of Fin-de-siècle Paris",
+    "authors": [
+     "Caroline Weber"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2018",
+    "description": "From the author of the acclaimed Queen of Fashion--a brilliant look at the glittering world of turn-of-the-century Paris through the first in-depth study of the three women Proust used to create his supreme fictional character, the Duchesse de Guermantes. Geneviève Halévy Bizet Straus; Laure de Sade, Comtesse de Adhéaume de Chevigné; and Élisabeth de Riquet de Caraman-Chimay, the Comtesse Greffulhe--these were the three superstars of fin-de-siècle Parisian high society who, as Caroline Weber says, \"transformed themselves, and were transformed by those around them, into living legends: paragons of elegance, nobility, and style.\" All well but unhappily married, these women sought freedom and fulfillment by reinventing themselves, between the 1870s and 1890s, as icons. At their fabled salons, they inspired the creativity of several generations of writers, visual artists, composers, designers, and journalists. Against a rich historical backdrop, Weber takes the reader into these women's daily lives of masked balls, hunts, dinners, court visits, nights at the opera or theater. But we see as well the loneliness, rigid social rules, and loveless, arranged marriages that constricted these women's lives. Proust, as a twenty-year-old law student in 1892, would worship them from afar, and later meet them and create his celebrated composite character for The Remembrance of Things Past.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0345803124"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345803122"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 715,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EZratAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EZratAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=EZratAEACAAJ&dq=subject:Nonfiction&hl=&cd=51&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=EZratAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Proust_s_Duchess.html?hl=&id=EZratAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EZratAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xSBjtwEACAAJ",
+   "etag": "VAmaw0zuQw4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xSBjtwEACAAJ",
+   "volumeInfo": {
+    "title": "Mama's Last Hug",
+    "subtitle": "Animal Emotions and What They Tell Us about Ourselves",
+    "authors": [
+     "Frans De Waal"
+    ],
+    "publisher": "W. W. Norton",
+    "publishedDate": "2019",
+    "description": "New York Times Bestseller Primatologist Frans de Waal explores the fascinating world of animal and human emotions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393635066"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393635065"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xSBjtwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xSBjtwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xSBjtwEACAAJ&dq=subject:Nonfiction&hl=&cd=52&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xSBjtwEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mama_s_Last_Hug.html?hl=&id=xSBjtwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xSBjtwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YvJqswEACAAJ",
+   "etag": "gHfgeNtgJUc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YvJqswEACAAJ",
+   "volumeInfo": {
+    "title": "The Killing of Uncle Sam",
+    "subtitle": "The Demise of the United States of America",
+    "authors": [
+     "Rodney Howard-Browne",
+     "Paul L. Williams"
+    ],
+    "publishedDate": "2018",
+    "description": "\"Pride, greed, and power have driven men to do the unthinkable--including selling out their nations and unsuspected citizens to the most corrupt and destructive \"invisible\" global leaders on Earth. But how did this happen on American soil? How did the downfall begin and who were the predators that the \"land of the free and home of the brave\" fell victim to? And is all hope lost? This book captures details of the last 200 years of American history that mainstream media does not want you to know. It dissects the \"legalized\" system of the private central banks that has gone unchecked, and delivers gut-wrenching truths about the real domestic and foreign enemies of the United States. With over 1000 footnotes and quotes from former presidents, prime ministers, and state officials, it will equip you with the facts that the elites have covered up for centuries and empower you to stand up for the truth\"--Dust jacket.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1640070974"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781640070974"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 13,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YvJqswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YvJqswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YvJqswEACAAJ&dq=subject:Nonfiction&hl=&cd=53&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YvJqswEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Killing_of_Uncle_Sam.html?hl=&id=YvJqswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YvJqswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OI4mxQEACAAJ",
+   "etag": "wMYke0o869k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OI4mxQEACAAJ",
+   "volumeInfo": {
+    "title": "Hunting Leroux",
+    "subtitle": "The Inside Story If the DEA Takedown of a Criminal Genius and His Empire",
+    "authors": [
+     "Elaine Shannon"
+    ],
+    "publisher": "William Morrow Paperbacks",
+    "publishedDate": "2020-02-25",
+    "description": "With a foreword by four-time Oscar nominated filmmaker Michael Mann. The story of Paul LeRoux, the twisted-genius entrepreneur and cold-blooded killer who brought revolutionary innovation to international crime, and the exclusive inside story of how the DEA's elite, secretive 960 Group brought him down. Paul LeRoux was born in Zimbabwe and raised in South Africa. After a first career as a pioneering cybersecurity entrepreneur, he plunged hellbent into the dark side, using his extraordinary talents to develop a disruptive new business model for transnational organized crime. Along the way he created a mercenary force of ex-U.S. and NATO sharpshooters to carry out contract murders for his own pleasure and profit. The criminal empire he built was Cartel 4.0, utilizing the gig economy and the tools of the Digital Age: encrypted mobile devices, cloud sharing and novel money-laundering techniques. LeRoux's businesses, cyber-linked by his own dark worldwide web, stretched from Southeast Asia across the Middle East and Africa to Brazil; they generated hundreds of millions of dollars in sales of arms, drugs, chemicals, bombs, missile technology and murder. He dealt with rogue nations--Iran and North Korea--as well as the Chinese Triads, Somali pirates, Serb mafia, outlaw bikers, militants, corrupt African and Asian officials and coup-plotters. Initially, LeRoux appeared as a ghost image on law enforcement and intelligence radar, an inexplicable presence in the middle of a variety of criminal endeavors. He was Netflix to Blockbuster, Spotify to Tower Records. A bold disruptor, his methods brought international crime into the age of innovation, making his operations barely detectable and LeRoux nearly invisible. But he gained the attention of a small band of bold, unorthodox DEA agents, whose brief was tracking down drugs-and-arms trafficking kingpins who contributed to war and global instability. The 960 Group, an element of the DEA's Special Operations Division, had launched some of the most complex, coordinated and dangerous operations in the agency's history. They used unorthodox methods and undercover informants to penetrate LeRoux's inner circle and bring him down. For five years Elaine Shannon immersed herself in LeRoux's shadowy world. She gained exclusive access to the agents and players, including undercover operatives who looked LeRoux in the eye on a daily basis. Shannon takes us on a shocking tour of this dark frontier, going deep into the operations and the mind of a singularly visionary and frightening figure--Escobar and Victor Bout along with the innovative vision of Steve Jobs rolled into one. She puts you in the room with these people and their moment-to-moment encounters, jeopardy, frustration, anger and small victories, creating a narrative with a breath-taking edge, immediacy and a stranger-than-fiction reality. Remarkable, disturbing, and utterly engrossing, Hunting LeRoux introduces a new breed of criminal spawned by the savage, greed-exalting underside of the Age of Innovation--and a new kind of true crime story. It is a look into the future--a future that is dark.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0062859145"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780062859143"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OI4mxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OI4mxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OI4mxQEACAAJ&dq=subject:Nonfiction&hl=&cd=54&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OI4mxQEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hunting_Leroux.html?hl=&id=OI4mxQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OI4mxQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_r7itAEACAAJ",
+   "etag": "e+fv4Ez1mPQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_r7itAEACAAJ",
+   "volumeInfo": {
+    "title": "What If This Were Enough?",
+    "subtitle": "Essays",
+    "authors": [
+     "Heather Havrilesky"
+    ],
+    "publisher": "Doubleday",
+    "publishedDate": "2018-10-02",
+    "description": "\"Heather Havrilesky attempts to disrupt our cultural delusions and false dichotomies, to unearth moralistic interpretations of mundane human behaviors and interrogate so-called mistakes that we've slowly internalized, and to question the glorification of suffering, dishonesty, romantic fantasy, conquest, predation, and perfectionism\"--",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0385542887"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780385542883"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_r7itAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_r7itAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_r7itAEACAAJ&dq=subject:Nonfiction&hl=&cd=55&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_r7itAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/What_If_This_Were_Enough.html?hl=&id=_r7itAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_r7itAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OMQytAEACAAJ",
+   "etag": "Z8cSoUVmQY0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OMQytAEACAAJ",
+   "volumeInfo": {
+    "title": "We Rise, We Resist, We Raise Our Voices",
+    "authors": [
+     "Wade Hudson",
+     "Cheryl Willis Hudson"
+    ],
+    "publisher": "Crown Books For Young Readers",
+    "publishedDate": "2018-09-04",
+    "description": "Fifty of the foremost diverse children's authors and illustrators--including Jason Reynolds, Jacqueline Woodson, and Kwame Alexander--share answers to the question, \"In this divisive world, what shall we tell our children?\" in this beautiful, full-color keepsake collection, published in partnership with Just Us Books. What do we tell our children when the world seems bleak, and prejudice and racism run rampant? With 96 lavishly designed pages of original art and prose, fifty diverse creators lend voice to young activists. Featuring poems, letters, personal essays, art, and other works from such industry leaders as Jacqueline Woodson (Brown Girl Dreaming), Jason Reynolds (All American Boys), Kwame Alexander (The Crossover), Andrea Pippins (I Love My Hair), Sharon Draper (Out of My Mind), Rita Williams-Garcia (One Crazy Summer), Ellen Oh (cofounder of We Need Diverse Books), and artists Ekua Holmes, Rafael Lopez, James Ransome, Javaka Steptoe, and more, this anthology empowers the nation's youth to listen, learn, and build a better tomorrow.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0525580433"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780525580430"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OMQytAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OMQytAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OMQytAEACAAJ&dq=subject:Nonfiction&hl=&cd=56&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OMQytAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/We_Rise_We_Resist_We_Raise_Our_Voices.html?hl=&id=OMQytAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OMQytAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MfEhtAEACAAJ",
+   "etag": "HJ2YANGOqIE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MfEhtAEACAAJ",
+   "volumeInfo": {
+    "title": "My Life in a Cat House",
+    "subtitle": "True Tales of Love, Laughter, and Living with Five Felines",
+    "authors": [
+     "Gwen Cooper"
+    ],
+    "publisher": "Benbella Books",
+    "publishedDate": "2018",
+    "description": "\"This collection of eight purr-fect cat stories is filled with all the humor and heart Gwen's devoted readership has come to know and love\" --",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1946885657"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781946885654"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 270,
+    "printType": "BOOK",
+    "categories": [
+     "PETS"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MfEhtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MfEhtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=MfEhtAEACAAJ&dq=subject:Nonfiction&hl=&cd=57&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=MfEhtAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/My_Life_in_a_Cat_House.html?hl=&id=MfEhtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MfEhtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Zb1stwEACAAJ",
+   "etag": "40wtSrcfGhw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Zb1stwEACAAJ",
+   "volumeInfo": {
+    "title": "If We Can Keep it",
+    "subtitle": "How the Republic Collapsed and how it Might be Saved",
+    "authors": [
+     "Michael Tomasky"
+    ],
+    "publishedDate": "2019",
+    "description": "A game-changing account of the deep roots of political polarization in America, including an audacious fourteen-point agenda for how to fix it.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1631494082"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781631494086"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "HISTORY"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Zb1stwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Zb1stwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Zb1stwEACAAJ&dq=subject:Nonfiction&hl=&cd=58&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Zb1stwEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/If_We_Can_Keep_it.html?hl=&id=Zb1stwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Zb1stwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mtKMtAEACAAJ",
+   "etag": "PKMU93WW9Bc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mtKMtAEACAAJ",
+   "volumeInfo": {
+    "title": "Killing the Deep State",
+    "subtitle": "The Fight to Save President Trump",
+    "authors": [
+     "Jerome R. Corsi"
+    ],
+    "publishedDate": "2018-03-13",
+    "description": "#1 New York Times bestselling author of UNFIT FOR COMMAND and THE OBAMA NATION Jerome Corsi uncovers the secret conspiracy to destroy the Trump presidency and what Trump must do now to prevail.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1630061026"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781630061029"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mtKMtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mtKMtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mtKMtAEACAAJ&dq=subject:Nonfiction&hl=&cd=59&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mtKMtAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Killing_the_Deep_State.html?hl=&id=mtKMtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mtKMtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HSXBtAEACAAJ",
+   "etag": "s1sqB4ttrgU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HSXBtAEACAAJ",
+   "volumeInfo": {
+    "title": "These Truths",
+    "subtitle": "A History of the United States",
+    "authors": [
+     "Jill Lepore"
+    ],
+    "publishedDate": "2018",
+    "description": "Written in elegiac prose, Lepore's groundbreaking investigation places truth itself--a devotion to facts, proof, and evidence--at the center of the nation's history. The American experiment rests on three ideas--\"these truths,\" Jefferson called them--political equality, natural rights, and the sovereignty of the people. And it rests, too, on a fearless dedication to inquiry, Lepore argues, because self-government depends on it. But has the nation, and democracy itself, delivered on that promise?These Truths tells this uniquely American story, beginning in 1492, asking whether the course of events over more than five centuries has proven the nation's truths, or belied them. To answer that question, Lepore traces the intertwined histories of American politics, law, journalism, and technology, from the colonial town meeting to the nineteenth-century party machine, from talk radio to twenty-first-century Internet polls, from Magna Carta to the Patriot Act, from the printing press to Facebook News.Along the way, Lepore's sovereign chronicle is filled with arresting sketches of both well-known and lesser-known Americans, from a parade of presidents and a rogues' gallery of political mischief makers to the intrepid leaders of protest movements, including Frederick Douglass, the famed abolitionist orator; William Jennings Bryan, the three-time presidential candidate and ultimately tragic populist; Pauli Murray, the visionary civil rights strategist; and Phyllis Schlafly, the uncredited architect of modern conservatism.Americans are descended from slaves and slave owners, from conquerors and the conquered, from immigrants and from people who have fought to end immigration. \"A nation born in contradiction will fight forever over the meaning of its history,\" Lepore writes, but engaging in that struggle by studying the past is part of the work of citizenship. \"The past is an inheritance, a gift and a burden,\" These Truths observes. \"It can't be shirked. There's nothing for it but to get to know it.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393635244"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393635249"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 960,
+    "printType": "BOOK",
+    "categories": [
+     "Civil rights"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HSXBtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HSXBtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HSXBtAEACAAJ&dq=subject:Nonfiction&hl=&cd=60&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HSXBtAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/These_Truths.html?hl=&id=HSXBtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HSXBtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4C5_vgAACAAJ",
+   "etag": "t8K+a34Rwwo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4C5_vgAACAAJ",
+   "volumeInfo": {
+    "title": "The Sum of Small Things",
+    "subtitle": "A Theory of the Aspirational Class",
+    "authors": [
+     "Elizabeth Currid-halkett"
+    ],
+    "publishedDate": "2017-05-23",
+    "description": "In today's world, the leisure class has been replaced by a new elite. Highly educated and defined by cultural capital rather than income bracket, these individuals earnestly buy organic, carry NPR tote bags, and breast-feed their babies. They care about discreet, inconspicuous consumption--like eating free-range chicken and heirloom tomatoes, wearing organic cotton shirts and TOMS shoes, and listening to the Serial podcast. They use their purchasing power to hire nannies and housekeepers, to cultivate their children's growth, and to practice yoga and Pilates. In The Sum of Small Things, Elizabeth Currid-Halkett dubs this segment of society \"the Aspirational Class\" and discusses how, through deft decisions about education, health, parenting, and retirement, the Aspirational Class reproduces wealth and upward mobility, deepening the ever-wider class divide. Exploring the rise of the Aspirational Class, Currid-Halkett considers how much has changed since the 1899 publication of Thorstein Veblen's Theory of the Leisure Class. In that inflammatory classic, which coined the phrase \"conspicuous consumption,\" Veblen described upper-class frivolities: men who used walking sticks for show, and women who bought silver flatware despite the effectiveness of cheaper aluminum utensils. Now, Currid-Halkett argues, the power of material goods as symbols of social position has diminished due to their accessibility. As a result, the Aspirational Class has altered its consumer habits away from overt materialism to more subtle expenditures that reveal status and knowledge. And these transformations influence how we all make choices. With a rich narrative and extensive interviews and research, The Sum of Small Things illustrates how cultural capital leads to lifestyle shifts and what this forecasts, not just for the Aspirational Class but for everyone.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0691162735"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691162737"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4C5_vgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4C5_vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4C5_vgAACAAJ&dq=subject:Nonfiction&hl=&cd=61&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4C5_vgAACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Sum_of_Small_Things.html?hl=&id=4C5_vgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4C5_vgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LT5LtAEACAAJ",
+   "etag": "lsAorEhC6lY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LT5LtAEACAAJ",
+   "volumeInfo": {
+    "title": "Searching for the Lost Tombs of Egypt",
+    "authors": [
+     "Chris Naunton"
+    ],
+    "publisher": "Thames & Hudson",
+    "publishedDate": "2018-10-10",
+    "description": "An exciting archeological exploration of ancient Egypt that examines the potential for discovering the remaining \"lost\" tombs of the pharaohs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0500051992"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780500051993"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "HISTORY"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LT5LtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LT5LtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=LT5LtAEACAAJ&dq=subject:Nonfiction&hl=&cd=62&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=LT5LtAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Searching_for_the_Lost_Tombs_of_Egypt.html?hl=&id=LT5LtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LT5LtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XrQcrgEACAAJ",
+   "etag": "LAhIJGeaykA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XrQcrgEACAAJ",
+   "volumeInfo": {
+    "title": "The DevOps Handbook",
+    "subtitle": "How to Create World-Class Speed, Reliability, and Security in Technology Organizations",
+    "authors": [
+     "Gene Kim",
+     "Patrick Debois",
+     "John Willis",
+     "Jez Humble"
+    ],
+    "publisher": "It Revolution Press",
+    "publishedDate": "2015-10-07",
+    "description": "For decades, technology leaders have struggled to balance agility, reliability, and security, and the consequences of failure have never been greater. The effective management of technology is critical for business competitiveness. High-performing organizations are 2.5 times more likely to exceed profitability, market share, and productivity goals. The DevOps Handbook shows leaders how to create the cultural norms and the technical practices necessary to maximize organizational learning, increase employee satisfaction, and win in the marketplace.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1942788002"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781942788003"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XrQcrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XrQcrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XrQcrgEACAAJ&dq=subject:Nonfiction&hl=&cd=63&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XrQcrgEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_DevOps_Handbook.html?hl=&id=XrQcrgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XrQcrgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z37YnAAACAAJ",
+   "etag": "B6k7cD2tKAU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z37YnAAACAAJ",
+   "volumeInfo": {
+    "title": "Half the Man I Was",
+    "authors": [
+     "Marlowe Whitlow"
+    ],
+    "publisher": "ISBN Agency",
+    "publishedDate": "2017-01-21",
+    "description": "This book is the account of my journey from being an almost 500-lb man to the man that I am today. In this book, I will outline how I got to the point of almost self-destruction ...from things I didn't care about to the things I didn't know. I will also reveal the not-so-pretty ventures such as stealing from an employer for years and becoming an extremely popular \"street pharmaceutical rep\" along the way. Fortunately, I've risen above these undesirable acts that would have destroyed not only me, but also my family.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0692801391"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780692801390"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 126,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=z37YnAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=z37YnAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=z37YnAAACAAJ&dq=subject:Nonfiction&hl=&cd=64&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=z37YnAAACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Half_the_Man_I_Was.html?hl=&id=z37YnAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=z37YnAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "636lAQAACAAJ",
+   "etag": "ug0as4chT3U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/636lAQAACAAJ",
+   "volumeInfo": {
+    "title": "Human by Design",
+    "subtitle": "From Evolution by Chance to Transformation by Choice",
+    "authors": [
+     "Gregg Braden"
+    ],
+    "publisher": "Hay House",
+    "publishedDate": "2017",
+    "description": "Human by Design invites you on a journey beyond Darwin's theory of evolution, beginning with the fact that we exist as we do, even more empowered, and more connected with ourselves and the world, than scientists have believed possible. In one of the great ironies of the modern world, the science that was expected to solve life's mysteries has done just the opposite. New discoveries have led to more unanswered questions, created deeper mysteries, and brought us to the brink of forbidden territory when it comes to explaining our origin and existence. These discoveries reveal the following facts: - Fact 1. Our origin-Modern humans appeared suddenly on earth approximately 200,000 years ago, with the advanced brain, nervous system, and capabilities that set them apart from all other known forms of life already developed, rather than having developed slowly and gradually over a long period of time. - Fact 2. Missing physical evidence-The relationships shown on the conventional tree of human evolution are speculative connections only. While they are believed to exist, a 150-year search has failed to produce the physical evidence that confirms the relationships shown on the evolutionary family tree. - Fact 3. New DNA evidence-The comparison of DNA between ancient Neanderthals, previously thought to be our ancestors, and early humans tells us that we did not descend from the Neanderthals. - Fact 4. A rare DNA fusion-Advanced genome analysis reveals that the DNA that sets us apart from other primates, including in our advanced brain and nervous system, is the result of an ancient and precise fusion of genes occurring in a way that suggests something beyond evolution made our humanness possible. - Fact 5. Our extraordinary abilities-We are born with the capacity to self-heal, to self-regulate longevity, to activate an enhanced immune response, and to experience deep intuition, sympathy, empathy, and, ultimately, compassion-and to do each of these on demand. In this book, New York Times best-selling author and 2017 Templeton Award nominee Gregg Braden crosses the traditional boundaries of science and spirituality to answer the timeless question at the core of our existence-Who are we?-and to reveal science-based techniques that awaken our uniquely human experiences of deep intuition, precognition, advanced states of self-healing, and much more! Beyond any reasonable doubt, Human by Design reveals that we're not what we've been told, and much more than we've ever imagined.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1401949312"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781401949310"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "BODY, MIND & SPIRIT"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=636lAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=636lAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=636lAQAACAAJ&dq=subject:Nonfiction&hl=&cd=65&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=636lAQAACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Human_by_Design.html?hl=&id=636lAQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=636lAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i1ZDDwAAQBAJ",
+   "etag": "+FxQjoTqHmA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i1ZDDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Healing from Hate",
+    "subtitle": "How Young Men Get Into and Out of Violent Extremism",
+    "authors": [
+     "Michael Kimmel"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "2018-03-23",
+    "description": "\"Examine the role of gender in the radicalization of young men as they enter and exit extremist movements\"--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520292635"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0520292634"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=i1ZDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=i1ZDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=i1ZDDwAAQBAJ&dq=subject:Nonfiction&hl=&cd=66&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=i1ZDDwAAQBAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Healing_from_Hate.html?hl=&id=i1ZDDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=i1ZDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WORFswEACAAJ",
+   "etag": "VqS6wchDvXU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WORFswEACAAJ",
+   "volumeInfo": {
+    "title": "Stay Or Go",
+    "subtitle": "Dr. Ruth's Rules for Real Relationships",
+    "authors": [
+     "Ruth K. Westheimer"
+    ],
+    "publisher": "Grand Harbor Press",
+    "publishedDate": "2018-01-09",
+    "description": "Committing to a long-term relationship is a big deal--especially if you have doubts. With a focus on common sense over emotion, world-renowned sex and relationship therapist Dr. Ruth Westheimer offers straight-up advice on whether you should stick it out or cut your losses and move on. In Stay or Go, Dr. Ruth divides troubled couplings into three \"flavors\": Dark Toxic (run!), Rocky Road (rough patch ahead), and Merely Troubled (it's worth the effort). She knows relationships are rarely black and white--there's always the bad with the good--so here she helps you determine where the scales in your relationship are tipping. Delving into everything from communicating to financial stresses, parenting pressures to long-distance relationships, she helps you to understand your romantic expectations--reasonable and unreasonable--what you can do to save a relationship, and how and when you should say goodbye. And it all comes with the wit and wisdom that has made Dr. Ruth the one to turn to for putting your life together once and for all.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1542046718"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781542046718"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WORFswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WORFswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=WORFswEACAAJ&dq=subject:Nonfiction&hl=&cd=67&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=WORFswEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Stay_Or_Go.html?hl=&id=WORFswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WORFswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RuyNuAEACAAJ",
+   "etag": "L5IX/aS6Wl4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RuyNuAEACAAJ",
+   "volumeInfo": {
+    "title": "Our Man Down in Havana",
+    "subtitle": "The True Cold War Story Behind Graham Greene?",
+    "authors": [
+     "Christopher Hull"
+    ],
+    "publishedDate": "2019-03-05",
+    "description": "When U.S. immigration authorities deported Graham Greene from Puerto Rico in 1954, the British author made an unplanned visit to Havana and discovered that \"every vice was permissible and every trade possible\" in a Caribbean fleshpot of mafia-run casinos and nude revues. The former MI6 officer had stumbled upon the ideal setting for a comic espionage story. Three years later, he returned in the midst of Fidel Castro's guerrilla insurgency against a U.S.-backed dictator to begin writing his iconic novel Our Man in Havana. Twelve weeks after its publication, the Cuban Revolution triumphed in January 1959, soon transforming a capitalist playground into a communist stronghold.Combining biography, history, and politics, Our Man Down in Havana investigates the real story behind Greene's fictional one. This includes his many visits to a pleasure island that became a revolutionary island, turning his chance involvement into a political commitment. His Cuban novel describes an amateur agent who dupes his intelligence chiefs with invented reports about \"concrete platforms and unidentifiable pieces of giant machinery.\" With eerie prescience, Greene's satirical tale had foretold the Cold War's most perilous episode, the 1962 Cuban Missile Crisis.Exploiting a wealth of archival material and interviews with key protagonists, Our Man Down in Havana delves into the story behind and beyond the author's prophetic Cuban tale, focusing on one slice of Greene's manic life: a single novel and its complex history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1643130188"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781643130187"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RuyNuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RuyNuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RuyNuAEACAAJ&dq=subject:Nonfiction&hl=&cd=68&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RuyNuAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Our_Man_Down_in_Havana.html?hl=&id=RuyNuAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RuyNuAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G7t9jwEACAAJ",
+   "etag": "99Am//liyuE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G7t9jwEACAAJ",
+   "volumeInfo": {
+    "title": "Churchill, Roosevelt, and Company",
+    "authors": [
+     "Lewis Lehrman"
+    ],
+    "publishedDate": "2016-10-01",
+    "description": "During World War II the special relationship between the United States and Great Britain cemented the alliance that won the war. But the ultimate victory of that partnership has obscured many of the conflicts behind Franklin Roosevelt s grins and Winston Churchill s victory signs, the clashes of principles and especially personalities between and within the two nations. Synthesizing an impressive variety of sources from memoirs and letters to histories and biographies, Lewis Lehrman explains how the Anglo-American alliance worked--and occasionally did not work--by presenting portraits and case studies of the men who worked the back channels and back rooms, the secretaries and under secretaries, ambassadors and ministers, responsible for carrying out Roosevelt s and Churchill s agendas while also pursuing their own and thwarting others . This was the domain of Joseph Kennedy, American ambassador to England often at odds with his boss; spymasters William Donovan and William Stephenson; Secretary of State Cordell Hull, whom FDR frequently bypassed in favor of Under Secretary Sumner Welles; British ambassadors Lord Lothian and Lord Halifax; and, above them all, Roosevelt and Churchill, who had the difficult task, not always well performed, of managing their subordinates and who frequently chose to conduct foreign policy directly between themselves. Scrupulous in its research and fair in its judgments, Lehrman s book reveals the personal diplomacy at the core of the Anglo-American alliance.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0811718980"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780811718981"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G7t9jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G7t9jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=G7t9jwEACAAJ&dq=subject:Nonfiction&hl=&cd=69&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=G7t9jwEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Churchill_Roosevelt_and_Company.html?hl=&id=G7t9jwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G7t9jwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SNfYCwAAQBAJ",
+   "etag": "cShtBp8ayzY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SNfYCwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Relaxed Mind",
+    "subtitle": "A Seven-Step Method for Deepening Meditation Practice",
+    "authors": [
+     "Dza Kilung Rinpoche"
+    ],
+    "publisher": "Shambhala Publications",
+    "publishedDate": "2015",
+    "description": "\"In the late 1990s, shortly after arriving in the United States, it became clear to Dza Kilung Rinpoche that his Western students were unable to progress in meditation as well as his students had back in Asia--and he realized that was because the pace of Western life made it difficult for them to relax. The Relaxed Mind contains instructions for the seven-phase meditation practice Dza Kilung Rinpoche developed for Westerners. It's very traditional but adapted to help those of us who live in a culture of distraction. The method is a way for tense meditators to relax and deepen their practice--but it's also an excellent meditation manual for any beginner.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781611802825"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1611802822"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SNfYCwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SNfYCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SNfYCwAAQBAJ&dq=subject:Nonfiction&hl=&cd=70&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=SNfYCwAAQBAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Relaxed_Mind.html?hl=&id=SNfYCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SNfYCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nZQ1rgEACAAJ",
+   "etag": "aowxYigQCbk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nZQ1rgEACAAJ",
+   "volumeInfo": {
+    "title": "Lower Ed",
+    "subtitle": "The Troubling Rise of For-profit Colleges in the New Economy",
+    "authors": [
+     "Tressie McMillan Cottom"
+    ],
+    "publishedDate": "2017",
+    "description": "Despite the celebrated history of not-for-profit institutions of higher education, today more than 2 million students are enrolled in for-profit colleges such as ITT Technical Institute, the University of Phoenix, and others. Yet little is known about why for-profits have expanded so quickly and even less about how the power and influence of this big-money industry impact individual lives.Lower Ed, the first book to link the rapid expansion of for-profit degrees to America's increasing inequality, reveals the story of an industry that exploits the pain, desperation, and aspirations of the most vulnerable and exposes the conditions that allow for-profit education to thrive. Tressie McMillan Cottom draws on her personal experience as a former counselor at two for-profit colleges and dozens of interviews with students, senior executives, and activists to detail how these schools have become so successful and to decipher the benefits, credentials, pitfalls, and real costs of a for-profit education. By humanizing the hard choices about school and survival that millions of Americans face,Lower Ed nimbly parses the larger forces that deliver some of us to Yale and others to For-Profit U in an office park off Interstate 10.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1620970600"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781620970607"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 228,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nZQ1rgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nZQ1rgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nZQ1rgEACAAJ&dq=subject:Nonfiction&hl=&cd=71&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nZQ1rgEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Lower_Ed.html?hl=&id=nZQ1rgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nZQ1rgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CBVgtwEACAAJ",
+   "etag": "NkLWCFu9HCI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CBVgtwEACAAJ",
+   "volumeInfo": {
+    "title": "Worried?",
+    "subtitle": "An Evidence-Based Investigation of Some of Life's Common Concerns",
+    "authors": [
+     "Eric Chudler",
+     "Lise A. Johnson"
+    ],
+    "publisher": "W. W. Norton",
+    "publishedDate": "2019",
+    "description": "How scientific reasoning explains our most common daily fears--from germs to natural disasters and everything in between.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393712893"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393712896"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 312,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CBVgtwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CBVgtwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=CBVgtwEACAAJ&dq=subject:Nonfiction&hl=&cd=72&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=CBVgtwEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Worried.html?hl=&id=CBVgtwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CBVgtwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LOw2swEACAAJ",
+   "etag": "RRllAZRMn2E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LOw2swEACAAJ",
+   "volumeInfo": {
+    "title": "End of the Megafauna",
+    "subtitle": "The Fate of the World's Hugest, Fiercest, and Strangest Animals",
+    "authors": [
+     "Ross D. E. MacPhee",
+     "Peter Schouten"
+    ],
+    "publisher": "W. W. Norton",
+    "publishedDate": "2018-11-13",
+    "description": "Until a few thousand years ago, creatures that could have been from a sci-fi thriller--including gorilla-sized lemurs, 500-pound birds, and crocodiles that weighed a ton or more--roamed the earth. These great beasts, or \"megafauna,\" lived on every habitable continent and on many islands. With a handful of exceptions, all are now gone.What caused the disappearance of these prehistoric behemoths? No one event can be pinpointed as a specific cause, but several factors may have played a role. Paleomammalogist Ross D. E. MacPhee explores them all, examining the leading extinction theories, weighing the evidence, and presenting his own conclusions. He shows how theories of human overhunting and catastrophic climate change fail to account for critical features of these extinctions, and how new thinking is needed to elucidate these mysterious losses.Along the way, we learn how time is determined in earth history; how DNA is used to explain the genomics and phylogenetic history of megafauna--and how synthetic biology and genetic engineering may be able to reintroduce these giants of the past. Until then, gorgeous four-color illustrations by Peter Schouten re-create these megabeasts here in vivid detail.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393249298"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393249293"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LOw2swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LOw2swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=LOw2swEACAAJ&dq=subject:Nonfiction&hl=&cd=73&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=LOw2swEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/End_of_the_Megafauna.html?hl=&id=LOw2swEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LOw2swEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5f27uAEACAAJ",
+   "etag": "m+WNvefMrsU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5f27uAEACAAJ",
+   "volumeInfo": {
+    "title": "Dark Agenda",
+    "subtitle": "The War to Destroy Christian America",
+    "authors": [
+     "David Horowitz"
+    ],
+    "publishedDate": "2019-03-05",
+    "description": "\"One of the most intellectually compelling and rational defenses of Christianity's role in America.\" -- Mike Huckabee \"Read this disturbing but vital book.\" -- Tucker Carlson DARK AGENDA is an extraordinary look into the left's calculated efforts to create a godless, heathen American society -- and how these efforts must be stopped. It is written by David Horowitz, a Jew. A New York Times bestselling author and leading conservative thinker, Horowitz warns that the rising attacks on Christians and their beliefs threaten all Americans -- including Jews like himself. The liberal establishment and their radical allies envision a new millennium in which Christianity is banished, Horowitz argues. He says that Judeo-Christian values are at the very root of America's democracy. Kill off such values and all of our freedoms could perish. In Dark Agenda: The War to Destroy Christian America, Horowitz examines how our elites -- increasingly secular and atheist -- are pushing a radical agenda: How the left trashes Christian doctrines critical to the American Republic, much like radical Islam's war on \"infidel\" cultures like ours. Why the left fights to keep prayer and religion out of public schools, and how those efforts fly in the face of Founding Father Thomas Jefferson's intentions. How fanatical liberals helped create the religious right by targeting evangelicals and believing Catholics and other conservatives. How Barack Obama's ultra-liberal agenda galvanized the anti-God, anti-religious left. The violent and shocking manifesto of Planned Parenthood founder Margaret Sanger who advocated the use of dynamite to promote \"revolutionary solidarity.\" Filled with stories that demonstrate the mind-numbing reasons behind the secular left's smug disdain for Christianity, Horowitz traces the history of religious liberty from the Founding Fathers to now. He shows how the Founding Fathers put aside their own skepticisms about God and religion to write The Declaration of Independence. Today, he writes Donald Trump's \"genuine love for his country\" has galvanized Christians to fight the secular war waged against them -- as the president has become a lightning rod for the radical left. David Horowitz's powerful new book brings vital insights into the war against Christianity and names the global radicals, leftist Democrats, and money-hungry fat cats of Hollywood and Wall Street responsible for it. Finally, a clear and sensible American voice -- one that is not Christian but Jewish -- stands up to the twisted rantings of those who want to tear down faith and bedrock of American values. In Dark Agenda: The War to Destroy Christian America, David Horowitz delivers an impassioned plea for the restoration of political sanity in America, a perspective that made America great by respecting the faiths of our fathers and mothers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "163006114X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781630061142"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5f27uAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5f27uAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5f27uAEACAAJ&dq=subject:Nonfiction&hl=&cd=74&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5f27uAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dark_Agenda.html?hl=&id=5f27uAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5f27uAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5_54twEACAAJ",
+   "etag": "r5gcMD4wq5k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5_54twEACAAJ",
+   "volumeInfo": {
+    "title": "Team Human",
+    "authors": [
+     "Douglas Rushkoff"
+    ],
+    "publisher": "W. W. Norton",
+    "publishedDate": "2019",
+    "description": "\"A provocative, exciting, and important rallying cry to reassert our human spirit of community and teamwork.\"--Walter Isaacson",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "039365169X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393651690"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5_54twEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5_54twEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5_54twEACAAJ&dq=subject:Nonfiction&hl=&cd=75&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5_54twEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Team_Human.html?hl=&id=5_54twEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5_54twEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hHMtugEACAAJ",
+   "etag": "LW9qWf6ayQI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hHMtugEACAAJ",
+   "volumeInfo": {
+    "title": "Opportunity",
+    "authors": [
+     "Eben Pagan"
+    ],
+    "publisher": "Hay House Inc",
+    "publishedDate": "2019",
+    "description": "A successful entrepreneur and internet marketer discusses opportunity, how to find and create it, and how to develop great opportunities in business, investing, health, relationships, personal development, and other areas of life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1401957099"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781401957094"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Opportunity"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hHMtugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hHMtugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hHMtugEACAAJ&dq=subject:Nonfiction&hl=&cd=76&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=hHMtugEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Opportunity.html?hl=&id=hHMtugEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hHMtugEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YCx2uAEACAAJ",
+   "etag": "4mPeYcmJIk4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YCx2uAEACAAJ",
+   "volumeInfo": {
+    "title": "Queen of the World",
+    "subtitle": "Elizabeth II: Sovereign and Stateswoman",
+    "authors": [
+     "Robert Hardman"
+    ],
+    "publishedDate": "2019",
+    "description": "On today's world stage, there is one leader who stands apart from the rest. Queen Elizabeth II has seen more of the planet and its people than any other head of state and has engaged with the world like no other monarch in modern history. The iconic monarch never ventured further than the Isle of Wight until the age of 20 but since then has now visited over 130 countries across the globe in the line of duty, acting as diplomat, hostess and dignitary as the world stage as changed beyond recognition. It is a story full of drama, intrigue, exotic and sometimes dangerous destinations, heroes, rogues, pomp and glamour, but at the heart of it all a woman who's won the hearts of the world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1643130021"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781643130026"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YCx2uAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YCx2uAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YCx2uAEACAAJ&dq=subject:Nonfiction&hl=&cd=77&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YCx2uAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Queen_of_the_World.html?hl=&id=YCx2uAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YCx2uAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8XOPDAEACAAJ",
+   "etag": "2FuDXcgEz58",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8XOPDAEACAAJ",
+   "volumeInfo": {
+    "title": "So Let It Be Written",
+    "subtitle": "The Biography of Metallica's James Hetfield",
+    "authors": [
+     "Mark Eglinton"
+    ],
+    "publisher": "Lesser Gods",
+    "publishedDate": "2017-04-11",
+    "description": "The first biography of singer and guitarist James Hetfield of Metallica, the biggest rock band of the modern era!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1944713190"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781944713195"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8XOPDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8XOPDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=8XOPDAEACAAJ&dq=subject:Nonfiction&hl=&cd=78&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=8XOPDAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/So_Let_It_Be_Written.html?hl=&id=8XOPDAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8XOPDAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zN5RtAEACAAJ",
+   "etag": "C6CUAHdpmXE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zN5RtAEACAAJ",
+   "volumeInfo": {
+    "title": "A History of America in Ten Strikes",
+    "authors": [
+     "Erik Loomis"
+    ],
+    "publishedDate": "2018-10-02",
+    "description": "The thrilling stories of defining moments in labor history, told through two centuries of emblematic strikes",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1620971615"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781620971611"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Labor disputes"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zN5RtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zN5RtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zN5RtAEACAAJ&dq=subject:Nonfiction&hl=&cd=79&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=zN5RtAEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_History_of_America_in_Ten_Strikes.html?hl=&id=zN5RtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zN5RtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vg2TswEACAAJ",
+   "etag": "2CComVVd5iA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vg2TswEACAAJ",
+   "volumeInfo": {
+    "title": "Astrology",
+    "subtitle": "Using the Wisdom of the Stars in Your Everyday Life",
+    "publisher": "DK",
+    "publishedDate": "2018-09-04",
+    "description": "How to use your astrological sign's birth horoscope to transform every area of your life. Learn how to interpret the positions of the zodiac signs, sun, moon and other planets to better understand yourself and your place in the world around you. The book outlines the key principles of astrology and pinpoints ways you can use it as a form of self-help. This ancient art can help you improve many different areas of your life--from your personal and professional relationships to your health, wealth, and well-being. You'll also see how astrology can help you when you need it most, with practical advice about handling life's key moments, including changing jobs, starting a family, coping with financial difficulty, or facing retirement. Written in plain language and with sample case studies and beautiful graphics, Astrology is your essential guide to navigating all of life's challenges and opportunities.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1465464131"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781465464132"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vg2TswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vg2TswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vg2TswEACAAJ&dq=subject:Nonfiction&hl=&cd=80&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=vg2TswEACAAJ&dq=subject:Nonfiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Astrology.html?hl=&id=vg2TswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vg2TswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

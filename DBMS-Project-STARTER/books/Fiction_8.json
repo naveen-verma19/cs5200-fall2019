@@ -1,0 +1,3048 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 486,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3KBBDwAAQBAJ",
+   "etag": "bHdrBhWFSJk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3KBBDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Lady Hester",
+    "authors": [
+     "Charlotte Mary Yonge"
+    ],
+    "publisher": "BoD – Books on Demand",
+    "publishedDate": "2017-12-05",
+    "description": "Reproduction of the original.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783732619146"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3732619141"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 76,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3KBBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3KBBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=3KBBDwAAQBAJ&printsec=frontcover&dq=subject:Fiction&hl=&cd=321&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=3KBBDwAAQBAJ&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Lady_Hester.html?hl=&id=3KBBDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3KBBDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jfhvDwAAQBAJ",
+   "etag": "Q8p1kwKvfSs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jfhvDwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Quick and the Dead",
+    "authors": [
+     "Louis L'Amour"
+    ],
+    "publisher": "Bantam",
+    "publishedDate": "1994-06",
+    "description": "An enigmatic stranger, Con Vallian becomes the only hope for the McKaskels, a family of Easterners who, alone on the prairie, find themselves set upon by a ruthless band of outlaws. Reissue.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780553280845"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0553280848"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 154,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jfhvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jfhvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jfhvDwAAQBAJ&printsec=frontcover&dq=subject:Fiction&hl=&cd=322&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jfhvDwAAQBAJ&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Quick_and_the_Dead.html?hl=&id=jfhvDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jfhvDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "phAIpUgpodUC",
+   "etag": "oaFZQj1KObw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/phAIpUgpodUC",
+   "volumeInfo": {
+    "title": "Celebration",
+    "authors": [
+     "Fern Michaels"
+    ],
+    "publisher": "Zebra Books",
+    "publishedDate": "1999",
+    "description": "The author of \"Finders Keepers\" dazzles readers once again with the unforgettable story of one woman's life--the betrayal that nearly destroys her, the love that helps her heal, and the struggle to find the truth about herself and the man she thought she knew.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0821776797"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780821776797"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 430,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=phAIpUgpodUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=phAIpUgpodUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=phAIpUgpodUC&printsec=frontcover&dq=subject:Fiction&hl=&cd=323&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=phAIpUgpodUC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Celebration.html?hl=&id=phAIpUgpodUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=phAIpUgpodUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Agg8XU-VWCQC",
+   "etag": "EzwmdtTYJ04",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Agg8XU-VWCQC",
+   "volumeInfo": {
+    "title": "Henry VI",
+    "authors": [
+     "William Shakespeare"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "1988-03",
+    "description": "Presents Shakespeare's text accompanied by a collection of thematically arranged historical and cultural documents and illustrations.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671669195"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0671669192"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 125,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Agg8XU-VWCQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Agg8XU-VWCQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Agg8XU-VWCQC&printsec=frontcover&dq=subject:Fiction&hl=&cd=324&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Agg8XU-VWCQC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Henry_VI.html?hl=&id=Agg8XU-VWCQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Agg8XU-VWCQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "m-5GDwAAQBAJ",
+   "etag": "zl3W/oU3RsY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m-5GDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Skin in the Game",
+    "authors": [
+     "Melissa Price"
+    ],
+    "publisher": "Bella Books",
+    "publishedDate": "2017-07-01",
+    "description": "When the anonymous rock star Steel Eyes was shot onstage, the world assumed she was dead. But Kenna Waverly—the real woman and super spy behind the Steel Eyes persona—is alive and well, living off the radar in Jamaica. Now Kenna is forced back into the spy game when a foreign hack sabotages America’s cyber security. She must infiltrate a foreign embassy to retrieve the source code before the identities of American agents worldwide are compromised. Along the way, Kenna finds herself partnered with Alice, the woman with whom she shares an erotic past. Then in the midst of her mission, Kenna finally learns the truth about the assassination of her very own parents. The stakes are high and the only way Kenna and Alice can survive the operation is to put their lives on the line—and their skin in the game.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781594936333"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1594936331"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 308,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=m-5GDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=m-5GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=m-5GDwAAQBAJ&printsec=frontcover&dq=subject:Fiction&hl=&cd=325&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=m-5GDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=m-5GDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.5,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=m-5GDwAAQBAJ&rdid=book-m-5GDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.25E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Skin_in_the_Game-sample-epub.acsm?id=m-5GDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Skin_in_the_Game-sample-pdf.acsm?id=m-5GDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=m-5GDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YVdmVwaUiscC",
+   "etag": "UkhWjuLmDkc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YVdmVwaUiscC",
+   "volumeInfo": {
+    "title": "Trip",
+    "authors": [
+     "Carol Brisebois"
+    ],
+    "publisher": "FriesenPress",
+    "publishedDate": "2011-10",
+    "description": "To protect his girlfriend Fate and her daughter Serenity from a menacing drug dealer, twenty-one year old Haze takes them on a road trip from Winnipeg down the Yellowhead highway. But just before they get to Saskatoon, his dream of escaping collides head on with the secrets kept from him. And Haze must fight with all he's got to reclaim the two girls he loves most. Trip travels from hope to despair and back. The journey Haze and Fate set out on teaches what defines family, the cost of love, and what they are each made of.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781770679290"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1770679294"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YVdmVwaUiscC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YVdmVwaUiscC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YVdmVwaUiscC&printsec=frontcover&dq=subject:Fiction&hl=&cd=326&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YVdmVwaUiscC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Trip.html?hl=&id=YVdmVwaUiscC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Trip-sample-pdf.acsm?id=YVdmVwaUiscC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YVdmVwaUiscC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u8S3BQAAQBAJ",
+   "etag": "92pzOlBlSRU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u8S3BQAAQBAJ",
+   "volumeInfo": {
+    "title": "No One Belongs Here More Than You",
+    "subtitle": "Stories",
+    "authors": [
+     "Miranda July"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2008-05-06",
+    "description": "Presents a collection of short works featuring sympathetic protagonists whose inherent sensitivities render them particularly vulnerable to unexpected events.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743299411"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0743299418"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 205,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 39,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u8S3BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u8S3BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=u8S3BQAAQBAJ&printsec=frontcover&dq=subject:Fiction&hl=&cd=327&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=u8S3BQAAQBAJ&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/No_One_Belongs_Here_More_Than_You.html?hl=&id=u8S3BQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u8S3BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "diAHiy3ljuAC",
+   "etag": "WclK5BAOsT4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/diAHiy3ljuAC",
+   "volumeInfo": {
+    "title": "Life's Two Live",
+    "subtitle": "Imagine the Possibilities",
+    "authors": [
+     "Sherry L. Snelgrove"
+    ],
+    "publisher": "iUniverse",
+    "publishedDate": "2012-08-10",
+    "description": "Lifes Two Live is an intriguing tale about the devastating effect of Autism on the Shealy family. Chemical, Biological & Genetic Research Inc., a struggling pharmaceutical company based in New York, develops an experimental drug that could financially rescue the business and change the world. NRC8890 is believed to tap the unrealized potential of the human brain. Is it a miracle drug or a lethal toxin? When the Food and Drug Administration denies approval, a covert program is established to further test the compound. Initially, it seems to work and Tyler Shealy, the innocent Savant from Atlanta, is miraculously transformed. However, problems soon arise as the truth slowly unfolds. But whos really behind the ambitious initiative and why? Now the fate of both the secret project and the autistic Savant hang in the balance. Heart-wrenching choices must be made and several individuals are changed forever in Lifes Two Live.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1475933568"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781475933567"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 302,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=diAHiy3ljuAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=diAHiy3ljuAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=diAHiy3ljuAC&printsec=frontcover&dq=subject:Fiction&hl=&cd=328&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=diAHiy3ljuAC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=diAHiy3ljuAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 0.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=diAHiy3ljuAC&rdid=book-diAHiy3ljuAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Life_s_Two_Live-sample-pdf.acsm?id=diAHiy3ljuAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=diAHiy3ljuAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aumODQAAQBAJ",
+   "etag": "jIYuergpI24",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aumODQAAQBAJ",
+   "volumeInfo": {
+    "title": "Alma Mater",
+    "authors": [
+     "Rita Mae Brown"
+    ],
+    "publisher": "Ballantine Books",
+    "publishedDate": "2002",
+    "description": "Victoria \"Vic\" Savedge is enjoying the perfect romance with football star Charly Harrison, until she meets and embarks on a passionate love affair with Chris, a beautiful transfer student, and is forced to make a difficult choice.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345455321"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0345455320"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 260,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aumODQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aumODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=aumODQAAQBAJ&printsec=frontcover&dq=subject:Fiction&hl=&cd=329&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=aumODQAAQBAJ&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Alma_Mater.html?hl=&id=aumODQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aumODQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lxBdhFFJNSkC",
+   "etag": "2XkACGdp1pE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lxBdhFFJNSkC",
+   "volumeInfo": {
+    "title": "Cubicles",
+    "subtitle": "A Novel",
+    "authors": [
+     "Camika Spencer"
+    ],
+    "publisher": "One World",
+    "publishedDate": "2008-10-28",
+    "description": "New from the Blackboard-bestselling author of When All Hell Breaks Loose: When some old secrets make office politics spiral out of control, three women will have to decide how far they’re willing to go to climb the corporate ladder. At first glance, you couldn’t find three women more different than Margaret, Faulkner, and Joyce. Margaret is almost sixty, devoutly religious, and getting ready to retire from her job at Meridian Southwest. Faulkner is a young go-getter who really wants to land a position in upper management. And Joyce is a domineering, immaculately dressed middle-aged woman who’s moments away from receiving a top executive appointment. But something just doesn’t seem right with these three. Isn’t it strange that Margaret and Joyce have worked together for more than twenty years but barely even speak? Why is it that the more Faulkner tries to impress Joyce with her hard work, the more Joyce seems to hate her? Who can explain why the management position for which Faulkner is the best qualified applicant remains vacant? And why is James, the department intern, always smiling about something? Over the course of a few weeks, Margaret, Faulkner, and Joyce are unexpectedly drawn together as a tangled web woven decades earlier begins to unravel. From the Hardcover edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345509932"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0345509935"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lxBdhFFJNSkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lxBdhFFJNSkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lxBdhFFJNSkC&printsec=frontcover&dq=subject:Fiction&hl=&cd=330&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lxBdhFFJNSkC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lxBdhFFJNSkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 4.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=lxBdhFFJNSkC&rdid=book-lxBdhFFJNSkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cubicles-sample-epub.acsm?id=lxBdhFFJNSkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cubicles-sample-pdf.acsm?id=lxBdhFFJNSkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lxBdhFFJNSkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Epimg6tnDMQC",
+   "etag": "tAywNLdFp5M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Epimg6tnDMQC",
+   "volumeInfo": {
+    "title": "A Season of Fire and Ice",
+    "authors": [
+     "Lloyd Zimpel"
+    ],
+    "publisher": "Unbridled Books",
+    "publishedDate": "2007-04-01",
+    "description": "From the heartlands of the 1880s Upper Midwest comes a morality tale of survival and destiny told in the convincing language of a patriarch's journal, evoking a real sense of the time and place. Gerhardt Praeger, a farmer of some education and plenty experience, understands the mixture of hard work, ingenuity, ethic, grace and steadiness of spirit needed to hold his settler family and neighboring community together while homesteading the hard territory of the Dakotas. He, along with his wife and seven sons, must constantly contend with natural disasters and manmade challenges to carve out their holdings in an unforgiving environment that has defeated so many of their neighbors, sending them home to their families back east. Praeger believes that God will provide sufficiently if not in abundance to those who can resist over-reaching. But a new neighbor, the bold Beidermann, who seems at times almost larger than life, stirs both his curiosity and envy, and tests Praeger's moral beliefs. Between his remarkable journal entries that observe the increasingly tense events between them, is also a narrative that moves the everyone toward calamity. What results is an almost biblical story of moral imperatives and self-revelation, of man striving to civilize his own impulses along with the wild land.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781932961362"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1932961364"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 230,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Epimg6tnDMQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Epimg6tnDMQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Epimg6tnDMQC&printsec=frontcover&dq=subject:Fiction&hl=&cd=331&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Epimg6tnDMQC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Season_of_Fire_and_Ice.html?hl=&id=Epimg6tnDMQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Epimg6tnDMQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cLt4DwAAQBAJ",
+   "etag": "Jtqyj0yl5rQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cLt4DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Frankenstein; or, The Modern Prometheus",
+    "subtitle": "Reclams Rote Reihe – Fremdsprachentexte",
+    "authors": [
+     "Mary Shelley"
+    ],
+    "publisher": "Reclam Verlag",
+    "publishedDate": "2014-09-15",
+    "description": "Knapp 200 Jahre sind vergangen, seit Mary Shelley mit \"Frankenstein\" ihr berühmtestes Buch veröffentlichte. Ihr Romanerstling ist seither zu einem Klassiker der Weltliteratur geworden und hat von seiner Aktualität nichts eingebüßt. Schon Viktor Frankenstein im Roman muss sich der Verantwortung für die von ihm geschaffene Kreatur stellen, mehr noch begibt sich der Mensch im 21. Jahrhundert durch seine Forschungen in Bereiche, die moralisch zweifelhaft sind und unkalkulierbare, globale Risiken mit sich bringen. Diese Problematik macht den Roman zu einer beliebten Lektüre im Englischunterricht. Die Ausgabe bietet den ungekürzten Text der von der Autorin 1831 überarbeiteten Fassung. Ungekürzte und unbearbeitete Textausgabe in der Originalsprache, mit Übersetzungen schwieriger Wörter, Nachwort und Literaturhinweisen. E-Book mit Seitenzählung der gedruckten Ausgabe: Buch und E-Book können parallel benutzt werden.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783159605661"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3159605663"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 357,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cLt4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cLt4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=cLt4DwAAQBAJ&printsec=frontcover&dq=subject:Fiction&hl=&cd=332&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cLt4DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cLt4DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=cLt4DwAAQBAJ&rdid=book-cLt4DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Frankenstein_or_The_Modern_Prometheus-sample-epub.acsm?id=cLt4DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Frankenstein_or_The_Modern_Prometheus-sample-pdf.acsm?id=cLt4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cLt4DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YTKYcUpC3JkC",
+   "etag": "7m4Oepw3S5M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YTKYcUpC3JkC",
+   "volumeInfo": {
+    "title": "Patience",
+    "subtitle": "Bold Rider",
+    "authors": [
+     "Frances Anderson Jackson"
+    ],
+    "publisher": "Xlibris Corporation",
+    "publishedDate": "2010-09-21",
+    "description": "Patience Bold Rider Patiences story begins with an unspeakable event as she approaches the age of sixteen. On her own, except for her horse, Logan, she is no easy victim. She capably picks up her daddys deer rifle, mounts her pony and takes revenge. Raised by a father whose words were spare, she too, chooses her words carefully, unless visceral reaction overcomes her. Like her dear Pa, her aim is true, her seat in the saddle superb and her code of honor set in cement. When circumstances show her there are other ways of being, she is ultimately able to weigh the right and wrong of it in order to adjust this code. In her observance of men and their world, modest Patience slowly discovers the innate power of her gender and instead of discarding it, or succumbing to it, she plays her card well, with results which, like a new toy, amuse her and charm the recipient. Patience is part alter ego and part my antecedents; part truth and part fiction. She lightly brushes her tattered petticoats along the fringes of 1860 history on her journey of action adventure and self-discovery. Blessed with a good and moral heart and her magnificent Morgan stallion; extraordinary skills and a proud and reckless daring, she pays a dear price for her independent and stubborn nature. Like her young country, she comes to value freedom above all. But this is not a time when women were allowed to roam freely in a savage new mans world. They were chattels and vessels of new life. One misstep brought rejection by society, danger at every turn and a devastating loneliness. In spite of this, it seems a quintessential and logical choice to Patience. No drudge to a man, and no terrors of the childbed for her. Now if she can just resist the enigmatic Kadefor one. Patience As they approached the pitch of the Missouri riverbank, she hauled Logan in hard, dropped from the saddle and looked over the narrows in front of them. On the opposite bank was a small figure in some sort of distress. She got back on the pony and urged him forward, cautiously picking the way down and out into the rocky shallows. They crossed slowly so as not to bruise Logans hooves, he not minding the cooling experience in the least. As she drew closer, she hesitated. It was a man, albeit a slight one, and his arm seemed broken. Cautiously, with an eye to any surprises, she continued step by step toward the figure she now decided was actually a boy about age sixteen, like herself. Jauntily, Logan sidestepped in a way that displayed himself to best advantage, as though to dazzle any random mares or hostile stallions about. Outside of barns, humans were of small interest to him now, but humans meant mares were around, too. Patience drew her rifle out and rested it gently and, she hoped, casually, across her saddle horn for easy access. Closer they drew, until, Haloo! and the young mans good arm shot up in greeting. The smile seemed genuine. She halted about thirty feet from where he sat and sent him an Haloo, back. I need some water real bad Missy. The sand shifted under my horse, I hit the rocks and my pony kept on going. Looka here, he continued, pointing to his red shirt with pride, Im Pony Express! She could now see he was older, but small, like a jockey - suitable for a Pony Express rider. Impressed by his occupation, if not his skill at it, she threw her water tin his way and took in the uniform. It was a red plaid shirt, a yellow scarf, a brown vest, blue jeans and a brown western hat. How long ago you lost your pony, sir? Twenty minutes about, he replied. Pony Express, she thought, with a mind to be a little show off-y herself, knowing plenty about ponies. She wheeled Logan to the East up the shifting bank, w",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781453542514"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1453542515"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 121,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YTKYcUpC3JkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YTKYcUpC3JkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YTKYcUpC3JkC&pg=PP1&dq=subject:Fiction&hl=&cd=333&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YTKYcUpC3JkC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YTKYcUpC3JkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YTKYcUpC3JkC&rdid=book-YTKYcUpC3JkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Patience-sample-epub.acsm?id=YTKYcUpC3JkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Patience-sample-pdf.acsm?id=YTKYcUpC3JkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YTKYcUpC3JkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "T2sWJyGBRgoC",
+   "etag": "UPkNdmSZ/w0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T2sWJyGBRgoC",
+   "volumeInfo": {
+    "title": "Spy",
+    "authors": [
+     "Ted Bell"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2006-08-15",
+    "description": "This fourth thriller featuring intrepid intelligence operative Alex Hawke by \"New York Times\" bestselling author Bell takes readers to the very edge of danger, as Hawke must thwart a political mission in South America.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743277235"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0743277236"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 483,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 14,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=T2sWJyGBRgoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=T2sWJyGBRgoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=T2sWJyGBRgoC&printsec=frontcover&dq=subject:Fiction&hl=&cd=334&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=T2sWJyGBRgoC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Spy.html?hl=&id=T2sWJyGBRgoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=T2sWJyGBRgoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "m-UbSPeyCigC",
+   "etag": "1JcL4yM0224",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m-UbSPeyCigC",
+   "volumeInfo": {
+    "title": "Jet!",
+    "authors": [
+     "Phil Phoenix"
+    ],
+    "publisher": "Booktango",
+    "publishedDate": "2013-03-18",
+    "description": "Jet! About the book As the first in a trilogy, JET! is followed by Earth to Earth and Eskhatos respectively. Following the adventures of Sirk Notaani, JET! is about his mission to a planet that Earth scientists say supports humanoid life. From lift off Sirk has to face a seven month journey to reach the planet, but after arriving he crash lands in a desert [or so he thinks], finally abandoning his ship, The Diamond Dart, he sets out to find a technology [hopefully] to repair the ship and return to Earth. What besets him after leaving the Dart tests his sanity to the limit, and comes close to shaking hands with the Grim reaper on a few occassions. Earth to Earth and Eskhatos are follow on's from JET!, but out of the three I think Earth to Earth is the best, althought that is only my opinion, and I'm sure that all you astute readers out there will tell me if i'm wrong. Phil Phoenix",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781468904734"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1468904736"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=m-UbSPeyCigC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=m-UbSPeyCigC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=m-UbSPeyCigC&dq=subject:Fiction&hl=&cd=335&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=m-UbSPeyCigC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jet.html?hl=&id=m-UbSPeyCigC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=m-UbSPeyCigC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bkgDHnukLlQC",
+   "etag": "Sonkn+cCswQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bkgDHnukLlQC",
+   "volumeInfo": {
+    "title": "M F",
+    "authors": [
+     "Ralf G. Will"
+    ],
+    "publisher": "Xlibris Corporation",
+    "publishedDate": "2012-07-17",
+    "description": "MF ist der Roman einer einmaligen Recherche. Es geht um den freiberuflichen Foto-Reporter Guy, der eine Festanstellung beim Skandalbrecher, einer Kapstaedter Mittagszeitung, sucht. Bevor er zum MF-Kenner anhand von unvollstaendigen Notizen wird, schreibt er ueber die Sensationsfunde von Dr Krizbic in einer Hoehle auf der Kaphalbinsel, und den Orangenkistenskandal auf der \"Rocket Bean\". Letzterer war ein Obstfrachter, der im Kapstaedter Hafen zurzeit der UN Sanktionen als Sanktionsbrecher vom Apartheids Regime eingesetzt wird. Aber die Suche nach Hintergruenden zur mysterioesen Erscheinung dieses MF bringt Guy auf Abwege und kostet ihnen seine kurze, doch langersehnte Festanstellung bei Kapstadts aeltester englischer Tageszeitung.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781477112892"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1477112898"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 213,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.4.4.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bkgDHnukLlQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bkgDHnukLlQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=bkgDHnukLlQC&printsec=frontcover&dq=subject:Fiction&hl=&cd=336&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bkgDHnukLlQC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bkgDHnukLlQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bkgDHnukLlQC&rdid=book-bkgDHnukLlQC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/M_F-sample-pdf.acsm?id=bkgDHnukLlQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bkgDHnukLlQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pLPEO7EUI8wC",
+   "etag": "66GvmVrv8QA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pLPEO7EUI8wC",
+   "volumeInfo": {
+    "title": "White-Out",
+    "authors": [
+     "Robert Herndon Sr"
+    ],
+    "publisher": "Xulon Press",
+    "publishedDate": "2005-03",
+    "description": "Christianity had been assured for generations that they will miss the seven year period on earth they call the Great Tribulation. What will happen when they discover they must first pay the ultimate price before they receive the ultimate reward.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781597811651"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1597811653"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 324,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pLPEO7EUI8wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pLPEO7EUI8wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pLPEO7EUI8wC&printsec=frontcover&dq=subject:Fiction&hl=&cd=337&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=pLPEO7EUI8wC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/White_Out.html?hl=&id=pLPEO7EUI8wC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/White_Out-sample-epub.acsm?id=pLPEO7EUI8wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pLPEO7EUI8wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7BlRXiTcphIC",
+   "etag": "YSFW7yJFqOA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7BlRXiTcphIC",
+   "volumeInfo": {
+    "title": "Points",
+    "authors": [
+     "David Barton"
+    ],
+    "publisher": "AuthorHouse",
+    "publishedDate": "2005-02-01",
+    "description": "\"After a catastrophic epidemic, the country's battered medical services are in ruin. The government's new universal health care plan, PointCure, and health care giant CelestaCare's computerized medical units are heralded as the salvation for the future. A physician, Dr. Tom Sullivan, delves beneath the idealized surfaces of these innovative developments and becomes ensnared in a plot of politics, economics and murder. When his investigation exposes the secrets of the new care system, he encounters a conspiracy that is more concerned with power and death than with healing and life.\" -- [p. 4] of cover.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781418440770"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1418440779"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 372,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7BlRXiTcphIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7BlRXiTcphIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7BlRXiTcphIC&dq=subject:Fiction&hl=&cd=338&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=7BlRXiTcphIC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Points.html?hl=&id=7BlRXiTcphIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7BlRXiTcphIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pqFoDwAAQBAJ",
+   "etag": "wTaFoqb08BE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pqFoDwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Distance Between Us",
+    "authors": [
+     "Kiera Marks"
+    ],
+    "description": "She says our kiss was an accident. She swears it didn’t mean anything. If that’s true, why is she holding my hand? More importantly, why am I still okay with it? Stuck in the friend zone, Madison’s used to Lacey keeping her at arm’s length, but as the summer draws to a close, Madison struggles with the kiss her best friend’s determined to forget. Of course, Lacey dragging her into a lingerie shop and holding her hand doesn’t help. If anything, Lacey’s unusual behavior ever since that night at the lake house confuses things even more. Madison promised to keep their kiss to herself. She promised to never bring it up again. But the funny thing about trying to hold back the truth is that it always has a way of coming out. Of course, having a romantic outburst for your best friend right before she goes off to college probably isn’t the best idea. Especially not when that friend’s moving halfway across the state to pursue their dream. The Distance Between Us is a new adult lesbian romance with a HEA and no cliffhangers. Keywords: lesbian romance, friends to lovers lesbian romance, first time romance, ff lesbian romance, gay for you, straight to gay, new adult lesbian romance",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pqFoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pqFoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pqFoDwAAQBAJ&printsec=frontcover&dq=subject:Fiction&hl=&cd=339&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pqFoDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pqFoDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.18,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 5.18,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pqFoDwAAQBAJ&rdid=book-pqFoDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5180000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5180000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pqFoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q4m8D3AU0ckC",
+   "etag": "s5oG2H9mAlg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q4m8D3AU0ckC",
+   "volumeInfo": {
+    "title": "The Drop Edge of Yonder",
+    "subtitle": "An Alafair Tucker Mystery: Easyread Edition",
+    "authors": [
+     "Donis Casey"
+    ],
+    "publisher": "ReadHowYouWant.com",
+    "publishedDate": "2009-09-16",
+    "description": "Who killed Uncle Bill? Alafair W Tucker is desperate to find out. One August evening in 1914, a bushwhacker ended a pleasant outing by blowing a hole in Bill McBride, kidnapping and ravaging Bill's fiance, and wounding Alafair's daughter Mary. Does Mary know who did the low-down deed? If she does, the bullet that grazed her knocked that information right out of her head. All she remembers is that it has something to do with the Fourth of July. Or is there more? The answer seems to be floating piece by tiny piece to the surface of Mary's consciousness. Several malicious acts testify to the fact that Bill's killer is still around and attempting to cover his tracks. The question is, can Mary remember before the murderer manages to eliminate everyone who could identify him? The law is hot on the bushwhacker's trail. Alafair thinks there is little she can do to help the sheriff, but that will never stop her from trying. She has no qualms about driving Mary to distraction with her persistent snooping and constant hovering. If there's a chance she can protect Mary from further harm or help her remember, she'll do anything she can. Even confront a vicious killer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781458718457"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "145871845X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=q4m8D3AU0ckC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=q4m8D3AU0ckC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=q4m8D3AU0ckC&pg=PP1&dq=subject:Fiction&hl=&cd=340&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=q4m8D3AU0ckC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Drop_Edge_of_Yonder.html?hl=&id=q4m8D3AU0ckC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=q4m8D3AU0ckC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c8FcDwAAQBAJ",
+   "etag": "3zVRFEqS1iU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c8FcDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Teddy and Carrots",
+    "authors": [
+     "James Otis"
+    ],
+    "publisher": "BoD – Books on Demand",
+    "publishedDate": "2018-05-23",
+    "description": "Reproduction of the original: Teddy and Carrots by James Otis",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783732686735"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3732686736"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=c8FcDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=c8FcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=c8FcDwAAQBAJ&printsec=frontcover&dq=subject:Fiction&hl=&cd=341&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=c8FcDwAAQBAJ&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Teddy_and_Carrots.html?hl=&id=c8FcDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c8FcDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q8rkPZj5HdAC",
+   "etag": "gWaE/5UULFQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q8rkPZj5HdAC",
+   "volumeInfo": {
+    "title": "Significant Zero",
+    "authors": [
+     "Marina Milicevic"
+    ],
+    "publisher": "AuthorHouse",
+    "publishedDate": "2005-09-02",
+    "description": "Significant Zero is the first novel of author Marina Milicevic. It is a story about a female who lost herself pursuing wealth in America. Achieving the goal she was driven by made her realize she lost her own identity. The material things she easily acquired started disturbing her inner soul and made her feel the poorest of all. In search of her own purpose to be alive, she asked God to give her direction. It is a novel to let people know that everyone given life has value regardless of their education, status, or wealth. Everyone who acknowledges God plays an important role in contributing to our society and can become very happy while doing so!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1463493258"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781463493257"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.7.4.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Q8rkPZj5HdAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Q8rkPZj5HdAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Q8rkPZj5HdAC&dq=subject:Fiction&hl=&cd=342&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Q8rkPZj5HdAC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Significant_Zero.html?hl=&id=Q8rkPZj5HdAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Q8rkPZj5HdAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "P-Cd6B0BG8IC",
+   "etag": "gD4B8VzlR3E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P-Cd6B0BG8IC",
+   "volumeInfo": {
+    "title": "The Plot Against America",
+    "authors": [
+     "Philip Roth"
+    ],
+    "publisher": "Vintage Books",
+    "publishedDate": "2005",
+    "description": "In a novel of alternative history, aviation hero Charles A. Lindbergh defeats Franklin Roosevelt in the 1940 presidential election, negotiating an accord with Adolf Hitler and accepting his conquest of Europe and anti-Semitic policies.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400079490"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1400079497"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 391,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 69,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=P-Cd6B0BG8IC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=P-Cd6B0BG8IC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=P-Cd6B0BG8IC&dq=subject:Fiction&hl=&cd=343&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=P-Cd6B0BG8IC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Plot_Against_America.html?hl=&id=P-Cd6B0BG8IC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=P-Cd6B0BG8IC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uK9VhRSJeG8C",
+   "etag": "lpJAJVvWd5c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uK9VhRSJeG8C",
+   "volumeInfo": {
+    "title": "Emerson's Essays",
+    "authors": [
+     "Ralph Waldo Emerson"
+    ],
+    "publisher": "Wildside Press LLC",
+    "publishedDate": "2010-06-01",
+    "description": "Ralph Waldo Emerson (1803-1882) was an American essayist, philosopher, poet, and leader of the Transcendentalist movement in the early 19th century. His teachings directly influenced the growing New Thought movement of the mid 1800s.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781434421340"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1434421341"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 406,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uK9VhRSJeG8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uK9VhRSJeG8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=uK9VhRSJeG8C&dq=subject:Fiction&hl=&cd=344&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=uK9VhRSJeG8C&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Emerson_s_Essays.html?hl=&id=uK9VhRSJeG8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uK9VhRSJeG8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EdCh7ePCuasC",
+   "etag": "kBCOzFCUPFY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EdCh7ePCuasC",
+   "volumeInfo": {
+    "title": "Eucharist",
+    "subtitle": "Sword of the Prophet",
+    "authors": [
+     "David Leigh",
+     "Freddi Mazoudier"
+    ],
+    "publisher": "David Leigh",
+    "publishedDate": "2011-02-08",
+    "description": "Set in the multi cultural society of Perth, Western Australia, Eucharist is a unique story of diversities and contradictions. Dhul Fiquari is a young West Australian scientist, born of Iraqi parents. His best friend Josh is Jewish and born of Israeli parents. Dhul is also a pacifist and an idealist. A Roman Catholic priest, a Muslim Cleric and an unorthodox Jew are good friends of Dhul's father, also a Muslim. They form a quirky backdrop to Dhul's own journey, creating a mixture of love and hatred, peace and war. Events from distant shores impact on the community of Western Australia in ways never imagined and have disastrous effects on the lives of many. Dhul's peaceful nature is tested to the extreme and found wanting.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781456406523"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1456406523"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EdCh7ePCuasC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EdCh7ePCuasC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=EdCh7ePCuasC&printsec=frontcover&dq=subject:Fiction&hl=&cd=345&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=EdCh7ePCuasC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Eucharist.html?hl=&id=EdCh7ePCuasC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EdCh7ePCuasC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dxpxCQAAQBAJ",
+   "etag": "Ra0FRPik3Uc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dxpxCQAAQBAJ",
+   "volumeInfo": {
+    "title": "Cime tempestose",
+    "authors": [
+     "Emily Brontë"
+    ],
+    "publisher": "Giunti Editore",
+    "publishedDate": "2015-05-20T00:00:00+02:00",
+    "description": "ePub: FL3105",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788809815834"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8809815831"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dxpxCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dxpxCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "it",
+    "previewLink": "http://books.google.com/books?id=dxpxCQAAQBAJ&printsec=frontcover&dq=subject:Fiction&hl=&cd=346&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=dxpxCQAAQBAJ&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cime_tempestose.html?hl=&id=dxpxCQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cime_tempestose-sample-epub.acsm?id=dxpxCQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cime_tempestose-sample-pdf.acsm?id=dxpxCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dxpxCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t-dGSyTr2TcC",
+   "etag": "XbjZwmDyk4k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t-dGSyTr2TcC",
+   "volumeInfo": {
+    "title": "The Advantage",
+    "authors": [
+     "Thomas Krueger"
+    ],
+    "publisher": "iUniverse",
+    "publishedDate": "2001-05-28",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1469703858"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781469703855"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.6.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=t-dGSyTr2TcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=t-dGSyTr2TcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=t-dGSyTr2TcC&dq=subject:Fiction&hl=&cd=347&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=t-dGSyTr2TcC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Advantage.html?hl=&id=t-dGSyTr2TcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=t-dGSyTr2TcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oCpYuc1dfPAC",
+   "etag": "TmBn/BIUwxw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oCpYuc1dfPAC",
+   "volumeInfo": {
+    "title": "Wool",
+    "authors": [
+     "Hugh Howey"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2013-03-12",
+    "description": "In a future toxic landscape, a community that lives in an underground silo is rocked by the desire of Sheriff Holston, who has upheld the group's rules for years, to go outside, setting in motion events that kindle the fire of revolution.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781476733951"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1476733953"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 508,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 234,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oCpYuc1dfPAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oCpYuc1dfPAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=oCpYuc1dfPAC&printsec=frontcover&dq=subject:Fiction&hl=&cd=348&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=oCpYuc1dfPAC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Wool.html?hl=&id=oCpYuc1dfPAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oCpYuc1dfPAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qNhf92hK1ikC",
+   "etag": "kE1rbzgfqZY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qNhf92hK1ikC",
+   "volumeInfo": {
+    "title": "Sacred Ground",
+    "authors": [
+     "Alex Archer"
+    ],
+    "publisher": "Gold Eagle",
+    "publishedDate": "2010-03-01",
+    "description": "In a land of subzero temperatures and snow-covered vistas, survival is a challenge. But for the Araktak—an isolated and mysterious Inuit people—this harsh tundra is their heritage. Until now. A large mining company has purchased the land, and the sacred Araktak burial site with it. But more than diamond deposits await them under the dark, icy earth…. Contracted by the mining company, archaeologist Annja Creed is to oversee the proper relocation of the burial site. Her job is to ensure that each ancient relic and all human remains are carefully removed. But the sacred ground harbors a terrible secret. One that a powerful group of men intend to unleash on an unsuspecting world—unless Annja can find a way to stop them.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1426850387"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781426850387"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qNhf92hK1ikC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qNhf92hK1ikC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=qNhf92hK1ikC&printsec=frontcover&dq=subject:Fiction&hl=&cd=349&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qNhf92hK1ikC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qNhf92hK1ikC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 4.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qNhf92hK1ikC&rdid=book-qNhf92hK1ikC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Sacred_Ground-sample-epub.acsm?id=qNhf92hK1ikC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qNhf92hK1ikC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "loLXRjNF4PgC",
+   "etag": "HQ2cw3kyHO8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/loLXRjNF4PgC",
+   "volumeInfo": {
+    "title": "The Rancher's Family Thanksgiving",
+    "authors": [
+     "Cathy Gillen Thacker"
+    ],
+    "publisher": "Harlequin",
+    "publishedDate": "2007-10-01",
+    "description": "She'll Marry Who She Wants— Or Not At All! Susie Carrigan needs help—fast! With her family playing matchmaker, she can think of only one man to turn to. Rancher and caring vet Tyler McCabe has always been there for her—anytime she needed a broad shoulder to lean on... or a warm body to heat up a cold Texas night. Now he has to stop her from making the biggest mistake of her life. When his best friend asked him to run interference, Tyler didn't think he'd end up putting his own heart on the line. He can't let Susie marry somebody else—not when there's a man right here in Laramie who loves her and plans to show her a Thanksgiving neither of them will forget....",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781426807275"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1426807279"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=loLXRjNF4PgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=loLXRjNF4PgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=loLXRjNF4PgC&printsec=frontcover&dq=subject:Fiction&hl=&cd=350&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=loLXRjNF4PgC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Rancher_s_Family_Thanksgiving.html?hl=&id=loLXRjNF4PgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Rancher_s_Family_Thanksgiving-sample-epub.acsm?id=loLXRjNF4PgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=loLXRjNF4PgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pA2TDwAAQBAJ",
+   "etag": "9PQ54ujMbXg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pA2TDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Night Light",
+    "authors": [
+     "Amy Blankenship"
+    ],
+    "publisher": "Litres",
+    "publishedDate": "2019-10-20",
+    "description": "Kat Santos hatte den Besitzer des Night Light seit Jahren nicht mehr gesehen. Bis Quinn plötzlich beschließt, sie zu entführen und sie zu beschuldigen, ihm die Schuld für die Vampirmorde in die Schuhe schieben zu wollen. Als sie erkennen, dass der Feind mit ihnen spielt, vereinen die beiden Familien ihre Kräfte um die Vampire davon abzuhalten, ihre Stadt zu terrorisieren.Quinn Wilder hat sie seit dem Tag, an dem sie geboren wurde, mit den hungrigen Augen eines Pumas beobachtet. Als sie eine Jugendliche wurde, führte die Versuchung, sie als seine Partnerin zu nehmen schnell zu einem Zerwürfnis zwischen ihm und ihren überfürsorglichen Brüdern. Als ihre Väter einander im Kampf töteten, wurden die Banden zwischen den beiden Familien zerstört und sie wurde außer seiner Reichweite in Sicherheit gebracht. Während er sie aus der Entfernung beobachtet, findet Quinn heraus, dass der Vampirkrieg auch seine guten Seiten hat, wenn sie sich nicht davon fern hält.Kat Santos hatte den Besitzer des Night Light jahrelang nicht gesehen. Bis Quinn sich plötzlich entschließt, sie als Geisel zu nehmen und ihr vorwirft, sie hätte ihm die Vampirmorde in die Schuhe schieben wollen. Als sie erkennen, dass der Feind mit ihnen spielt, vereinigen die beiden Familien ihre Kräfte, um die Vampire davon abzuhalten, ihre Stadt zu terrorisieren. Als der Krieg in der Unterwelt eskaliert, geraten auch die Flammen des Verlangens außer Kontrolle, als das, was als eine Geiselnahme begann, sich schnell in ein gefährliches Spiel der Verführung verwandelt.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9785041658281"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "5041658285"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.55.41.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pA2TDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pA2TDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=pA2TDwAAQBAJ&printsec=frontcover&dq=subject:Fiction&hl=&cd=351&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pA2TDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pA2TDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.22,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 4.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pA2TDwAAQBAJ&rdid=book-pA2TDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6220000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4790000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Night_Light-sample-epub.acsm?id=pA2TDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Night_Light-sample-pdf.acsm?id=pA2TDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pA2TDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yh39xwEACAAJ",
+   "etag": "dWxvOghPU7M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yh39xwEACAAJ",
+   "volumeInfo": {
+    "title": "All the Light We Cannot See",
+    "authors": [
+     "Anthony Doerr"
+    ],
+    "publishedDate": "2015-11-19",
+    "description": "Marie-Laure lives with her father in Paris. When she is six, she goes blind and her father builds her a model of their neighbourhood so she can memorise it with her fingers and navigate the real streets with her feet and cane. When the Germans occupy Paris, they flee to Saint-Malo on the Brittany coast. In Germany, an orphan boy, Werner, becomes a master at building and fixing radios; a talent that wins him a place at an elite and brutal military academy. Werner travels through the heart of Hitler Youth and into Saint-Malo, where his path converges with Marie-Laure.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0008172420"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780008172428"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+     "FICTION"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3503,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yh39xwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yh39xwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=yh39xwEACAAJ&dq=subject:Fiction&hl=&cd=352&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=yh39xwEACAAJ&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/All_the_Light_We_Cannot_See.html?hl=&id=yh39xwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yh39xwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IOv8I_n95LsC",
+   "etag": "tJKYYQhOy5Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IOv8I_n95LsC",
+   "volumeInfo": {
+    "title": "Wednesday's Child",
+    "subtitle": "An Inspector Banks Novel",
+    "authors": [
+     "Peter Robinson"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "2002-04-02",
+    "description": "When two social workers, investigating reports of child abuse, appear at Brenda Scupham's door, her fear of authority leads her to comply meekly with their requests. Even when they say they must take her seven-year old daughter away for tests.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780380820498"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0380820498"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 13,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IOv8I_n95LsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IOv8I_n95LsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IOv8I_n95LsC&printsec=frontcover&dq=subject:Fiction&hl=&cd=353&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=IOv8I_n95LsC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Wednesday_s_Child.html?hl=&id=IOv8I_n95LsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IOv8I_n95LsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HGntQ503LaQC",
+   "etag": "7FVhPm60yQA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HGntQ503LaQC",
+   "volumeInfo": {
+    "title": "Shooting Script",
+    "subtitle": "A Sonya Iverson Novel",
+    "authors": [
+     "Elsa Klensch"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2006-10-03",
+    "description": "Covering the opening of a new luxury spa owned by the third wife of former network head Errol Swanson, Sonya Iverson oversees a volatile family reunion attended by the man's ex-wives and children, an event that offers numerous suspects when Swanson is found murdered. By the author of Live at 10:00, Dead at 10:15. Reprint.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0765346818"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780765346810"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HGntQ503LaQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HGntQ503LaQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HGntQ503LaQC&printsec=frontcover&dq=subject:Fiction&hl=&cd=354&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HGntQ503LaQC&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Shooting_Script.html?hl=&id=HGntQ503LaQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HGntQ503LaQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KjHvWRP4zQ8C",
+   "etag": "z5JU9rsbwoU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KjHvWRP4zQ8C",
+   "volumeInfo": {
+    "title": "The Distance Between Us",
+    "authors": [
+     "Bart Yates"
+    ],
+    "publisher": "Kensington Books",
+    "publishedDate": "2008-09-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0758235593"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780758235596"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KjHvWRP4zQ8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KjHvWRP4zQ8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=KjHvWRP4zQ8C&printsec=frontcover&dq=subject:Fiction&hl=&cd=355&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=KjHvWRP4zQ8C&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Distance_Between_Us.html?hl=&id=KjHvWRP4zQ8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Distance_Between_Us-sample-epub.acsm?id=KjHvWRP4zQ8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Distance_Between_Us-sample-pdf.acsm?id=KjHvWRP4zQ8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KjHvWRP4zQ8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_VzpwShv1Q4C",
+   "etag": "2o1Gm7KGgnE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_VzpwShv1Q4C",
+   "volumeInfo": {
+    "title": "Emigrants and Exiles",
+    "subtitle": "Book Three, Volume Two",
+    "authors": [
+     "Henry A. Fischer"
+    ],
+    "publisher": "AuthorHouse",
+    "publishedDate": "2011-02-23",
+    "description": "The isolation the Children of the Danube experienced from the upheavals of history in the rest of Europe would no longer hold true in the second half of the 19th Century and beyond. At the outset, Emperor Francis Josephs attempts to preserve the position of the House of Habsburg in the face of the rising power of Prussia among the German states would inevitably lead to a disastrous war. Austrias defeat set the stage for the rise of the German Empire and the struggle for supremacy in Europe among the major powers resulting in the catastrophic wars of the next century which would destroy the only life the Children of the Danube had ever known. The agricultural sector was in a shambles in Hungary during the last decades of the century which had repercussions for the Children of the Danube among whom the landless were the fastest growing part of the population and among whom poverty had become a way of life. Land was expensive and simply unavailable. As in the past, the only remedy was emigration. The first wave of emigrants from Swabian Turkey sought their future in Slavonia recently opened for colonization. It was just the prelude for the massive emigration movement soon to take place to the New World. Some of the surviving emigrants and exiles will meet in a railway station in a small town in Canada as the final phase of the Schwabenzug takes place and the Children of the Danube transplant their roots in their new Heimat.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1456743694"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781456743697"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 688,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_VzpwShv1Q4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_VzpwShv1Q4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_VzpwShv1Q4C&printsec=frontcover&dq=subject:Fiction&hl=&cd=356&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_VzpwShv1Q4C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_VzpwShv1Q4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_VzpwShv1Q4C&rdid=book-_VzpwShv1Q4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Emigrants_and_Exiles-sample-epub.acsm?id=_VzpwShv1Q4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Emigrants_and_Exiles-sample-pdf.acsm?id=_VzpwShv1Q4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_VzpwShv1Q4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eqzsQ6yRZf0C",
+   "etag": "v14lFNb0hVk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eqzsQ6yRZf0C",
+   "volumeInfo": {
+    "title": "Mansfield Park",
+    "authors": [
+     "Jane Austen"
+    ],
+    "publisher": "Modern Library Classics",
+    "publishedDate": "2001",
+    "description": "The private and social world of three families are revealed through the experiences of the heroine Fanny Price.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780375757815"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0375757813"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 420,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eqzsQ6yRZf0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eqzsQ6yRZf0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=eqzsQ6yRZf0C&printsec=frontcover&dq=subject:Fiction&hl=&cd=357&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=eqzsQ6yRZf0C&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mansfield_Park.html?hl=&id=eqzsQ6yRZf0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eqzsQ6yRZf0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dpmXDQAAQBAJ",
+   "etag": "OQzJ8S593+w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dpmXDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Silence Observed",
+    "authors": [
+     "Michael Innes"
+    ],
+    "publisher": "House of Stratus",
+    "publishedDate": "2010-02-20",
+    "description": "Respected Fine Art experts are deceived in one of the most intriguing murder cases Inspector Appleby has ever faced, beginning with Gribble, a collector of forgeries whose latest acquisition is found to be a forged forgery!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780755121144"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0755121147"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 158,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dpmXDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dpmXDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=dpmXDQAAQBAJ&printsec=frontcover&dq=subject:Fiction&hl=&cd=358&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=dpmXDQAAQBAJ&dq=subject:Fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Silence_Observed.html?hl=&id=dpmXDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Silence_Observed-sample-epub.acsm?id=dpmXDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Silence_Observed-sample-pdf.acsm?id=dpmXDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dpmXDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NmKLDwAAQBAJ",
+   "etag": "LwydQHDuM3A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NmKLDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Jet",
+    "subtitle": "A Bad Boy Motorcycle Club Romance",
+    "authors": [
+     "Vivian Gray"
+    ],
+    "publisher": "E-Book Publishing World Inc.",
+    "description": "Jet is book 1 of the War Choppers MC trilogy. Books 2 and 3, Jet's Bride and Jet's Wrath are available everywhere now! I'll make her mine… no matter the cost. I never thought I'd lay my hands on the goods I'm sworn to protect. But I had to make an exception for her. She thought this would all go down on her terms, that she was in charge. Time to show her just how wrong she was. JET Overseeing these auctions lost its shine a long time ago. I'm an outlaw who takes what he wants, no questions asked. But apparently some men prefer the transaction. And as long as there are women willing to put themselves up, bare and afraid, on that stage… And underworld criminals eager to buy the rights to their bodies… Who am I to deny them? Then she stepped up to the auction block, wearing nothing but sheer terror. And I'd never wanted anything so badly in my life. She was a feast for the eyes. Every man in attendance wanted a bite of the main course. The price for a night with her skyrocketed, but I wasn't about to be outbid on my own turf. I paid whatever it took to own her. Now, she's mine. But pretty little Bree won't break so easily—and I love a girl who requires a firm hand. There's more to her than meets the eye. And something tells me it's not just the promise of money that keeps her on my lap… Straddling my bike… And bent over in my bedroom. BREE All I ever wanted was to pay down the student loans that were drowning me. Now, I find myself learning hard lesson after harder lesson as my desperation takes me deep into the den of an outlaw motorcycle club… the War Choppers. In the depths of the MC, I end up pinned beneath the sheets with a rogue biker as powerful as his name: JET. It only takes one taste of him to hook me. My auction was just supposed to be a one-night engagement. But it turns out Jet has deep pockets… And hands that refuse to stop exploring my body. I'm in over my head. But I just can't stop. And then Jet makes an offer too hot to ignore. Soon enough, I'm the human high card getting played time and again… and I'm practically begging him to throw me down on the table. Too bad this underworld is populated with insatiable alphas, and most of them don't take kindly to being outbid… I chose to start this ride with the biker. But he's determined to be the one to finish me.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NmKLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NmKLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NmKLDwAAQBAJ&printsec=frontcover&dq=subject:Fiction&hl=&cd=359&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NmKLDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NmKLDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NmKLDwAAQBAJ&rdid=book-NmKLDwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Jet-sample-epub.acsm?id=NmKLDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Jet-sample-pdf.acsm?id=NmKLDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NmKLDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Y6oTDQAAQBAJ",
+   "etag": "l3Tha9TqSKM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y6oTDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Spy",
+    "authors": [
+     "James Fenimore Cooper"
+    ],
+    "publisher": "The History Press",
+    "publishedDate": "2011-10-21",
+    "description": "Cooper’s first major success, The Spy is also his first book set in the period of the American War of Independence. The story starts in 1870, with the household of Mr. Wharton and his daughters visited by the three men: the mysterious Mr. Harper, an American loyalist; Captain Henry Wharton, the son of the house and an officer in the British Army; and Mr. Harvey Birch, suspected of being a British spy. The differing loyalties of these men are reflected in the differing loyalties of the household they visit, with the father trying to remain neutral, his daughter Sarah a supporter of the British and his other daughter Frances supporting the American rebels. The futures of these characters become inextricably linked as they face not only the perils of war, but also the sufferings of the human heart.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780752471723"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0752471724"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Y6oTDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Y6oTDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Y6oTDQAAQBAJ&printsec=frontcover&dq=subject:Fiction&hl=&cd=360&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Y6oTDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Y6oTDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 1.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Y6oTDQAAQBAJ&rdid=book-Y6oTDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Spy-sample-epub.acsm?id=Y6oTDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Spy-sample-pdf.acsm?id=Y6oTDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Y6oTDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

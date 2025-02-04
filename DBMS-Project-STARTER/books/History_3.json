@@ -1,0 +1,3210 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 480,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Kx_NjXiMZM0C",
+   "etag": "mEATJUyaJ7Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Kx_NjXiMZM0C",
+   "volumeInfo": {
+    "title": "A History of the Greek Language",
+    "subtitle": "From Its Origins to the Present",
+    "authors": [
+     "Francisco Rodríguez Adrados"
+    ],
+    "publisher": "BRILL",
+    "publishedDate": "2005",
+    "description": "\"A History of the Greek Language\" is a kaleidoscopic collection of ideas on the development of the Greek language through the centuries of its existence.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789004128354"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9004128352"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 345,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Kx_NjXiMZM0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Kx_NjXiMZM0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Kx_NjXiMZM0C&printsec=frontcover&dq=subject:History&hl=&cd=121&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Kx_NjXiMZM0C&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_History_of_the_Greek_Language.html?hl=&id=Kx_NjXiMZM0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Kx_NjXiMZM0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "85uaDwAAQBAJ",
+   "etag": "GkSFfjtIBaM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/85uaDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Alfonso y Ena. La boda del siglo",
+    "subtitle": "Génesis y apoteosis de un gran amor fracasado",
+    "authors": [
+     "Ricardo Mateos Sáinz de Medrano"
+    ],
+    "publisher": "La Esfera de los Libros",
+    "publishedDate": "2019-06-19",
+    "description": "El 31 de mayo de 1906, la monarquía española echó la casa por la ventana para celebrar la boda del rey Alfonso XIII con la princesa Victoria Eugenia de Battenberg, conocida por todos como Ena. Los dos jóvenes se habían enamorado la primera vez que se vieron en la corte inglesa y nada pudo interponerse a su flechazo: ni la fuerte oposición de los miembros más convencionales de la casa real británica y de los miembros más tradicionales de la Iglesia y la política españoles, ni el problema que suponía el escaso rango dinástico de la novia, considerado a todas luces insuficiente para el rey de España. El corto noviazgo de menos de un año, entre cartas y algunos breves encuentros en Inglaterra o Biarritz, no sirvió para que ambos se conocieran mejor pero sí para aumentar su pasión. Durante las magníficas y coloristas celebraciones, el pueblo salió a las calles con un fervor inusitado, y los representantes de la nobleza española, la realeza extranjera y las legaciones diplomáticas llegados del mundo entero a Madrid, envueltos en sus vistosos trajes y tocados con sus formidables joyas, vivieron la fiesta intensamente en su versión más castiza a ritmo de agua, azucarillos y aguardiente. Tristemente, la boda más fastuosa de la España del siglo xx, diseñada para relanzar la imagen del país ante el mundo, tuvo un trágico desenlace cuando el anarquista Mateo Morral lanzó su bomba sobre la comitiva regia, en un presagio ominoso de lo que acabaría ocurriendo con el amor de Alfonso y Ena.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788491646303"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8491646302"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=85uaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=85uaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=85uaDwAAQBAJ&printsec=frontcover&dq=subject:History&hl=&cd=122&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=85uaDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=85uaDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.21,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.97,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=85uaDwAAQBAJ&rdid=book-85uaDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.121E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8970000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Alfonso_y_Ena_La_boda_del_siglo-sample-epub.acsm?id=85uaDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Alfonso_y_Ena_La_boda_del_siglo-sample-pdf.acsm?id=85uaDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=85uaDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gbnz0bljUhoC",
+   "etag": "Tyz7X1sZuDg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gbnz0bljUhoC",
+   "volumeInfo": {
+    "title": "Cato Maior de Senectute",
+    "authors": [
+     "Marcus Tullius Cicero",
+     "J. G. F. Powell"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1988-04-14",
+    "description": "This is a complete critical edition of Cicero's Cato Maior de Senectute (On Old Age )with an introduction and commentary. The text is based on a fresh examination of the manuscript tradition while the introduction aims to place the work in the context of Cicero's writings on old age in the ancient world. The Roman and Ciceronian qualities of the work are emphasized, rather than the search for lost sources that occupied scholars in the past. Matters of text, language, and content are all considered equally in the commentary.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521335019"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521335010"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 298,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gbnz0bljUhoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gbnz0bljUhoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "la",
+    "previewLink": "http://books.google.com/books?id=gbnz0bljUhoC&printsec=frontcover&dq=subject:History&hl=&cd=123&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=gbnz0bljUhoC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cato_Maior_de_Senectute.html?hl=&id=gbnz0bljUhoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gbnz0bljUhoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nnd8r3kTpcgC",
+   "etag": "WppSCHkc/H0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nnd8r3kTpcgC",
+   "volumeInfo": {
+    "title": "William of Ockham: A Short Discourse on Tyrannical Government",
+    "authors": [
+     "William (of Ockham)",
+     "Arthur Stephen McGrade"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1992-08-20",
+    "description": "The Short Discourse is a passionate but compelling statement of Ockham's position on the most fundamental political problem of the medieval period.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521358035"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521358033"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nnd8r3kTpcgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nnd8r3kTpcgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nnd8r3kTpcgC&printsec=frontcover&dq=subject:History&hl=&cd=124&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nnd8r3kTpcgC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/William_of_Ockham_A_Short_Discourse_on_T.html?hl=&id=nnd8r3kTpcgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nnd8r3kTpcgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K1wNDJIqUFUC",
+   "etag": "Rb7p7otnyHg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K1wNDJIqUFUC",
+   "volumeInfo": {
+    "title": "No Easy Day",
+    "subtitle": "The Firsthand Account of the Mission that Killed Osama Bin Laden",
+    "authors": [
+     "Mark Owen",
+     "Kevin Maurer"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2012-09-04",
+    "description": "The #1 New York Times bestselling first-person account of the planning and execution of the Bin Laden raid from a Navy SEAL who confronted the terrorist mastermind and witnessed his final moments. From the streets of Iraq to the rescue of Captain Richard Phillips in the Indian Ocean, and from the mountaintops of Afghanistan to the third floor of Osama Bin Laden’s compound, operator Mark Owen of the U.S. Naval Special Warfare Development Group—known as SEAL Team Six—has been a part of some of the most memorable special operations in history, as well as countless missions that never made headlines. No Easy Day puts readers alongside Owen and his fellow SEAL team members as they train for the biggest mission of their lives. The blow-by-blow narrative of the assault, beginning with the helicopter crash that could have ended Owen’s life straight through to the radio call confirming Bin Laden’s death, is an essential piece of modern history. In No Easy Day, Owen also takes readers into the War on Terror and details the formation of the most elite units in the military. Owen’s story draws on his youth in Alaska and describes the SEALs’ quest to challenge themselves at the highest levels of physical and mental endurance. With boots-on-the-ground detail, Owen describes several missions that illustrate the life and work of a SEAL and the evolution of the team after the events of September 11. In telling the true story of the SEALs whose talents, skills, experiences, and exceptional sacrifices led to one of the greatest victories in the War on Terror, Mark Owen honors the men who risk everything for our country, and he leaves readers with a deep understanding of the warriors who keep America safe.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101611302"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1101611308"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 424,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.9.9.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=K1wNDJIqUFUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=K1wNDJIqUFUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=K1wNDJIqUFUC&printsec=frontcover&dq=subject:History&hl=&cd=125&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=K1wNDJIqUFUC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=K1wNDJIqUFUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 1.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=K1wNDJIqUFUC&rdid=book-K1wNDJIqUFUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/No_Easy_Day-sample-epub.acsm?id=K1wNDJIqUFUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=K1wNDJIqUFUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Wn69QsdwDlQC",
+   "etag": "tznjnHm0yx4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Wn69QsdwDlQC",
+   "volumeInfo": {
+    "title": "Death in the Afternoon",
+    "authors": [
+     "Ernest Hemingway"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2002-07-25",
+    "description": "Still considered one of the best books ever written about bullfighting, Death in the Afternoon is an impassioned look at the sport by one of its true aficionados. It reflects Hemingway's conviction that bullfighting was more than mere sport and reveals a rich source of inspiration for his art. The unrivaled drama of bullfighting, with its rigorous combination of athleticism and artistry, and its requisite display of grace under pressure, ignited Hemingway's imagination. Here he describes and explains the technical aspects of this dangerous ritual and \"the emotional and spiritual intensity and pure classic beauty that can be produced by a man, an animal, and a piece of scarlet serge draped on a stick.\" Seen through his eyes, bullfighting becomes a richly choreographed ballet, with performers who range from awkward amateurs to masters of great elegance and cunning. A fascinating look at the history and grandeur of bullfighting, Death in the Afternoon is also a deeper contemplation of the nature of cowardice and bravery, sport and tragedy, and is enlivened throughout by Hemingway's sharp commentary on life and literature.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743237147"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0743237145"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.5.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Wn69QsdwDlQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Wn69QsdwDlQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Wn69QsdwDlQC&printsec=frontcover&dq=subject:History&hl=&cd=126&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Wn69QsdwDlQC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Wn69QsdwDlQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Wn69QsdwDlQC&rdid=book-Wn69QsdwDlQC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Death_in_the_Afternoon-sample-epub.acsm?id=Wn69QsdwDlQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Wn69QsdwDlQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "juOuBMDNmIUC",
+   "etag": "WGI6FwC8duQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/juOuBMDNmIUC",
+   "volumeInfo": {
+    "title": "Frozen in Time",
+    "subtitle": "An Epic Story of Survival and a Modern Quest for Lost Heroes of World War II",
+    "authors": [
+     "Mitchell Zuckoff"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "2013-04-23",
+    "description": "#1 New York Times bestseller Frozen in Time is a gripping true story of survival, bravery, and honor in the vast Arctic wilderness during World War II, from the author of New York Times bestseller Lost in Shangri-La. On November 5, 1942, a US cargo plane slammed into the Greenland Ice Cap. Four days later, the B-17 assigned to the search-and-rescue mission became lost in a blinding storm and also crashed. Miraculously, all nine men on board survived, and the US military launched a daring rescue operation. But after picking up one man, the Grumman Duck amphibious plane flew into a severe storm and vanished. Frozen in Time tells the story of these crashes and the fate of the survivors, bringing vividly to life their battle to endure 148 days of the brutal Arctic winter, until an expedition headed by famed Arctic explorer Bernt Balchen brought them to safety. Mitchell Zuckoff takes the reader deep into the most hostile environment on earth, through hurricane-force winds, vicious blizzards, and subzero temperatures. Moving forward to today, he recounts the efforts of the Coast Guard and North South Polar Inc. – led by indefatigable dreamer Lou Sapienza – who worked for years to solve the mystery of the Duck’s last flight and recover the remains of its crew. A breathtaking blend of mystery and adventure Mitchell Zuckoff's Frozen in Time: An Epic Story of Survival and a Modern Quest for Lost Heroes of World War II is also a poignant reminder of the sacrifices of our military personnel and a tribute to the everyday heroism of the US Coast Guard.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780062133410"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0062133411"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 23,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.9.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=juOuBMDNmIUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=juOuBMDNmIUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=juOuBMDNmIUC&printsec=frontcover&dq=subject:History&hl=&cd=127&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=juOuBMDNmIUC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=juOuBMDNmIUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 10.49,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 10.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=juOuBMDNmIUC&rdid=book-juOuBMDNmIUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.049E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.049E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Frozen_in_Time-sample-epub.acsm?id=juOuBMDNmIUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=juOuBMDNmIUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sGjSY0rRC_wC",
+   "etag": "MRE+eswL+gQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sGjSY0rRC_wC",
+   "volumeInfo": {
+    "title": "Copyrights and Copywrongs",
+    "subtitle": "The Rise of Intellectual Property and how it Threatens Creativity",
+    "authors": [
+     "Siva Vaidhyanathan"
+    ],
+    "publisher": "NYU Press",
+    "publishedDate": "2003-04",
+    "description": "Social movements inspired by powerful ideological beliefs continue to define global and national politics. In Yugoslavia, civil war is justified in the name of religion and ethnic identity. The Arab-Israeli conflict rages on, fuelled on either side by a conviction of indisputable ideological truth. Closer to home, American religious organizations consistently challenge political authority in the name of a higher morality. Existing theories either ignore the role of religion in social movement formation or discredit the claim that religious convictions can directly lead adherents to engage in political action. Through a detailed analysis of American and British evangelical Christians, J. Christopher Soper here demonstrates that religious commitments were, in fact, crucial in promoting political activism in both countries. Evangelical Christianity in the United States and Great Britain is the first book to provide such a comparative perspective. Focussing on the temperance movement and the politics of abortion, Soper highlights the similarities, and equally intriguing differences, between British and American political/evangelical structures. Using interviews and literature gathered from evangelical organizations on both sides of the Atlantic, he paints a fascinating picture of a hitherto neglected aspect of social movement theory. Evangelical Christianity in the United States and Great Britain is an invaluable new resource for scholars of religious studies, political science and sociology alike. Soper provides a unique model with which to view a dominant political trend: the mobilization of collective action groups around a set of powerful beliefs. His research can thus be applied beyond the boundaries of his chosen topic, and will be an important contribution to the study of any movement in which ideology assumes a significant role.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0814788076"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780814788073"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 255,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.0.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sGjSY0rRC_wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sGjSY0rRC_wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=sGjSY0rRC_wC&printsec=frontcover&dq=subject:History&hl=&cd=128&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sGjSY0rRC_wC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sGjSY0rRC_wC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.2,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sGjSY0rRC_wC&rdid=book-sGjSY0rRC_wC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.92E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 1.632E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8990000.0,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Copyrights_and_Copywrongs-sample-epub.acsm?id=sGjSY0rRC_wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sGjSY0rRC_wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5q40DwAAQBAJ",
+   "etag": "ssDxcsE2+Bg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5q40DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Speculative Freemasonry and the Enlightenment",
+    "subtitle": "A Study of the Craft in London, Paris, Prague, Vienna and Philadelphia, 2d ed.",
+    "authors": [
+     "R. William Weisberger"
+    ],
+    "publisher": "McFarland",
+    "publishedDate": "2017-09-08",
+    "description": "Freemasonry began with stonemasons in the Middle Ages experiencing the decline of cathedral building. Some guilds invited honorary memberships to boost their numbers. These usually highly educated new members practiced symbolic or “speculative Freemasonry.” The new Masonic lodges and learned societies offered their growing numbers of Protestant, Catholic and Jewish members an understanding of deism, Newtonian science and representative government, and of literature and the fine arts. This work describes how Masons on both sides of the Atlantic were mostly either enlighteners, political reformers or moderate revolutionaries. They offered minimal support to radical revolutionary ideas and leaders.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781476629698"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1476629692"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5q40DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5q40DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5q40DwAAQBAJ&printsec=frontcover&dq=subject:History&hl=&cd=129&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5q40DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5q40DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5q40DwAAQBAJ&rdid=book-5q40DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Speculative_Freemasonry_and_the_Enlighte-sample-epub.acsm?id=5q40DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Speculative_Freemasonry_and_the_Enlighte-sample-pdf.acsm?id=5q40DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5q40DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZULgTHal9iIC",
+   "etag": "aH5HmPl3nwo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZULgTHal9iIC",
+   "volumeInfo": {
+    "title": "Telling the Truth about History",
+    "authors": [
+     "Joyce Oldham Appleby",
+     "Lynn Avery Hunt",
+     "Margaret Jacob",
+     "Margaret C. Jacob"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "1995",
+    "description": "\"A fascinating historiographical essay. . . . An unusually lucid and inclusive explication of what it ultimately at stake in the culture wars over the nature, goals, and efficacy of history as a discipline.\"―Booklist",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393312860"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393312867"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 322,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.0.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZULgTHal9iIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZULgTHal9iIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZULgTHal9iIC&printsec=frontcover&dq=subject:History&hl=&cd=130&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ZULgTHal9iIC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Telling_the_Truth_about_History.html?hl=&id=ZULgTHal9iIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZULgTHal9iIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ruVjb7T1Y5QC",
+   "etag": "mVq4teLxgXw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ruVjb7T1Y5QC",
+   "volumeInfo": {
+    "title": "The Classic of the Way and Virtue",
+    "subtitle": "A New Translation of the Tao-Te Ching of Laozi As Interpreted by Wang Bi",
+    "publisher": "Columbia University Press",
+    "publishedDate": "2004-03",
+    "description": "The most famous and influential Taoist text, the Tao-te Ching is traditionally attributed to Lao Tzu, supposedly a contemporary of Confucius (551-471 B.C).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0231105819"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780231105811"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ruVjb7T1Y5QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ruVjb7T1Y5QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ruVjb7T1Y5QC&printsec=frontcover&dq=subject:History&hl=&cd=131&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ruVjb7T1Y5QC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Classic_of_the_Way_and_Virtue.html?hl=&id=ruVjb7T1Y5QC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ruVjb7T1Y5QC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oGfKLNs5aSAC",
+   "etag": "+zTTHxly42w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oGfKLNs5aSAC",
+   "volumeInfo": {
+    "title": "Astell: Political Writings",
+    "authors": [
+     "Mary Astell"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1996",
+    "description": "First modern edition of three works by an important female political theorist.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521428459"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521428453"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 289,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oGfKLNs5aSAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oGfKLNs5aSAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=oGfKLNs5aSAC&printsec=frontcover&dq=subject:History&hl=&cd=132&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=oGfKLNs5aSAC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Astell_Political_Writings.html?hl=&id=oGfKLNs5aSAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oGfKLNs5aSAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UZrdSINpaZoC",
+   "etag": "aEGHi9WlDeo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UZrdSINpaZoC",
+   "volumeInfo": {
+    "title": "Turmoil in New Mexico, 1846-1868",
+    "authors": [
+     "William A. Keleher"
+    ],
+    "publisher": "Sunstone Press",
+    "publishedDate": "2007-11",
+    "description": "The vital history of New Mexico and Arizona during the formative years between the American Occupation and the coming of the railroad has been compressed by the author into one volume with hundreds of footnotes and many profiles that make this book of vital importance to teachers, students, and researchers. The book is broken into four parts: \"General Kearny Comes to Santa Fe,\" \"The Confederates Invade New Mexico,\" \"Carleton's California Column,\" and \"The Long Walk.\" Many famous men walk and talk through these pages, including Kearny, Doniphan, Baylor, Canby, Carleton, Sibley, and a host of others. In addition, the story of the impact of the Civil War in New Mexico on the Indians, and the tragic results, is told here in detail for the first time. Long out of print, the book is available once again with a new foreword by Marc Simmons and preface by Michael L. Keleher, William A. Keleher's son. It also includes brief biographies of Ernest L. Blumenschein and Oscar E. Berninghaus who provided the original illustrations. William A. Keleher (1886-1972) observed first hand the changing circumstances of people and places of New Mexico. Born in Lawrence, Kansas, he arrived in Albuquerque two years later, with his parents and two older brothers. The older brothers died of diphtheria within a few weeks of their arrival. As an adult, Keleher worked for more than four years as a Morse operator, and later as a reporter on New Mexico newspapers. Bidding a reluctant farewell to newspaper work, Keleher studied law at Washington & Lee University and started practicing law in 1915. He was recognized as a successful attorney, being honored by the New Mexico State Bar as one of the outstanding Attorneys of the Twentieth Century. One quickly observes from his writings, and writings about him, that he lived a fruitful and exemplary life. His knowledge and understanding of humankind is evidenced by this quote attributed to Sir Thomas Browne, 1686, and printed after the title page in \"Turmoil in New Mexico\" \"The iniquity of oblivion scattereth her poppy and deals with the memory of men without distinction to merit and perpetuity.who knows whether the best of men be known, or whether there be not more remarkable men forgot, than any that stand remembered in the known account of time.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780865346215"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0865346216"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 592,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UZrdSINpaZoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UZrdSINpaZoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=UZrdSINpaZoC&printsec=frontcover&dq=subject:History&hl=&cd=133&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=UZrdSINpaZoC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UZrdSINpaZoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.6,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=UZrdSINpaZoC&rdid=book-UZrdSINpaZoC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.2E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.76E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Turmoil_in_New_Mexico_1846_1868-sample-epub.acsm?id=UZrdSINpaZoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Turmoil_in_New_Mexico_1846_1868-sample-pdf.acsm?id=UZrdSINpaZoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UZrdSINpaZoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B_yRH2U3ZJYC",
+   "etag": "7re0JwU6qAE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B_yRH2U3ZJYC",
+   "volumeInfo": {
+    "title": "Berenike and the Ancient Maritime Spice Route",
+    "authors": [
+     "Steven E. Sidebotham"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "2011-02-02",
+    "description": "The legendary overland silk road was not the only way to reach Asia for ancient travelers from the Mediterranean. During the Roman Empire’s heyday, equally important maritime routes reached from the Egyptian Red Sea across the Indian Ocean. The ancient city of Berenike, located approximately 500 miles south of today’s Suez Canal, was a significant port among these conduits. In this book, Steven E. Sidebotham, the archaeologist who excavated Berenike, uncovers the role the city played in the regional, local, and \"global\" economies during the eight centuries of its existence. Sidebotham analyzes many of the artifacts, botanical and faunal remains, and hundreds of the texts he and his team found in excavations, providing a profoundly intimate glimpse of the people who lived, worked, and died in this emporium between the classical Mediterranean world and Asia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520948389"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0520948386"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 456,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=B_yRH2U3ZJYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=B_yRH2U3ZJYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=B_yRH2U3ZJYC&printsec=frontcover&dq=subject:History&hl=&cd=134&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=B_yRH2U3ZJYC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B_yRH2U3ZJYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 85.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 68.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=B_yRH2U3ZJYC&rdid=book-B_yRH2U3ZJYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.5E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.8E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Berenike_and_the_Ancient_Maritime_Spice-sample-epub.acsm?id=B_yRH2U3ZJYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Berenike_and_the_Ancient_Maritime_Spice-sample-pdf.acsm?id=B_yRH2U3ZJYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=B_yRH2U3ZJYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9WXkw2K8O8YC",
+   "etag": "3I3CatA62F0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9WXkw2K8O8YC",
+   "volumeInfo": {
+    "title": "A History of Madness in Sixteenth-century Germany",
+    "authors": [
+     "H. C. Erik Midelfort"
+    ],
+    "publisher": "Stanford University Press",
+    "publishedDate": "1999",
+    "description": "This magisterial work explores how Renaissance Germans understood and experienced madness. It focuses on the insanity of the world in general but also on specific disorders; examines the thinking on madness of theologians, jurists, and physicians; and analyzes the vernacular ideas that propelled sufferers to seek help in pilgrimage or newly founded hospitals for the helplessly disordered. In the process, the author uses the history of madness as a lens to illuminate the history of the Renaissance, the Reformation and Counter-Reformation, the history of poverty and social welfare, and the history of princely courts, state building, and the civilizing process. Rather than try to fit historical experience into modern psychiatric categories, this book reconstructs the images and metaphors through which Renaissance Germans themselves understood and experienced mental illness and deviance, ranging from such bizarre conditions as St. Vitus\u0092s dance and demonic possession to such medical crises as melancholy and mania. By examining the records of shrines and hospitals, where the mad went for relief, we hear the voices of the mad themselves. For many religious Germans, sin was a form of madness and the sinful world was thoroughly insane. This book compares the thought of Martin Luther and the medical-religious reformer Paracelsus, who both believed that madness was a basic category of human experience. For them and others, the sixteenth century was an age of increasing demonic presence; the demon-possessed seemed to be everywhere. For Renaissance physicians, however, the problem was finding the correct ancient Greek concepts to describe mental illness. In medical terms, the late sixteenth century was the age of melancholy. For jurists, the customary insanity defense did not clarify whether melancholy persons were responsible for their actions, and they frequently solicited the advice of physicians. Sixteenth-century Germany was also an age of folly, with fools filling a major role in German art and literature and present at every prince and princeling\u0092s court. The author analyzes what Renaissance Germans meant by folly and examines the lives and social contexts of several court fools.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0804741697"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780804741699"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 438,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9WXkw2K8O8YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9WXkw2K8O8YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9WXkw2K8O8YC&printsec=frontcover&dq=subject:History&hl=&cd=135&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9WXkw2K8O8YC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_History_of_Madness_in_Sixteenth_centur.html?hl=&id=9WXkw2K8O8YC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9WXkw2K8O8YC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Y2ZeU1RMYK0C",
+   "etag": "FHtTRdQ9p6E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y2ZeU1RMYK0C",
+   "volumeInfo": {
+    "title": "In the Devil's Snare",
+    "subtitle": "The Salem Witchcraft Crisis of 1692",
+    "authors": [
+     "Mary Beth Norton"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2007-12-18",
+    "description": "Award-winning historian Mary Beth Norton reexamines the Salem witch trials in this startlingly original, meticulously researched, and utterly riveting study. In 1692 the people of Massachusetts were living in fear, and not solely of satanic afflictions. Horrifyingly violent Indian attacks had all but emptied the northern frontier of settlers, and many traumatized refugees—including the main accusers of witches—had fled to communities like Salem. Meanwhile the colony’s leaders, defensive about their own failure to protect the frontier, pondered how God’s people could be suffering at the hands of savages. Struck by the similarities between what the refugees had witnessed and what the witchcraft “victims” described, many were quick to see a vast conspiracy of the Devil (in league with the French and the Indians) threatening New England on all sides. By providing this essential context to the famous events, and by casting her net well beyond the borders of Salem itself, Norton sheds new light on one of the most perplexing and fascinating periods in our history. From the Trade Paperback edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "030742636X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307426369"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 11,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.5.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Y2ZeU1RMYK0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Y2ZeU1RMYK0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Y2ZeU1RMYK0C&printsec=frontcover&dq=subject:History&hl=&cd=136&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Y2ZeU1RMYK0C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Y2ZeU1RMYK0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Y2ZeU1RMYK0C&rdid=book-Y2ZeU1RMYK0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/In_the_Devil_s_Snare-sample-epub.acsm?id=Y2ZeU1RMYK0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/In_the_Devil_s_Snare-sample-pdf.acsm?id=Y2ZeU1RMYK0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Y2ZeU1RMYK0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B1IN1QmMxngC",
+   "etag": "fGBYv/hWUY8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B1IN1QmMxngC",
+   "volumeInfo": {
+    "title": "Marxism and Totality",
+    "subtitle": "The Adventures of a Concept from Lukács to Habermas",
+    "authors": [
+     "Martin Jay"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "1984",
+    "description": "Totality has been an abiding concern from the first generation of Western Marxists, most notably Luk�cs, Korsch, Gramsci, and Bloch, through the second, exemplified by the Frankfurt School, Lefebvre, Goldmann, Sartre, Merleau-Ponty, and Della Volpe, up to the most recent, typified by Althusser, Colletti, and Habermas. Yet no consensus has been reached concerning the term's multiple meanings--expressive, decentered, longitudinal, latitudinal, normative--or its implications for other theoretical and practical matters. By closely following the adventures of this troublesome but central concept, Marxism & Totality offers an unconventional account of the history of Western Marxism.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520057422"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520057425"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 576,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=B1IN1QmMxngC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=B1IN1QmMxngC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=B1IN1QmMxngC&printsec=frontcover&dq=subject:History&hl=&cd=137&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=B1IN1QmMxngC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Marxism_and_Totality.html?hl=&id=B1IN1QmMxngC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Marxism_and_Totality-sample-epub.acsm?id=B1IN1QmMxngC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=B1IN1QmMxngC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GiAJEtgCQ9UC",
+   "etag": "/ITAyAD7C9c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GiAJEtgCQ9UC",
+   "volumeInfo": {
+    "title": "The Rise and Fall of the White Republic",
+    "subtitle": "Class Politics and Mass Culture in Nineteenth-century America",
+    "authors": [
+     "Alexander Saxton"
+    ],
+    "publisher": "Verso",
+    "publishedDate": "2003",
+    "description": "Saxton asks why white racism remained an ideological force in America long after the need to justify slavery and Western conquest had disappeared.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1859844677"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781859844670"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 397,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GiAJEtgCQ9UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GiAJEtgCQ9UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=GiAJEtgCQ9UC&printsec=frontcover&dq=subject:History&hl=&cd=138&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=GiAJEtgCQ9UC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Rise_and_Fall_of_the_White_Republic.html?hl=&id=GiAJEtgCQ9UC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GiAJEtgCQ9UC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wOfpAPRxlVYC",
+   "etag": "gUkceEsrKcI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wOfpAPRxlVYC",
+   "volumeInfo": {
+    "title": "A Key Into the Language of America",
+    "authors": [
+     "Roger Williams",
+     "Howard M. Chapin"
+    ],
+    "publisher": "Applewood Books",
+    "publishedDate": "1997",
+    "description": "A discourse on the languages of Native Americans encountered by the early settlers. This early linguistic treatise gives rare insight into the early contact between Europeans and Native Americans.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557094643"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1557094640"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 205,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wOfpAPRxlVYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wOfpAPRxlVYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wOfpAPRxlVYC&printsec=frontcover&dq=subject:History&hl=&cd=139&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=wOfpAPRxlVYC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Key_Into_the_Language_of_America.html?hl=&id=wOfpAPRxlVYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wOfpAPRxlVYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xAN_BAAAQBAJ",
+   "etag": "j7oKoPsvdu8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xAN_BAAAQBAJ",
+   "volumeInfo": {
+    "title": "The Oxford Handbook of Greek and Roman Art and Architecture",
+    "authors": [
+     "Clemente Marconi"
+    ],
+    "publisher": "Oxford Handbooks",
+    "publishedDate": "2015",
+    "description": "This handbook explores key aspects of art and architecture in ancient Greece and Rome. Drawing on the perspectives of scholars of various generations, nationalities, and backgrounds, it discusses Greek and Roman ideas about art and architecture, as expressed in both texts and images, along with the production of art and architecture in the Greek and Roman world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199783304"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0199783306"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 710,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xAN_BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xAN_BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xAN_BAAAQBAJ&printsec=frontcover&dq=subject:History&hl=&cd=140&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xAN_BAAAQBAJ&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Oxford_Handbook_of_Greek_and_Roman_A.html?hl=&id=xAN_BAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xAN_BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZkV71UhrnVsC",
+   "etag": "Q2oOjXFhvck",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZkV71UhrnVsC",
+   "volumeInfo": {
+    "title": "The War On Heresy",
+    "subtitle": "Faith and Power in Medieval Europe",
+    "authors": [
+     "R. I. Moore"
+    ],
+    "publisher": "Profile Books",
+    "publishedDate": "2012-03-15",
+    "description": "The war on heresy obsessed medieval Europe in the centuries after the first millennium. R. I. Moore's vivid narrative focuses on the motives and anxieties of those who declared and conducted the war: what were the beliefs and practices they saw as heretical? How might such beliefs have arisen? And why were they such a threat? In western Europe at AD 1000 heresy had barely been heard of. Yet within a few generations accusations had become commonplace and institutions were being set up to identify and suppress beliefs and practices seen as departures from true religion. Popular accounts of events, most notably of the Albigensian Crusade led by Europe against itself, have assumed the threats posed by the heretical movements were only too real. Some scholars by contrast have tried to show that reports of heresy were exaggerated or even fabricated: but if they are correct why was the war on heresy launched at all? And why was it conducted with such pitiless ferocity? To find the answers to these and other questions R. I. Moore returns to the evidence of the time. His investigation forms the basis for an account as profound as it is startlingly original.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781847653482"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1847653480"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.23.24.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZkV71UhrnVsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZkV71UhrnVsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZkV71UhrnVsC&printsec=frontcover&dq=subject:History&hl=&cd=141&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ZkV71UhrnVsC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_War_On_Heresy.html?hl=&id=ZkV71UhrnVsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_War_On_Heresy-sample-epub.acsm?id=ZkV71UhrnVsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_War_On_Heresy-sample-pdf.acsm?id=ZkV71UhrnVsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZkV71UhrnVsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "U0Grq2BzaUgC",
+   "etag": "3xdBO5q7hyQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U0Grq2BzaUgC",
+   "volumeInfo": {
+    "title": "Women and Gender in Islam",
+    "subtitle": "Historical Roots of a Modern Debate",
+    "authors": [
+     "Leila Ahmed"
+    ],
+    "publisher": "Yale University Press",
+    "publishedDate": "1992",
+    "description": "Explores the historical roots of the debate about women in Islamic societies by tracing the developments in Islamic discourses on women and gender up to the present. The book describes the gender systems in place in the Middle East both before and after the rise of Islam.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0300055838"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300055832"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=U0Grq2BzaUgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=U0Grq2BzaUgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=U0Grq2BzaUgC&printsec=frontcover&dq=subject:History&hl=&cd=142&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=U0Grq2BzaUgC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Women_and_Gender_in_Islam.html?hl=&id=U0Grq2BzaUgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Women_and_Gender_in_Islam-sample-epub.acsm?id=U0Grq2BzaUgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=U0Grq2BzaUgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vr81YoYK0c4C",
+   "etag": "zBJ1ICL4OiY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vr81YoYK0c4C",
+   "volumeInfo": {
+    "title": "The Cambridge Illustrated History of China",
+    "authors": [
+     "Patricia Buckley Ebrey"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2010-01-25",
+    "description": "An engaging and fully illustrated account of more than 8000 years of Chinese civilization - from prehistoric times through to the modern communist state. Includes leading Chinese historians, poets, novelists, dramatists, philosophical and religious ideas, art forms and outside influences.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521124336"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521124331"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vr81YoYK0c4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vr81YoYK0c4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vr81YoYK0c4C&printsec=frontcover&dq=subject:History&hl=&cd=143&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=vr81YoYK0c4C&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Cambridge_Illustrated_History_of_Chi.html?hl=&id=vr81YoYK0c4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vr81YoYK0c4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zLrKGGxBKjAC",
+   "etag": "OAkXhAYfFL4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zLrKGGxBKjAC",
+   "volumeInfo": {
+    "title": "The Origins of Totalitarianism",
+    "authors": [
+     "Hannah Arendt"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "1973-03-21",
+    "description": "“How could such a book speak so powerfully to our present moment? The short answer is that we, too, live in dark times, even if they are different and perhaps less dark, and “Origins” raises a set of fundamental questions about how tyranny can arise and the dangerous forms of inhumanity to which it can lead.” Jeffrey C. Isaac, The Washington Post Hannah Arendt's definitive work on totalitarianism and an essential component of any study of twentieth-century political history The Origins of Totalitarianism begins with the rise of anti-Semitism in central and western Europe in the 1800s and continues with an examination of European colonial imperialism from 1884 to the outbreak of World War I. Arendt explores the institutions and operations of totalitarian movements, focusing on the two genuine forms of totalitarian government in our time—Nazi Germany and Stalinist Russia—which she adroitly recognizes were two sides of the same coin, rather than opposing philosophies of Right and Left. From this vantage point, she discusses the evolution of classes into masses, the role of propaganda in dealing with the nontotalitarian world, the use of terror, and the nature of isolation and loneliness as preconditions for total domination.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0547543158"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780547543154"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 576,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.30.32.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zLrKGGxBKjAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zLrKGGxBKjAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zLrKGGxBKjAC&printsec=frontcover&dq=subject:History&hl=&cd=144&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zLrKGGxBKjAC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zLrKGGxBKjAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zLrKGGxBKjAC&rdid=book-zLrKGGxBKjAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Origins_of_Totalitarianism-sample-epub.acsm?id=zLrKGGxBKjAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Origins_of_Totalitarianism-sample-pdf.acsm?id=zLrKGGxBKjAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zLrKGGxBKjAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lv0musrlBGYC",
+   "etag": "LZ/Ydts4fcI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lv0musrlBGYC",
+   "volumeInfo": {
+    "title": "How Racism Takes Place",
+    "authors": [
+     "George Lipsitz"
+    ],
+    "publisher": "Temple University Press",
+    "publishedDate": "2011-03-11",
+    "description": "How racism shapes urban spaces and how African Americans create vibrant communities that offer models for more equitable social arrangements.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781439902578"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1439902577"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 310,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lv0musrlBGYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lv0musrlBGYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lv0musrlBGYC&printsec=frontcover&dq=subject:History&hl=&cd=145&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lv0musrlBGYC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lv0musrlBGYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.55,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=lv0musrlBGYC&rdid=book-lv0musrlBGYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.695E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.455E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/How_Racism_Takes_Place-sample-epub.acsm?id=lv0musrlBGYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/How_Racism_Takes_Place-sample-pdf.acsm?id=lv0musrlBGYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lv0musrlBGYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "01g78OVXuQ8C",
+   "etag": "YAsCjtmyVc4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/01g78OVXuQ8C",
+   "volumeInfo": {
+    "title": "The Beginnings of Rome",
+    "subtitle": "Italy and Rome from the Bronze Age to the Punic Wars (c.1000–264 BC)",
+    "authors": [
+     "Tim Cornell"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2012-12-06",
+    "description": "Using the results of archaeological techniques, and examining methodological debates, Tim Cornell provides a lucid and authoritative account of the rise of Rome. The Beginnings of Rome offers insight on major issues such as: Rome’s relations with the Etruscans the conflict between patricians and plebeians the causes of Roman imperialism the growth of slave-based economy. Answering the need for raising acute questions and providing an analysis of the many different kinds of archaeological evidence with literary sources, this is the most comprehensive study of the subject available, and is essential reading for students of Roman history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781136754951"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1136754954"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.6.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=01g78OVXuQ8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=01g78OVXuQ8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=01g78OVXuQ8C&printsec=frontcover&dq=subject:History&hl=&cd=146&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=01g78OVXuQ8C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=01g78OVXuQ8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 53.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 47.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=01g78OVXuQ8C&rdid=book-01g78OVXuQ8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.395E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.749E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 2.698E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.374E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 180.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Beginnings_of_Rome-sample-epub.acsm?id=01g78OVXuQ8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Beginnings_of_Rome-sample-pdf.acsm?id=01g78OVXuQ8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=01g78OVXuQ8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b6kqyvZK2bQC",
+   "etag": "s+G1EUgMc94",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b6kqyvZK2bQC",
+   "volumeInfo": {
+    "title": "American Nightmare",
+    "subtitle": "The History of Jim Crow",
+    "authors": [
+     "Jerrold M. Packard"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2003-07-21",
+    "description": "Chronicles the history of the laws enacted following the conclusion of the Civil War that segregated the South into white and non-white segments, discussing how they were established, justified, and finally dismantled.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "031230241X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312302412"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=b6kqyvZK2bQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=b6kqyvZK2bQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=b6kqyvZK2bQC&printsec=frontcover&dq=subject:History&hl=&cd=147&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=b6kqyvZK2bQC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/American_Nightmare.html?hl=&id=b6kqyvZK2bQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=b6kqyvZK2bQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2cCj6Y3_DvIC",
+   "etag": "Vci0J1JyM/Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2cCj6Y3_DvIC",
+   "volumeInfo": {
+    "title": "The Unforgiving Minute",
+    "subtitle": "A Soldier's Education",
+    "authors": [
+     "Craig M. Mullaney"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2009",
+    "description": "A West Point graduate, Rhodes scholar, and Army Ranger describes his extensive military education, the ways in which his service in Afghanistan shaped his views, and his work as a Naval Academy instructor. 40,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1594202028"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781594202025"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 386,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 21,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2cCj6Y3_DvIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2cCj6Y3_DvIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2cCj6Y3_DvIC&printsec=frontcover&dq=subject:History&hl=&cd=148&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=2cCj6Y3_DvIC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Unforgiving_Minute.html?hl=&id=2cCj6Y3_DvIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2cCj6Y3_DvIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Yq5tDwAAQBAJ",
+   "etag": "yQ5JrDZqJoY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Yq5tDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Spying on the South",
+    "subtitle": "An Odyssey Across the American Divide",
+    "authors": [
+     "Tony Horwitz"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2019-05-14",
+    "description": "The best-selling author of Confederates in the Attic returns to the South and the Civil War era for an epic adventure on the trail of America's greatest landscape architect. In the 1850s, the young Frederick Law Olmsted was adrift, a restless farmer and dreamer in search of a mission. He found it during an extraordinary journey, as an undercover correspondent in the South for the up-and-coming New York Times. For the Connecticut Yankee, pen name \"Yeoman,\" the South was alien, often hostile territory. Yet Olmsted traveled for 14 months, by horseback, steamboat, and stagecoach, seeking dialogue and common ground. His vivid dispatches about the lives and beliefs of Southerners were revelatory for readers of his day, and Yeoman's remarkable trek also reshaped the American landscape, as Olmsted sought to reform his own society by creating democratic spaces for the uplift of all. The result: Central Park and Olmsted's career as America's first and foremost landscape architect. Tony Horwitz rediscovers Yeoman Olmsted amidst the discord and polarization of our own time. Is America still one country? In search of answers, and his own adventures, Horwitz follows Olmsted's tracks and often his mode of transport (including muleback): through Appalachia, down the Mississippi River, into bayou Louisiana, and across Texas to the contested Mexican borderland. Venturing far off beaten paths, Horwitz uncovers bracing vestiges and strange new mutations of the Cotton Kingdom. Horwitz's intrepid and often hilarious journey through an outsized American landscape is a masterpiece in the tradition of Great Plains, Bad Land, and the author's own classic, Confederates in the Attic.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101980293"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "110198029X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Yq5tDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Yq5tDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Yq5tDwAAQBAJ&printsec=frontcover&dq=subject:History&hl=&cd=149&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Yq5tDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Yq5tDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Yq5tDwAAQBAJ&rdid=book-Yq5tDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Spying_on_the_South-sample-epub.acsm?id=Yq5tDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Yq5tDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4Kis0gWNQ5QC",
+   "etag": "FmjqgnrtFKc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4Kis0gWNQ5QC",
+   "volumeInfo": {
+    "title": "In Ishmael's House",
+    "subtitle": "A History of Jews in Muslim Lands",
+    "authors": [
+     "Martin Gilbert"
+    ],
+    "publisher": "McClelland & Stewart",
+    "publishedDate": "2010-08-24",
+    "description": "From one of the most popular historians writing today comes a book as fascinating as the bestsellers of Karen Armstrong and Reza Aslan. In this captivating chronicle, Martin Gilbert shines new light on a controversial dilemma in the modern world: the troubled relationship between Jews and Muslims. Beginning at the dawn of Islam and sweeping from the Atlantic Ocean to the mountains of Afghanistan, Gilbert presents the first popular and authoritative history of Jewish peoples under Muslim rule. He confronts with wisdom and compassion the stormy events in their dramatic story, including anti-Zionist movements and the forced exodus to Israel. He also gives special attention to the twentieth century and to the current political debate about refugee status and restitution. Throughout, Gilbert weaves a compelling narrative of perseverance, struggle, and renewal marked by surprising moments of tolerance and partnership. A monumental and timely book, Jews under Muslim Rule is a crowning achievement that confirms Martin Gilbert as one of the foremost historians of our time. From the Hardcover edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781551993423"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1551993422"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4Kis0gWNQ5QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4Kis0gWNQ5QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4Kis0gWNQ5QC&printsec=frontcover&dq=subject:History&hl=&cd=150&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4Kis0gWNQ5QC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/In_Ishmael_s_House.html?hl=&id=4Kis0gWNQ5QC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/In_Ishmael_s_House-sample-epub.acsm?id=4Kis0gWNQ5QC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4Kis0gWNQ5QC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WodjDwAAQBAJ",
+   "etag": "uG8Q0ZM6kks",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WodjDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Geronimo's Story of His Life",
+    "subtitle": "With Original Photos",
+    "authors": [
+     "Geronimo"
+    ],
+    "publisher": "e-artnow",
+    "publishedDate": "2018-04-17",
+    "description": "Geronimo was a prominent leader and medicine man from the Bedonkohe band of the Chiricahua Apache tribe. From 1850 to 1886 Geronimo joined with members of three other Chiricahua Apache bands—the Tchihende, the Tsokanende and the Nednhi—to carry out numerous raids as well as resistance to US and Mexican military campaigns in the northern Mexico states of Chihuahua and Sonora, and in the southwestern American territories of New Mexico and Arizona. Geronimo's raids and related combat actions were a part of the prolonged period of the Apache–United States conflict, which started with American settlement in Apache lands following the end of the war with Mexico in 1848. Contents: The Apaches Origin of the Apache Indians Subdivisions of the Apache Tribe Early Life Tribal Amusements, Manners, and Customs The Family The Mexicans Kas-ki-yeh Fighting under Difficulties Raids that were Successful Varying Fortunes Other Raids Heavy Fighting Geronimo's Mightiest Battle The White Men Coming of the White Men Greatest of Wrongs Removals In Prison and on the Warpath The Final Struggle Surrender of Geronimo A Prisoner of War The Old and the New Unwritten Laws of the Apaches At the World's Fair Religion Hopes for the Future",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788026888871"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8026888871"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 118,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WodjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WodjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=WodjDwAAQBAJ&printsec=frontcover&dq=subject:History&hl=&cd=151&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WodjDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WodjDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 0.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WodjDwAAQBAJ&rdid=book-WodjDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Geronimo_s_Story_of_His_Life-sample-epub.acsm?id=WodjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Geronimo_s_Story_of_His_Life-sample-pdf.acsm?id=WodjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WodjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u87MgDuMjbkC",
+   "etag": "pzjsT7MLURI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u87MgDuMjbkC",
+   "volumeInfo": {
+    "title": "Protest and Possibilities",
+    "subtitle": "Civil Society and Coalitions for Political Change in Malaysia",
+    "authors": [
+     "Meredith Leigh Weiss"
+    ],
+    "publisher": "Stanford University Press",
+    "publishedDate": "2006",
+    "description": "This book examines a recent movement for political reform in Malaysia, contrasting the experience both with past initiatives in Malaysia and with a contemporaneous reform movement in Indonesia, to help us understand how and when coalitions unite reformers from civil and political societies, and how these coalitions engage with the state and society.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0804752958"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780804752954"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 324,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u87MgDuMjbkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u87MgDuMjbkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=u87MgDuMjbkC&printsec=frontcover&dq=subject:History&hl=&cd=152&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=u87MgDuMjbkC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Protest_and_Possibilities.html?hl=&id=u87MgDuMjbkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u87MgDuMjbkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e2TrhBB_4fYC",
+   "etag": "dIQW4Hfox7I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e2TrhBB_4fYC",
+   "volumeInfo": {
+    "title": "Science in the 20th Century and Beyond",
+    "authors": [
+     "Jon Agar"
+    ],
+    "publisher": "Polity",
+    "publishedDate": "2012-04-09",
+    "description": "Surveying modern developments in science from 1900 to the present day, this fascinating volume explores Einstein's new physics, the Manhattan Project, eugenics, biotechnology, the Human Genome Project and much more.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745634692"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0745634699"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 614,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=e2TrhBB_4fYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=e2TrhBB_4fYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=e2TrhBB_4fYC&printsec=frontcover&dq=subject:History&hl=&cd=153&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=e2TrhBB_4fYC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Science_in_the_20th_Century_and_Beyond.html?hl=&id=e2TrhBB_4fYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=e2TrhBB_4fYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Jw2TE_UNHJYC",
+   "etag": "P4lsqRzunQs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Jw2TE_UNHJYC",
+   "volumeInfo": {
+    "title": "1491",
+    "subtitle": "New Revelations Of The Americas Before Columbus",
+    "authors": [
+     "Charles C. Mann"
+    ],
+    "publisher": "Alfred a Knopf Incorporated",
+    "publishedDate": "2005",
+    "description": "An analysis of America prior to 1492 describes how the research of archaeologists and anthropologists has transformed myths about the Americas, revealing that the cultures were far older and more advanced than previously known.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400040063"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "140004006X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 465,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3174,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.5.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Jw2TE_UNHJYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Jw2TE_UNHJYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Jw2TE_UNHJYC&printsec=frontcover&dq=subject:History&hl=&cd=154&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Jw2TE_UNHJYC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/1491.html?hl=&id=Jw2TE_UNHJYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/1491-sample-epub.acsm?id=Jw2TE_UNHJYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Jw2TE_UNHJYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KjueDAAAQBAJ",
+   "etag": "FCUwZ8iu72w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KjueDAAAQBAJ",
+   "volumeInfo": {
+    "title": "The Architecture of the Roman Triumph",
+    "subtitle": "Monuments, Memory, and Identity",
+    "authors": [
+     "Maggie L. Popkin"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2016-07-22",
+    "description": "This book offers the first critical study of the architecture of the Roman triumph, ancient Rome's most important victory ritual. Through case studies ranging from the republican to imperial periods, it demonstrates how powerfully monuments shaped how Romans performed, experienced, and remembered triumphs and, consequently, how Romans conceived of an urban identity for their city. Monuments highlighted Roman conquests of foreign peoples, enabled Romans to envision future triumphs, made triumphs more memorable through emotional arousal of spectators, and even generated distorted memories of triumphs that might never have occurred. This book illustrates the far-reaching impact of the architecture of the triumph on how Romans thought about this ritual and, ultimately, their own place within the Mediterranean world. In doing so, it offers a new model for historicizing the interrelations between monuments, individual and shared memory, and collective identities.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781107103573"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1107103576"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 310,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KjueDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KjueDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=KjueDAAAQBAJ&printsec=frontcover&dq=subject:History&hl=&cd=155&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=KjueDAAAQBAJ&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Architecture_of_the_Roman_Triumph.html?hl=&id=KjueDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KjueDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rPgVp3vMOjcC",
+   "etag": "wEaYdoaUbsU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rPgVp3vMOjcC",
+   "volumeInfo": {
+    "title": "Civilization and Capitalism, 15th-18th Century, Vol. I",
+    "subtitle": "The Structure of Everyday Life",
+    "authors": [
+     "Fernand Braudel"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "1992",
+    "description": "This social and economic history of Europe from the Middle Ages to the Industrial Revolution organizes a multitude of details to paint a rich picture of everyday life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520081145"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520081147"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 624,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rPgVp3vMOjcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rPgVp3vMOjcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=rPgVp3vMOjcC&printsec=frontcover&dq=subject:History&hl=&cd=156&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=rPgVp3vMOjcC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Civilization_and_Capitalism_15th_18th_Ce.html?hl=&id=rPgVp3vMOjcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Civilization_and_Capitalism_15th_18th_Ce-sample-epub.acsm?id=rPgVp3vMOjcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rPgVp3vMOjcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cEnP0vrrZGgC",
+   "etag": "4T32N0xAZDQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cEnP0vrrZGgC",
+   "volumeInfo": {
+    "title": "Sybil Exposed",
+    "subtitle": "The Extraordinary Story Behind the Famous Multiple Personality Case",
+    "authors": [
+     "Debbie Nathan"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2012-06-12",
+    "description": "Documents the stories of the three women behind the famous multiple-personality-disorder case, contending that a large portion of the story was fabricated by a willing patient, her psychiatrist and an ambitious journalist who took advantage of a public that was psychologically primed to believe their claims. By the award-winning author of Pornography. 50,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781439168288"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1439168288"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 14,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cEnP0vrrZGgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cEnP0vrrZGgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cEnP0vrrZGgC&printsec=frontcover&dq=subject:History&hl=&cd=157&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=cEnP0vrrZGgC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sybil_Exposed.html?hl=&id=cEnP0vrrZGgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cEnP0vrrZGgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ICqREHoO6hoC",
+   "etag": "+PRaSUNE3MQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ICqREHoO6hoC",
+   "volumeInfo": {
+    "title": "Black Radicals and the Civil Rights Mainstream, 1954-1970",
+    "authors": [
+     "Herbert H. Haines"
+    ],
+    "publisher": "Univ. of Tennessee Press",
+    "publishedDate": "1995-01-01",
+    "description": "Haines (sociology, SUNY Courtland) argues that expanding black radicalism enhanced the successes of mainstream organizations and furthered many of the goals pursued by moderate black leaders. Annotation copyrighted by Book News, Inc., Portland, OR",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1572332603"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781572332607"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 231,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ICqREHoO6hoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ICqREHoO6hoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ICqREHoO6hoC&printsec=frontcover&dq=subject:History&hl=&cd=158&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ICqREHoO6hoC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Black_Radicals_and_the_Civil_Rights_Main.html?hl=&id=ICqREHoO6hoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ICqREHoO6hoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oNrCjIUiisUC",
+   "etag": "9o/g6ICI8Ks",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oNrCjIUiisUC",
+   "volumeInfo": {
+    "title": "Latin America in Colonial Times",
+    "authors": [
+     "Matthew Restall",
+     "Kris Lane"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2011-11-14",
+    "description": "Presents the story of how Latin American civilization emerged from the encounter of three great civilizations in the sixteenth century.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521761185"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0521761182"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oNrCjIUiisUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oNrCjIUiisUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=oNrCjIUiisUC&printsec=frontcover&dq=subject:History&hl=&cd=159&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=oNrCjIUiisUC&dq=subject:History&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Latin_America_in_Colonial_Times.html?hl=&id=oNrCjIUiisUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oNrCjIUiisUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Eio8BQAAQBAJ",
+   "etag": "H5imJgbPeTA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Eio8BQAAQBAJ",
+   "volumeInfo": {
+    "title": "Annihilation of Caste",
+    "authors": [
+     "Dr B.R. Ambedkar"
+    ],
+    "publisher": "Ssoft Group, INDIA",
+    "publishedDate": "2014-11-03",
+    "description": "Annihilation of Caste is an undelivered speech written in 1936 by B. R. Ambedkar, an Indian writer,activist,politician who fought against the country's concept of untouchability. The speech was prepared as the presidential address for the annual conference of a Hindu reformist group Jat-Pat Todak Mandal, on the ill effects of caste in Hindu society. After his invitation to speak at the conference was withdrawn due to the address's \"unbearable\" content, Ambedkar self-published 1,500 copies of the speech in May 1936. Please give us your feedback : www.facebook.com/syag21 Your opinion is very important to us. We appreciate your feedback and will use it to evaluate changes and make improvements in our book.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 134,
+    "printType": "BOOK",
+    "categories": [
+     "HISTORY"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Eio8BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Eio8BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Eio8BQAAQBAJ&printsec=frontcover&dq=subject:History&hl=&cd=160&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Eio8BQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Eio8BQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Eio8BQAAQBAJ&rdid=book-Eio8BQAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Annihilation_of_Caste-sample-pdf.acsm?id=Eio8BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Eio8BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

@@ -1,0 +1,1891 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 390,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "32-4AAAAIAAJ",
+   "etag": "sTEKFvgjLVA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/32-4AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Mathematical Snapshots",
+    "authors": [
+     "Hugo Steinhaus"
+    ],
+    "publishedDate": "1938",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B4248659"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 135,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematical recreations"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=32-4AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=32-4AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=32-4AAAAIAAJ&dq=subject:mathematics&hl=&cd=361&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=32-4AAAAIAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mathematical_Snapshots.html?hl=&id=32-4AAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=32-4AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MgTaGAAACAAJ",
+   "etag": "F7E0nIX5iXU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MgTaGAAACAAJ",
+   "volumeInfo": {
+    "title": "Fermat's Last Theorem",
+    "subtitle": "Unlocking the Secret of an Ancient Mathematical Problem",
+    "authors": [
+     "Amir D. Aczel"
+    ],
+    "publisher": "Basic Books (AZ)",
+    "publishedDate": "2007-09-21",
+    "description": "Simple, elegant, and utterly impossible to prove, Fermat's last theorem captured the imaginations of mathematicians for more than three centuries. For some, it became a wonderful passion. For others it was an obsession that led to deceit, intrigue, or insanity. In a volume filled with the clues, red herrings, and suspense of a mystery novel, Amir D. Aczel reveals the previously untold story of the people, the history, and the cultures that lie behind this scientific triumph. From formulas devised from the farmers of ancient Babylonia to the dramatic proof of Fermat's theorem in 1993, this extraordinary work takes us along on an exhilarating intellectual treasure hunt. Revealing the hidden mathematical order of the natural world in everything from stars to sunflowers, Fermat's Last Theorem brilliantly combines philosophy and hard science with investigative journalism. The result: a real-life detective story of the intellect, at once intriguing, thought-provoking, and impossible to put down.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1568583605"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781568583600"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 147,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MgTaGAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MgTaGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=MgTaGAAACAAJ&dq=subject:mathematics&hl=&cd=362&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=MgTaGAAACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fermat_s_Last_Theorem.html?hl=&id=MgTaGAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MgTaGAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b5IKnwEACAAJ",
+   "etag": "hcTVge4frgk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b5IKnwEACAAJ",
+   "volumeInfo": {
+    "title": "Economic Theory",
+    "subtitle": "A Critic’s Companion",
+    "authors": [
+     "M.A. van Meerhaeghe"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2013-07-13",
+    "description": "The content of this book formed part of an introduction to economics. Weidenfeld and Nicolson published an english translation in 1971: Econ- ics. A critical approach. Since several colleagues thought that the critical comments on various theories might discourage students, I divided this introduction into two parts. Were as the first part deals with economic theory as such, the present publication contains the subject matter of the second part, namely the former appraisal sections. The first edition benefited from comment by Professor P. Hennipman, who, although I took his comment into consideration as far as possible, did not always share my views. The appendix to the first edition (Economic Doctrines) has been omitted. I have used brief portions of it in a new chapter, 'Economic doctrines and economic policy'. I have added a chapter entitled 'Economic theory and economic policy' and brought up to date the other chapters. This book has no intention of instructing fellow economists. It is intended as a complement to an introductory course on economics, which for the most part does not deal systematically with (or is even totally lacking in) critical comments. Many economists consider any criticism of economic theory to be a form of lese-majeste. On the other hand, a critical approach should not be the monopoly of left-wing authors.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9401713677"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789401713672"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 125,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=b5IKnwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=b5IKnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=b5IKnwEACAAJ&dq=subject:mathematics&hl=&cd=363&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=b5IKnwEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Economic_Theory.html?hl=&id=b5IKnwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=b5IKnwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "My8CAAAACAAJ",
+   "etag": "DHe5P8/hvT8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/My8CAAAACAAJ",
+   "volumeInfo": {
+    "title": "Fermat's Last Theorem",
+    "authors": [
+     "Van Vo Ran"
+    ],
+    "publishedDate": "2002",
+    "description": "Focusing solely on liquid herbal preparations, this practical reference should assist those who use and combine liquid herbal remedies for the individual needs of the patient. Covering 125 herb profiles in detail, it describes how the remedies are made, dicusses quality issues, and outlines dosage guidelines.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0759654743"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780759654747"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 124,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=My8CAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=My8CAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=My8CAAAACAAJ&dq=subject:mathematics&hl=&cd=364&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=My8CAAAACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fermat_s_Last_Theorem.html?hl=&id=My8CAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=My8CAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o2w_nwEACAAJ",
+   "etag": "WPdGih45xhc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o2w_nwEACAAJ",
+   "volumeInfo": {
+    "title": "Musical Performance",
+    "authors": [
+     "Guerino Mazzola"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2011-03-30",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3642118933"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642118937"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 306,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=o2w_nwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=o2w_nwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=o2w_nwEACAAJ&dq=subject:mathematics&hl=&cd=365&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=o2w_nwEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Musical_Performance.html?hl=&id=o2w_nwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=o2w_nwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XXBAPgAACAAJ",
+   "etag": "zUT6d0B5BEY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XXBAPgAACAAJ",
+   "volumeInfo": {
+    "title": "Drug Therapy in Nursing",
+    "authors": [
+     "Diane S. Aschenbrenner",
+     "Leah Wilder Cleveland",
+     "Samantha J. Venable"
+    ],
+    "publishedDate": "2002",
+    "description": "Organized by body system, this fully revised Second Edition places the patient at the center of all drug and drug administration choices. The book bridges the gap between basic science and clinical practice and shows how today's therapeutic agents can address each patient's specific needs. Features include critical thinking scenarios, abundant review questions, color concept maps, drug summary tables, Lifespan Alerts regarding pediatric, childbearing, and geriatric patients, and Web Alerts directing readers to Internet information. A \"Focus on Research\" feature provides the groundwork for evidence-based decision-making. Appendices cover Canadian drugs, diagnostic imaging agents, enteral nutrition supplements, antidotes, immunizations, and more.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0781746302"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780781746304"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1232,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XXBAPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XXBAPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XXBAPgAACAAJ&dq=subject:mathematics&hl=&cd=366&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XXBAPgAACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Drug_Therapy_in_Nursing.html?hl=&id=XXBAPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XXBAPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jnGfcQAACAAJ",
+   "etag": "KMrRWcSU6vQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jnGfcQAACAAJ",
+   "volumeInfo": {
+    "title": "The Mathematical Theory of Finite Element Methods",
+    "authors": [
+     "Susanne Brenner",
+     "Ridgway Scott"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2010-11-29",
+    "description": "This is the third and yet further updated edition of a highly regarded mathematical text. Brenner develops the basic mathematical theory of the finite element method, the most widely used technique for engineering design and analysis. Her volume formalizes basic tools that are commonly used by researchers in the field but not previously published. The book is ideal for mathematicians as well as engineers and physical scientists. It can be used for a course that provides an introduction to basic functional analysis, approximation theory, and numerical analysis, while building upon and applying basic techniques of real variable theory. This new edition is substantially updated with additional exercises throughout and new chapters on Additive Schwarz Preconditioners and Adaptive Meshes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1441926119"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781441926111"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jnGfcQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jnGfcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jnGfcQAACAAJ&dq=subject:mathematics&hl=&cd=367&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jnGfcQAACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Mathematical_Theory_of_Finite_Elemen.html?hl=&id=jnGfcQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jnGfcQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "A5kfAQAAIAAJ",
+   "etag": "brhkK7oxaEo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/A5kfAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Basic Structures of Function Field Arithmetic",
+    "authors": [
+     "David Goss"
+    ],
+    "publishedDate": "1996",
+    "description": "From the reviews:\"The book...is a thorough and very readable introduction to the arithmetic of function fields of one variable over a finite field, by an author who has made fundamental contributions to the field. It serves as a definitive reference volume, as well as offering graduate students with a solid understanding of algebraic number theory the opportunity to quickly reach the frontiers of knowledge in an important area of mathematics...The arithmetic of function fields is a universe filled with beautiful surprises, in which familiar objects from classical number theory reappear in new guises, and in which entirely new objects play important roles. Goss'clear exposition and lively style make this book an excellent introduction to this fascinating field.\" MR 97i:11062",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106013122160"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 422,
+    "printType": "BOOK",
+    "categories": [
+     "Algebraic fields"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=A5kfAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=A5kfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=A5kfAQAAIAAJ&dq=subject:mathematics&hl=&cd=368&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=A5kfAQAAIAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Basic_Structures_of_Function_Field_Arith.html?hl=&id=A5kfAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=A5kfAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XhHvAAAAMAAJ",
+   "etag": "+YlAtbT3cEg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XhHvAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Wahrscheinlichkeitstheorie",
+    "authors": [
+     "Walter Vogel"
+    ],
+    "publishedDate": "1970",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015017398259"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 385,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XhHvAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XhHvAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=XhHvAAAAMAAJ&dq=subject:mathematics&hl=&cd=369&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XhHvAAAAMAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Wahrscheinlichkeitstheorie.html?hl=&id=XhHvAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XhHvAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VDA_nwEACAAJ",
+   "etag": "P4TQfORaqf0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VDA_nwEACAAJ",
+   "volumeInfo": {
+    "title": "Careers in Focus",
+    "subtitle": "Mathematics and physics",
+    "publisher": "Ferguson Publishing Company",
+    "publishedDate": "2008",
+    "description": "Discusses particular occupations in the fields of mathematics and physics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816072744"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816072743"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VDA_nwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VDA_nwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=VDA_nwEACAAJ&dq=subject:mathematics&hl=&cd=370&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=VDA_nwEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Careers_in_Focus.html?hl=&id=VDA_nwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VDA_nwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QufuAAAAMAAJ",
+   "etag": "2csvOlqRsl0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QufuAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Oeuvres",
+    "authors": [
+     "Henri Poincaré"
+    ],
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015015709663"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QufuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QufuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.com/books?id=QufuAAAAMAAJ&dq=subject:mathematics&hl=&cd=371&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=QufuAAAAMAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Oeuvres.html?hl=&id=QufuAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QufuAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "p-9SAAAAMAAJ",
+   "etag": "7frtlflJVPM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/p-9SAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Mathematics in signal processing III",
+    "subtitle": "based on the proceedings of the third conference organized by the Institute of Mathematics and Its Applications on mathematics in signal processing, held at the University of Warwick in December 1992",
+    "authors": [
+     "J. G. McWhirter",
+     "Institute of Mathematics and Its Applications"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1994-11-03",
+    "description": "This is a survey of recent work in signal processing. Some of the papers report progress which has been made in established areas of research such as adaptive filtering and spectral analysis. Other papers relate to emerging topics of interest such as wavelet analysis, fractal approximation,and nonlinear filtering. Particular effort was made to include papers which consider the development of mathemtical techniques for various signal processing applications ranging from radar and communication systems to astronomy, seismology, and medical imagery. The keynote paper entitled \"Adaptive Algorithms for BlindChannel Equalisation\" by Professor J. G. Proakis encompasses all of these characteristics and thus sets the tone for the rest of the volume whilst reporting some highly significant research.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015033079784"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 445,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=p-9SAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=p-9SAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=p-9SAAAAMAAJ&dq=subject:mathematics&hl=&cd=372&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=p-9SAAAAMAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mathematics_in_signal_processing_III.html?hl=&id=p-9SAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=p-9SAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9bNfuQEACAAJ",
+   "etag": "+SYJcjqddI4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9bNfuQEACAAJ",
+   "volumeInfo": {
+    "title": "Lie Algebras",
+    "authors": [
+     "Chê-hsien Wan",
+     "Zhexian Wan"
+    ],
+    "publishedDate": "1975",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0080179525"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780080179520"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 230,
+    "printType": "BOOK",
+    "categories": [
+     "Lie algebras"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9bNfuQEACAAJ&dq=subject:mathematics&hl=&cd=373&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9bNfuQEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Lie_Algebras.html?hl=&id=9bNfuQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9bNfuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HsgPYgEACAAJ",
+   "etag": "VDGgsLzXdDw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HsgPYgEACAAJ",
+   "volumeInfo": {
+    "title": "Innovations in Bayesian Networks",
+    "subtitle": "Theory and Applications",
+    "authors": [
+     "Dawn E. Holmes"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2010-11-30",
+    "description": "Bayesian networks currently provide one of the most rapidly growing areas of research in computer science and statistics. In compiling this volume we have brought together contributions from some of the most prestigious researchers in this field. Each of the twelve chapters is self-contained. Both theoreticians and application scientists/engineers in the broad area of artificial intelligence will find this volume valuable. It also provides a useful sourcebook for Graduate students since it shows the direction of current research.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3642098754"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642098758"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 322,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HsgPYgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HsgPYgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HsgPYgEACAAJ&dq=subject:mathematics&hl=&cd=374&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HsgPYgEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Innovations_in_Bayesian_Networks.html?hl=&id=HsgPYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HsgPYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BXIAswEACAAJ",
+   "etag": "wZ7t1DWY3ZQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BXIAswEACAAJ",
+   "volumeInfo": {
+    "title": "Mathematical Methods of Classical Mechanics",
+    "authors": [
+     "V. I. Arnol'd"
+    ],
+    "publishedDate": "2014-01-15",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1475720645"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781475720648"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 540,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BXIAswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BXIAswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BXIAswEACAAJ&dq=subject:mathematics&hl=&cd=375&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=BXIAswEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mathematical_Methods_of_Classical_Mechan.html?hl=&id=BXIAswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BXIAswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lbztuAEACAAJ",
+   "etag": "Le5uYZExdZ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lbztuAEACAAJ",
+   "volumeInfo": {
+    "title": "Theory of Sets",
+    "authors": [
+     "N. Bourbaki"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2004-10-20",
+    "description": "This is a softcover reprint of the English translation of 1968 of N. Bourbaki's, Théorie des Ensembles (1970).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3540225250"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540225256"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 414,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lbztuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lbztuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lbztuAEACAAJ&dq=subject:mathematics&hl=&cd=376&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lbztuAEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Theory_of_Sets.html?hl=&id=lbztuAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lbztuAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JVsgAQAAIAAJ",
+   "etag": "FbLcqXVhPhU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JVsgAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Computer arithmetic",
+    "authors": [
+     "Frank Honywill George"
+    ],
+    "publisher": "Pergamon",
+    "publishedDate": "1966",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105031210987"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 277,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JVsgAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JVsgAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=JVsgAQAAIAAJ&dq=subject:mathematics&hl=&cd=377&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=JVsgAQAAIAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Computer_arithmetic.html?hl=&id=JVsgAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JVsgAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HpsGxgEACAAJ",
+   "etag": "s9hHdNjguj4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HpsGxgEACAAJ",
+   "volumeInfo": {
+    "title": "Conformal Field Theory",
+    "authors": [
+     "Yavuz Nutku",
+     "Cihan Saçlioğlu",
+     "Teoman Turgut"
+    ],
+    "publisher": "Perseus Books",
+    "publishedDate": "2000",
+    "description": "An exciting look at one of the cutting-edge research areas in mathematical physics",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X004420924"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HpsGxgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HpsGxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HpsGxgEACAAJ&dq=subject:mathematics&hl=&cd=378&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HpsGxgEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Conformal_Field_Theory.html?hl=&id=HpsGxgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HpsGxgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a51jwgEACAAJ",
+   "etag": "y9P6ozh/ji0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a51jwgEACAAJ",
+   "volumeInfo": {
+    "title": "Manual de refrigeración",
+    "authors": [
+     "Juan Manuel Franco Lijó"
+    ],
+    "publishedDate": "2012",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8429191410"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788429191417"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=a51jwgEACAAJ&dq=subject:mathematics&hl=&cd=379&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=a51jwgEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_refrigeraci%C3%B3n.html?hl=&id=a51jwgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=a51jwgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BUjdxgEACAAJ",
+   "etag": "LFpAKnBXhxI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BUjdxgEACAAJ",
+   "volumeInfo": {
+    "title": "Abstract Harmonic Analysis: Structure of topological groups, integration theory, group representations",
+    "authors": [
+     "Edwin Hewitt",
+     "Kenneth A. Ross"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "1979",
+    "description": "Contents: Preliminaries. - Elements of the theory of topolo- gical groups. -Integration on locally compact spaces. - In- variant functionals. - Convolutions and group representa- tions. Characters and duality of locally compact Abelian groups. - Appendix: Abelian groups. Topological linear spa- ces. Introduction to normed algebras. - Bibliography. - In- dex of symbols. - Index of authors and terms.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3540094342"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540094340"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 519,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BUjdxgEACAAJ&dq=subject:mathematics&hl=&cd=380&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=BUjdxgEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Abstract_Harmonic_Analysis_Structure_of.html?hl=&id=BUjdxgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BUjdxgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UlEnyAEACAAJ",
+   "etag": "hzDrmATIthk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UlEnyAEACAAJ",
+   "volumeInfo": {
+    "title": "Mathematical and Physical Papers",
+    "authors": [
+     "George Gabriel Stokes"
+    ],
+    "publishedDate": "1880",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:05029123"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Hydrodynamics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=UlEnyAEACAAJ&dq=subject:mathematics&hl=&cd=381&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=UlEnyAEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mathematical_and_Physical_Papers.html?hl=&id=UlEnyAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UlEnyAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EkNZyAEACAAJ",
+   "etag": "MzxOQmGA03M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EkNZyAEACAAJ",
+   "volumeInfo": {
+    "title": "Mathematical and Physical Papers",
+    "authors": [
+     "William Thomson Baron Kelvin",
+     "Joseph Larmor",
+     "James Prescott Joule"
+    ],
+    "publishedDate": "1882",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCLA:L0060449634"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EkNZyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EkNZyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=EkNZyAEACAAJ&dq=subject:mathematics&hl=&cd=382&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=EkNZyAEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mathematical_and_Physical_Papers.html?hl=&id=EkNZyAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EkNZyAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TkpzxAEACAAJ",
+   "etag": "sG+oT9H8NaE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TkpzxAEACAAJ",
+   "volumeInfo": {
+    "title": "The Analyst; Or, a Discourse Addressed to an Infidel Mathematician [Dr. E. Halley] ... By the Author of “The Minute Philosopher” [i.e. George Berkeley, Bishop of Cloyne].",
+    "publishedDate": "1734",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BL:A0019849712"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 94,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TkpzxAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TkpzxAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TkpzxAEACAAJ&dq=subject:mathematics&hl=&cd=383&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=TkpzxAEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Analyst_Or_a_Discourse_Addressed_to.html?hl=&id=TkpzxAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TkpzxAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b78ByAEACAAJ",
+   "etag": "nI0dgpcbleA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b78ByAEACAAJ",
+   "volumeInfo": {
+    "title": "Mathematical and Physical Papers",
+    "authors": [
+     "William Thomson Kelvin",
+     "Joseph Larmor"
+    ],
+    "publishedDate": "1929",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:29015490"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 680,
+    "printType": "BOOK",
+    "categories": [
+     "Electricity"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=b78ByAEACAAJ&dq=subject:mathematics&hl=&cd=384&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=b78ByAEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mathematical_and_Physical_Papers.html?hl=&id=b78ByAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=b78ByAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gBJgyAEACAAJ",
+   "etag": "b/SP4CdGg9A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gBJgyAEACAAJ",
+   "volumeInfo": {
+    "title": "Mathematical and Physical Papers",
+    "authors": [
+     "Joseph Larmor"
+    ],
+    "publisher": "CUP Archive",
+    "publishedDate": "1929",
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 831,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gBJgyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gBJgyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=gBJgyAEACAAJ&dq=subject:mathematics&hl=&cd=385&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=gBJgyAEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mathematical_and_Physical_Papers.html?hl=&id=gBJgyAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gBJgyAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "taRgtgEACAAJ",
+   "etag": "oLVAX+CWHcs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/taRgtgEACAAJ",
+   "volumeInfo": {
+    "title": "Encyclopédie méthodique",
+    "subtitle": "ou par ordre de matières: par une société de gens de lettres, de savans et d'artistes : Mathématiques",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:4067174"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.com/books?id=taRgtgEACAAJ&dq=subject:mathematics&hl=&cd=386&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=taRgtgEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Encyclop%C3%A9die_m%C3%A9thodique.html?hl=&id=taRgtgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=taRgtgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5hwvtQEACAAJ",
+   "etag": "CDRwdDClUk4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5hwvtQEACAAJ",
+   "volumeInfo": {
+    "title": "Collected Works",
+    "authors": [
+     "John Von Neumann"
+    ],
+    "publishedDate": "1961",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:605382264"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5hwvtQEACAAJ&dq=subject:mathematics&hl=&cd=387&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5hwvtQEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Collected_Works.html?hl=&id=5hwvtQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5hwvtQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MBH5ZwEACAAJ",
+   "etag": "4Xq+jEaYAZs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MBH5ZwEACAAJ",
+   "volumeInfo": {
+    "title": "Think Literacy",
+    "subtitle": "Cross-curricular Approaches, Grades 7-12 : Subject-specific Examples. Mathematics, grades 7-9",
+    "authors": [
+     "Ontario. Ministry of Education"
+    ],
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0779472160"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780779472161"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 111,
+    "printType": "BOOK",
+    "categories": [
+     "Curriculum planning"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=MBH5ZwEACAAJ&dq=subject:mathematics&hl=&cd=388&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=MBH5ZwEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Think_Literacy.html?hl=&id=MBH5ZwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MBH5ZwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nfLLAQAACAAJ",
+   "etag": "LHk6b4Fj62o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nfLLAQAACAAJ",
+   "volumeInfo": {
+    "title": "Certificate Mathematics",
+    "authors": [
+     "Clement Vavasor Durell"
+    ],
+    "publishedDate": "1971",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0713525029"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780713525021"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nfLLAQAACAAJ&dq=subject:mathematics&hl=&cd=389&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nfLLAQAACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Certificate_Mathematics.html?hl=&id=nfLLAQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nfLLAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VP7UyAEACAAJ",
+   "etag": "djsuSal5sDg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VP7UyAEACAAJ",
+   "volumeInfo": {
+    "title": "Sobolev Spaces",
+    "authors": [
+     "Robert A. Adams",
+     "John J. F. Fournier"
+    ],
+    "publisher": "Academic Press",
+    "publishedDate": "2003-07-15",
+    "description": "Sobolev Spaces presents an introduction to the theory of Sobolev Spaces and other related spaces of function, also to the imbedding characteristics of these spaces. This theory is widely used in pure and Applied Mathematics and in the Physical Sciences. This second edition of Adam's 'classic' reference text contains many additions and much modernizing and refining of material. The basic premise of the book remains unchanged: Sobolev Spaces is intended to provide a solid foundation in these spaces for graduate students and researchers alike. Self-contained and accessible for readers in other disciplines Written at elementary level making it accessible to graduate students",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0120441438"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780120441433"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=VP7UyAEACAAJ&dq=subject:mathematics&hl=&cd=390&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=VP7UyAEACAAJ&dq=subject:mathematics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sobolev_Spaces.html?hl=&id=VP7UyAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VP7UyAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

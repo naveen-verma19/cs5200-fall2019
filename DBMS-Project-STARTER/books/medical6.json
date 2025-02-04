@@ -1,0 +1,2986 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 410,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "fl6wX4xzb_kC",
+   "etag": "0+XFMzXVSu8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fl6wX4xzb_kC",
+   "volumeInfo": {
+    "title": "Synesthesia",
+    "subtitle": "A Union of the Senses",
+    "authors": [
+     "Richard E. Cytowic"
+    ],
+    "publisher": "MIT Press",
+    "publishedDate": "2002",
+    "description": "A biologically oriented introduction to synesthesia by the leading authority on the subject.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262032964"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0262032961"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 394,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fl6wX4xzb_kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fl6wX4xzb_kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fl6wX4xzb_kC&printsec=frontcover&dq=subject:medical&hl=&cd=241&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=fl6wX4xzb_kC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Synesthesia.html?hl=&id=fl6wX4xzb_kC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Synesthesia-sample-epub.acsm?id=fl6wX4xzb_kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fl6wX4xzb_kC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NJA6MuS76xEC",
+   "etag": "NLyVmtX3pRI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NJA6MuS76xEC",
+   "volumeInfo": {
+    "title": "CADENAS MUSCULARES, LAS (Tomo IV). Miembros inferiores (Bicolor)",
+    "authors": [
+     "Léopold Busquet"
+    ],
+    "publisher": "Editorial Paidotribo",
+    "publishedDate": "2007-05-03",
+    "description": "En los tres capitulos de que consta al libro, el autor ha conseguido descodificar el funcionamiento de los miembros Inferiores, complementando el texto con mas de cuarenta fotografias y doscientas ochenta y cinco figuras.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8480193026"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788480193023"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 210,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NJA6MuS76xEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NJA6MuS76xEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=NJA6MuS76xEC&printsec=frontcover&dq=subject:medical&hl=&cd=242&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NJA6MuS76xEC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/CADENAS_MUSCULARES_LAS_Tomo_IV_Miembros.html?hl=&id=NJA6MuS76xEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NJA6MuS76xEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NmY43MysbxIC",
+   "etag": "4jdZs7MHs/g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NmY43MysbxIC",
+   "volumeInfo": {
+    "title": "Culture Care Diversity & Universality",
+    "subtitle": "A Worldwide Nursing Theory",
+    "authors": [
+     "Madeleine M. Leininger",
+     "Marilyn R. McFarland"
+    ],
+    "publisher": "Jones & Bartlett Learning",
+    "publishedDate": "2006",
+    "description": "The latest edition of Madeleine Leininger's book, Culture Care Diversity & Universality: A Worldwide Nursing Theory, Second Edition remains the primary and most comprehensive source on the Culture Care Theory with the Sunrise Enabler and the Ethnonursing Research Method. Nurses and other health professionals will continue to find Culture Care Diversity & Universality the most reliable guide for providing culturally congruent, competent, and safe care in a growing multicultural world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0763734373"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780763734374"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 413,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NmY43MysbxIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NmY43MysbxIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NmY43MysbxIC&printsec=frontcover&dq=subject:medical&hl=&cd=243&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NmY43MysbxIC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Culture_Care_Diversity_Universality.html?hl=&id=NmY43MysbxIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Culture_Care_Diversity_Universality-sample-epub.acsm?id=NmY43MysbxIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NmY43MysbxIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DFK1QwlrOUAC",
+   "etag": "iPXbNx7Uy2o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DFK1QwlrOUAC",
+   "volumeInfo": {
+    "title": "Handbook of Emotions, Third Edition",
+    "authors": [
+     "Michael Lewis",
+     "Jeannette M. Haviland-Jones",
+     "Lisa Feldman Barrett"
+    ],
+    "publisher": "Guilford Press",
+    "publishedDate": "2008-04-17",
+    "description": "Widely regarded as the standard reference in the field, this handbook comprehensively examines all aspects of emotion and its role in human behavior. The editors and contributors are foremost authorities who describe major theories, findings, methods, and applications. The volume addresses the interface of emotional processes with biology, child development, social behavior, personality, cognition, and physical and mental health. Also presented are state-of-the-science perspectives on fear, anger, shame, disgust, positive emotions, sadness, and other distinct emotions. Illustrations include seven color plates.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781606238035"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1606238035"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 848,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DFK1QwlrOUAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DFK1QwlrOUAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DFK1QwlrOUAC&printsec=frontcover&dq=subject:medical&hl=&cd=244&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DFK1QwlrOUAC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Handbook_of_Emotions_Third_Edition.html?hl=&id=DFK1QwlrOUAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Handbook_of_Emotions_Third_Edition-sample-epub.acsm?id=DFK1QwlrOUAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DFK1QwlrOUAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Dhn2KispfdQC",
+   "etag": "o1jhCBQtWxU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Dhn2KispfdQC",
+   "volumeInfo": {
+    "title": "Theory and Practice of Histological Techniques",
+    "authors": [
+     "John D. Bancroft",
+     "Marilyn Gamble"
+    ],
+    "publisher": "Elsevier Health Sciences",
+    "publishedDate": "2008",
+    "description": "This leading reference work on histological techniques is an essential and invaluable resource no matter what part you play in histological preparations and applications, whether you're a student or a highly experienced laboratory professional.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780443102790"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0443102791"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 725,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Dhn2KispfdQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Dhn2KispfdQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Dhn2KispfdQC&printsec=frontcover&dq=subject:medical&hl=&cd=245&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Dhn2KispfdQC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Theory_and_Practice_of_Histological_Tech.html?hl=&id=Dhn2KispfdQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Dhn2KispfdQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8ECe7GywPL8C",
+   "etag": "G33mFnCtjkk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8ECe7GywPL8C",
+   "volumeInfo": {
+    "title": "Group Therapy in Clinical Practice",
+    "authors": [
+     "Anne Alonso"
+    ],
+    "publisher": "American Psychiatric Pub",
+    "publishedDate": "1993",
+    "description": "In this era of rising health care costs, the economy of group therapy has sparked a renewed interest among mental health professionals. Beginning with a review of group therapy's roots in psychoanalysis, Group Therapy in Clinical Practice moves on to discuss how modern group therapy can be successfully employed in a variety of hospital and medical settings. It includes the needs of special populations such as adolescents, elderly patients, HIV-positive and AIDS patients, patients who abuse substances, and trauma patients. In Group Therapy in Clinical Practice, 38 experts explore how this treatment modality can be used to its greatest effect in today's clinical setting and in the decade ahead.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0880483237"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780880483230"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 581,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8ECe7GywPL8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8ECe7GywPL8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=8ECe7GywPL8C&printsec=frontcover&dq=subject:medical&hl=&cd=246&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=8ECe7GywPL8C&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Group_Therapy_in_Clinical_Practice.html?hl=&id=8ECe7GywPL8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Group_Therapy_in_Clinical_Practice-sample-pdf.acsm?id=8ECe7GywPL8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8ECe7GywPL8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eeJOAQAAQBAJ",
+   "etag": "6gEarH9M55w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eeJOAQAAQBAJ",
+   "volumeInfo": {
+    "title": "Infectious Diseases of the Dog and Cat - E-Book",
+    "authors": [
+     "Craig E. Greene"
+    ],
+    "publisher": "Elsevier Health Sciences",
+    "publishedDate": "2013-09-27",
+    "description": "The definitive reference for the diagnosis, treatment, and prevention of small animal infections, Infectious Diseases of the Dog and Cat, 4th Edition delivers current, comprehensive information essential to the management of infectious diseases caused by viruses, rickettsiae, chlamydiae, mycoplasmas, bacteria, fungi, algae, protozoa, and unknown agents. Each section guides you through diagnostic testing for specific microorganisms, from sample collection to laboratory submission to interpretation of results, then details appropriate treatment measures and pharmacologic considerations for the various related infections. Full-color illustrations and hundreds of tables provide quick, convenient access to diagnostic and therapeutic guidelines, and thoroughly updated drug information helps you confidently administer appropriate dosages for the most effective treatment and prevention. The most comprehensive infectious disease coverage available helps you confidently address clinical problems related to infectious diseases in dogs and cats, and includes: Immunization strategies and environmental control of infections Immunodeficiency disorders Prevention of infection in multi-pet and shelter settings Immunocompromised people and their pets Vibrant full-color illustrations clarify disease features and modes of disease transmission for enhanced diagnostic accuracy and disease prevention. Convenient tables deliver therapeutic recommendations and drug dosages at a glance. Complete antimicrobial drug formulary provides fast, easy access to indications, recommended dosages, and pharmacologic considerations essential for all relevant pharmaceuticals. State-of-the-art diagnostic testing procedures help you ensure accurate diagnoses for all clinically relevant pathogens. Content reflects the expert insight and vast clinical experience of a panel of trusted authorities on small animal infectious diseases. Easy-to-use companion website provides convenient online access to additional images, tables, boxes, appendices, and references linked directly to original PubMed abstracts. Expanded coverage of zoonoses, zoonotic potential, and precautions helps you effectively monitor and treat zoonotic infections. Fully updated drug formulary reflects the most current pharmacokinetics, indications, contraindications, handling and administration guidelines, and dosage recommendations available. Updated content throughout the text details current diagnostic testing regimens and therapeutic and preventive considerations for all pathogens you're likely to encounter in the clinical setting. Special focus on disease incidence and susceptibility in traveling animals helps you alert animal owners to potential risks associated with pet travel.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780323266215"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0323266215"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1376,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eeJOAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eeJOAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=eeJOAQAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=247&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=eeJOAQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eeJOAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 153.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 122.4,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=eeJOAQAAQBAJ&rdid=book-eeJOAQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.53E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.224E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 5.508E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.351E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Infectious_Diseases_of_the_Dog_and_Cat_E-sample-epub.acsm?id=eeJOAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Infectious_Diseases_of_the_Dog_and_Cat_E-sample-pdf.acsm?id=eeJOAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eeJOAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ohqff8DBt9gC",
+   "etag": "yJn7w3t5+ew",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ohqff8DBt9gC",
+   "volumeInfo": {
+    "title": "Nothing About Us Without Us",
+    "subtitle": "Disability Oppression and Empowerment",
+    "authors": [
+     "James I. Charlton"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "2000-08-30",
+    "description": "\"A study of the global oppression of people with disabilities and the international movement that has recently emerged to resist it ... A theoretical overview of disability oppression that shows its similarities to, and differences from, racism, sexism, and colonialism.\"--Jacket.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520224817"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520224810"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 197,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ohqff8DBt9gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ohqff8DBt9gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ohqff8DBt9gC&printsec=frontcover&dq=subject:medical&hl=&cd=248&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ohqff8DBt9gC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Nothing_About_Us_Without_Us.html?hl=&id=ohqff8DBt9gC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Nothing_About_Us_Without_Us-sample-epub.acsm?id=ohqff8DBt9gC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Nothing_About_Us_Without_Us-sample-pdf.acsm?id=ohqff8DBt9gC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ohqff8DBt9gC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fRegDwAAQBAJ",
+   "etag": "k7RF7KsOobo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fRegDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Preventieve tandheelkunde",
+    "subtitle": "Op weg naar een doelmatige aanpak",
+    "authors": [
+     "A.J. van Winkelhoff",
+     "B. Houwink",
+     "G.A. van der Weijden",
+     "C. Penning",
+     "St. Conserverende Tandheelkunde",
+     "Stichting Gebitspathologie",
+     "H. Schut",
+     "W.H. Palenstein Helderman",
+     "Klaus G. Konig",
+     "F.W.A. Frankemolen",
+     "K.L. Weerheijm"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2008-09-15",
+    "description": "Dit boek geeft naast achtergronden en basisadviezen, aanknopingspunten om een individueel preventieprogramma op te stellen voor iedere patiënt aan wie uitvoering van het basisadvies zelfs na optimalisering onvoldoende bescherming biedt.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789031392933"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9031392936"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 333,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fRegDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fRegDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "nl",
+    "previewLink": "http://books.google.com/books?id=fRegDwAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=249&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fRegDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fRegDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 69.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 55.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fRegDwAAQBAJ&rdid=book-fRegDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.599E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Preventieve_tandheelkunde-sample-epub.acsm?id=fRegDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Preventieve_tandheelkunde-sample-pdf.acsm?id=fRegDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fRegDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rv5DBgAAQBAJ",
+   "etag": "zVlmuVpCmLs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rv5DBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Qualitative Research In Health Care",
+    "authors": [
+     "Holloway, Immy"
+    ],
+    "publisher": "McGraw-Hill Education (UK)",
+    "publishedDate": "2005-06-01",
+    "description": "This book is a comprehensive guide to selecting approaches and carrying out qualitative research. Rather than being prescriptive, it provides information on various data collection procedures and how to make decisions about specific qualitative approaches.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780335225798"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0335225799"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rv5DBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rv5DBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=rv5DBgAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=250&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=rv5DBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rv5DBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 46.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 36.34,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=rv5DBgAAQBAJ&rdid=book-rv5DBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.6E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.634E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Qualitative_Research_In_Health_Care-sample-pdf.acsm?id=rv5DBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rv5DBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sENXDwAAQBAJ",
+   "etag": "SutDtvnk6tE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sENXDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Understanding Research for Nursing Students",
+    "authors": [
+     "Peter Ellis"
+    ],
+    "publisher": "Learning Matters",
+    "publishedDate": "2018-10-29",
+    "description": "If you’re learning about research for the first time, or grappling with an essay or final year project, this is the nursing research book you’re looking for. Using plain language and case studies that relate research directly to every-day nursing situations, the author guides you through the central concepts you need to know to truly understand research in nursing. Key features Each chapter is linked to the new NMC standards of proficiency for registered nurses Seven concise chapters that quickly answer the most common questions about research Activities, scenarios and case studies bring the theory to life and show why research is so important to nursing Nine podcasts to bring topics from the book to life",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781526459671"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1526459671"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sENXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sENXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=sENXDwAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=251&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sENXDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sENXDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sENXDwAAQBAJ&rdid=book-sENXDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.0E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Understanding_Research_for_Nursing_Stude-sample-epub.acsm?id=sENXDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Understanding_Research_for_Nursing_Stude-sample-pdf.acsm?id=sENXDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sENXDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pfAJAQAAMAAJ",
+   "etag": "IaF1mHZ1ff8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pfAJAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Medicare",
+    "subtitle": "Preparing for the Challenges of the 21st Century",
+    "authors": [
+     "Stuart M. Butler",
+     "Judith R. Lave"
+    ],
+    "publisher": "Brookings Institution Press",
+    "publishedDate": "1998-01",
+    "description": "Papers presented at the ninth annual conference of the National Academy of Social Insurance, which was held in Washington, D.C., on Jan. 23-24, 1996.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0815773994"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780815773993"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 329,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pfAJAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pfAJAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pfAJAQAAMAAJ&dq=subject:medical&hl=&cd=252&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=pfAJAQAAMAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Medicare.html?hl=&id=pfAJAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pfAJAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SjRTPq5hUc0C",
+   "etag": "Zu7do1JoUN8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SjRTPq5hUc0C",
+   "volumeInfo": {
+    "title": "Pelvic Surgery",
+    "subtitle": "Adhesion Formation and Prevention ; [proceedings of the 3rd International Congress on Pelvic Surgery & Adhesion Prevention, Held in San Diego, Calif., from Feb. 29 to March 2, 1996]",
+    "authors": [
+     "Gere S. DiZerega",
+     "Alan H. DeCherney",
+     "Michael P. Diamond",
+     "Randall C. Dunn",
+     "Eugene P. Goldberg",
+     "Arthur F. Haney",
+     "John A. Rock",
+     "Togus Tulandi",
+     "Kathleen E. Rodgers"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "1997",
+    "description": "This book contains the proceedings of the 3rd International Congress on Pelvic Surgery and Adhesion Prevention. The volume brings together a stellar group of internationally recognized researchers and surgeons to present the latest advances in post-surgical peritoneal repair and adhesion prevention, on developing technology for adhesion prevention, and on recent surgical techniques for adhesion prevention. In addition, the book features a timely section on outcome measures in the economics of surgery, for infertility and ectopic pregnancy, pain, and bowel obstruction as well as a special section on adjuvants for clinical use in ovarian, tubal, uterine, and bowel surgery. This book contains the proceedings of the 3rd International Congress on Pelvic Surgery and Adhesion Prevention, held in San Diego, California from February 29-March 2, 1996.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0387948716"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387948713"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 269,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SjRTPq5hUc0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SjRTPq5hUc0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SjRTPq5hUc0C&printsec=frontcover&dq=subject:medical&hl=&cd=253&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=SjRTPq5hUc0C&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pelvic_Surgery.html?hl=&id=SjRTPq5hUc0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Pelvic_Surgery-sample-pdf.acsm?id=SjRTPq5hUc0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SjRTPq5hUc0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5PFRbLplZ6kC",
+   "etag": "/XCqiAWECdM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5PFRbLplZ6kC",
+   "volumeInfo": {
+    "title": "Colonoscopy",
+    "subtitle": "Principles and Practice",
+    "authors": [
+     "Jerome D. Waye, MD",
+     "Douglas K. Rex",
+     "Christopher B. Williams"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2008-04-15",
+    "description": "First Edition - Winner of 2004 BMA Medical Book Competition in Gastroenterology A state-of-the-art reference guide covering all aspects of the performance, technical and clinical background to colonoscopy The second edition of this prize winning book is written by some of the world’s foremost experts in the field of colonoscopy and colonic imaging. Every chapter has been updated and 5 new chapters have been added to include the latest information and advances in the field of colonoscopy: Capsule Colonoscopy Narrow Band Imaging Confocal Endomicroscopy Endoscopic Submucosal Dissection in the Colon New Colonoscopes and Assist Devices Drawing on the vast experience of the authors it covers every area of medicine that impacts on colonoscopy, including virtual colonography, pathology, techniques for pediatric and adult procedures, and legal aspects concerning colonoscopy. The book is focused on patient care, and provides explanations on how to perform the procedure effectively and make the best outcome for your patients. It serves as a detailed manual of procedures, extensively illustrated with diagrams and photographs and there is an accompanying DVD with multiple demonstrations of technique. This is an invaluable compendium on all aspects of colonoscopy, suitable for use by every grade of practitioner world-wide and an essential reference book for allestablishments with an endoscopy facility.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470986936"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "047098693X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 672,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5PFRbLplZ6kC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5PFRbLplZ6kC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5PFRbLplZ6kC&dq=subject:medical&hl=&cd=254&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5PFRbLplZ6kC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Colonoscopy.html?hl=&id=5PFRbLplZ6kC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5PFRbLplZ6kC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "whscvgAACAAJ",
+   "etag": "8k0VYYabg9Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/whscvgAACAAJ",
+   "volumeInfo": {
+    "title": "The Heart in Systemic Autoimmune Diseases",
+    "authors": [
+     "Fabiola Atzeni",
+     "Andrea Dorea",
+     "Paolo Pauletto",
+     "Mike Nurmohamed"
+    ],
+    "publisher": "Elsevier Science",
+    "publishedDate": "2017-03-01",
+    "description": "The Heart in Systemic Autoimmune Diseases, Second Editionprovides an overview on our current understanding of major complications relating to the heart and autoimmune diseases. It includes the latest information on the new pathogenetic mechanisms involved, along with clinical manifestations of these important comortbidities. Mortality in autoimmune diseases, in particular, rheumatoid arthritis and SLE, has increased when compared with the general population. This excess mortality is largely due to cardiovascular diseases (CVDs)-particularly those of atherosclerotic origin, such as ischemic heart disease-and is gaining recognition in all branches of medicine, from cardiology, to internal medicine, and from rheumatologists to orthopedics. Presents an impressive body of well ordered information on the topic of cardiovascular diseases and their relationship to autoimmune illness Highlights key references Summarizes the experience of a selected panel of distinguished physician-scientists who are actively involved in the field of cardiovascular disease and systemic autoimmunity",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0128039973"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780128039977"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 460,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=whscvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=whscvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=whscvgAACAAJ&dq=subject:medical&hl=&cd=255&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=whscvgAACAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Heart_in_Systemic_Autoimmune_Disease.html?hl=&id=whscvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=whscvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L46HjwEACAAJ",
+   "etag": "cU2Phlf1XtU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L46HjwEACAAJ",
+   "volumeInfo": {
+    "title": "Total Heart Health",
+    "subtitle": "How to Prevent and Reverse Heart Disease with the Maharishi Vedic Approach to Health",
+    "authors": [
+     "Robert H. Schneider",
+     "Jeremy Z. Fields"
+    ],
+    "publisher": "Basic Health Publications",
+    "publishedDate": "2006-04",
+    "description": "How to prevent and treat heart disease with Maharishi Consciousness based care. Readers discover a bold new approach to heart disease based on the world's oldest holistic system of care.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1681628376"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781681628370"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 270,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=L46HjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=L46HjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=L46HjwEACAAJ&dq=subject:medical&hl=&cd=256&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=L46HjwEACAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Total_Heart_Health.html?hl=&id=L46HjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=L46HjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FedtAAAAMAAJ",
+   "etag": "6E3VXXAulPU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FedtAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Head Reconstruction by the Skull",
+    "authors": [
+     "Ĭordan Aleksiev Ĭordanov",
+     "Ĭordan Iliev Ĭordanov"
+    ],
+    "publisher": "Akademicno Izdatelstvo",
+    "publishedDate": "2003",
+    "description": "\"In its efforts to find what is basic in the characteristic features of human groups, anthropology has accumulated an enormous quantity of metric data on the general shape of the skull. The study of the correlation among morphological features as well as the critical assessment of the basic rules in the sphere of the outer morphology of the face are directed towards establishing the regularities in the relationships among features and to the formation of the notion of type. It was precisely this that attracted the author's attention and urged him to deal with the plastic reconstruction of the appearance of people inhabiting the Bulgarian lands by using his own original methodology. Reconstructing the head by the skull is base on certain established correlations between the thickness of the soft tissue, the shapes, dimensions and structures of the parts of the face, on the one hand, and the anatomic peculiarities of the bones of the skull and the relief of their surfaces, on the other. The existing relationship is verified by statistic data, significant, obtained in measuring the thickness of soft tissues on many points of the skull in individuals of different sex, age, anthropological type and nationality. Reconstructing the head by the skull is a specific activity in which the anthropologist restores the human face according the anatomic and topographic data collected from the study of the particular skull.\"",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000095779884"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FedtAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FedtAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FedtAAAAMAAJ&dq=subject:medical&hl=&cd=257&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=FedtAAAAMAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Head_Reconstruction_by_the_Skull.html?hl=&id=FedtAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FedtAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nTzeGlzZgXgC",
+   "etag": "ZWp2m3/+cHk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nTzeGlzZgXgC",
+   "volumeInfo": {
+    "title": "Pharmacokinetics Made Easy",
+    "authors": [
+     "Donald J. Birkett"
+    ],
+    "publisher": "McGraw Hill Professional",
+    "publishedDate": "2002",
+    "description": "Pharmacokinetics Made Easy 1Rpresents the complex subject of pharmacokinetics in a simple, easy-to-understand manner, lending itself to a wide audience including medical practitioners, health professionals and students of pharmacology, medicine and nursing. The physiological approach adopted in the book allows clinical issues in drug therapy to be addressed, making it directly applicable to practice situations. The chapters in this book were initially published as a series of articles inAustralian Prescriberto assist practitioners in drug dosing and therapy. In this revised edition, the book has been updated according to recent developments and a new chapter called 'How to Determine the Pharmacokinetic Parameters of a Drug' added. Each chapter also has a new feature-a list of key points summarising the content to improve accessibility and understanding.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0074710729"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780074710722"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 131,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nTzeGlzZgXgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nTzeGlzZgXgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nTzeGlzZgXgC&dq=subject:medical&hl=&cd=258&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nTzeGlzZgXgC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pharmacokinetics_Made_Easy.html?hl=&id=nTzeGlzZgXgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nTzeGlzZgXgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IbV6MAEACAAJ",
+   "etag": "Y+D8vnUl4s0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IbV6MAEACAAJ",
+   "volumeInfo": {
+    "title": "Basic Concepts in Medicinal Chemistry",
+    "authors": [
+     "Marc W. Harrold",
+     "Robin M. Zavod"
+    ],
+    "publisher": "Amer Soc of Health System",
+    "publishedDate": "2013",
+    "description": "Medicinal chemistry is a complex topic. Written in an easy to follow and conversational style, Basic Concepts in Medicinal Chemistry focuses on the fundamental concepts that govern the discipline of medicinal chemistry as well as how and why these concepts are essential to therapeutic decisions. The book emphasizes functional group analysis and the basics of drug structure evaluation. In a systematic fashion, learn how to identify and evaluate the functional groups that comprise the structure of a drug molecule and their influences on solubility, absorption, acid/base character, binding interactions, and stereochemical orientation. Relevant Phase I and Phase II metabolic transformations are also discussed for each functional group. Key features include: * Discussions on the roles and characteristics of organic functional groups, including the identification of acidic and basic functional groups. * How to solve problems involving pH, pKa, and ionization; salts and solubility; drug binding interactions; stereochemistry; and drug metabolism. * Numerous examples and expanded discussions for complex concepts. * Therapeutic examples that link the importance of medicinal chemistry to pharmacy and healthcare practice. * An overview of structure activity relationships (SARs) and concepts that govern drug design. * Review questions and practice problems at the end of each chapter that allow readers to test their understanding, with the answers provided in an appendix. Whether you are just starting your education toward a career in a healthcare field or need to brush up on your organic chemistry concepts, this book is here to help you navigate medicinal chemistry. About the Authors Marc W. Harrold, BS, Pharm, PhD, is Professor of Medicinal Chemistry at the Mylan School of Pharmacy, Duquesne University, Pittsburgh, PA. Professor Harrold is the 2011 winner of the Omicron Delta Kappa \"Teacher of the Year\" award at Duquesne University. He is also the two-time winner of the \"TOPS\" (Teacher of the Pharmacy School) award at the Mylan School of Pharmacy. Robin M. Zavod, PhD, is Associate Professor for Pharmaceutical Sciences at the Chicago College of Pharmacy, Midwestern University, Downers Grove, IL, where she was awarded the 2012 Outstanding Faculty of the Year award. Professor Zavod also serves on the adjunct faculty for Elmhurst College and the Illinois Institute of Technology. She currently serves as Editor-in-Chief of the journal Currents in Pharmacy Teaching and Learning.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1585282669"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781585282661"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 440,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IbV6MAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IbV6MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IbV6MAEACAAJ&dq=subject:medical&hl=&cd=259&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=IbV6MAEACAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Basic_Concepts_in_Medicinal_Chemistry.html?hl=&id=IbV6MAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IbV6MAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WUkkAQAAMAAJ",
+   "etag": "NlL+1ZTKb50",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WUkkAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Advice for New Faculty Members",
+    "subtitle": "Nihil Nimus",
+    "authors": [
+     "Robert Boice"
+    ],
+    "publisher": "Allyn & Bacon",
+    "publishedDate": "2000-01",
+    "description": "Nihil nimus is a guide to the start of a successful academic career. As its title suggests (nothing in excess), it advocates moderation in ways of working.--From publisher description",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0205281591"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780205281596"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 319,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WUkkAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WUkkAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=WUkkAQAAMAAJ&dq=subject:medical&hl=&cd=260&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=WUkkAQAAMAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Advice_for_New_Faculty_Members.html?hl=&id=WUkkAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WUkkAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_l_wswEACAAJ",
+   "etag": "ACTxXXSdlb0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_l_wswEACAAJ",
+   "volumeInfo": {
+    "title": "Stryer Biochemie",
+    "authors": [
+     "Jeremy M. Berg",
+     "John L. Tymoczko",
+     "Gregory J. Gatto jr.",
+     "Lubert Stryer"
+    ],
+    "publisher": "Springer Spektrum",
+    "publishedDate": "2017-12-08",
+    "description": "„Oft kopiert, nie erreicht.“ Biologen heute Seit vier Jahrzehnten prägt dieses außergewöhnliche Lehrbuch weltweit die Lehre der Biochemie. Die überaus klare und präzise Art der Darstellung, die Aktualität, die ausgefeilte Didaktik und die Verständlichkeit sind zu Markenzeichen dieses von Lehrenden wie Lernenden hoch geschätzten Standardwerkes geworden. Sie zeichnen auch die nun vorliegende achte Auflage aus, die erneut die Brücke von den biologischen und chemischen Grundlagen zu den physiologischen und medizinischen Fragestellungen schlägt. Zu den wichtigsten Neuerungen und Verbesserungen der vollständig überarbeiteten Neuauflage zählen: Kapitel 5: erweiterte Darstellung von Massenspektrometrie, Proteinmasse, Proteinidentität und Proteinsequenz Kapitel 9: neuer Abschnitt zu krankheitsauslösenden Mutationen in Hämöglobingenen, neue Fallstudie zu Thalassämien Kapitel 13: neue Fallstudie zu Proteinkinase-A-Mutationen und Cushing Syndrom Kapitel 14: erweiterte Darstellung zu Vorstufen von Verdauungsenzymen und zur Proteinverdauung im Dünndarm, neue Fallstudien zu Proteinverdauung im Magen und zur Zöliakie Kapitel 15: neuer Abschnitt zu den Grundfunktionen des Energiestoffwechsels, erweiterte Darstellung zu Phosphaten in biochemischen Prozessen Kapitel 16: neue Fallstudien zu exzessiver Fructoseaufnahme und zu schnellwachsenden Zellen und aerober GlykolyseKapitel 29: neue Fallstudien zu Phosphatidylcholin, zur Regulation des LDL-Rezeptor-Kreislaufs und zum klinischen Management von Cholesterinwerten Kapitel 30: neue Fallstudie zu Blutspiegelwerten der Aminotransferase als diagnostischer Prädiktor Stimmen zu früheren Auflagen: Der Stryer ist der \"Goldstandard\" für Biochemie-Lehrbücher. Prof. Dr. Michael Rychlik, TU München Aktuell, didaktisch hervorragend präsentiert, bietet der \"Stryer\" einen umfassenden Überblick über das Feld und ist als Nachschlagewerk unverzichtbar. Prof. Dr. Dieter Adam, Universität Kiel Dieses Lehrbuch gibt Studierenden am Anfang ihrer Ausbildung einen hervorragenden Einstieg in die Biochemie, ist aber genauso für Fortgeschrittene ideal. Prof. Dr. Mike Boysen, Universität Göttingen Der Klassiker, er ist und bleibt in der Breite und Tiefe und seinem sehr guten didaktischen Aufbau unübertroffen! Ein Muss für jeden Studierenden und Dozenten im Umfeld biomedizinischer Studiengänge. Prof. Dr. Robert Fürst, Universität Frankfurt Trotz der unglaublichen Detailfülle vermittelt der Stryer Verständnis für die Zusammenhänge in der Biochemie. Prof. Dr. Katja Gehrig, Universität Mainz Biochemie anschaulich gemacht: So sollte ein Lehrbuch sein ... Dieses Buch nimmt jedem Studierenden die Angst vor der Biochemie! Prof. Dr. Wolf-Michael Weber, Universität Münster Als Lehrbuchautor packt einen beim Studium des Stryer der Neid. So schöne Fotos, so gekonnte, bunte, eingängige Zeichnungen, soviel Grips, so wenige Fehler. Laborjournal",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3662546191"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783662546192"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1401,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_l_wswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_l_wswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=_l_wswEACAAJ&dq=subject:medical&hl=&cd=261&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_l_wswEACAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Stryer_Biochemie.html?hl=&id=_l_wswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_l_wswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BGXLISnASmIC",
+   "etag": "VGK4E5Rt/a4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BGXLISnASmIC",
+   "volumeInfo": {
+    "title": "Casarett & Doull's Toxicology: The Basic Science of Poisons, Eighth Edition",
+    "authors": [
+     "Curtis Klaassen"
+    ],
+    "publisher": "McGraw Hill Professional",
+    "publishedDate": "2013-04-25",
+    "description": "The most trusted all-in-one overview of the biomedical and environmental aspects of toxicology--NOW more complete, up-to-date, and in full color The world's leading and most authoritative textbook on poisons has more to offer students,toxicologists, and pharmacologists than ever before. Now in full color, and thoroughly revised, the eighth edition of Casarett & Doull's TOXICOLOGY: The Basic Science of Poisons not only delivers a comprehensive review of the essential components of toxicology, it offers the most up-to-date, revealing, and in-depth look at the systemic responses of toxic substance available anywhere. Combined with the latest thinking by the field's foremost scholars plus solid coverage of general principles, modes of action, and chemical-specific toxicity, this landmark text continues to set the standard for toxicology references. NEW to the Eighth Edition FULL-COLOR design to allow for a clearer interpretation of the basic components of toxicology featured throughout the text EXPANDED tables, illustrations, and other visuals are updated with state-of-the-art standards that makes this edition even more current and relevant DVD with image bank features all tables and illustrations from the text in presentation-ready format NEW CHAPTERS include \"Toxic Effects of Calories\" and \"Toxic Effects of Nanoparticles\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071769228"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0071769226"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1473,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.9.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BGXLISnASmIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BGXLISnASmIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BGXLISnASmIC&printsec=frontcover&dq=subject:medical&hl=&cd=262&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BGXLISnASmIC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BGXLISnASmIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 150.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 120.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BGXLISnASmIC&rdid=book-BGXLISnASmIC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.5E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.2E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Casarett_Doull_s_Toxicology_The_Basic_Sc-sample-epub.acsm?id=BGXLISnASmIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Casarett_Doull_s_Toxicology_The_Basic_Sc-sample-pdf.acsm?id=BGXLISnASmIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BGXLISnASmIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4BNZDwAAQBAJ",
+   "etag": "pLJKC7SBSFI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4BNZDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Harper's Illustrated Biochemistry 31/e",
+    "authors": [
+     "Victor W. Rodwell",
+     "David Bender",
+     "Kathleen M. Botham",
+     "Peter J. Kennelly",
+     "P. Anthony Weil"
+    ],
+    "publisher": "McGraw Hill Professional",
+    "publishedDate": "2018-06-22",
+    "description": "Gain a full understanding of the principles of biochemistry as it relates to clinical medicine The Thirty-First Edition of Harper’s Illustrated Biochemistry continues to emphasize the link between biochemistry and the understanding of disease states, disease pathology, and the practice of medicine. Featuring a full-color presentation and numerous medically relevant examples, Harper’s presents a clear, succinct review of the fundamentals of biochemistry that every student must understand in order to succeed in medical school. All 58 chapters help you understand the medical relevance of biochemistry: •Full-color presentation includes more than 600 illustrations•Case studies emphasize the clinical relevance of biochemistry •NEW CHAPTER on Biochemistry of Transition Metals addresses the importance and overall pervasiveness of transition metals•Review Questions follow each of the eleven sections•Boxed Objectives define the goals of each chapter•Tables encapsulate important information•Every chapter includes a section on the biomedical importance of a given topic NEW TO THIS EDITION:•Emphasis throughout on the integral relationship between biochemistry and disease, diagnostic pathology, and medical practice•Hundreds of references to disease states throughout•New chapter addressing the biochemical roles of transition metals•Many updated review questions•Frequent tables summarizing key links to disease states•New text on cryo-electron microscopy (cryo-EM)•Cover picture of the protein structure of the Zika virus, solved by cryo-EM Applauded by medical students and online reviewers for its currency and engaging style, Harper’s Illustrated Biochemistry is essential for USMLE® review and the single-best reference for learning the clinical relevance of any biochemistry topic.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781259837944"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1259837947"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.5.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4BNZDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4BNZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4BNZDwAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=263&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4BNZDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4BNZDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 89.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.42,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4BNZDwAAQBAJ&rdid=book-4BNZDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.9E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.942E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Harper_s_Illustrated_Biochemistry_31_e-sample-epub.acsm?id=4BNZDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Harper_s_Illustrated_Biochemistry_31_e-sample-pdf.acsm?id=4BNZDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4BNZDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QDvnBwAAQBAJ",
+   "etag": "OEjpJz6rZkA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QDvnBwAAQBAJ",
+   "volumeInfo": {
+    "title": "Gut",
+    "subtitle": "the inside story of our body’s most under-rated organ",
+    "authors": [
+     "Giulia Enders"
+    ],
+    "publisher": "Scribe Publications",
+    "publishedDate": "2015-05-07",
+    "description": "WINNER OF THE 2016 AUSTRALIAN BOOK INDUSTRY AWARDS, INTERNATIONAL BOOK OF THE YEAR SHORTLISTED FOR THE 2016 BRITISH BOOK INDUSTRY AWARDS, NON-FICTION BOOK OF THE YEAR LONGLISTED FOR THE 2015 GOODREADS CHOICE AWARDS 'BEST SCIENCE & TECHNOLOGY BOOK' A Sunday Times bestseller The key to living a happier, healthier life is inside us. Our gut is almost as important to us as our brain or our heart, yet we know very little about how it works. In Gut, Giulia Enders shows that rather than the utilitarian and — let’s be honest — somewhat embarrassing body part we imagine it to be, it is one of the most complex, important, and even miraculous parts of our anatomy. And scientists are only just discovering quite how much it has to offer; new research shows that gut bacteria can play a role in everything from obesity and allergies to Alzheimer’s. Beginning with the personal experience of illness that inspired her research, and going on to explain everything from the basics of nutrient absorption to the latest science linking bowel bacteria with depression, Enders has written an entertaining, informative health handbook. Gut definitely shows that we can all benefit from getting to know the wondrous world of our inner workings. In this charming book, young scientist Giulia Enders takes us on a fascinating tour of our insides. Her message is simple — if we treat our gut well, it will treat us well in return. But how do we do that? And why do we need to? Find out in this surprising, and surprisingly funny, exploration of the least understood of our organs. PRAISE FOR GIULIA ENDERS ‘A publishing sensation that … sets out to free toilet talk from its taboo’ The Times ‘Enders’ gut manifesto calls on its readers to celebrate their lower bodies’ achievements, rather than apologise for them’ The Guardian",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781925113785"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1925113787"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 14,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.11.10.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QDvnBwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QDvnBwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=QDvnBwAAQBAJ&dq=subject:medical&hl=&cd=264&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=QDvnBwAAQBAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Gut.html?hl=&id=QDvnBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QDvnBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HpJrAAAAMAAJ",
+   "etag": "i29vF+7r5zs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HpJrAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Diagnostic Histopathology of Tumors",
+    "authors": [
+     "Christopher D. M. Fletcher"
+    ],
+    "publishedDate": "1995",
+    "description": "This extensively referenced 2-volume set provides comprehensive information on the range of tumor types and most up-to-date biopsy methods currently used in pathology practice today.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0443042950"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780443042959"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1393,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HpJrAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HpJrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HpJrAAAAMAAJ&dq=subject:medical&hl=&cd=265&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HpJrAAAAMAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Diagnostic_Histopathology_of_Tumors.html?hl=&id=HpJrAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HpJrAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SmtoQgAACAAJ",
+   "etag": "btBrn7E9fuE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SmtoQgAACAAJ",
+   "volumeInfo": {
+    "title": "How to Write a Lot",
+    "subtitle": "A Practical Guide to Productive Academic Writing",
+    "authors": [
+     "Paul J. Silvia"
+    ],
+    "publisher": "Amer Psychological Assn",
+    "publishedDate": "2007-01",
+    "description": "All students and professors need to write, and many struggle to finish their stalled dissertations, journal articles, book chapters, or grant proposals. Writing is hard work and can be difficult to wedge into a frenetic academic schedule. In this practical, light-hearted, and encouraging book, Paul Silvia explains that writing productively does not require innate skills or special traits but specific tactics and actions. Drawing examples from his own field of psychology, he shows readers how to overcome motivational roadblocks and become prolific without sacrificing evenings, weekends, and vacations. After describing strategies for writing productively, the author gives detailed advice from the trenches on how to write, submit, revise, and resubmit articles, how to improve writing quality, and how to write and publish academic work.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1591477433"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781591477433"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 149,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SmtoQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SmtoQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SmtoQgAACAAJ&dq=subject:medical&hl=&cd=266&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=SmtoQgAACAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Write_a_Lot.html?hl=&id=SmtoQgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SmtoQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2qETAQAAMAAJ",
+   "etag": "Fi8f/fY4+2c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2qETAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Hacker and Moore's Essentials of Obstetrics and Gynecology",
+    "authors": [
+     "Neville F. Hacker",
+     "Joseph C. Gambone",
+     "Calvin J. Hobel"
+    ],
+    "publisher": "Saunders",
+    "publishedDate": "2010",
+    "description": "Rev. ed. of: Essentials of obstetrics and gynecology / [edited by] Neville F. Hacker, J. George Moore, Joseph C. Gambone. 4th ed. c2004.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NWU:35557000176196"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 475,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2qETAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2qETAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2qETAQAAMAAJ&dq=subject:medical&hl=&cd=267&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=2qETAQAAMAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hacker_and_Moore_s_Essentials_of_Obstetr.html?hl=&id=2qETAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2qETAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pzGLDwAAQBAJ",
+   "etag": "PfxwW+wwh5Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pzGLDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Daughter of Family G",
+    "subtitle": "A Memoir of Cancer Genes, Love and Fate",
+    "authors": [
+     "Ami McKay"
+    ],
+    "publisher": "Knopf Canada",
+    "publishedDate": "2019-09-24",
+    "description": "Weaving together family history, genetic discovery, and scenes from her life, Ami McKay tells the compelling, true-science story of her own family's unsettling legacy of hereditary cancer while exploring the challenges that come from carrying the mutation that not only killed many people you loved, but might also kill you. The story of Ami McKay's connection to a genetic disorder called Lynch syndrome begins over seventy years before she was born and long before scientists discovered DNA. In 1895 her great-great aunt, Pauline Gross, a seamstress in Ann Arbor, Michigan, confided to a pathology professor at the local university that she expected to die young, like so many others in her family. Rather than dismiss her fears, the pathologist chose to enlist Pauline in the careful tracking of those in her family tree who had died of cancer. Pauline's premonition proved true--she died at 46--but because of her efforts, her family (who the pathologist dubbed 'Family G') would become the longest and most detailed cancer genealogy ever studied in the world. A century after Pauline's confession, researchers would identify the genetic mutation responsible for the family's woes. Now known as Lynch syndrome, the genetic condition predisposes its carriers to several types of cancer, including colorectal, endometrial, ovarian and pancreatic. In 2001, as a young mother with two sons and a keen interest in survival, Ami McKay was among the first to be tested for Lynch syndrome. She had a feeling she'd test positive: her mother's side of the family was riddled with early deaths and her own mother was being treated for the disease. When the test proved her fears true, she began living in \"an unsettling state between wellness and cancer,\" and she's been there ever since. Intimate, candid, and probing, her genetic memoir tells a fascinating story, teasing out the many ways to live with the hand you are dealt.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345809483"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0345809483"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pzGLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pzGLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pzGLDwAAQBAJ&dq=subject:medical&hl=&cd=268&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=pzGLDwAAQBAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Daughter_of_Family_G.html?hl=&id=pzGLDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pzGLDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "25zYAAAAMAAJ",
+   "etag": "JIs+OJEZZNk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/25zYAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Confessions",
+    "authors": [
+     "Saint Augustine (Bishop of Hippo.)"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1991",
+    "description": "In his own day the dominant personality of the Western Church, Augustine of Hippo today stands as perhaps the greatest thinker of Christian antiquity, and his Confessions is one of the great works of Western literature. In this intensely personal narrative, Augustine relates his rare ascent from a humble Algerian farm to the edge of the corridors of power at the imperial court in Milan, his struggle against the domination of his sexual nature, his renunciation of secular ambition and marriage, and the recovery of the faith his mother Monica had taught him during his childhood. Now, Henry Chadwick, an eminent scholar of early Christianity, has given us the first new English translation in thirty years of this classic spiritual journey. Chadwick renders the details of Augustine's conversion in clear, modern English. We witness the future saint's fascination with astrology and with the Manichees, and then follow him through scepticism and disillusion with pagan myths until he finally reaches Christian faith. There are brilliant philosophical musings about Platonism and the nature of God, and touching portraits of Augustine's beloved mother, of St. Ambrose of Milan, and of other early Christians like Victorinus, who gave up a distinguished career as a rhetorician to adopt the orthodox faith. Augustine's concerns are often strikingly contemporary, yet his work contains many references and allusions that are easily understood only with background information about the ancient social and intellectual setting. To make The Confessions accessible to contemporary readers, Chadwick provides the most complete and informative notes of any recent translation, and includes an introduction to establish the context. The religious and philosophical value of The Confessions is unquestionable--now modern readers will have easier access to St. Augustine's deeply personal meditations. Chadwick's lucid translation and helpful introduction clear the way for a new experience of this classic.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0192817795"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780192817792"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 311,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=25zYAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=25zYAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=25zYAAAAMAAJ&dq=subject:medical&hl=&cd=269&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=25zYAAAAMAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Confessions.html?hl=&id=25zYAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=25zYAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fa4_5xN9c5wC",
+   "etag": "jwy9V4Qvch0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fa4_5xN9c5wC",
+   "volumeInfo": {
+    "title": "Handbook of Self and Identity",
+    "authors": [
+     "Mark R. Leary",
+     "June Price Tangney"
+    ],
+    "publisher": "Guilford Press",
+    "publishedDate": "2003",
+    "description": "The self has emerged as a central construct in many domains of behavioral and social science. This state-of-the-science volume brings together an array of leading authorities to provide the first comprehensive review of theory and research in this burgeoning area. Organized into five sections, chapters address the content, structure, and organization of the self; processes related to agency, regulation, and self-control; self-evaluation and self-related motivation and emotion; interpersonal and cultural aspects of self and identity; and self-development across evolutionary time and the life span. Also examined are ways that the development of the self sometimes goes awry, resulting in emotional and behavioral problems. Shedding light on a key dimension of human experience, the Handbook is a definitive reference and text.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1572307986"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781572307988"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 703,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fa4_5xN9c5wC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fa4_5xN9c5wC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fa4_5xN9c5wC&dq=subject:medical&hl=&cd=270&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=fa4_5xN9c5wC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Handbook_of_Self_and_Identity.html?hl=&id=fa4_5xN9c5wC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fa4_5xN9c5wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v6JsAAAAMAAJ",
+   "etag": "i+mcsyJnEDg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v6JsAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Orthopaedic Physical Examination",
+    "authors": [
+     "Bruce Reider"
+    ],
+    "publisher": "Saunders",
+    "publishedDate": "2005",
+    "description": "Organized by body region, the book includes descriptions and illustrations of normal and abnormal anatomy, step-by-step walkthroughs of common, highly useful tests to determine joint and muscle disorders, and extensive photographs of proper physical examination procedure. The fully revised second edition includes Take-Home Points at the end of every chapter--perfect for quick review--and handy differential diagnosis tables based on common patient complaints, and line drawings designed to illustrate difficult-to-picture anatomical structures.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0721602649"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780721602646"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 383,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=v6JsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=v6JsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=v6JsAAAAMAAJ&dq=subject:medical&hl=&cd=271&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=v6JsAAAAMAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Orthopaedic_Physical_Examination.html?hl=&id=v6JsAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=v6JsAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B_pqAAAAMAAJ",
+   "etag": "x0mSka6GdHE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B_pqAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Brain and Visual Perception",
+    "subtitle": "The Story of a 25-year Collaboration",
+    "authors": [
+     "David H. Hubel",
+     "Torsten N. Wiesel"
+    ],
+    "publisher": "OUP USA",
+    "publishedDate": "2005",
+    "description": "This is the story of a hugely successful and enjoyable 25-year collaboration between two scientists who set out to learn how the brain deals with the signals it receives from the two eyes. Their work opened up a new area of brain research that led to their receiving the Nobel Prize in 1981. The book contains their major papers from 1959 to 1981, each preceded and followed by comments telling how and why the authors went about the study, how the work was received, and what has happened since. It begins with short autobiographies of both men, and describes the state of the field when they started. It is intended not only for neurobiologists, but for anyone interested in how the brain works-biologists, psychologists, philosophers, physicists, historians of science, and students at all levels from high school to graduate level.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015059187263"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 729,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=B_pqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=B_pqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=B_pqAAAAMAAJ&dq=subject:medical&hl=&cd=272&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=B_pqAAAAMAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Brain_and_Visual_Perception.html?hl=&id=B_pqAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=B_pqAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pdc3AQAAQBAJ",
+   "etag": "m4XQgCYxYS0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pdc3AQAAQBAJ",
+   "volumeInfo": {
+    "title": "Twelve Patients",
+    "subtitle": "Life and Death at Bellevue Hospital (The Inspiration for the NBC",
+    "authors": [
+     "Eric Manheimer"
+    ],
+    "publisher": "Hachette UK",
+    "publishedDate": "2012-07-10",
+    "description": "The inspiration for the NBC drama New Amsterdam and in the spirit of Oliver Sacks, this intensely involving memoir from a former medical director of a major NYC hospital looks poignantly at patients' lives and reveals the author's own battle with cancer. Using the plights of twelve very different patients--from dignitaries at the nearby UN, to supermax prisoners at Riker's Island, to illegal immigrants, and Wall Street tycoons--Dr. Eric Manheimer \"offers far more than remarkable medical dramas: he blends each patient's personal experiences with their social implications\" (Publishers Weekly). Manheimer was not only the medical director of the country's oldest public hospital for over 13 years, but he was also a patient. As the book unfolds, the narrator is diagnosed with cancer, and he is forced to wrestle with the end of his own life even as he struggles to save the lives of others.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781455503896"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1455503894"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.6.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pdc3AQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pdc3AQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pdc3AQAAQBAJ&dq=subject:medical&hl=&cd=273&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=pdc3AQAAQBAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Twelve_Patients.html?hl=&id=pdc3AQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pdc3AQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DyVsAAAAMAAJ",
+   "etag": "hNGkIGLvZ30",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DyVsAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Close Encounters",
+    "subtitle": "A Relational View of the Therapeutic Process",
+    "authors": [
+     "Robert Winer"
+    ],
+    "publisher": "Jason Aronson",
+    "publishedDate": "1994",
+    "description": "This book takes its examples from psychotherapy, psychoanalysis, and couple and family treatment. Experienced therapists Winer's humanizing text helpful in putting their own work and their own ambitions in perspective. It offers a framework for living with the complexity of the therapeutic endeavor without falling prey to the practitioner's two great occupational hazards–grandiosity and despair. All therapists will find Close Encounters liberating as it helps them to feel more self-accepting in the face of their difficult task of learning to make use of themselves as agents of change.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015064811048"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 281,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DyVsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DyVsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DyVsAAAAMAAJ&dq=subject:medical&hl=&cd=274&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DyVsAAAAMAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Close_Encounters.html?hl=&id=DyVsAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DyVsAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rFVUjgEACAAJ",
+   "etag": "j+vULyUqqYE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rFVUjgEACAAJ",
+   "volumeInfo": {
+    "title": "Schmerzen verstehen",
+    "authors": [
+     "David Butler",
+     "Lorimer G. Moseley"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2016-04-07",
+    "description": "Dieses Buch vermittelt auf anschauliche Weise, wie Schmerz entsteht, warum er anhalten kann oder immer wieder auftaucht und wie man mit ihm am besten im alltäglichen Leben umgeht.Patienten, die über die Entstehung, Verarbeitung und Wahrnehmung von Schmerzen Bescheid wissen, kommen erwiesenermaßen besser mit ihnen zurecht. Die Autoren dieses Buches erklären komplexe neurowissenschaftliche Fakten und zeigen verständlich, wie dieses Wissen in die therapeutische Praxis integriert werden kann. Finden Sie als Arzt oder Therapeut gemeinsam mit Ihrem Patienten eine gemeinsame Sprache und entwickeln Sie wirksame Instrumente zur Schmerzbewältigung und erfolgreiche Behandlungskonzepte. Stellen Sie sich als Betroffener dem Phänomen Schmerz und lernen Sie hilfreiche Verhaltensstrategien für sich zu nutzen.Neu in der 3. Auflage: komplette Aktualisierung",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3662486571"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783662486573"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rFVUjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rFVUjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=rFVUjgEACAAJ&dq=subject:medical&hl=&cd=275&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=rFVUjgEACAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Schmerzen_verstehen.html?hl=&id=rFVUjgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rFVUjgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mhOdAQAACAAJ",
+   "etag": "ZiOgdpz5dgM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mhOdAQAACAAJ",
+   "volumeInfo": {
+    "title": "Williams Obstetrics, 25th Edition",
+    "authors": [
+     "Kenneth J. Leveno",
+     "Catherine Y. Spong",
+     "Brian M. Casey",
+     "Barbara L. Hoffman",
+     "F. Gary Cunningham",
+     "Steven L. Bloom",
+     "Jodi S. Dashe"
+    ],
+    "publisher": "McGraw-Hill Education / Medical",
+    "publishedDate": "2018-04-12",
+    "description": "The world’s premier obstetrics guide–now updated with a greater focus on maternal-fetal medicine The obstetrics text that has defined the discipline for generations of obstetrician-gynecologists is now more timely—and essential—than ever. Written by authors from the nationally known University of Texas Southwestern Medical Center, Williams Obstetrics maintains its trademark comprehensive coverage and applicability at the bedside, while offering the most current perspective of the field. This landmark text begins with fundamental discussions of reproductive anatomy and physiology. These dovetail into clinical chapters covering obstetrical complications such as preterm labor, pregnancy-related infection, hemorrhage, and hypertension, among others. Representing the culmination of a century of clinical thought, the new Twenty-Fifth Edition is enhanced by more than 1,000 full-color illustrations plus an increased emphasis on the fast-growing subspecialty of maternal-fetal medicine. Features •Entire section on the diagnosis and treatment of fetal disorders, providing deeper insights into fetal complications in utero •Traditional focus on the varied medical and surgical disorders that can complicate pregnancy •1,000 eye-catching illustrations, including updated graphs, sonograms, MRIs, photographs, and photomicrographs •Solid evidence-based approach highlights the scientific underpinnings of clinical obstetrics, with special emphasis on physiological principles •Current professional and academic guidelines are incorporated into the text and appear in easy-to-read tables •Updated with 3,000 new literature citations through 2017 No other text can match the long-established scientific rigor and accessibility of Williams Obstetrics. With its state-of-the-art design and review of the newest advances and protocols, this not-be-missed clinical companion brings positive outcomes within reach.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1259644324"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781259644320"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1344,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mhOdAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mhOdAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mhOdAQAACAAJ&dq=subject:medical&hl=&cd=276&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mhOdAQAACAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Williams_Obstetrics_25th_Edition.html?hl=&id=mhOdAQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mhOdAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0H7YSoFEs5AC",
+   "etag": "k1eg7MNzfu4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0H7YSoFEs5AC",
+   "volumeInfo": {
+    "title": "The Brain That Changes Itself",
+    "subtitle": "stories of personal triumph from the frontiers of brain science",
+    "authors": [
+     "Norman Doidge"
+    ],
+    "publisher": "Scribe Publications",
+    "publishedDate": "2008-03-03",
+    "description": "An astonishing new scientific discovery called neuroplasticity is overthrowing the centuries-old notion that the adult human brain is fixed and unchanging. It is, instead, able to change its own structure and function, even into old age. Psychiatrist and researcher Norman Doidge, MD, travelled around the United States to meet the brilliant scientists championing neuroplasticity, and the people whose lives they’ve transformed — people whose mental limitations or brain damage were previously seen as unalterable, and whose conditions had long been dismissed as hopeless. We see a woman born with half a brain that rewired itself to work as a whole; a woman labelled retarded who cured her deficits with brain exercises and now cures those of others; blind people who learn to see; learning disorders cured; IQs raised; ageing brains rejuvenated; stroke patients recovering their faculties; children with cerebral palsy learning to move more gracefully; entrenched depression and anxiety disappearing; and lifelong character traits changed. Doidge takes us onto terrain that might seem fantastic. We learn that our thoughts can switch our genes on and off, altering our brain anatomy. We learn how people of average intelligence can, with brain exercises, improve their cognition and perception, develop muscle strength, or learn to play a musical instrument — simply by imagining doing so. Using personal stories from the heart of this neuroplasticity revolution, Dr Doidge has written an immensely moving, inspiring book that will permanently alter the way we look at our brains, human nature, and human potential.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1921753099"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781921753091"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 15,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0H7YSoFEs5AC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0H7YSoFEs5AC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0H7YSoFEs5AC&dq=subject:medical&hl=&cd=277&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0H7YSoFEs5AC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Brain_That_Changes_Itself.html?hl=&id=0H7YSoFEs5AC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0H7YSoFEs5AC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IHww1mWcQKoC",
+   "etag": "02T54n6kX0M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IHww1mWcQKoC",
+   "volumeInfo": {
+    "title": "The Human Nervous System",
+    "authors": [
+     "George Paxinos"
+    ],
+    "publisher": "Elsevier",
+    "publishedDate": "2004-01",
+    "description": "Talks about the organs that make up the nervous system and the functions performed by the nervous system.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0125476264"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780125476263"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1366,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.2.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IHww1mWcQKoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IHww1mWcQKoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IHww1mWcQKoC&dq=subject:medical&hl=&cd=278&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=IHww1mWcQKoC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Human_Nervous_System.html?hl=&id=IHww1mWcQKoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IHww1mWcQKoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7gxjMV8hClsC",
+   "etag": "e/kzDzIL8Bo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7gxjMV8hClsC",
+   "volumeInfo": {
+    "title": "Harrison's Principles of Internal Medicine, 18th Edition",
+    "authors": [
+     "Dan Longo",
+     "Anthony Fauci",
+     "Dennis Kasper",
+     "Stephen Hauser",
+     "J. Jameson",
+     "Joseph Loscalzo"
+    ],
+    "publisher": "McGraw Hill Professional",
+    "publishedDate": "2011-07-22",
+    "description": "The most widely read textbook in the history of medicine – made more essential to practice and education by an unmatched array of multi-media content Through six decades, no resource has matched the encyclopedic scope, esteemed scholarship, and scientific rigor of Harrison’s Principles of Internal Medicine, both as a textbook and as a clinical reference. It remains the most universally respected textbook in all of medical publishing and the pinnacle of current medical knowledge. The eighteenth edition of Harrison’s features expanded and more in-depth coverage of key issues in clinical medicine, pathophysiology, and medical education. The acclaimed Harrison’s DVD has been updated to include 53 chapters not found in the text; 14 all-new how-to videos commissioned specifically for Harrison’s; PowerPoint presentations on essential topics in medical education; and hundreds of bonus illustrations. Presented in two volumes NEW text design greatly enhances readability NEW chapters on cutting-edge topics in clinical medicine Expanded focus on global considerations of health and disease Editor-in-Chief: Dan Longo, MD (Boston, MA) is Professor of Medicine, Brigham and Women’s Hospital/Harvard Medical School.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071748902"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0071748903"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 2800,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.6.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7gxjMV8hClsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7gxjMV8hClsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7gxjMV8hClsC&dq=subject:medical&hl=&cd=279&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=7gxjMV8hClsC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Harrison_s_Principles_of_Internal_Medici.html?hl=&id=7gxjMV8hClsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7gxjMV8hClsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dLCHDwAAQBAJ",
+   "etag": "a6MYSsKxrXY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dLCHDwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Way Through the Woods",
+    "subtitle": "of mushrooms and mourning",
+    "authors": [
+     "Long Litt Woon"
+    ],
+    "publisher": "Scribe Publications",
+    "publishedDate": "2019-08-06",
+    "description": "One woman’s journey to overcome grief by delving into an overlooked wonder of nature. ‘As the world of mushrooms opened up to me I began to see that the path back to life was easier than I had thought. It was simply a matter of gathering delights that flash and sparkle. All I had to do was follow the mushroom trail, even though I still didn’t know where it would lead. What would I find in the great unknown that lay ahead of me? What lay beyond those hilltops and mists and turns in the road?’ When Long Litt Woon loses her husband of 32 years to an unexpected death, she is utterly bereft. An immigrant in his country, in losing the love of her life she has also lost her compass and her passport to society. For a time, she is stuck, aimless, disoriented. It is only when she wanders off deep into the woods with mushroom hunters and is taught there how to see clearly what is all around her, and learn how to make distinctions, take educated risks, and hear all the different melodies in Nature’s chorus, that she returns to life and to living. And it is mushrooms which guide her back. In this book, she describes how they saved her, and how they might save you.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781925693850"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1925693856"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dLCHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dLCHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=dLCHDwAAQBAJ&dq=subject:medical&hl=&cd=280&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=dLCHDwAAQBAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Way_Through_the_Woods.html?hl=&id=dLCHDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dLCHDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

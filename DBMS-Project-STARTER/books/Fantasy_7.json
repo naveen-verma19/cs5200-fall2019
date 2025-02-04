@@ -1,0 +1,2704 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 396,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "SGRxHq9QY24C",
+   "etag": "moJa16jzRfM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SGRxHq9QY24C",
+   "volumeInfo": {
+    "title": "Above the Veil",
+    "authors": [
+     "Garth Nix"
+    ],
+    "publisher": "HarperCollins UK",
+    "publishedDate": "2009",
+    "description": "Tal and Milla are no longer alone in their quest. They have been joined by the rebel Underfolk led by Crow, Tal's old foe. But now they must all work together to discover the secrets of the Castle and the Dark World they all inhabit before it is too late.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780007261222"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0007261225"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 285,
+    "printType": "BOOK",
+    "categories": [
+     "Children's stories"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SGRxHq9QY24C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SGRxHq9QY24C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SGRxHq9QY24C&dq=subject:Fantasy&hl=&cd=281&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=SGRxHq9QY24C&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Above_the_Veil.html?hl=&id=SGRxHq9QY24C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SGRxHq9QY24C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oVsgAQAAIAAJ",
+   "etag": "aOxKlPYn14w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oVsgAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Elsewhere",
+    "authors": [
+     "Will Shetterly"
+    ],
+    "publisher": "Harcourt",
+    "publishedDate": "1991",
+    "description": "Ron, a teenage runaway, comes of age among the punk elves and humans of Bordertown, a run-down city on the border between the real world and the magic world of Faerie.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105021732537"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oVsgAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oVsgAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=oVsgAQAAIAAJ&dq=subject:Fantasy&hl=&cd=282&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=oVsgAQAAIAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Elsewhere.html?hl=&id=oVsgAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oVsgAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ECVzZzzKIJYC",
+   "etag": "Rb3fdCE+EG4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ECVzZzzKIJYC",
+   "volumeInfo": {
+    "title": "The Exposed",
+    "authors": [
+     "Katherine Applegate"
+    ],
+    "publisher": "Scholastic Paperbacks",
+    "publishedDate": "1999",
+    "description": "The Animorphs have no ally more powerful than Erek the Chee. But now he is helpless.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0590762605"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780590762601"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 154,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ECVzZzzKIJYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ECVzZzzKIJYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ECVzZzzKIJYC&dq=subject:Fantasy&hl=&cd=283&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ECVzZzzKIJYC&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Exposed.html?hl=&id=ECVzZzzKIJYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ECVzZzzKIJYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mhINAQAAMAAJ",
+   "etag": "zT013SaZg2Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mhINAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Doctor Dolittle",
+    "subtitle": "A Treasury",
+    "publisher": "Yearling Books",
+    "publishedDate": "1986",
+    "description": "This treasury contains selections from eight of the original Dr. Dolittle books in which readers meet the lovable man who can talk to the animals.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000033672083"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 335,
+    "printType": "BOOK",
+    "categories": [
+     "Animals"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mhINAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mhINAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mhINAQAAMAAJ&dq=subject:Fantasy&hl=&cd=284&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mhINAQAAMAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Doctor_Dolittle.html?hl=&id=mhINAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mhINAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K4c4UdONAAcC",
+   "etag": "arKCAe5Nl8w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K4c4UdONAAcC",
+   "volumeInfo": {
+    "title": "The Story of Doctor Dolittle",
+    "publisher": "Yearling Books",
+    "publishedDate": "1997",
+    "description": "Retells the adventures of the remarkable little man who is able to speak with and attend the ailments of every creature in the world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0440412331"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780440412335"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 116,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 11,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=K4c4UdONAAcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=K4c4UdONAAcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=K4c4UdONAAcC&dq=subject:Fantasy&hl=&cd=285&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=K4c4UdONAAcC&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_of_Doctor_Dolittle.html?hl=&id=K4c4UdONAAcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=K4c4UdONAAcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6cFVNwAACAAJ",
+   "etag": "v7fq5x/zPDQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6cFVNwAACAAJ",
+   "volumeInfo": {
+    "title": "Percy Jackson: The Demigod Files",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Hyperion",
+    "publishedDate": "2009-02-10",
+    "description": "Presents three original short stories, interviews, character profiles, and puzzles about demigod Percy Jackson and his world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "142312166X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781423121664"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 39,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6cFVNwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6cFVNwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6cFVNwAACAAJ&dq=subject:Fantasy&hl=&cd=286&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=6cFVNwAACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Percy_Jackson_The_Demigod_Files.html?hl=&id=6cFVNwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6cFVNwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o17RktAqTzYC",
+   "etag": "krQ0lhGH2kU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o17RktAqTzYC",
+   "volumeInfo": {
+    "title": "Temple of the Winds",
+    "subtitle": "Book Four of 'The Sword of Truths'",
+    "authors": [
+     "Terry Goodkind"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "1998-09-15",
+    "description": "When the fanatical Imperial Order unleashes a deadly plague on the world, Richard Cypher and his beloved Kahlan Amnell must search for the legendary Temple of the Winds, banished more than three millennia before, to find a cure",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0812551486"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812551488"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 822,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 34,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=o17RktAqTzYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=o17RktAqTzYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=o17RktAqTzYC&dq=subject:Fantasy&hl=&cd=287&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=o17RktAqTzYC&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Temple_of_the_Winds.html?hl=&id=o17RktAqTzYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=o17RktAqTzYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BWX1mAEACAAJ",
+   "etag": "9SJHEIwxeTs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BWX1mAEACAAJ",
+   "volumeInfo": {
+    "title": "Infidel",
+    "authors": [
+     "Ted Dekker"
+    ],
+    "publisher": "Thomas Nelson Incorporated",
+    "publishedDate": "2008-11-11",
+    "description": "As Johnis and the other \"chosen\" recruits of the Forest Guard are pulled into deeper danger to secure the seven lost Books of History, Johnis tries to rescue his mother from enslavement by the Horde, but risks betraying the Forest Dwellers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1595546049"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781595546043"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BWX1mAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BWX1mAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BWX1mAEACAAJ&dq=subject:Fantasy&hl=&cd=288&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=BWX1mAEACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Infidel.html?hl=&id=BWX1mAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BWX1mAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YiY7PgAACAAJ",
+   "etag": "XXkEhOKWvoI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YiY7PgAACAAJ",
+   "volumeInfo": {
+    "title": "Alice's Adventures in Wonderland",
+    "authors": [
+     "Lewis Carroll",
+     "Leonard S. Marcus",
+     "Abelardo Morell"
+    ],
+    "publisher": "Dutton Childrens Books",
+    "publishedDate": "1998",
+    "description": "A little girl falls down a rabbit hole and discovers a world of nonsensical and amusing characters.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0525460942"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780525460947"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 115,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 150,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YiY7PgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YiY7PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YiY7PgAACAAJ&dq=subject:Fantasy&hl=&cd=289&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YiY7PgAACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Alice_s_Adventures_in_Wonderland.html?hl=&id=YiY7PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YiY7PgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YF5FkwEACAAJ",
+   "etag": "+N4b1WyG6oM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YF5FkwEACAAJ",
+   "volumeInfo": {
+    "title": "Epic",
+    "subtitle": "M. K. Saves the Day",
+    "authors": [
+     "Lucy Rosen"
+    ],
+    "publisher": "Turtleback Books",
+    "publishedDate": "2013-04-09",
+    "description": "Mary Katherine, a spunky teenager on a mission to save her father, finds a miniature world where magical, microscopic creatures wage battle in the name of good and evil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0606271619"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780606271615"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YF5FkwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YF5FkwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YF5FkwEACAAJ&dq=subject:Fantasy&hl=&cd=290&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YF5FkwEACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Epic.html?hl=&id=YF5FkwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YF5FkwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q-rBDAAAQBAJ",
+   "etag": "8rXHvYKbR5Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q-rBDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Crooked Kingdom",
+    "subtitle": "A Sequel to Six of Crows",
+    "authors": [
+     "Leigh Bardugo"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2016-09-27",
+    "description": "The highly anticipated sequel to the thrilling #1 New York Times-bestselling Six of Crows. Kaz Brekker and his crew have just pulled off a heist so daring even they didn't think they'd survive. But instead of divvying up a fat reward, they're right back to fighting for their lives. Double-crossed and badly weakened, the crew is low on resources, allies, and hope. As powerful forces from around the world descend on Ketterdam to root out the secrets of the dangerous drug known as jurda parem, old rivals and new enemies emerge to challenge Kaz's cunning and test the team's fragile loyalties. A war will be waged on the city's dark and twisting streets—a battle for revenge and redemption that will decide the fate of the Grisha world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781627792134"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1627792139"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 560,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Q-rBDAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Q-rBDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Q-rBDAAAQBAJ&dq=subject:Fantasy&hl=&cd=291&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Q-rBDAAAQBAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Crooked_Kingdom.html?hl=&id=Q-rBDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Q-rBDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Sdk8PgAACAAJ",
+   "etag": "2YIZ1tJh3vA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Sdk8PgAACAAJ",
+   "volumeInfo": {
+    "title": "Greenwitch",
+    "authors": [
+     "Susan Cooper"
+    ],
+    "publishedDate": "1974",
+    "description": "Simon, Jane, and Barney, enlisted by their mysterious great-uncle, arrive in a small coastal town to recover a priceless golden grail stolen by the forces of evil -- Dark. They are not at first aware of the strange powers of another boy brought to help, Will Stanton -- nor of the sinister significance of the Greenwitch, an image of leaves and branches that for centuries has been cast into the sea for good luck in fishing and harvest. Their search for the grail sets into motion a series of distubing, sometimes dangerous events that, at their climax, bring forth a gift that, for a time at least, will keep the Dark from rising.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0701150483"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780701150488"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 147,
+    "printType": "BOOK",
+    "categories": [
+     "Children's stories"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 42,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Sdk8PgAACAAJ&dq=subject:Fantasy&hl=&cd=292&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Sdk8PgAACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Greenwitch.html?hl=&id=Sdk8PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Sdk8PgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G8qMHAAACAAJ",
+   "etag": "x/S+SKviJw4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G8qMHAAACAAJ",
+   "volumeInfo": {
+    "title": "Haunted",
+    "authors": [
+     "Kelley Armstrong"
+    ],
+    "publisher": "Orbit Books",
+    "publishedDate": "2005",
+    "description": "Eve Levine, is a black witch and has been dead for three years. She has a great existence in the afterlife, all she needs to do is contact her daughter Savannah and she will be happy. But the Fates have other plans, they are calling in a favour that is owed them, and want Eve to hunt down Nix, an evil spirit, before she does more damage. Nix is dangerous and the only thing that can stop her is an angel's sword. And Eve's no angel........",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1841493414"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781841493411"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 495,
+    "printType": "BOOK",
+    "categories": [
+     "Fantasy"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G8qMHAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G8qMHAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=G8qMHAAACAAJ&dq=subject:Fantasy&hl=&cd=293&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=G8qMHAAACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Haunted.html?hl=&id=G8qMHAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G8qMHAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4SvUtgAACAAJ",
+   "etag": "gNDAPPGOFP4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4SvUtgAACAAJ",
+   "volumeInfo": {
+    "title": "Carpe Corpus",
+    "authors": [
+     "Rachel Caine"
+    ],
+    "publishedDate": "2009-06-02",
+    "description": "Can Claire and her friends stop the evil vampire Bishop before destroys the town and all of its inhabitants-living and undead?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1424246997"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781424246991"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 20,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4SvUtgAACAAJ&dq=subject:Fantasy&hl=&cd=294&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4SvUtgAACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Carpe_Corpus.html?hl=&id=4SvUtgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4SvUtgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PaJHAgAACAAJ",
+   "etag": "lNfTpCARbZs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PaJHAgAACAAJ",
+   "volumeInfo": {
+    "title": "Battle for Castle Cockatrice",
+    "authors": [
+     "Gerald Durrell"
+    ],
+    "publisher": "Turtleback",
+    "publishedDate": "1999-01-01",
+    "description": "Three children befriend an unusual parrot and spider and travel with them to Mythologia, the magical land of mythical animals, to try and save it from being taken over by the evil Cockatrices.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0606166998"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780606166997"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 197,
+    "printType": "BOOK",
+    "categories": [
+     "Fantasy."
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=PaJHAgAACAAJ&dq=subject:Fantasy&hl=&cd=295&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=PaJHAgAACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Battle_for_Castle_Cockatrice.html?hl=&id=PaJHAgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PaJHAgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "d0YqAQAAIAAJ",
+   "etag": "qBVyvRNkVmU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d0YqAQAAIAAJ",
+   "volumeInfo": {
+    "title": "The lion, the witch, and the wardrobe",
+    "authors": [
+     "Clive Staples Lewis"
+    ],
+    "publisher": "Simon & Schuster Books For Young Readers",
+    "publishedDate": "1986",
+    "description": "The first book in The Chronicles of of Narnia series.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0020444907"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780020444909"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 154,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2737,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=d0YqAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=d0YqAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=d0YqAQAAIAAJ&dq=subject:Fantasy&hl=&cd=296&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=d0YqAQAAIAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_lion_the_witch_and_the_wardrobe.html?hl=&id=d0YqAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=d0YqAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u0TQxjlFCbMC",
+   "etag": "enH6pSa3QLo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u0TQxjlFCbMC",
+   "volumeInfo": {
+    "title": "Ultimate Magic",
+    "authors": [
+     "T. A. Barron"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2011-06",
+    "description": "The dragon Basil leads the ultimate battle to save the land of Avalon, and finally must decide whether to obey his dear friend Merlin's request, even though it means giving up his powers as a warrior.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780142419267"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0142419265"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 204,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u0TQxjlFCbMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u0TQxjlFCbMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=u0TQxjlFCbMC&dq=subject:Fantasy&hl=&cd=297&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=u0TQxjlFCbMC&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ultimate_Magic.html?hl=&id=u0TQxjlFCbMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u0TQxjlFCbMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9CHBOAAACAAJ",
+   "etag": "qECvKhAGje8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9CHBOAAACAAJ",
+   "volumeInfo": {
+    "title": "Wanderlust",
+    "authors": [
+     "Mary Kirchoff",
+     "Steve Winter"
+    ],
+    "publisher": "Wizards of the Coast",
+    "publishedDate": "1991",
+    "description": "Tasslehoof Burrfoot unwittingly takes a copper bracelet belonging to Flint, and when Tanis vouches for Burrfoot's innocence, a surprising saga involving an evil stranger begins to unfold",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1560761156"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781560761150"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 312,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9CHBOAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9CHBOAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9CHBOAAACAAJ&dq=subject:Fantasy&hl=&cd=298&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9CHBOAAACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Wanderlust.html?hl=&id=9CHBOAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9CHBOAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OWqePwAACAAJ",
+   "etag": "HEzhIpJbD24",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OWqePwAACAAJ",
+   "volumeInfo": {
+    "title": "The fall",
+    "authors": [
+     "Garth Nix"
+    ],
+    "publishedDate": "2000",
+    "description": "In order to secure his family's position among the Chosen, Tal attempts to steal a sunstone and is caught, so he is banished from the mountaintop castle and thrown into a new, unknown world where great dangers loom.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0613269004"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780613269001"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 195,
+    "printType": "BOOK",
+    "categories": [
+     "Adventure stories, Australian"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 14,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OWqePwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OWqePwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OWqePwAACAAJ&dq=subject:Fantasy&hl=&cd=299&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OWqePwAACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_fall.html?hl=&id=OWqePwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OWqePwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qkdqRQAACAAJ",
+   "etag": "fIjGRN/44x4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qkdqRQAACAAJ",
+   "volumeInfo": {
+    "title": "El principito",
+    "authors": [
+     "Antoine de Saint-Exupéry"
+    ],
+    "publisher": "Emece",
+    "publishedDate": "1989",
+    "description": "Un aviador encuentra un hombrecito de una otra planeta que busca lo que es lo más importante de la vida. [An aviator whose plane is forced down in the Sahara Desert encounters a little man from a small planet who describes his adventures in the universe seeking the secret of what is really important in life.].",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9500400480"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789500400480"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 93,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qkdqRQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qkdqRQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=qkdqRQAACAAJ&dq=subject:Fantasy&hl=&cd=300&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=qkdqRQAACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/El_principito.html?hl=&id=qkdqRQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qkdqRQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FyqvAAAACAAJ",
+   "etag": "xhlkt9L6nL8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FyqvAAAACAAJ",
+   "volumeInfo": {
+    "title": "The Gathering Storm",
+    "authors": [
+     "Robert Jordan",
+     "Brandon Sanderson"
+    ],
+    "publisher": "Orbit Books",
+    "publishedDate": "2009",
+    "description": "The most eagerly anticipated fantasy novel of the last two decades, 'The Gathering Storm' has been completed by acclaimed fantasy author Brandon Sanderson from Robert Jordan's extensive notes. It will begin the final chapter of the compelling saga that started almost twenty years ago with 'The Eye of the World'.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1841492418"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781841492414"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 783,
+    "printType": "BOOK",
+    "categories": [
+     "Fantasy fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 77,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FyqvAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FyqvAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FyqvAAAACAAJ&dq=subject:Fantasy&hl=&cd=301&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=FyqvAAAACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Gathering_Storm.html?hl=&id=FyqvAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FyqvAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NUxMswEACAAJ",
+   "etag": "AkWNqWpQRTE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NUxMswEACAAJ",
+   "volumeInfo": {
+    "title": "Hour of the Bees",
+    "authors": [
+     "Lindsay Eagar"
+    ],
+    "publishedDate": "2016",
+    "description": "While her friends are spending their summers having pool parties and sleepovers, twelve-year-old Carolina Carol is spending hers in the middle of the New Mexico desert, helping her parents move the grandfather she's never met into a home for people with dementia. At first, Carol avoids prickly Grandpa Serge. But as the summer wears on and the heat bears down, Carol finds herself drawn to him, fascinated by the crazy stories he tells her about a healing tree, a green-glass lake, and the bees that will bring back the rain and end a hundred years of drought. As the thin line between magic and reality starts to blur, Carol must decide for herself what is possible and what it means to be true to her roots.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0605933510"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780605933514"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "JUVENILE FICTION"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 16,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NUxMswEACAAJ&dq=subject:Fantasy&hl=&cd=302&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NUxMswEACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hour_of_the_Bees.html?hl=&id=NUxMswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NUxMswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DODNwgEACAAJ",
+   "etag": "PjKQaV632zo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DODNwgEACAAJ",
+   "volumeInfo": {
+    "title": "Matched",
+    "authors": [
+     "Allyson Braithwaite Condie"
+    ],
+    "publishedDate": "2011",
+    "description": "All her life, Cassia has never had a choice. The Society dictates everything: when and how to play, where to work, where to live, what to eat and wear, when to die, and most importantly to Cassia as she turns 17, whom to marry. When she is Matched with her best friend Xander, things couldn't be more perfect. But why did her neighbor Ky's face show up on her match disk as well?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "142425860X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781424258604"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 385,
+    "printType": "BOOK",
+    "categories": [
+     "Dystopias"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 396,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DODNwgEACAAJ&dq=subject:Fantasy&hl=&cd=303&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DODNwgEACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Matched.html?hl=&id=DODNwgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DODNwgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CvRJh3pUWdoC",
+   "etag": "J+oQF/pDTwc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CvRJh3pUWdoC",
+   "volumeInfo": {
+    "title": "Le petit prince",
+    "authors": [
+     "Antoine de Saint-Exupéry"
+    ],
+    "publisher": "Mariner Books",
+    "publishedDate": "2001",
+    "description": "A small boy learns of the wonders and ironies of life during a celestial odyssey.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0156013983"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780156013987"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 85,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 13,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CvRJh3pUWdoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CvRJh3pUWdoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=CvRJh3pUWdoC&dq=subject:Fantasy&hl=&cd=304&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=CvRJh3pUWdoC&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Le_petit_prince.html?hl=&id=CvRJh3pUWdoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CvRJh3pUWdoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xHseCQAAQBAJ",
+   "etag": "+yrMGJRMtXU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xHseCQAAQBAJ",
+   "volumeInfo": {
+    "title": "The Hobbit",
+    "subtitle": "Or, There and Back Again",
+    "authors": [
+     "John Ronald Reuel Tolkien"
+    ],
+    "publisher": " ",
+    "publishedDate": "1937",
+    "description": "A tale of the adventure of a company of dwarves in search of dragon-guarded gold. A reluctant partner in this perilous quest is Bilbo Baggins, a comfort-loving, unambitious hobbit, who surprises even himself by his resourcefulness and skill as a burglar.",
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 310,
+    "printType": "BOOK",
+    "categories": [
+     "Baggins, Bilbo (Fictitious character)"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3055,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xHseCQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xHseCQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xHseCQAAQBAJ&dq=subject:Fantasy&hl=&cd=305&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xHseCQAAQBAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Hobbit.html?hl=&id=xHseCQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xHseCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "skXdvQEACAAJ",
+   "etag": "m4cRBj64I3g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/skXdvQEACAAJ",
+   "volumeInfo": {
+    "title": "The Return of the King",
+    "subtitle": "Being the Third Part of The Lord of the Rings",
+    "authors": [
+     "John Ronald Reuel Tolkien"
+    ],
+    "publishedDate": "1987",
+    "description": "The third volume of the epic The lord of the rings, set in the imaginary world of the Third Age of Middle-earth.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0345339738"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345339737"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+     "Fantasy"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 86,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=skXdvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=skXdvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=skXdvQEACAAJ&dq=subject:Fantasy&hl=&cd=306&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=skXdvQEACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Return_of_the_King.html?hl=&id=skXdvQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=skXdvQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gvHHoQEACAAJ",
+   "etag": "XFa/uVnqR3g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gvHHoQEACAAJ",
+   "volumeInfo": {
+    "title": "Wonder",
+    "authors": [
+     "Faye Hanson"
+    ],
+    "publishedDate": "2014-10-01",
+    "description": "This is a story about a boy whose head is always full of wonder. We follow him on an averageseeming school day, where his daydreams transform the world around him. Unfortunately lots of other people - the park keeper, the bus driver, the lollipop lady - all tell him to get his head out of the clouds. It is only in art class that he realises he can bring the wonder out of his head for the whole world to enjoy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1760065250"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781760065256"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Cerative thinking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gvHHoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gvHHoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=gvHHoQEACAAJ&dq=subject:Fantasy&hl=&cd=307&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=gvHHoQEACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Wonder.html?hl=&id=gvHHoQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gvHHoQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LhOVAafbzG8C",
+   "etag": "WN/53QUKguo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LhOVAafbzG8C",
+   "volumeInfo": {
+    "title": "The borrowers aloft",
+    "subtitle": "with the short tale, Poor Stainless",
+    "publishedDate": "2001",
+    "description": "Two stories about a family of tiny people called the Borrowers, in which the family is kidnapped, and the youngest boy is discovered missing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0439323401"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780439323406"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LhOVAafbzG8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LhOVAafbzG8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=LhOVAafbzG8C&dq=subject:Fantasy&hl=&cd=308&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=LhOVAafbzG8C&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_borrowers_aloft.html?hl=&id=LhOVAafbzG8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LhOVAafbzG8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nCgNxQEACAAJ",
+   "etag": "ugI1kuBchsY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nCgNxQEACAAJ",
+   "volumeInfo": {
+    "title": "Crossfire",
+    "subtitle": "The Bulari Saga",
+    "authors": [
+     "Jessie Kwak"
+    ],
+    "publishedDate": "1919-06-25",
+    "description": "When Willem Jaantzen is approached for help by local casino magnate Phaera D, he has the sinking feeling the only way to end this war is to betray the people he loves the most. And he's starting to suspect that Phaera wants more from him than just his help.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1946592102"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781946592101"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 362,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nCgNxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nCgNxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nCgNxQEACAAJ&dq=subject:Fantasy&hl=&cd=309&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nCgNxQEACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Crossfire.html?hl=&id=nCgNxQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nCgNxQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i1FgBQKQnd0C",
+   "etag": "DkbXuGvxQSQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i1FgBQKQnd0C",
+   "volumeInfo": {
+    "title": "The frog princess",
+    "authors": [
+     "E. D. Baker"
+    ],
+    "publishedDate": "2002",
+    "description": "After reluctantly kissing a frog, an awkward, fourteen-year-old princess suddenly finds herself a frog, too, and sets off with the prince to seek the means--and the self-confidence--to become human again.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0439754445"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780439754446"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 214,
+    "printType": "BOOK",
+    "categories": [
+     "Fantasy"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 34,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=i1FgBQKQnd0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=i1FgBQKQnd0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=i1FgBQKQnd0C&dq=subject:Fantasy&hl=&cd=310&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=i1FgBQKQnd0C&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_frog_princess.html?hl=&id=i1FgBQKQnd0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=i1FgBQKQnd0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X5TPd6nEMB8C",
+   "etag": "CPOjmtRM+no",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X5TPd6nEMB8C",
+   "volumeInfo": {
+    "title": "The Hobbit",
+    "authors": [
+     "J. R. R. Tolkien"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2001-09",
+    "description": "Chronicles the adventures of Bilbo Baggins, who embarks on a quest to reclaim stolen treasure from the dragon Smaug, along with his dwarve companions and the wizard Gandalf, and unwittingly returns to the Shire with a Ring of Power.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "061815082X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618150823"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2508,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=X5TPd6nEMB8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=X5TPd6nEMB8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=X5TPd6nEMB8C&dq=subject:Fantasy&hl=&cd=311&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=X5TPd6nEMB8C&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Hobbit.html?hl=&id=X5TPd6nEMB8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=X5TPd6nEMB8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nmmrvQEACAAJ",
+   "etag": "h3TZucAOVpE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nmmrvQEACAAJ",
+   "volumeInfo": {
+    "title": "Wish",
+    "subtitle": "A Novel",
+    "authors": [
+     "Alexandra Bullen"
+    ],
+    "publishedDate": "2010",
+    "description": "After her vivacious twin sister dies, Olivia Larsen, a shy teenager, moves with her parents to San Francisco, where she meets a mysterious seamstress who grants her one wish, thanks to a magically-crafted dress.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0545139058"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780545139052"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 323,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 10,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nmmrvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nmmrvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nmmrvQEACAAJ&dq=subject:Fantasy&hl=&cd=312&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nmmrvQEACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Wish.html?hl=&id=nmmrvQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nmmrvQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VlrOjEhTecIC",
+   "etag": "ZOW2MBNMwzQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VlrOjEhTecIC",
+   "volumeInfo": {
+    "title": "Peter Pan",
+    "authors": [
+     "J. M. Barrie",
+     "Cooper Edens",
+     "Leopoldo María Panero"
+    ],
+    "publishedDate": "2002-11-30",
+    "description": "Retells and illustrates the adventures of the three Darling children, Peter Pan, and Tinkerbell as they face pirates and Captain Hook in Never-Never Land.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8466607609"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788466607605"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 173,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VlrOjEhTecIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VlrOjEhTecIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=VlrOjEhTecIC&pg=PA1&dq=subject:Fantasy&hl=&cd=313&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=VlrOjEhTecIC&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Peter_Pan.html?hl=&id=VlrOjEhTecIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VlrOjEhTecIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "23JwGwAACAAJ",
+   "etag": "1NnA8oCuEhg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/23JwGwAACAAJ",
+   "volumeInfo": {
+    "title": "Back to the Divide",
+    "authors": [
+     "Elizabeth Kay",
+     "Ted Dewan"
+    ],
+    "publisher": "Chicken House",
+    "publishedDate": "2004",
+    "description": "A japegrin, Snakeweed, has placed a spell on Felix's parents that is beginning to effect the rest of the Earth, and fourteen-year-old Felix must follow him back across the Divide to seek a counterspell.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0439634105"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780439634106"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=23JwGwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=23JwGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=23JwGwAACAAJ&dq=subject:Fantasy&hl=&cd=314&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=23JwGwAACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Back_to_the_Divide.html?hl=&id=23JwGwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=23JwGwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8MgEXpr63pwC",
+   "etag": "YpBSbHYr7F8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8MgEXpr63pwC",
+   "volumeInfo": {
+    "title": "The Owl Keeper",
+    "authors": [
+     "Chris Brodien-Jones"
+    ],
+    "publisher": "Delacorte Books for Young Readers",
+    "publishedDate": "2010",
+    "description": "Eleven-year-old Max partners with an unusual girl, Rose, who shares his appreciation of the silver owls that the High Echelon wants to destroy, and together they make a perilous journey seeking to fulfill a prophecy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780385738149"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0385738145"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 306,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8MgEXpr63pwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8MgEXpr63pwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=8MgEXpr63pwC&dq=subject:Fantasy&hl=&cd=315&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=8MgEXpr63pwC&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Owl_Keeper.html?hl=&id=8MgEXpr63pwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8MgEXpr63pwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k1bAxQEACAAJ",
+   "etag": "KVAQCD6FZ7Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k1bAxQEACAAJ",
+   "volumeInfo": {
+    "title": "A Wind in the Door",
+    "authors": [
+     "Madeleine L'Engle"
+    ],
+    "publishedDate": "1974",
+    "description": "With Meg Murry's help, the dragons her six-year-old brother saw in the vegetable garden play an important part in his struggle between life and death.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0965846865"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780965846868"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 211,
+    "printType": "BOOK",
+    "categories": [
+     "Brothers and sisters"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 44,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=k1bAxQEACAAJ&dq=subject:Fantasy&hl=&cd=316&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=k1bAxQEACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Wind_in_the_Door.html?hl=&id=k1bAxQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=k1bAxQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YudIngEACAAJ",
+   "etag": "s7hD4akQTbI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YudIngEACAAJ",
+   "volumeInfo": {
+    "title": "The Wonderful Wizard of Oz",
+    "authors": [
+     "Eric Shanower"
+    ],
+    "publisher": "Abdo Group",
+    "publishedDate": "2014-01-01",
+    "description": "An eight-volume, graphic novel adaptation of L. Frank Baum's tales of Dorothy, a little girl from Kansas who is blown by a storm to the magical land of Oz, where she has amazing adventures while trying to get home.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1614792267"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781614792260"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YudIngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YudIngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YudIngEACAAJ&dq=subject:Fantasy&hl=&cd=317&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YudIngEACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Wonderful_Wizard_of_Oz.html?hl=&id=YudIngEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YudIngEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kvCAyAEACAAJ",
+   "etag": "kThjPMqItNE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kvCAyAEACAAJ",
+   "volumeInfo": {
+    "title": "The Wind in the Willows",
+    "authors": [
+     "Kenneth Grahame"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "publishedDate": "1908",
+    "description": "The adventures of four amiable animals, Rat, Toad, Mole and Badger, along a river in the English countryside.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OSU:32435015440100"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 312,
+    "printType": "BOOK",
+    "categories": [
+     "Adventure and adventurers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 139,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kvCAyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kvCAyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=kvCAyAEACAAJ&dq=subject:Fantasy&hl=&cd=318&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=kvCAyAEACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Wind_in_the_Willows.html?hl=&id=kvCAyAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kvCAyAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Kgg_PgAACAAJ",
+   "etag": "UmdwIwhJ7RA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Kgg_PgAACAAJ",
+   "volumeInfo": {
+    "title": "Akira",
+    "authors": [
+     "Katsuhiro Ōtomo"
+    ],
+    "publisher": "Titan Books (UK)",
+    "publishedDate": "2001",
+    "description": "This post-apocalyptic saga charts the coming of the creature known only as Akira, a power both feared and prized for its potential to shake the recovering world. The Great Tokyo Empire rises, but with technology's most advanced weaponry to hand, the planet is not taking the threat lying down.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1840233974"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781840233971"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 413,
+    "printType": "BOOK",
+    "categories": [
+     "Children"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Kgg_PgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Kgg_PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Kgg_PgAACAAJ&dq=subject:Fantasy&hl=&cd=319&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Kgg_PgAACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Akira.html?hl=&id=Kgg_PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Kgg_PgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Fdu8wgEACAAJ",
+   "etag": "JJA6jZ14wU0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Fdu8wgEACAAJ",
+   "volumeInfo": {
+    "title": "King of Scars",
+    "authors": [
+     "Leigh Bardugo"
+    ],
+    "publishedDate": "2019",
+    "description": "No one knows what Nikolai Lantsov endured in his country's bloody civil war. Now enemies gather at his weakened borders, and the young king must find a way to refill Ravka's coffers, forge new alliances, and stop a rising threat to the once-great Grisha Army. Zoya Nazyalensky is devoted to rebuilding the army -- but she also has enemies to conquer. Nina Zenik wages her own war to save the Grisha -- and must face the pain of her past. As a dark magic within Nikolai grows stronger, he must journey where the deepest magic survives -- and vanquish the terrible legacy inside him. -- adapted from jacket",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1250231183"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781250231185"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 514,
+    "printType": "BOOK",
+    "categories": [
+     "Adventure stories"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 8,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Fdu8wgEACAAJ&dq=subject:Fantasy&hl=&cd=320&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Fdu8wgEACAAJ&dq=subject:Fantasy&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/King_of_Scars.html?hl=&id=Fdu8wgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Fdu8wgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

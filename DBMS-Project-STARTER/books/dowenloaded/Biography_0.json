@@ -1,0 +1,2881 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 450,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ucvimGmncPkC",
+   "etag": "MM4VsBka6bU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ucvimGmncPkC",
+   "volumeInfo": {
+    "title": "The Song of the Ape",
+    "subtitle": "Understanding the Languages of Chimpanzees",
+    "authors": [
+     "Andrew R. Halloran"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2012-02-28",
+    "description": "Documents the astonishing experiences that inspired the author's work in chimpanzee communication, the individual histories of five captive chimpanzees, and the scientific attempts to teach human language to chimps.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312563110"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0312563116"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ucvimGmncPkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ucvimGmncPkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ucvimGmncPkC&printsec=frontcover&dq=subject:Biography&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ucvimGmncPkC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Song_of_the_Ape.html?hl=&id=ucvimGmncPkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ucvimGmncPkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lqBEn3UAJmUC",
+   "etag": "5RiVJUtRLWA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lqBEn3UAJmUC",
+   "volumeInfo": {
+    "title": "Francisco Coronado and the Seven Cities of Gold",
+    "authors": [
+     "Shane Mountjoy",
+     "William H. Goetzmann"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2009-01-01",
+    "description": "Spanish legend claimed that there were seven cities built of gold and filled with treasure in the New World. Coronado and his troupe spent three years wandering in the American Southwest discovering only the beauty of the landscape. Today he is seen as a",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438102412"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1438102410"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "America"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lqBEn3UAJmUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lqBEn3UAJmUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lqBEn3UAJmUC&printsec=frontcover&dq=subject:Biography&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lqBEn3UAJmUC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Francisco_Coronado_and_the_Seven_Cities.html?hl=&id=lqBEn3UAJmUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Francisco_Coronado_and_the_Seven_Cities-sample-epub.acsm?id=lqBEn3UAJmUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Francisco_Coronado_and_the_Seven_Cities-sample-pdf.acsm?id=lqBEn3UAJmUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lqBEn3UAJmUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gwQAdI4Av5cC",
+   "etag": "6xj+jZ4pjx4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gwQAdI4Av5cC",
+   "volumeInfo": {
+    "title": "The Biographical Tradition in Sufism",
+    "subtitle": "The Ṭabaqāt Genre from Al-Sulamī to Jāmī",
+    "authors": [
+     "Jawid Ahmad Mojaddedi"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2001",
+    "description": "An exploration of the major works of Sufi historiography, which takes the form of collections of biographies. It seeks to provide a literary context in which one can appreciate fully the theological significance and historical value of Sufi biographies.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "070071359X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780700713592"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 230,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gwQAdI4Av5cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gwQAdI4Av5cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=gwQAdI4Av5cC&printsec=frontcover&dq=subject:Biography&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=gwQAdI4Av5cC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Biographical_Tradition_in_Sufism.html?hl=&id=gwQAdI4Av5cC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gwQAdI4Av5cC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0xqrU5lnD7AC",
+   "etag": "j/ugrbK7pzM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0xqrU5lnD7AC",
+   "volumeInfo": {
+    "title": "Robert Kennedy and His Times",
+    "authors": [
+     "Arthur Meier Schlesinger"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2002",
+    "description": "Private papers, letters, and journals shed new light on Kennedy family relationships and underlie an account of Robert Kennedy's private and public lives, the forces that shaped him, and his impact on the United States.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0618219285"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618219285"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1066,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0xqrU5lnD7AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0xqrU5lnD7AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0xqrU5lnD7AC&printsec=frontcover&dq=subject:Biography&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0xqrU5lnD7AC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Robert_Kennedy_and_His_Times.html?hl=&id=0xqrU5lnD7AC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0xqrU5lnD7AC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eTbBXkBQvHoC",
+   "etag": "Yfg+uouiH5A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eTbBXkBQvHoC",
+   "volumeInfo": {
+    "title": "After the Fact",
+    "authors": [
+     "Clifford GEERTZ"
+    ],
+    "publisher": "Harvard University Press",
+    "publishedDate": "1996",
+    "description": "In looking back on four decades of anthropology in the field, Clifford Geertz creates a personal history that is also a retrospective reflection on developments in the human sciences amid political, social, and cultural changes in the world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674008723"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674008724"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 198,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eTbBXkBQvHoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eTbBXkBQvHoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=eTbBXkBQvHoC&printsec=frontcover&dq=subject:Biography&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=eTbBXkBQvHoC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/After_the_Fact.html?hl=&id=eTbBXkBQvHoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/After_the_Fact-sample-epub.acsm?id=eTbBXkBQvHoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/After_the_Fact-sample-pdf.acsm?id=eTbBXkBQvHoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eTbBXkBQvHoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wO3qlZr7s3MC",
+   "etag": "yuh0bk5qgqw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wO3qlZr7s3MC",
+   "volumeInfo": {
+    "title": "People of the Century",
+    "authors": [
+     "CBS News"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "1999",
+    "description": "Profiles one hundred of the most influential political leaders, artists, scientists, intellects, tycoons, and heroes of the twentieth century",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780684870939"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0684870932"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wO3qlZr7s3MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wO3qlZr7s3MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wO3qlZr7s3MC&printsec=frontcover&dq=subject:Biography&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=wO3qlZr7s3MC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/People_of_the_Century.html?hl=&id=wO3qlZr7s3MC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wO3qlZr7s3MC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G_5SQ5kiQooC",
+   "etag": "ek5UWsA4yOw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G_5SQ5kiQooC",
+   "volumeInfo": {
+    "title": "Clinical Social Work",
+    "subtitle": "Definition, Practice, and Vision",
+    "authors": [
+     "Rachelle A. Dorfman"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1996",
+    "description": "Twenty-nine collected essays represent a critical history of Shakespeare's play as text and as theater, beginning with Samuel Johnson in 1765, and ending with a review of the Royal Shakespeare Company production in 1991. The criticism centers on three aspects of the play: the love/friendship debate.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0876308086"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780876308080"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 204,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G_5SQ5kiQooC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G_5SQ5kiQooC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=G_5SQ5kiQooC&printsec=frontcover&dq=subject:Biography&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=G_5SQ5kiQooC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Clinical_Social_Work.html?hl=&id=G_5SQ5kiQooC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Clinical_Social_Work-sample-epub.acsm?id=G_5SQ5kiQooC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G_5SQ5kiQooC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cC0cZjB7SIcC",
+   "etag": "16NgXmGqQAU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cC0cZjB7SIcC",
+   "volumeInfo": {
+    "title": "On a Beam of Light",
+    "subtitle": "A Story of Albert Einstein",
+    "authors": [
+     "Jennifer Berne"
+    ],
+    "publisher": "Chronicle Books",
+    "publishedDate": "2013-04-23",
+    "description": "Follows the life of the famous physicist, from his early ideas to his groundbreaking theories.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780811872355"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0811872351"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 24,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cC0cZjB7SIcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cC0cZjB7SIcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cC0cZjB7SIcC&printsec=frontcover&dq=subject:Biography&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=cC0cZjB7SIcC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/On_a_Beam_of_Light.html?hl=&id=cC0cZjB7SIcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cC0cZjB7SIcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FHo1fFHartsC",
+   "etag": "sVXzTyEJX1Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FHo1fFHartsC",
+   "volumeInfo": {
+    "title": "Alexandra David-Neel",
+    "subtitle": "Explorer at the Roof of the World",
+    "authors": [
+     "Facts On File, Incorporated"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2004",
+    "description": "Women Explorers chronicles the lives of six intrepid women whose hunger for adventure and knowledge compelled them on paths of discovery around the world. Their discoveries not only brought stores of information on topics ranging from ancient dinosaur fossils to life in Tibet, but also challenged the established roles of women in their fields. From the age of five, Alexandra David-Neel longed for adventure and freedom from the societal expectations of women in nineteenth-century Europe. She traveled to Asia where she learned about Eastern religions and cultures and became the first non-Asian woman to enter the forbidden Tibetan city of Lhasa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438123967"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1438123965"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FHo1fFHartsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FHo1fFHartsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FHo1fFHartsC&printsec=frontcover&dq=subject:Biography&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=FHo1fFHartsC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Alexandra_David_Neel.html?hl=&id=FHo1fFHartsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Alexandra_David_Neel-sample-epub.acsm?id=FHo1fFHartsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Alexandra_David_Neel-sample-pdf.acsm?id=FHo1fFHartsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FHo1fFHartsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LzwiBQAAQBAJ",
+   "etag": "XdxHSKrDgjw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LzwiBQAAQBAJ",
+   "volumeInfo": {
+    "title": "America's Pastor",
+    "authors": [
+     "Grant Wacker"
+    ],
+    "publisher": "Harvard University Press",
+    "publishedDate": "2014-11-07",
+    "description": "Examines the life of Billy Graham and how he impacted American culture by successfully tapping into broader cultural trends.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674052185"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0674052188"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 413,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LzwiBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LzwiBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=LzwiBQAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=LzwiBQAAQBAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/America_s_Pastor.html?hl=&id=LzwiBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LzwiBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XR2nDAAAQBAJ",
+   "etag": "5fUxWA3uF4c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XR2nDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Pericles",
+    "subtitle": "A Biography in Context",
+    "authors": [
+     "Thomas R. Martin"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2016-07-27",
+    "description": "This is a provocative explanation of why Pericles insisted power was the only guarantee of Athens' survival and flourishing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521116459"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0521116457"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XR2nDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XR2nDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XR2nDAAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&cd=11&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XR2nDAAAQBAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pericles.html?hl=&id=XR2nDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XR2nDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yjnnI8nfqswC",
+   "etag": "Gy+VgYexEU8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yjnnI8nfqswC",
+   "volumeInfo": {
+    "title": "My Life's Journey",
+    "authors": [
+     "Janet Kataaha Museveni"
+    ],
+    "publisher": "African Books Collective",
+    "publishedDate": "2011",
+    "description": "Janet Kataaha Museveni is the First Lady of Uganda since May 1986. She is married to Yoweri Museveni, with whom she has four children. She is the current Minister for Karamoja Affairs in Uganda's Cabinet She was appointed to that position on 27 May 2011. She is also the elected Member of Parliament representing Ruhaama County, Ntungamo District. Janet Kainembabazi Kataaha Museveni here writes her story from her birth in Ntungamo to her work with youth in addressing the issue of HIV/AIDS in Uganda.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789970250738"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9970250736"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 294,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yjnnI8nfqswC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yjnnI8nfqswC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=yjnnI8nfqswC&printsec=frontcover&dq=subject:Biography&hl=&cd=12&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=yjnnI8nfqswC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/My_Life_s_Journey.html?hl=&id=yjnnI8nfqswC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yjnnI8nfqswC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wQeKAwAAQBAJ",
+   "etag": "Di9mD8UJ2z4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wQeKAwAAQBAJ",
+   "volumeInfo": {
+    "title": "John Wesley in America",
+    "subtitle": "Restoring Primitive Christianity",
+    "authors": [
+     "Geordan Hammond"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2014-04",
+    "description": "This book is a study of John Wesley's two year stay in Georgia from 1736-37. While Wesley's biographers have all discussed his Georgia sojourn, no one has yet produced a book-length investigation of his experience in America. The central argument of this study is that the Georgia mission, for Wesley, was a laboratory for implementing his views of primitive Christianity. The ideal of restoring the doctrine, discipline, and practice of the early church in thepristine Georgia wilderness was the prime motivating factor in Wesley's decision to embark for Georgia and in his clerical practice in the colony. The inspiration for his missionary practice was the HighChurch ecclesiology of the Usager Nonjurors, which had the restoration of the primitive church as its aim. Understanding the centrality of primitive Christianity to Wesley's thinking and pastoral methods is essential to comprehending his experience in the New World.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780198701606"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0198701608"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 237,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wQeKAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wQeKAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wQeKAwAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&cd=13&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=wQeKAwAAQBAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/John_Wesley_in_America.html?hl=&id=wQeKAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wQeKAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7pRFAwAAQBAJ",
+   "etag": "htn/S8y00cQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7pRFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Broken Hallelujah: Rock and Roll, Redemption, and the Life of Leonard Cohen",
+    "authors": [
+     "Liel Leibovitz"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "2014-04-14",
+    "description": "This meditation on the life of the Canadian singer-songwriter, musician, poet and novelist discusses his performing career, which began despite his crippling stage fright, to his induction into the Rock and Roll Hall of Fame. 13,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393082050"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0393082059"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7pRFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7pRFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7pRFAwAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&cd=14&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=7pRFAwAAQBAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Broken_Hallelujah_Rock_and_Roll_Redemp.html?hl=&id=7pRFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7pRFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5WgxpOvMzQgC",
+   "etag": "MsFjBpdeCSI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5WgxpOvMzQgC",
+   "volumeInfo": {
+    "title": "Who's Who in Ancient Egypt",
+    "authors": [
+     "Michael Rice"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2001",
+    "description": "From Aakheperkare-senb, an eighteenth Dynasty scribe, to Zenon, an adiminstrator of the Ptolemaic period, both the famous and the relatively unknown are listed in this guide and sourcebook to the people of ancient Egypt.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415154499"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415154499"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 257,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5WgxpOvMzQgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5WgxpOvMzQgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5WgxpOvMzQgC&printsec=frontcover&dq=subject:Biography&hl=&cd=15&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5WgxpOvMzQgC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Who_s_Who_in_Ancient_Egypt.html?hl=&id=5WgxpOvMzQgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5WgxpOvMzQgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c89Z8MN9DZUC",
+   "etag": "JcFfrMPSAc4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c89Z8MN9DZUC",
+   "volumeInfo": {
+    "title": "Marcus Garvey",
+    "subtitle": "Black Nationalist Leader",
+    "authors": [
+     "Mary Lawler",
+     "John Davenport"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2009-01-01",
+    "description": "* Critically acclaimed biographies of history's most notable African-Americans * Straightforward and objective writing * Lavishly illustrated with photographs and memorabilia * Essential for multicultural studies",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438100890"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1438100892"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 94,
+    "printType": "BOOK",
+    "categories": [
+     "African Americans"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=c89Z8MN9DZUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=c89Z8MN9DZUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=c89Z8MN9DZUC&printsec=frontcover&dq=subject:Biography&hl=&cd=16&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=c89Z8MN9DZUC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Marcus_Garvey.html?hl=&id=c89Z8MN9DZUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Marcus_Garvey-sample-epub.acsm?id=c89Z8MN9DZUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Marcus_Garvey-sample-pdf.acsm?id=c89Z8MN9DZUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c89Z8MN9DZUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kDsbBQAAQBAJ",
+   "etag": "2NU82jxuKJM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kDsbBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Yesterday, Today, Tomorrow",
+    "subtitle": "My Life",
+    "authors": [
+     "Sophia Loren"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2014-11-04",
+    "description": "\"Film legend Sophia Loren shares vivid memories of work, love, and family\"--",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781476797427"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1476797420"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kDsbBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kDsbBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=kDsbBQAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&cd=17&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=kDsbBQAAQBAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Yesterday_Today_Tomorrow.html?hl=&id=kDsbBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kDsbBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6DUofvduAVoC",
+   "etag": "mIvvrbj4BUI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6DUofvduAVoC",
+   "volumeInfo": {
+    "title": "In Good Company",
+    "subtitle": "One man's war in Vietnam",
+    "authors": [
+     "Gary McKay"
+    ],
+    "publisher": "Allen & Unwin",
+    "publishedDate": "1998-09-01",
+    "description": "An enthralling account of an Australian infantryman and his companions in the Vietnam War.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1864489049"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781864489040"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6DUofvduAVoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6DUofvduAVoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6DUofvduAVoC&printsec=frontcover&dq=subject:Biography&hl=&cd=18&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=6DUofvduAVoC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/In_Good_Company.html?hl=&id=6DUofvduAVoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6DUofvduAVoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_lKBBevRgj0C",
+   "etag": "oW7bJh7k4xo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_lKBBevRgj0C",
+   "volumeInfo": {
+    "title": "The Other God that Failed",
+    "subtitle": "Hans Freyer and the Deradicalization of German Conservatism",
+    "authors": [
+     "Jerry Z. Muller"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "1987",
+    "description": "Why did some of the \"best and brightest\" of Weimar intellectuals advocate totalitarian solutions to the problems of liberal democratic, capitalist society? How did their \"radical conservatism\" contribute to the rise of National Socialism? What roles did they play in the Third Reich? How did their experience of totalitarianism lead them to recast their social and political thought? This biography of Hans Freyer, a prominent German sociologist and political ideologist, is a case study of intellectuals and a \"god that failed\"--not on the political left, but on the right, where its significance has been overlooked. The author explores the interaction of political ideology and academic social science in democratic and totalitarian regimes, the transformation of German conservatism by the experience of National Socialism, and the ways in which tension between former collaborators and former opponents of National Socialism continued to mold West German intellectual life in the postwar decades.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "069100823X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691008233"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 449,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_lKBBevRgj0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_lKBBevRgj0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_lKBBevRgj0C&printsec=frontcover&dq=subject:Biography&hl=&cd=19&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_lKBBevRgj0C&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Other_God_that_Failed.html?hl=&id=_lKBBevRgj0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Other_God_that_Failed-sample-pdf.acsm?id=_lKBBevRgj0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_lKBBevRgj0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IacaBQAAQBAJ",
+   "etag": "cJVJax0rjLE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IacaBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Ferdinand II, Counter-Reformation Emperor, 1578-1637",
+    "authors": [
+     "Robert Bireley"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2014-11-17",
+    "description": "Emperor Ferdinand II (1619-1637) stands out as a crucial figure in the Counter-Reformation in central Europe, a leading player in the Thirty Years War, the most important ruler in the consolidation of the Habsburg monarchy, and the emperor who reinvigorated the office after its decline under his two predecessors. This is the first biography of Ferdinand since a long-outdated one written in German in 1978 and the first ever in English. It looks at his reign as territorial ruler of Inner Austria from 1598 until his election as emperor and especially at the influence of his mother, the formidable Archduchess Maria, in order to understand his later policies as emperor. This book focuses on the consistency of his policies and the profound influence of religion on his policies throughout his career. It also follows the contest at court between those who favored consolidation of the Habsburg lands and those who aimed for expansion in the empire, as well as between those who favored a militant religious policy and those who advocated a moderate one.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781107067158"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1107067154"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 340,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IacaBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IacaBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IacaBQAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&cd=20&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=IacaBQAAQBAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ferdinand_II_Counter_Reformation_Emperor.html?hl=&id=IacaBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IacaBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "odjGEmkOyWEC",
+   "etag": "Giz3jLtRCOQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/odjGEmkOyWEC",
+   "volumeInfo": {
+    "title": "John Adams",
+    "authors": [
+     "Heather Lehr Wagner",
+     "Walter Cronkite"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2009-01-01",
+    "description": "A biography of the second president of the United States.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438103051"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1438103050"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Presidents"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=odjGEmkOyWEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=odjGEmkOyWEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=odjGEmkOyWEC&printsec=frontcover&dq=subject:Biography&hl=&cd=21&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=odjGEmkOyWEC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/John_Adams.html?hl=&id=odjGEmkOyWEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/John_Adams-sample-epub.acsm?id=odjGEmkOyWEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=odjGEmkOyWEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LxxgtLjOSScC",
+   "etag": "nZp+gN3HwkU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LxxgtLjOSScC",
+   "volumeInfo": {
+    "title": "Just Checking",
+    "authors": [
+     "Emily Colas"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "1999-06-01",
+    "description": "In a series of brief, moving vignettes, the author describes her daily life with Obsessive Compulsive Disorder with honesty and humor, reflecting on her colorful family and friends and her deep relationship with her husband. Reprint.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671024383"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0671024388"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LxxgtLjOSScC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LxxgtLjOSScC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=LxxgtLjOSScC&printsec=frontcover&dq=subject:Biography&hl=&cd=22&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=LxxgtLjOSScC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Just_Checking.html?hl=&id=LxxgtLjOSScC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LxxgtLjOSScC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8oM8DwAAQBAJ",
+   "etag": "eqkhJ6sl1Jw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8oM8DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Osama Bin Laden",
+    "authors": [
+     "Michael Scheuer"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2011-02-17",
+    "description": "Available biographies depict Osama bin Laden as a historical figure, the mastermind behind 9/11, but no longer relevant to the world it created. In this book, Scheuer, the first head of the CIA's bin Laden Unit, provides a closely reasoned portrait of bin Laden.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199738663"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0199738661"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 278,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8oM8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8oM8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=8oM8DwAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&cd=23&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=8oM8DwAAQBAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Osama_Bin_Laden.html?hl=&id=8oM8DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8oM8DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XMgD8qCXc0sC",
+   "etag": "Ee2Bot8hLLA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XMgD8qCXc0sC",
+   "volumeInfo": {
+    "title": "Michelle Bachelet",
+    "authors": [
+     "Richard Worth",
+     "Arthur Meier Schlesinger"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2007",
+    "description": "In 2006, Michelle Bachelet made history by becoming the first woman to be elected president of Chile. The daughter of a Chilean Air Force general, Bachelet and her family were gravely affected by the upheaval that occurred after the 1973 military coup in Salvador Allende. This work examines the life and accomplishments of this world leader.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438104713"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1438104715"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 113,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XMgD8qCXc0sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XMgD8qCXc0sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XMgD8qCXc0sC&printsec=frontcover&dq=subject:Biography&hl=&cd=24&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XMgD8qCXc0sC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Michelle_Bachelet.html?hl=&id=XMgD8qCXc0sC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Michelle_Bachelet-sample-epub.acsm?id=XMgD8qCXc0sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Michelle_Bachelet-sample-pdf.acsm?id=XMgD8qCXc0sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XMgD8qCXc0sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bzmcGCy8tf0C",
+   "etag": "fGbqLihRCcQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bzmcGCy8tf0C",
+   "volumeInfo": {
+    "title": "Henry Kissinger",
+    "subtitle": "Ending the Vietnam War",
+    "authors": [
+     "Heather Lehr Wagner"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2007",
+    "description": "As national security advisor and secretary of state under President Richard Nixon, and secretary of state for Gerald Ford, Kissinger played a pivotal role in American foreign policy. This work provides coverage of the life and work of one of the 20th century's greatest diplomats with selected writings, related sidebars, and balanced commentary.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438104447"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1438104448"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 121,
+    "printType": "BOOK",
+    "categories": [
+     "Electronic books"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bzmcGCy8tf0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bzmcGCy8tf0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bzmcGCy8tf0C&printsec=frontcover&dq=subject:Biography&hl=&cd=25&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=bzmcGCy8tf0C&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Henry_Kissinger.html?hl=&id=bzmcGCy8tf0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Henry_Kissinger-sample-epub.acsm?id=bzmcGCy8tf0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Henry_Kissinger-sample-pdf.acsm?id=bzmcGCy8tf0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bzmcGCy8tf0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "63nvmt4HqTEC",
+   "etag": "l/1Cyvn9NhM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/63nvmt4HqTEC",
+   "volumeInfo": {
+    "title": "Who's who of Pulitzer Prize Winners",
+    "authors": [
+     "Elizabeth A. Brennan",
+     "Elizabeth C. Clarage"
+    ],
+    "publisher": "Greenwood Publishing Group",
+    "publishedDate": "1999",
+    "description": "List Pulitzer Prize winners in thirty-nine different categories, arranged chronologically, with biographical and career information, selected works, other awards, and a brief commentary, along with material on Pulitzer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1573561118"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781573561112"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 666,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=63nvmt4HqTEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=63nvmt4HqTEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=63nvmt4HqTEC&printsec=frontcover&dq=subject:Biography&hl=&cd=26&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=63nvmt4HqTEC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=63nvmt4HqTEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 101.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 81.56,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=63nvmt4HqTEC&rdid=book-63nvmt4HqTEC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.0195E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8.156E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Who_s_who_of_Pulitzer_Prize_Winners-sample-pdf.acsm?id=63nvmt4HqTEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=63nvmt4HqTEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mvZADAAAQBAJ",
+   "etag": "c4n2voVXx8E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mvZADAAAQBAJ",
+   "volumeInfo": {
+    "title": "Entwined",
+    "subtitle": "Sisters and Secrets in the Silent World of Artist Judith Scott",
+    "authors": [
+     "Joyce Wallace Scott"
+    ],
+    "publisher": "Beacon Press",
+    "publishedDate": "2016",
+    "description": "Joyce Wallace Scott, MA, is the twin sister of Judith Scott. As an RN and developmental specialist she has worked for many years with children with Down Syndrome and other special needs. --",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780807051405"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0807051403"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 37,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mvZADAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mvZADAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mvZADAAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&cd=27&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mvZADAAAQBAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Entwined.html?hl=&id=mvZADAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mvZADAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qjaMUyyLxocC",
+   "etag": "E52wsXkwYrQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qjaMUyyLxocC",
+   "volumeInfo": {
+    "title": "Mother Teresa",
+    "subtitle": "Caring for the World's Poor",
+    "authors": [
+     "Louise Chipley Slavicek"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2007",
+    "description": "Mother Teresa devoted herself to society's forgotten and unwanted, not only in India but in countries all over the globe. This is a biography of Mother Teresa, a woman who gave voice to those most often ignored and neglected by society at large, and whose name has forever become synonymous with tireless charity.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438104478"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1438104472"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 121,
+    "printType": "BOOK",
+    "categories": [
+     "Electronic books"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qjaMUyyLxocC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qjaMUyyLxocC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=qjaMUyyLxocC&printsec=frontcover&dq=subject:Biography&hl=&cd=28&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=qjaMUyyLxocC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mother_Teresa.html?hl=&id=qjaMUyyLxocC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Mother_Teresa-sample-epub.acsm?id=qjaMUyyLxocC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Mother_Teresa-sample-pdf.acsm?id=qjaMUyyLxocC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qjaMUyyLxocC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UWkVDAAAQBAJ",
+   "etag": "hCV/TYfOoyU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UWkVDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Victorian Biography Reconsidered",
+    "subtitle": "A Study of Nineteenth-Century 'Hidden' Lives",
+    "authors": [
+     "Juliette Atkinson"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2010-08-26",
+    "description": "Victorian Biography Reconsidered seeks to overthrow deep-seated preconceptions about Victorian biography by demonstrating that, long before our current cultural preoccupation with the lives of neglected or unknown men and women, Victorian biographers sought to bring such subjects to public attention. Through an examination of numerous biographies, from the lives of working-class scientists to minor women writers, this book examines how and whynineteenth-century biographers challenged the contemporary obsession with 'Great Men'. What emerges is that biographers were eager to take on the role of cultural mediator, which helped them assert their importance at a time when the status of men of letters and the nature of the reading public were undergoing profoundchanges. Most surprisingly of all, they showed comparatively little interest in conferring immortality on their subjects, but were more interested in stimulating a feeling of gratitude for hidden labour, both manual and intellectual, that sustained the nation.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199572137"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0199572135"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 315,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UWkVDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UWkVDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=UWkVDAAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&cd=29&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=UWkVDAAAQBAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Victorian_Biography_Reconsidered.html?hl=&id=UWkVDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UWkVDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QLc5oWuTIMcC",
+   "etag": "pEmw3xoo70k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QLc5oWuTIMcC",
+   "volumeInfo": {
+    "title": "When They Were 22",
+    "subtitle": "100 Famous People at the Turning Point in Their LIves",
+    "authors": [
+     "Brad Dunn"
+    ],
+    "publisher": "Andrews McMeel Publishing",
+    "publishedDate": "2006-03-01",
+    "description": "The author focuses on a single year in 100 extraordinary live to capture the mistakes and triumphs on the way to success.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0740758101"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780740758102"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QLc5oWuTIMcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QLc5oWuTIMcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=QLc5oWuTIMcC&printsec=frontcover&dq=subject:Biography&hl=&cd=30&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=QLc5oWuTIMcC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QLc5oWuTIMcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 10.36,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.29,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=QLc5oWuTIMcC&rdid=book-QLc5oWuTIMcC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.036E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8290000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/When_They_Were_22-sample-pdf.acsm?id=QLc5oWuTIMcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QLc5oWuTIMcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0nxUCwAAQBAJ",
+   "etag": "NYVykWZSOdQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0nxUCwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Only Pirate at the Party",
+    "authors": [
+     "Lindsey Stirling",
+     "Brooke S. Passey"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2016-01-12",
+    "description": "Dancing electronic violinist Lindsey Stirling shares her unconventional journey in an inspiring memoir filled with the energy, persistence, and humor that have helped her successfully pursue a passion outside the box. A classically trained musician gone rogue, Lindsey Stirling is the epitome of independent, millennial-defined success: after being voted off the set of America’s Got Talent, she went on to amass more than ten million social media fans, record two full-length albums, release multiple hits with billions of YouTube views, and to tour sold-out venues across the world. Lindsey is not afraid to be herself. In fact, it’s her confidence and individuality that have propelled her into the spotlight. But the road hasn’t been easy. After being rejected by talent scouts, music reps, and eventually on national television, Lindsey forged her own path, step by step. Detailing every trial and triumph she has faced until now, Lindsey shares stories of her humble yet charmed childhood, humorous adolescence, life as a struggling musician, personal struggles with anorexia, and finally, success as a world-class entertainer. Lindsey’s magnetizing story—at once remarkable and universal—is a testimony that there is no singular recipe for success, and despite what people may say, sometimes it’s okay to be The Only Pirate at the Party.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781501119101"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1501119109"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0nxUCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0nxUCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0nxUCwAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&cd=31&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0nxUCwAAQBAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Only_Pirate_at_the_Party.html?hl=&id=0nxUCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0nxUCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JscEZeXBsZYC",
+   "etag": "MetS+00glzA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JscEZeXBsZYC",
+   "volumeInfo": {
+    "title": "Encyclopedia of the Sixties",
+    "subtitle": "A Decade of Culture and Counterculture",
+    "authors": [
+     "Abbe A. Debolt",
+     "James S. Baugess"
+    ],
+    "publisher": "ABC-CLIO",
+    "publishedDate": "2011-12",
+    "description": "Comedian Robin Williams said that if you remember the '60s, you weren't there. This encyclopedia documents the people, places, movements, and culture of that memorable decade for those who lived it and those who came after. * Nearly 500 A–Z entries on the political, religious, artistic, and popular topics of the decade * A chronology of significant political and social events * 50 photographs and illustrations * Dozens of expert contributors from a variety of fields and academic disciplines * An extensive annotated bibliography",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780313329449"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0313329443"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 871,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JscEZeXBsZYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JscEZeXBsZYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=JscEZeXBsZYC&printsec=frontcover&dq=subject:Biography&hl=&cd=32&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=JscEZeXBsZYC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JscEZeXBsZYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 189.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 151.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=JscEZeXBsZYC&rdid=book-JscEZeXBsZYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.89E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.512E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Encyclopedia_of_the_Sixties-sample-pdf.acsm?id=JscEZeXBsZYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JscEZeXBsZYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L64OOJGaCKIC",
+   "etag": "ia9NGHcG3SA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L64OOJGaCKIC",
+   "volumeInfo": {
+    "title": "Benjamin Franklin",
+    "subtitle": "An American Life",
+    "authors": [
+     "Walter Isaacson"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2004-05-04",
+    "description": "Presents a portrait of Benjamin Franklin as a scientist, inventor, diplomat, writer, business strategist, and statesman while tracing his life as one of America's Founding Fathers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "074325807X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743258074"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 608,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1585,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=L64OOJGaCKIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=L64OOJGaCKIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=L64OOJGaCKIC&printsec=frontcover&dq=subject:Biography&hl=&cd=33&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=L64OOJGaCKIC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Benjamin_Franklin.html?hl=&id=L64OOJGaCKIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=L64OOJGaCKIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hi17DwAAQBAJ",
+   "etag": "dgiax+3F3bw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hi17DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Becoming",
+    "authors": [
+     "Michelle Obama"
+    ],
+    "publisher": "Crown Publishing Group (NY)",
+    "publishedDate": "2018-11-13",
+    "description": "In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era. As First Lady of the United States of America, she helped create the most welcoming and inclusive White House in history. With unerring honesty and lively wit, she describes her triumphs and her disappointments, both public and private. A deeply personal reckoning of a woman of soul and substance who has steadily defied expectations.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781524763138"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1524763136"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 77,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hi17DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hi17DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hi17DwAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&cd=34&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=hi17DwAAQBAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Becoming.html?hl=&id=hi17DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hi17DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "46Lg24devh4C",
+   "etag": "HMrVq6nYfsI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/46Lg24devh4C",
+   "volumeInfo": {
+    "title": "Ressourcenorientierte Biografiearbeit",
+    "subtitle": "Grundlagen - Zielgruppen - kreative Methoden",
+    "authors": [
+     "Irma Jansen"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2009-07-28",
+    "description": "Dieses Lehrbuch stellt ein neues, systematisiertes und erweitertes Verständnis von Biografiearbeit in Theorie und Praxis vor. Biografiearbeit erscheint dabei als Instrument zur Gestaltung biografischer Prozesse mit konsequentem Fokus auf kreative Lebensbewältigung und die Aktivierung von Ressourcen. Es liefert theoretische Grundlagen für das Verständnis biografischer Prozesse und fachliche Leitlinien für den Einsatz von Biografiearbeit im systematischen Hilfeprozess. Für die sozialpädagogische Praxis werden, orientiert an spezifischen Herausforderungen, vielfältige kreative Zugänge für die biografische Arbeit mit Kindern, Jugendlichen, Erwachsenen und alten Menschen systematisch aufbereitet und fallbezogen illustriert.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3531163779"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783531163772"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 341,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=46Lg24devh4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=46Lg24devh4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=46Lg24devh4C&printsec=frontcover&dq=subject:Biography&hl=&cd=35&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=46Lg24devh4C&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ressourcenorientierte_Biografiearbeit.html?hl=&id=46Lg24devh4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=46Lg24devh4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wdZOAQAAQBAJ",
+   "etag": "nIElEgktobU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wdZOAQAAQBAJ",
+   "volumeInfo": {
+    "title": "American Mirror: The Life and Art of Norman Rockwell",
+    "authors": [
+     "Deborah Solomon"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2013-11-05",
+    "description": "\"The long-awaited biography of the defining illustrator of the twentieth century by a celebrated art critic\"--",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780374113094"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0374113092"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 493,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wdZOAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wdZOAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wdZOAQAAQBAJ&printsec=frontcover&dq=subject:Biography&hl=&cd=36&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=wdZOAQAAQBAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/American_Mirror_The_Life_and_Art_of_Norm.html?hl=&id=wdZOAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wdZOAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g3vShjjb8EUC",
+   "etag": "OFKUakdJTFc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g3vShjjb8EUC",
+   "volumeInfo": {
+    "title": "Jesse Owens",
+    "subtitle": "Champion Athlete",
+    "authors": [
+     "Tony Gentry",
+     "Heather Lehr Wagner"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2009-01-01",
+    "description": "* Critically acclaimed biographies of history's most notable African-Americans * Straightforward and objective writing * Lavishly illustrated with photographs and memorabilia * Essential for multicultural studies",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438100838"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1438100833"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 116,
+    "printType": "BOOK",
+    "categories": [
+     "Track and field athletes"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=g3vShjjb8EUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=g3vShjjb8EUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=g3vShjjb8EUC&printsec=frontcover&dq=subject:Biography&hl=&cd=37&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=g3vShjjb8EUC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jesse_Owens.html?hl=&id=g3vShjjb8EUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Jesse_Owens-sample-epub.acsm?id=g3vShjjb8EUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Jesse_Owens-sample-pdf.acsm?id=g3vShjjb8EUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=g3vShjjb8EUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gkMFzTS1OxcC",
+   "etag": "0bJzG7Mf0T0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gkMFzTS1OxcC",
+   "volumeInfo": {
+    "title": "Felipe Calderón",
+    "authors": [
+     "Susan Muaddi Darraj"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2009-01-01",
+    "description": "As a schoolboy, Felipe Calderon told his teacher that he wanted to be the president of Mexico one day. In 2006, he achieved that goal, but it was in the midst of one of the nation's most turbulent political scandals. Calderon was born into a political family. His father was one of the founders of the National Action Party, or PAN. PAN struggled for years, as the young Calderon witnessed, to gain political momentum against the PRI, the party that dominated the political scene for decades. The highly controversial election of 2006 is just one part of the complex world of Mexican politics, on which Calderon is now trying to leave a positive imprint.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438116754"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1438116756"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 113,
+    "printType": "BOOK",
+    "categories": [
+     "Mexico"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gkMFzTS1OxcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gkMFzTS1OxcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=gkMFzTS1OxcC&printsec=frontcover&dq=subject:Biography&hl=&cd=38&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=gkMFzTS1OxcC&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Felipe_Calder%C3%B3n.html?hl=&id=gkMFzTS1OxcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Felipe_Calder%C3%B3n-sample-epub.acsm?id=gkMFzTS1OxcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Felipe_Calder%C3%B3n-sample-pdf.acsm?id=gkMFzTS1OxcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gkMFzTS1OxcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a6cQb5Y3hIUC",
+   "etag": "KTo8LvYVfD0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a6cQb5Y3hIUC",
+   "volumeInfo": {
+    "title": "Reconstructing Illness",
+    "subtitle": "Studies in Pathography",
+    "authors": [
+     "Anne Hunsaker Hawkins"
+    ],
+    "publisher": "Purdue University Press",
+    "publishedDate": "1999",
+    "description": "Serious illness and mortality, those most universal, unavoidable, and frightening of human experiences, are the focus of this pioneering study, which has been hailed as a telling and provocative commentary on our times. As modern medicine has become more scientific and dispassionate, a new literary genre as emerged: pathography, the personal narrative concerning illness, treatment and sometimes death. Hawkins's sensitive reading of numerous pathographies highlights the assumptions, attitudes, and myths that people bring to the medical encounter. One factor emerges again and again in these \"case studies\": the tendency in contemporary medical practice to focus primarily not on the needs of the individual who is sick but on the condition that we call disease. Recommended for medical practitioners, the clergy, caregivers, students of popular culture, and the general reader, Reconstructing Illness demonstrates that \"only when we hear both the doctor's and the patient's voice will we have a medicine that is truly human.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1557531269"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557531261"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 289,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=a6cQb5Y3hIUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=a6cQb5Y3hIUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=a6cQb5Y3hIUC&printsec=frontcover&dq=subject:Biography&hl=&cd=39&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=a6cQb5Y3hIUC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=a6cQb5Y3hIUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.96,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=a6cQb5Y3hIUC&rdid=book-a6cQb5Y3hIUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.596E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Reconstructing_Illness-sample-epub.acsm?id=a6cQb5Y3hIUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Reconstructing_Illness-sample-pdf.acsm?id=a6cQb5Y3hIUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=a6cQb5Y3hIUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jxV4qEolEo8C",
+   "etag": "oor93PG7yXQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jxV4qEolEo8C",
+   "volumeInfo": {
+    "title": "An A-Z of Type Designers",
+    "authors": [
+     "Neil Macmillan"
+    ],
+    "publisher": "Yale University Press",
+    "publishedDate": "2006",
+    "description": "Review: \"This illustrated A-Z features outstanding type designers from around the world, from Gutenberg to the present day. Arranged alphabetically by designer's name, the book contains over 260 biographical profiles. Entries are illustrated by key typefaces taken from a wide range of sources, including type specimens, original posters, private press editions and magazine covers, and also give a list of work and, where applicable, further reading references and a website address. An essential reference for typographers, graphic designers and students, the book also features a full index and eight short texts by leading typographers - Jonathan Barnbrook, Erik van Blokland, Clive Bruton, John Downer, John Hudson, Jean Francois Porchez, Erik Spiekermann and Jeremy Tankard - that cover a variety of different aspects of type design, including typeface revivals, font piracy, designing fonts for corporate identities and the role of nationality in type design.\"--BOOK JACKET",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0300111517"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300111514"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jxV4qEolEo8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jxV4qEolEo8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jxV4qEolEo8C&printsec=frontcover&dq=subject:Biography&hl=&cd=40&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jxV4qEolEo8C&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/An_A_Z_of_Type_Designers.html?hl=&id=jxV4qEolEo8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jxV4qEolEo8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

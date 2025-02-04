@@ -1,0 +1,257 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 4,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "VC-DAAAAMAAJ",
+   "etag": "dDCQyNr4mP4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VC-DAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Some conceptual approaches to the study of modernization",
+    "authors": [
+     "David Ernest Apter"
+    ],
+    "publisher": "Prentice Hall",
+    "publishedDate": "1968",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015001141772"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 380,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VC-DAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VC-DAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=VC-DAAAAMAAJ&q=subject:Political+Science&dq=subject:Political+Science&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=VC-DAAAAMAAJ&dq=subject:Political+Science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Some_conceptual_approaches_to_the_study.html?hl=&id=VC-DAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VC-DAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ut8GBgAAQBAJ",
+   "etag": "N3b4im5NKZI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ut8GBgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Global War on Morris",
+    "subtitle": "A Novel",
+    "authors": [
+     "Steve Israel"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2014-12-30",
+    "description": "Written by a Congressman, a political satire follows pharmaceutical salesman Morris Feldstein, who accidentally puts a non-business charge on his credit card that gets flagged by a government-surveillance-program supercomputer and leads to his becoming public enemy number one. 50,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781476772233"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1476772231"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ut8GBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ut8GBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ut8GBgAAQBAJ&pg=PA62&dq=subject:Political+Science&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ut8GBgAAQBAJ&dq=subject:Political+Science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Global_War_on_Morris.html?hl=&id=ut8GBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ut8GBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XbTtAAAAMAAJ",
+   "etag": "J0mgBiRj7FY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XbTtAAAAMAAJ",
+   "volumeInfo": {
+    "title": "I gamla Svitjod åter",
+    "subtitle": "ur Gustav Mångvis saga",
+    "authors": [
+     "Gunnar Ericsson"
+    ],
+    "publishedDate": "1962",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89103321261"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 134,
+    "printType": "BOOK",
+    "categories": [
+     "Caricature and comic art, Swedish"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XbTtAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XbTtAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "sv",
+    "previewLink": "http://books.google.com/books?id=XbTtAAAAMAAJ&q=subject:Political+Science&dq=subject:Political+Science&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XbTtAAAAMAAJ&dq=subject:Political+Science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/I_gamla_Svitjod_%C3%A5ter.html?hl=&id=XbTtAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XbTtAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-rhNAAAAMAAJ",
+   "etag": "m1ZrUVHtk/8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-rhNAAAAMAAJ",
+   "volumeInfo": {
+    "title": "現代支那の政治機構とその構成分子",
+    "authors": [
+     "濱田峰太郎"
+    ],
+    "publishedDate": "1936",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015058499503"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 402,
+    "printType": "BOOK",
+    "categories": [
+     "Political parties"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-rhNAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-rhNAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "zh-TW",
+    "previewLink": "http://books.google.com/books?id=-rhNAAAAMAAJ&q=subject:Political+Science&dq=subject:Political+Science&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=-rhNAAAAMAAJ&dq=subject:Political+Science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%E7%8F%BE%E4%BB%A3%E6%94%AF%E9%82%A3%E3%81%AE%E6%94%BF%E6%B2%BB%E6%A9%9F%E6%A7%8B%E3%81%A8%E3%81%9D%E3%81%AE%E6%A7%8B.html?hl=&id=-rhNAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-rhNAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

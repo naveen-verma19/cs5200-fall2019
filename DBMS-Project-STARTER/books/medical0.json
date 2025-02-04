@@ -1,0 +1,3414 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 411,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "gOUWKSs6lo8C",
+   "etag": "OUJuoz5asek",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gOUWKSs6lo8C",
+   "volumeInfo": {
+    "title": "Mechatronics",
+    "authors": [
+     "G. Hegde"
+    ],
+    "publisher": "Jones & Bartlett Publishers",
+    "publishedDate": "2009-06-23",
+    "description": "Mechatronics integrates key systems from mechanical, electrical, electronic, and computer engineering to manufacture industrial products, processes, and operations. Intended as a textbook for courses in mechatronics or as an up-to-date reference for practicing engineers, the book uses extensive in-text, solved examples and computer simulations to cover the basic concepts. This book contains information from both the theoretical and application perspectives related to mechatronic systems. The self-explanatory block diagrams, examples, and numerous illustrations provide the reader with a self-study text to develop systems with motors, circuits, microprocessors, and controls. A CD-ROM with numerous simulations, software, and third-party applications accompanies the print version of the text.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780763782993"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0763782998"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 450,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gOUWKSs6lo8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gOUWKSs6lo8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=gOUWKSs6lo8C&printsec=frontcover&dq=subject:medical&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=gOUWKSs6lo8C&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mechatronics.html?hl=&id=gOUWKSs6lo8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Mechatronics-sample-epub.acsm?id=gOUWKSs6lo8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gOUWKSs6lo8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ICEFIUZmoSwC",
+   "etag": "eQGtYMhyo+U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ICEFIUZmoSwC",
+   "volumeInfo": {
+    "title": "Collisional Processes in the Solar System",
+    "authors": [
+     "Mikhail Y. Marov",
+     "Mikhail I︠A︡kovlevich Marov",
+     "Hans Rickman"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2001",
+    "description": "The explosive growth of knowledge in the field of space exploration and, in particular the interdisciplinary character of the subject of collisions in the solar system, put the scientific interest of planetary and galactic astronomers, as well as specialists in geophysics, dynamics, and cosmochemistry in a common focus. Obvious highlights include the explosion in the rate of discoveries of Kuiper belt objects; better understanding of dynamics of main belt asteroids and the processes affecting their injection into the inner planets crossing orbits; growing understanding of the importance of comets and asteroids in the delivery of volatiles to the inner planets and even possibly in life origin on the Earth; great acceleration of NEO discovery and more reliable prediction of their future threat to the Earth. All these topics are thoroughly addressed and discussed by the top-level specialists in the field on the most comprehensive and unprecedented basis. Owing to its interdisciplinary character the book will undoubtedly meet an interest of specialists in the different fields of astronomy, planetary and Earth sciences.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0792369467"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780792369462"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 357,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ICEFIUZmoSwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ICEFIUZmoSwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=ICEFIUZmoSwC&printsec=frontcover&dq=subject:medical&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ICEFIUZmoSwC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Collisional_Processes_in_the_Solar_Syste.html?hl=&id=ICEFIUZmoSwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Collisional_Processes_in_the_Solar_Syste-sample-pdf.acsm?id=ICEFIUZmoSwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ICEFIUZmoSwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jM9pDQAAQBAJ",
+   "etag": "rO8YaMTwccU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jM9pDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Present and Future Therapies for End-stage Renal Disease",
+    "authors": [
+     "Eli A. Friedman",
+     "Mary C. Mallappallil"
+    ],
+    "publisher": "World Scientific",
+    "publishedDate": "2010",
+    "description": "The contributors include physicians who practise uremia therapy since its conception to more recent graduates, along with surgeons, pioneers and physicians who are patients themselves, thus giving readers the broadest perspective. --",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789814280020"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "981428002X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 195,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jM9pDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jM9pDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jM9pDQAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jM9pDQAAQBAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Present_and_Future_Therapies_for_End_sta.html?hl=&id=jM9pDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jM9pDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vh0YiWORzBgC",
+   "etag": "Ba+dEEvRiQM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vh0YiWORzBgC",
+   "volumeInfo": {
+    "title": "The Health Care Supervisor",
+    "subtitle": "Law",
+    "authors": [
+     "Charles R. McConnell"
+    ],
+    "publisher": "Jones & Bartlett Learning",
+    "publishedDate": "1993",
+    "description": "The focus of this classic collection of articles from The Health Care Supervisor is legislation and other legal matters as they may affect t he working health care supervisor. The book covers issues of liability, legal responsibilities of supervisors, laws that govern some aspects of supervisory conduct, laws regulating employment, and other legal m atters from individual privacy to labor unions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0834203677"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780834203679"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 227,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vh0YiWORzBgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vh0YiWORzBgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vh0YiWORzBgC&printsec=frontcover&dq=subject:medical&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=vh0YiWORzBgC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Health_Care_Supervisor.html?hl=&id=vh0YiWORzBgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vh0YiWORzBgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BhJIAwAAQBAJ",
+   "etag": "+RI8/fPyPY4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BhJIAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Group Protocols",
+    "subtitle": "A Psychosocial Compendium",
+    "authors": [
+     "Diane Gibson"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2014-04-04",
+    "description": "Here is a valuable book intended to help those occupational therapists working in mental health settings to refine their critical thinking about the group activities they select and the protocols they design. Experts focus on practicing sound clinical reasoning and clinical decision making to ensure careful assessment of which activities, structured in what fashion, are appropriate for particular populations. They also address the topic of providing services that are relevant, practical, have already delineated goals and objectives, produce outcome data, and can be replicated across settings. Group Protocols: A Psychosocial Compendium offers readers a systematic approach to the assessment and design of group protocols, plus a wide variety of sample protocols from which treatment strategies may be drawn. Because this volume represents a style of thinking rather than a singular theoretical frame of reference, it will be useful to any occupational therapist for whom groups are an essential aspect of professional practice.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781317773177"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1317773179"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 146,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BhJIAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BhJIAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BhJIAwAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BhJIAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BhJIAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 53.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 43.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BhJIAwAAQBAJ&rdid=book-BhJIAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.395E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.316E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Group_Protocols-sample-epub.acsm?id=BhJIAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Group_Protocols-sample-pdf.acsm?id=BhJIAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BhJIAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "d8kXyJ7nhuMC",
+   "etag": "SlmZec+vrMY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d8kXyJ7nhuMC",
+   "volumeInfo": {
+    "title": "Control and Surveillance of African Trypanosomiasis",
+    "subtitle": "Report of a WHO Expert Committee",
+    "authors": [
+     "World Health Organization"
+    ],
+    "publisher": "World Health Organization",
+    "publishedDate": "1998",
+    "description": "Contracting is a tool that is playing an increasing role in many health systems. Although contracting has the potential to add benefits to health systems it also adds further complexity. Following a substantial health sector reform and the introduction of a purchaser-provider split contracting became a central part of the management of New Zealand's publicly funded health system during the period 1993 to 2000. This publication examines a number of different aspects of New Zealand's experience of using contracts in the health sector including the contracting process contract content and form purchaser-provider relationships including sources of tension and factors that alleviated tensions and issues related to monitoring and accountability. This publication may assist other countries that are using or are planning to use contracts within their health systems.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789241208819"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9241208813"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 113,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=d8kXyJ7nhuMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=d8kXyJ7nhuMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=d8kXyJ7nhuMC&printsec=frontcover&dq=subject:medical&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=d8kXyJ7nhuMC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Control_and_Surveillance_of_African_Tryp.html?hl=&id=d8kXyJ7nhuMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=d8kXyJ7nhuMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8BvOBgAAQBAJ",
+   "etag": "HCUDH3KbXOs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8BvOBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Ventricular Fibrillation and Sudden Coronary Death",
+    "authors": [
+     "Mina Rajskina"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2012-12-06",
+    "description": "The publication embodied here represents the life work of a premier Russian scientist studying Sudden Cardiac Death. As one can gather from more than 35 first authored publications cited in the References, Dr. Rajskina has been involved with the investigation of mechanisms responsible for Sudden Cardiac Death for over 30 years. She has brought a classical approach to the sub ject, considering the effects of blood supply disturbances, electrophysiological changes that occur after regional ischemia, metabolic alterations, and the role of the autonomic nervous system in modulating these changes. These studies naturally lead to a consideration of interventions, based on her research, to prevent ventricular fibrillation after coronary artery occlusion. This is a wide ranging treatise indicative of a lifetime of study of the problem and filled with the richness of scientific experiments generated in its pursuit. There is so much in here that will be of interest to the arrhythmologist interested in Sudden Cardiac Death, whether this is on a single channel level, in vitro study of hearts, in vivo investigation of intact animals, or at the bedside. And throughout it all, statements are copiously documented with more than 850 references. That alone is worth hours of computer searching. I am very proud to have been asked by this outstanding scientist to write a brief Preface to her monumental contribution. All of us involved in the study of arrhythmic mechanisms responsible for Sudden Cardiac Death can hold Dr.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781461552536"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1461552532"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 213,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8BvOBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8BvOBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=8BvOBgAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8BvOBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8BvOBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 169.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 135.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8BvOBgAAQBAJ&rdid=book-8BvOBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.69E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.352E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 5.915E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.146E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Ventricular_Fibrillation_and_Sudden_Coro-sample-epub.acsm?id=8BvOBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Ventricular_Fibrillation_and_Sudden_Coro-sample-pdf.acsm?id=8BvOBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8BvOBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FxlT5PeZ02AC",
+   "etag": "YV9YDk5shXQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FxlT5PeZ02AC",
+   "volumeInfo": {
+    "title": "Take Control",
+    "subtitle": "A Guide to Holistic Living",
+    "authors": [
+     "Dr. Linda Mundorff"
+    ],
+    "publisher": "iUniverse",
+    "publishedDate": "2006-12-05",
+    "description": "Nearly $1.5 billion per year is spent on alternative medical treatments. With more than twenty-five years of experience in the health-care profession, Dr. Linda Mundorff explores a variety of medical options designed to promote a natural lifestyle in Take Control: A Guide to Holistic Living. Writing in a style that health-care professionals and laypersons alike will understand and identify with, Mundorff will help you take control of your health by discovering the practical effectiveness of alternative medicine in conjunction with modern medicine. Informative, insightful, and humorous, Take Control allows you to gain control of your health by becoming a self-advocate in your care. Take Control will show you how to: Make lifestyle choices that last Fuel your body Live a more natural life Discover mindful exercises And much more With thorough coverage of remedies and contraindications supplemented by a glossary of terms, a list of suggested reading material, journal activities, and a variety of other helpful contents, Take Control is a guide to alternative medicine for everyone!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0595845290"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780595845293"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.7.4.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FxlT5PeZ02AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FxlT5PeZ02AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FxlT5PeZ02AC&printsec=frontcover&dq=subject:medical&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FxlT5PeZ02AC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FxlT5PeZ02AC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FxlT5PeZ02AC&rdid=book-FxlT5PeZ02AC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Take_Control-sample-pdf.acsm?id=FxlT5PeZ02AC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FxlT5PeZ02AC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t8aOXNefYX0C",
+   "etag": "4q28bD+2ib0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t8aOXNefYX0C",
+   "volumeInfo": {
+    "title": "Disaster Planning for the Clinical Practice",
+    "authors": [
+     "Clinical Associate Professor of Urology Tulane School of Medicine and Louisiana State University Neil Baum, M.D.",
+     "Neil Baum",
+     "John W. McDaniel"
+    ],
+    "publisher": "Jones & Bartlett Publishers",
+    "publishedDate": "2009-10-06",
+    "description": "Most clinical practices are not prepared for a disaster, and failure to prepare for a disaster can have devastating consequences on a medical practice, the physicians, and the patients. Disaster Planning for the Clinical Practice describes the types of disasters that can affect medical practices, suggests steps for disaster planning, and identifies the necessary procedures for restarting the practice after a disaster has occurred. Natural disasters are not the most common casue of practice failure - man-made disasters such as computer crashes, power outages, and loss of electronic data are more likely to impact a medical practice. This book offers suggestions on the preparation of a disaster plan that can be easily implemented into any health practice, and discusses how to overcome both natural and man-made disasters. Each chapter features true disaster case studies, questions doctors or office managers need to answer, and step-by-step recommendations for the implementation of the disaster plan, as well as dozens of templates and forms ready for immediate use. This is an essential resource for all practices large, small, rural, and academic. Includes a user-friendly CD ROM with forms, questionnaires, and charts!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780763788308"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0763788309"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 234,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.7.6.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=t8aOXNefYX0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=t8aOXNefYX0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=t8aOXNefYX0C&printsec=frontcover&dq=subject:medical&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=t8aOXNefYX0C&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Disaster_Planning_for_the_Clinical_Pract.html?hl=&id=t8aOXNefYX0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Disaster_Planning_for_the_Clinical_Pract-sample-epub.acsm?id=t8aOXNefYX0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=t8aOXNefYX0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dkXSBQAAQBAJ",
+   "etag": "H+wb6uHa8p4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dkXSBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Advanced Bioactive Inorganic Materials for Bone Regeneration and Drug Delivery",
+    "authors": [
+     "Chengtie Wu",
+     "Jiang Chang",
+     "Yin Xiao"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "2013-03-22",
+    "description": "Bioceramics play an important role in repairing and regenerating defective or damaged bone. Annually, more than 500,000 bone graft procedures are performed in the United States and approximately 2.2 million are conducted worldwide. Advanced Bioactive Inorganic Materials for Bone Regeneration and Drug Delivery reviews the latest advances in the field of bioceramics. The book summarizes innovative concepts, bioceramic design, and methods for material synthesis and drug delivery. Offering guidance for biomedical engineering researchers and material scientists, the book explores: Novel mesoporous bioactive glasses and silicate-based ceramics for bone regeneration and drug delivery Bioactive silicate ceramics, including their mechanical properties, interaction with bone-forming cells, and in vivo osteogenesis and angiogenesis Silica nanospheres with a core-shell structure and their specific properties for controllable drug delivery The 3D-printing technique to prepare advanced bioceramic scaffolds for bone tissue engineering applications—including the preparation, mechanical strength, and biological properties of 3D-printed porous scaffolds of calcium phosphate cement and silicate bioceramics Biomimetic preparation and controllable crystal growth and biomineralization of bioceramics Inorganic and organic composite materials and their unique biological, electrical, and mechanical properties that enable the design of excellent bone regeneration and gene delivery systems A comprehensive survey of the research progress of bioceramics and their applications in bone repair and regeneration, this volume is designed to enhance study and career development for those in this field and to facilitate further research and opportunities for new solutions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781466552005"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "146655200X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 244,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dkXSBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dkXSBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=dkXSBQAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=dkXSBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dkXSBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 74.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 59.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=dkXSBQAAQBAJ&rdid=book-dkXSBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7.495E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.996E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Advanced_Bioactive_Inorganic_Materials_f-sample-pdf.acsm?id=dkXSBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dkXSBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7Ci5BwAAQBAJ",
+   "etag": "TrmMl88DQMo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7Ci5BwAAQBAJ",
+   "volumeInfo": {
+    "title": "Brain Ischemia",
+    "subtitle": "Basic Concepts and Clinical Relevance",
+    "authors": [
+     "Louis R. Caplan"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2012-12-06",
+    "description": "Professor Caplan has extensively edited the book to shape and organize the contents into a succinct presentation by experts of the basic science and clinical aspects of the topic. The text has been divided into sections: The Brain.- Macroscopic and microscopic molecular aspects of brain ischemia, including pathophysiology, pathology, biochemistry, and clinical measurement.- Blood Vessels.- Their constitution and the pathology and physiology of the endothelium and arterial wall.- Blood Flow.- Its physics, control, rheology, and pathophysiology.- Blood.- The role of the cellular and serological constituents in coagulation and fibrinolysis. - Heart.- Sources of embolism and cardiac changes caused by brain ischemia.- And Epidemiology, Databases, and Trials. Prefatory remarks by Professor Caplan introduce each section. At the end of each section he relates the basic concepts to patient problems in the clinic, integrates the various contributions in the section, and covers other areas not discussed by the individual contributors.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781447120735"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1447120736"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 380,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7Ci5BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7Ci5BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7Ci5BwAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=11&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7Ci5BwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7Ci5BwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 129.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 103.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7Ci5BwAAQBAJ&rdid=book-7Ci5BwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.29E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.032E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.515E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.928E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Brain_Ischemia-sample-epub.acsm?id=7Ci5BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Brain_Ischemia-sample-pdf.acsm?id=7Ci5BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7Ci5BwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xveBDUGIyj8C",
+   "etag": "QA5el2+AVx0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xveBDUGIyj8C",
+   "volumeInfo": {
+    "title": "Medicaid And The Limits of State Health Reform",
+    "authors": [
+     "Michael Sparer"
+    ],
+    "publisher": "Temple University Press",
+    "publishedDate": "2010-06-21",
+    "description": "With the defeat of national health reform, many liberals have looked to the states as the source of health policy innovation. At the same time, many in the new Republican majority and several governors also support increased state control. In contrast, Michael S. Sparer convincingly argues that states by themselves can neither satisfy the liberal hope for universal coverage nor the conservative hope for cost containment. He also points to two critical drawbacks to a state-dominated health care system: the variation in coverage among states and the intergovernmental tension that would inevitably accompany such a change. Supporting his arguments, Sparer analyzes the contradictions in operations and policies between the New York and California Medicaid programs. For instance, why does New York spend an average of $7,286 on its Medicaid beneficiaries and California an average of $2,801? The answer, the author suggests, is rooted in bureaucratic politics. California officials enjoy significant bureaucratic autonomy, while the system in New York is fragmented, decentralized, and interest-group dominated. The book supports this conclusion by exploring nursing home and home care policy, hospital care policy, and managed care policy in the two states. Sparer's dissection of the consequences of state-based reform make a persuasive case for national health insurance.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781439905098"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1439905096"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xveBDUGIyj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xveBDUGIyj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xveBDUGIyj8C&printsec=frontcover&dq=subject:medical&hl=&cd=12&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xveBDUGIyj8C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xveBDUGIyj8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xveBDUGIyj8C&rdid=book-xveBDUGIyj8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.995E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.617E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Medicaid_And_The_Limits_of_State_Health-sample-epub.acsm?id=xveBDUGIyj8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Medicaid_And_The_Limits_of_State_Health-sample-pdf.acsm?id=xveBDUGIyj8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xveBDUGIyj8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0km1DAAAQBAJ",
+   "etag": "MWwR9ahCE98",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0km1DAAAQBAJ",
+   "volumeInfo": {
+    "title": "Public Health: A Very Short Introduction",
+    "authors": [
+     "Virginia Berridge"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2017-04-06",
+    "description": "Public health is a term much used in the media, by health professionals, and by activists. At the national or the local level there are ministries or departments of public health, whilst international agencies such as the World Health Organisation promote public health policies, and regional organisations such as the European Union have public health funding and policies. But what do we mean when we speak about 'public health'? In this Very Short Introduction Virginia Berridge explores the areas which fall under the remit of public health, and explains how the individual histories of different countries have come to cause great differences in the perception of the role and responsibilities of public health organisations. Thus, in the United States litigation on public health issues is common, but state involvement is less, while some Scandinavian countries have a tradition of state involvement or even state ownership of industries such as alcohol in connection with public health. In its narrowest sense, public health can refer to the health of a population, the longevity of individual members, and their freedom from disease, but it can also be anticipatory, geared to the prevention of illness, rather than simply the provision of care and treatment. In the way public health deals with healthy as well as sick people it is therefore a separate concept from health services, which deal with the sick population. Drawing on a wide range of international examples, Berridge demonstrates the central role of history to understanding the amorphous nature of public health today. ABOUT THE SERIES: The Very Short Introductions series from Oxford University Press contains hundreds of titles in almost every subject area. These pocket-sized books are the perfect way to get ahead in a new subject quickly. Our expert authors combine facts, analysis, perspective, new ideas, and enthusiasm to make interesting and challenging topics highly readable.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780191002144"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0191002143"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0km1DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0km1DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0km1DAAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=13&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0km1DAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0km1DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.15,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0km1DAAAQBAJ&rdid=book-0km1DAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6150000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Public_Health_A_Very_Short_Introduction-sample-pdf.acsm?id=0km1DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0km1DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rGPfYgZdXJQC",
+   "etag": "MFqKxZUV2J0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rGPfYgZdXJQC",
+   "volumeInfo": {
+    "title": "Low Power Analog CMOS for Cardiac Pacemakers",
+    "subtitle": "Design and Optimization in Bulk and SOI Technologies",
+    "authors": [
+     "Fernando Silveira",
+     "Denis Flandre"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2004-01-31",
+    "description": "Power reduction is a central priority in battery-powered medical implantable devices, particularly pacemakers, to either increase battery lifetime or decrease size using a smaller battery. Low Power Analog CMOS for Cardiac Pacemakers proposes new techniques for the reduction of power consumption in analog integrated circuits. Our main example is the pacemaker sense channel, which is representative of a broader class of biomedical circuits aimed at qualitatively detecting biological signals. The first and second chapters are a tutorial presentation on implantable medical devices and pacemakers from the circuit designer point of view. This is illustrated by the requirements and solutions applied in our implementation of an industrial IC for pacemakers. There from, the book discusses the means for reduction of power consumption at three levels: base technology, power-oriented analytical synthesis procedures and circuit architecture. At the technology level, we analyze the impact that the application of the fully depleted silicon-on-insulator (FD SOI) technology has on this kind of analog circuits. The basic building block levels as well as the system level (pacemaker sense channel) are considered. Concerning the design technique, we apply a methodology, based on the transconductance to current ratio that exploits all regions of inversion of the MOS transistor. Various performance aspects of analog building blocks are modeled and a power optimization synthesis of OTAs for a given total settling time (including the slewing and linear regions) is proposed. At the circuit level, we present a new design approach of a class AB output stage suitable for micropower application. In our design approach, the usual advantages of the application of a class AB output stage are enhanced by the application of a transconductance multiplication effect. These techniques are tested in experimental prototypes of amplifiers and complete pacemaker sense channel implementations in SOI and standard bulk CMOS technologies. An ultra low consumption of 110 nA (0.3μ W) is achieved in a FD SOI sense channel implementation. Though primarily addressed to the pacemaker system, the techniques proposed are shown to have application in other contexts where power reduction is a main concern.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "140207719X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402077197"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rGPfYgZdXJQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rGPfYgZdXJQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=rGPfYgZdXJQC&printsec=frontcover&dq=subject:medical&hl=&cd=14&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=rGPfYgZdXJQC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Low_Power_Analog_CMOS_for_Cardiac_Pacema.html?hl=&id=rGPfYgZdXJQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Low_Power_Analog_CMOS_for_Cardiac_Pacema-sample-pdf.acsm?id=rGPfYgZdXJQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rGPfYgZdXJQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Cm53hjxITosC",
+   "etag": "+RbcUOoO5WM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Cm53hjxITosC",
+   "volumeInfo": {
+    "title": "Manifest Madness",
+    "subtitle": "Mental Incapacity in the Criminal Law",
+    "authors": [
+     "Arlie Loughnan"
+    ],
+    "publisher": "OUP Oxford",
+    "publishedDate": "2012-04-19",
+    "description": "This is an open access title available under the terms of a CC BY-NC-ND 3.0 International licence. It is free to read at Oxford Scholarship Online and offered as a free PDF download from OUP and selected open access locations. Whether it is a question of the age below which a child cannot be held liable for their actions, or the attribution of responsibility to defendants with mental illnesses, mental incapacity is a central concern for legal actors, policy makers, and legislators when it comes to crime and justice. Understanding mental incapacity in criminal law is notoriously difficult; it involves tracing overlapping and interlocking legal doctrines, current and past practices of evidence and proof, and also medical and social understandings of mental illness and incapacity. With its focus on the complex interaction of legal doctrines and practices relating to mental incapacity and knowledge - both expert and non-expert - of it, this book offers a fresh perspective on this topic. Bringing together previously disparate discussions on mental incapacity from law, psychology, and philosophy, this book provides a close study of this terrain of criminal law, analysing the development of mental incapacity doctrines through historical cases to the modern era. It maps the shifting boundaries around abnormality as constructed in law, arguing that the mental incapacity terrain has a distinct character - 'manifest madness'.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780191627552"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0191627550"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 308,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "3.10.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Cm53hjxITosC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Cm53hjxITosC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Cm53hjxITosC&printsec=frontcover&dq=subject:medical&hl=&cd=15&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Cm53hjxITosC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Cm53hjxITosC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 129.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 103.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Cm53hjxITosC&rdid=book-Cm53hjxITosC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.2999E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.0399E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Manifest_Madness-sample-epub.acsm?id=Cm53hjxITosC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Manifest_Madness-sample-pdf.acsm?id=Cm53hjxITosC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Cm53hjxITosC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mgVbyvu7JZsC",
+   "etag": "Nf/JihZiljw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mgVbyvu7JZsC",
+   "volumeInfo": {
+    "title": "The Therapist's Guide to Psychopharmacology",
+    "subtitle": "Working with Patients, Families, and Physicians to Optimize Care",
+    "authors": [
+     "A. Ari Albala",
+     "Margaret E. McCahill",
+     "Todd M. Edwards"
+    ],
+    "publisher": "Guilford Press",
+    "publishedDate": "2009-12-22",
+    "description": "This indispensable book provides therapists and counselors with crucial knowledge about psychotropic medications: when and how to make medication referrals, how to answer patients' questions and help them handle problems that arise, and how to combine medication and psychotherapy effectively. Ideal for readers without extensive background in neurobiology, the book clearly explains how medications work in the brain and how they affect an individual's emotions, behavior, and relationships. Strategies for collaborating successfully with patients, their family members, and prescribers are discussed in detail. In this edition, psychopharmacology content has been fully updated.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781606237137"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1606237136"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 310,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mgVbyvu7JZsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mgVbyvu7JZsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mgVbyvu7JZsC&printsec=frontcover&dq=subject:medical&hl=&cd=16&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mgVbyvu7JZsC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Therapist_s_Guide_to_Psychopharmacol.html?hl=&id=mgVbyvu7JZsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mgVbyvu7JZsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4aDhAQAAQBAJ",
+   "etag": "SA0ZYfZ0lpg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4aDhAQAAQBAJ",
+   "volumeInfo": {
+    "title": "Treatment of Substance Abuse",
+    "subtitle": "Psychosocial Occupational Therapy Approaches",
+    "authors": [
+     "Diane Gibson"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2013-10-31",
+    "description": "This timely volume fills a long-standing gap in the professional literature by providing an overview of contemporary assessment and rehabilitation of alcohol and chemical dependent substance abusers. Although many occupational therapists and other activity therapy staff work in substance abuse programs, few articles in occupational therapy literature address this relevant topic. Treatment of Substance Abuse: Psychosocial Occupational Therapy Approaches provides a unique overview of contemporary assessment and rehabilitiation of alcohol and chemical dependent substance abusers. The highlights of this insightful book include behavioral and educational frames of reference as well as specific treatment modalities such as stress management, activities of daily living, and leisure counseling. Contributors examine current polemics regarding programs that use methadone versus abstinence and theoretical concepts including the psychodynamic model with emphasis on the defensive structure underlying the abuser’s personality, as well as leveled conceptual framework for considering treatment. A number of practical techniques are discussed within the overall context of each article; hence the reader will find usable guidelines for establishing boundaries of treatment as well as discreet ideas about methods and practice. Roles and functions of varying disciplines are reviewed in an effort to discriminate role clarity and provide implications for practice in relation to different models. This issue is valuable to the OT who seeks an understanding of the varying viewpoints and current practice in the substance abuse field.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781317839729"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1317839722"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4aDhAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4aDhAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4aDhAQAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=17&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4aDhAQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4aDhAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 47.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 37.64,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4aDhAQAAQBAJ&rdid=book-4aDhAQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.795E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.764E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Treatment_of_Substance_Abuse-sample-pdf.acsm?id=4aDhAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4aDhAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BIOClWZcxtEC",
+   "etag": "Eeu/n2x+WFE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BIOClWZcxtEC",
+   "volumeInfo": {
+    "title": "Sharing Care",
+    "subtitle": "The Integration of Family Approaches with Child Treatment",
+    "authors": [
+     "Robert G. Ziegler",
+     "Andrew Bush (M.D.)"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1999",
+    "description": "First published in 1999. Routledge is an imprint of Taylor & Francis, an informa company.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0876309740"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780876309742"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BIOClWZcxtEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BIOClWZcxtEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "ar",
+    "previewLink": "http://books.google.com/books?id=BIOClWZcxtEC&printsec=frontcover&dq=subject:medical&hl=&cd=18&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=BIOClWZcxtEC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sharing_Care.html?hl=&id=BIOClWZcxtEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BIOClWZcxtEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aC8RBwAAQBAJ",
+   "etag": "ID+G+WV4SN0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aC8RBwAAQBAJ",
+   "volumeInfo": {
+    "title": "Environmental Security and Ecoterrorism",
+    "authors": [
+     "Hami Alpas",
+     "Simon M. Berkowicz",
+     "Irina Ermakova"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2011-05-19",
+    "description": "In recent years, the concept of environmental security has been adapted to include preparedness for acts of ecoterrorism. This latter term has now become synonymous with environmental terrorism where the perpetrator uses the environment as a weapon to harm an opponent. The intended outcome is usually large-scale deaths, severe damage to the environment, and instilling fear in the general population. This book explores various facets of ecoterrorism including the role of the state in pursuing and maintaining environmental security, a review of the concept of ecoterrorism, food security challenges and weaknesses, technological countermeasures to enable rapid detection or response, and existing pollution sources and hazards that may serve as targets for terrorist acts. In sum, this volume provides a useful overview for both the layperson and experienced researchers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789400712355"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9400712359"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 188,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aC8RBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aC8RBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=aC8RBwAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=19&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aC8RBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aC8RBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 99.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 79.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=aC8RBwAAQBAJ&rdid=book-aC8RBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.9E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.92E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.465E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.015E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Environmental_Security_and_Ecoterrorism-sample-pdf.acsm?id=aC8RBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aC8RBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kcACAgAAQBAJ",
+   "etag": "+6a1WA/ml00",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kcACAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Health Aspects of Aging",
+    "subtitle": "The Experience of Growing Old",
+    "authors": [
+     "Gari Lesnoff-Caravaglia"
+    ],
+    "publisher": "Charles C Thomas Publisher",
+    "publishedDate": "2007-01-01",
+    "description": "This second edition of Health Aspects of Aging serves to broaden the perspectives of societal change due to increases in life expectancy, as well as the effects of age-related changes as they impinge upon the provision of health care for older persons. The growing presence of a large number of persons aged 65 and older worldwide has propelled a re-evaluation of the nature of life that is protracted to 100 years and beyond. The emphasis in this second edition is to replace the prevailing problem approach to aging by a problem-solving approach. The problem-solving approach of this volume has allowed for the incorporation of the concept of new social structures and the development of intervention and prevention strategies along with new technologies. Such new products and health care measures include those that are deliberately aimed to offset debilities due to normal age changes, the onslaught of diseases, incongruous environments, and altered social states. Such a multi-disciplinary perspective underscores the fact that aging permeates not only biological systems, but clinical medicine, economics, ethics, and the very fabric of society. The chapters in this volume address these issues from the standpoints of diverse disciplines and professional positions. Since biological changes are primary issues, the aging process is largely described from the perspective of biological changes related to age and to particular dysfunctions. The environmental features and the potential introduction of technological interventions are interspersed within chapters, as well as finding primary focus in particular chapters. The maturity of the technology described in the chapters varies, from devices and systems that are nearly ready to be marketed to concepts and prototypes that are still in the design and developmental stages in the laboratory. The relationship between the provision of appropriate health care and the responsible utilization of technologies as described in this volume will serve to enhance the nature of life extension.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780398076955"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0398076952"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 199,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kcACAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kcACAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=kcACAgAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=20&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=kcACAgAAQBAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Health_Aspects_of_Aging.html?hl=&id=kcACAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kcACAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Rg7cudXUN1EC",
+   "etag": "nxGSYJu6tLE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Rg7cudXUN1EC",
+   "volumeInfo": {
+    "title": "Couples of Mixed HIV Status",
+    "subtitle": "Clinical Issues and Interventions",
+    "authors": [
+     "R Dennis Shelby",
+     "Nancy L Beckerman"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2012-12-06",
+    "description": "Examine the unique emotional challenges and issues that face couples of mixed HIV status today! Previous books on this subject—mostly written in the days when HIV/AIDS was considered a fatal rather than a chronic disease—focused on end-of-life issues. However, Couples of Mixed HIV Status: Clinical Issues and Interventions addresses the unique emotional challenges facing today’s couples of mixed HIV status and provides a conceptual framework for assessment and intervention. The book offers examples of how to apply emotionally focused couple therapy to help them work through issues including disclosure, the fear of HIV transmission, shifts in emotional intimacy, family planning, betrayal, mistrust, and uncertainty. This unique work, its knowledge base, and the interventions you'll find inside, are applicable to any practitioner who provides couple and family therapy—as well as any practitioner who counsels around issues of chronic illness. Couples of Mixed HIV Status provides therapists with a range of theoretical approaches to help mixed HIV status couples deal with their issues and concerns. It includes applications of couple therapy approaches that have proved to be particularly effective as well as case studies that demonstrate how different relationship variables may affect therapy. The book presents the findings of a research study involving 44 mixed HIV status couples in the Northeast and is generously illustrated with tables that make complex research results easy to access and understand. Topics covered in Couples of Mixed HIV Status include: various approaches to couples therapy the historical context of HIV/AIDS HIV transmission family planning and HIV/AIDS emotionally focused couple therapy disclosure issues attachment theory and much more! Couples of Mixed HIV Status: Clinical Issues and Interventions is a valuable resource for therapists and other mental health counselors working with today’s couples of mixed HIV status as well as for students of counseling and health related services. Readers who may be in a mixed HIV status relationship or those who are friends and family members of couples living with HIV will also find this book helpful.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781136406799"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1136406794"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 196,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "4.7.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Rg7cudXUN1EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Rg7cudXUN1EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Rg7cudXUN1EC&printsec=frontcover&dq=subject:medical&hl=&cd=21&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Rg7cudXUN1EC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Rg7cudXUN1EC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 68.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 55.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Rg7cudXUN1EC&rdid=book-Rg7cudXUN1EC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.895E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.516E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.448E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.034E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 180.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Couples_of_Mixed_HIV_Status-sample-epub.acsm?id=Rg7cudXUN1EC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Couples_of_Mixed_HIV_Status-sample-pdf.acsm?id=Rg7cudXUN1EC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Rg7cudXUN1EC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mjSVyoKRgo8C",
+   "etag": "r+f4OMUqUS4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mjSVyoKRgo8C",
+   "volumeInfo": {
+    "title": "Designer Vaccines",
+    "subtitle": "Principles for Successful Prophylaxis",
+    "authors": [
+     "Huw P. A. Hughes",
+     "Manuel Campos"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "1997-10-22",
+    "description": "Designer Vaccines: Principles for Successful Prophylaxis seeks answers to these important questions and explores how immunological knowledge can be applied in the formulation and delivery of vaccines. Instead of focusing on the rating of existing vaccines, this forward-thinking text looks to how new vaccines can be developed and existing ones improved upon. The book provides sound immunological theory and fact as a basis for solving vaccine design problems. Beginning with a discussion of disease and immunity to infection, Designer Vaccines: Principles for Successful Prophylaxis describes how events leading to immunity following infection must be considered in the rational design of vaccines. It also introduces the mucosal immune system and considers the special requirements of oral vaccines. Both viral and bacterial vectors for vaccine delivery are reviewed in detail.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0849376769"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780849376764"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mjSVyoKRgo8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mjSVyoKRgo8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "ar",
+    "previewLink": "http://books.google.com/books?id=mjSVyoKRgo8C&printsec=frontcover&dq=subject:medical&hl=&cd=22&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mjSVyoKRgo8C&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Designer_Vaccines.html?hl=&id=mjSVyoKRgo8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mjSVyoKRgo8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OmZrCgAAQBAJ",
+   "etag": "Ztr4A6+J568",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OmZrCgAAQBAJ",
+   "volumeInfo": {
+    "title": "MEDINFO 2015: EHealth-enabled Health",
+    "subtitle": "Proceedings of the 15th World Congress on Health and Biomedical Informatics",
+    "authors": [
+     "I.N. Sarkar",
+     "A. Georgiou",
+     "P. Mazzoncini de Azevedo Marques"
+    ],
+    "publisher": "IOS Press",
+    "publishedDate": "2015-08-12",
+    "description": "Health and Biomedical Informatics is a rapidly evolving multidisciplinary field; one in which new developments may prove crucial in meeting the challenge of providing cost-effective, patient-centered healthcare worldwide. This book presents the proceedings of MEDINFO 2015, held in São Paulo, Brazil, in August 2015. The theme of this conference is ‘eHealth-enabled Health’, and the broad spectrum of topics covered ranges from emerging methodologies to successful implementations of innovative applications, integration and evaluation of eHealth systems and solutions. Included here are 178 full papers and 248 poster abstracts, selected after a rigorous review process from nearly 800 submissions by 2,500 authors from 59 countries. The conference brings together researchers, clinicians, technologists and managers from all over the world to share their experiences on the use of information methods, systems and technologies to promote patient-centered care, improving patient safety, enhancing care outcomes, facilitating translational research and enabling precision medicine, as well as advancing education and skills in Health and Biomedical Informatics. This comprehensive overview of Health and Biomedical Informatics will be of interest to all those involved in designing, commissioning and providing healthcare, wherever they may be.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781614995647"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1614995648"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1180,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OmZrCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OmZrCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OmZrCgAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=23&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OmZrCgAAQBAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MEDINFO_2015_EHealth_enabled_Health.html?hl=&id=OmZrCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OmZrCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZmCib4UdmK4C",
+   "etag": "NYc7eLOi9yc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZmCib4UdmK4C",
+   "volumeInfo": {
+    "title": "The Healing Bouquet",
+    "subtitle": "Exploring Bach Flower Remedies: Easyread Comfort Edition",
+    "authors": [
+     "Vinton McCabe"
+    ],
+    "publisher": "ReadHowYouWant.com",
+    "publishedDate": "2009-05-11",
+    "description": "In The Healing Bouquet, Vinton McCabe restores Edward Bach to his rightful position as a practitioner of homeopathic philosophy and writes about the remedies and their uses from the context of homeopathic medicine. This comprehensive book offers its readers an in-depth understanding of the nature of Bach's remedies and their myriad uses. More important, he gives a colorful character portrait for each of the remedies; portraits created with insight, humor, and an understanding of human emotions and behaviors that will allow you to identify yourself, your family, friends, and co-workers within its pages.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781442955110"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1442955112"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 508,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZmCib4UdmK4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZmCib4UdmK4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZmCib4UdmK4C&printsec=frontcover&dq=subject:medical&hl=&cd=24&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ZmCib4UdmK4C&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Healing_Bouquet.html?hl=&id=ZmCib4UdmK4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZmCib4UdmK4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vYQk9dVz2HAC",
+   "etag": "XVmkKkMyZE4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vYQk9dVz2HAC",
+   "volumeInfo": {
+    "title": "Progress in Medicinal Chemistry",
+    "publisher": "Elsevier",
+    "publishedDate": "2000-02-29",
+    "description": "This volume reviews recent advances in five important areas of medicinal chemistry which will be of interest both to chemists and to scientists of other disciplines engaged in medicines research and development. Included are accounts of successful drug discovery programmes, disease targets of unmet medical need, and recent progress in new technologies which are considered by many to hold the key to future developments in medicinal chemistry.The style and organisation of chapters follow a similar pattern to previous volumes but references, where appropriate, now include website addresses of the World Wide Web.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0080862853"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780080862859"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.8.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vYQk9dVz2HAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vYQk9dVz2HAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vYQk9dVz2HAC&printsec=frontcover&dq=subject:medical&hl=&cd=25&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vYQk9dVz2HAC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vYQk9dVz2HAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 205.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 164.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vYQk9dVz2HAC&rdid=book-vYQk9dVz2HAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.05E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.64E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Progress_in_Medicinal_Chemistry-sample-epub.acsm?id=vYQk9dVz2HAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Progress_in_Medicinal_Chemistry-sample-pdf.acsm?id=vYQk9dVz2HAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vYQk9dVz2HAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pg_rugAACAAJ",
+   "etag": "kFB6Zno6eRw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pg_rugAACAAJ",
+   "volumeInfo": {
+    "title": "New Developments in Chromatin Research",
+    "authors": [
+     "Neil M. Simpson",
+     "Valerie J. Stewart"
+    ],
+    "publisher": "Nova Biomedical",
+    "publishedDate": "2012",
+    "description": "Chromatin is DNA plus the proteins (and RNA) that package DNA within the cell nucleus. The primary functions of chromatin are: to package DNA into a smaller volume to fit in the cell, to strengthen the DNA to allow mitosis and meiosis and prevent DNA damage, and to control gene expression and DNA replication. In this book, the authors present topical research in the study of chromatin including the varied functions of aurora kinases A and B in mitosis and carcinogenesis; the chromatin state of pluripotent stem cells; MITF meets chromatin in melanoma; the state of chromatin as an integrative indicator of cell stress; analyzing DNA damage and its repair throughout entire genomes; the cloning process, structural characterization of Revolver transposon and its patented application for chromosome tags; DNA damage and Rad16; and glucocorticoid-induced chromatin remodeling.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1620818167"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781620818169"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 235,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pg_rugAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pg_rugAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pg_rugAACAAJ&dq=subject:medical&hl=&cd=26&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=pg_rugAACAAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/New_Developments_in_Chromatin_Research.html?hl=&id=pg_rugAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pg_rugAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RWYWBAAAQBAJ",
+   "etag": "XkrdCkGym2s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RWYWBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Cellular and Molecular Immunology E-Book",
+    "authors": [
+     "Abul K. Abbas",
+     "Andrew H. Lichtman",
+     "Shiv Pillai"
+    ],
+    "publisher": "Elsevier Health Sciences",
+    "publishedDate": "2014-08-22",
+    "description": "Popular for its highly visual, straightforward approach, Cellular and Molecular Immunology delivers an accessible yet thorough understanding of this active and fast-changing field. Drs. Abul K. Abbas, Andrew H. Lichtman, and Shiv Pillai present key updates in this new edition to cover the latest developments in antigen receptors and signal transduction in immune cells, mucosal and skin immunity, cytokines, leukocyte-endothelial interaction, and more. With additional online features, this is an ideal resource for medical, graduate and undergraduate students of immunology who need a clear, introductory text for immunology courses. Consult this title on your favorite e-reader, conduct rapid searches, and adjust font sizes for optimal readability. Develop a thorough, clinically relevant understanding of immunology through a clear overview of immunology with a distinct focus on the management of human disease. Visualize immunologic processes more effectively. Meticulously developed and updated illustrations, 3-dimensional art, and all-new animations provide a detailed, visual description of the key immunologic and molecular processes. Grasp the details of experimental observations that form the basis for the science of immunology at the molecular, cellular, and whole-organism levels and draw the appropriate conclusions. Find information more quickly and easily through an organized chapter structure and a more logical flow of material. Glean all essential, up-to-date, need-to-know information about immunology and molecular biology through extensive updates that cover cytokines, innate immunity, leukocyte-endothelial interactions, signaling, costimulation, and more. Benefit from numerous new figures and tables that facilitate easier retention of the material; quick summaries of each chapter; and nearly 400 illustrations that clarify key concepts.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780323286459"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0323286453"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "3.8.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RWYWBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RWYWBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RWYWBAAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=27&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RWYWBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RWYWBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 83.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 67.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RWYWBAAAQBAJ&rdid=book-RWYWBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.399E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.719E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.024E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.389E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cellular_and_Molecular_Immunology_E_Book-sample-epub.acsm?id=RWYWBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cellular_and_Molecular_Immunology_E_Book-sample-pdf.acsm?id=RWYWBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RWYWBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3Q3UAgAAQBAJ",
+   "etag": "JbEP+v2du8A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3Q3UAgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Body Keeps the Score",
+    "subtitle": "Brain, Mind, and Body in the Healing of Trauma",
+    "authors": [
+     "Bessel van der Kolk, M.D."
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2014-09-25",
+    "description": "“Essential reading for anyone interested in understanding and treating traumatic stress and the scope of its impact on society.” —Alexander McFarlane, Director of the Centre for Traumatic Stress Studies A pioneering researcher transforms our understanding of trauma and offers a bold new paradigm for healing in this New York Times bestseller Trauma is a fact of life. Veterans and their families deal with the painful aftermath of combat; one in five Americans has been molested; one in four grew up with alcoholics; one in three couples have engaged in physical violence. Dr. Bessel van der Kolk, one of the world’s foremost experts on trauma, has spent over three decades working with survivors. In The Body Keeps the Score, he uses recent scientific advances to show how trauma literally reshapes both body and brain, compromising sufferers’ capacities for pleasure, engagement, self-control, and trust. He explores innovative treatments—from neurofeedback and meditation to sports, drama, and yoga—that offer new paths to recovery by activating the brain’s natural neuroplasticity. Based on Dr. van der Kolk’s own research and that of other leading specialists, The Body Keeps the Score exposes the tremendous power of our relationships both to hurt and to heal—and offers new hope for reclaiming lives.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101608302"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1101608307"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 464,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 10,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.10.10.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3Q3UAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3Q3UAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=3Q3UAgAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=28&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3Q3UAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3Q3UAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3Q3UAgAAQBAJ&rdid=book-3Q3UAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Body_Keeps_the_Score-sample-epub.acsm?id=3Q3UAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3Q3UAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eVSTAwAAQBAJ",
+   "etag": "3n88CVRxlB0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eVSTAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Psychodynamic Psychiatry in Clinical Practice, Fifth Edition",
+    "authors": [
+     "Glen O. Gabbard, M.D."
+    ],
+    "publisher": "American Psychiatric Pub",
+    "publishedDate": "2014-04-16",
+    "description": "It is difficult to improve on a classic, but the fifth edition of Psychodynamic Psychiatry in Clinical Practice does just that, offering the updates readers expect with a deft reorganization that integrates DSM-5® with the author's emphasis on psychodynamic thinking. The individual patient is never sacrificed to the diagnostic category, yet clinicians will find the guidance they need to apply DSM-5® appropriately. Each chapter has been systematically updated to reflect the myriad and manifold changes in the 9 years since the previous edition's publication. All 19 chapters have new references and cutting-edge material that will prepare psychiatrists and residents to treat patients with compassion and skill. The book offers the following features: * Each chapter integrates new neurobiological findings with psychodynamic understanding so that clinicians can approach their patients with a truly biopsychosocial treatment plan.* Excellent writing and an intuitive structure make complicated psychodynamic concepts easy to understand so that readers can grasp the practical application of theory in everyday practice.* The book links clinical understanding to the new DSM-5® nomenclature so that clinicians and trainees can adapt psychodynamic thinking to the new conceptual models of disorders.* New coverage of psychodynamic thinking with relation to the treatment of patients on the autism spectrum addresses an increasingly important practice area.* Posttraumatic stress and dissociative disorders have been combined to allow for integrated coverage of primary psychiatric disorders related to trauma and stressors. A boon to clinicians in training and practice, the book has been meticulously edited and grounded in the latest research. The author firmly believes that clinicians must not lose the complexities of the person in the process of helping the patient. Psychodynamic Psychiatry in Clinical Practice, Fifth Edition, keeps this approach front and center as it engages, instructs, and exhorts the reader in the thoughtful, humane practice of psychodynamic psychiatry.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781585624430"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1585624438"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 639,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eVSTAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eVSTAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=eVSTAwAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=29&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=eVSTAwAAQBAJ&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Psychodynamic_Psychiatry_in_Clinical_Pra.html?hl=&id=eVSTAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eVSTAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NKMg9sMM6GUC",
+   "etag": "FL6wpB/f//M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NKMg9sMM6GUC",
+   "volumeInfo": {
+    "title": "Cochrane Handbook for Systematic Reviews of Interventions",
+    "authors": [
+     "Julian P. T. Higgins",
+     "Sally Green"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2011-08-24",
+    "description": "Healthcare providers, consumers, researchers and policy makers are inundated with unmanageable amounts of information, including evidence from healthcare research. It has become impossible for all to have the time and resources to find, appraise and interpret this evidence and incorporate it into healthcare decisions. Cochrane Reviews respond to this challenge by identifying, appraising and synthesizing research-based evidence and presenting it in a standardized format, published in The Cochrane Library (www.thecochranelibrary.com). The Cochrane Handbook for Systematic Reviews of Interventions contains methodological guidance for the preparation and maintenance of Cochrane intervention reviews. Written in a clear and accessible format, it is the essential manual for all those preparing, maintaining and reading Cochrane reviews. Many of the principles and methods described here are appropriate for systematic reviews applied to other types of research and to systematic reviews of interventions undertaken by others. It is hoped therefore that this book will be invaluable to all those who want to understand the role of systematic reviews, critically appraise published reviews or perform reviews themselves. This title is also available as a mobile App from MedHand Mobile Libraries. Buy it now from Google Play or the MedHand Store.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781119964797"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1119964792"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 672,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.11.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NKMg9sMM6GUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NKMg9sMM6GUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NKMg9sMM6GUC&printsec=frontcover&dq=subject:medical&hl=&cd=30&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NKMg9sMM6GUC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NKMg9sMM6GUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 55.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 44.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NKMg9sMM6GUC&rdid=book-NKMg9sMM6GUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.599E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.479E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cochrane_Handbook_for_Systematic_Reviews-sample-epub.acsm?id=NKMg9sMM6GUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Cochrane_Handbook_for_Systematic_Reviews-sample-pdf.acsm?id=NKMg9sMM6GUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NKMg9sMM6GUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jheBzf17C7YC",
+   "etag": "02RReDZk7hQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jheBzf17C7YC",
+   "volumeInfo": {
+    "title": "Robbins Basic Pathology E-Book",
+    "authors": [
+     "Vinay Kumar",
+     "Abul K. Abbas",
+     "Jon C. Aster"
+    ],
+    "publisher": "Elsevier Health Sciences",
+    "publishedDate": "2012-05-01",
+    "description": "Robbins Basic Pathology delivers the pathology knowledge you need, the way you need it, from the name you can trust! This medical textbook’s unbeatable author team helps you efficiently master the core concepts you need to know for your courses and USMLE exams. Get a rich understanding of all essential pathology concepts with expert guidance from an all-star editorial team. Grasp the connections between basic science and clinical medicine with clinicopathologic correlations throughout. Learn core concepts quickly and efficiently with a highly templated design that highlights pathogenesis and morphology. Artwork revised and updated for a more modern look and more three-dimensional feel Targeted Therapy boxes – provides clinical information on appropriate therapy related to the disease under discussion All photomicrographs and gross photos reviewed and improved to ensure excellent quality",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781455737871"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1455737879"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 928,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "5.15.15.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jheBzf17C7YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jheBzf17C7YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jheBzf17C7YC&printsec=frontcover&dq=subject:medical&hl=&cd=31&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jheBzf17C7YC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jheBzf17C7YC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 89.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 70.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jheBzf17C7YC&rdid=book-jheBzf17C7YC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.019E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.24E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.56E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Robbins_Basic_Pathology_E_Book-sample-epub.acsm?id=jheBzf17C7YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Robbins_Basic_Pathology_E_Book-sample-pdf.acsm?id=jheBzf17C7YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jheBzf17C7YC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O7hn1Z_oJd0C",
+   "etag": "qSWw5Y6RaI0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O7hn1Z_oJd0C",
+   "volumeInfo": {
+    "title": "DICCIONARIO OXFORD DE MEDICINA Y CIENCIAS DEL DEPORTE",
+    "authors": [
+     "Michael Kent"
+    ],
+    "publisher": "Editorial Paidotribo",
+    "publishedDate": "2003-09-16",
+    "description": "Este diccionario general constituye un valioso libro de consulta para todos aquellos que estén interesados en el fascinante mundo del deporte. Se abordan las principales áreas de la ciencia y medicina del deporte: • Anatomía • Biomecánica • Fisiología del ejercicio • Nutrición • Sociología del deporte • Lesiones deportivas • Principios del entrenamiento Contiene más de 7.500 entradas con referencias cruzadas, 165 ilustraciones y cuatro apéndices, de los cuales uno es de sustancias prohibidas. Esta obra le será de utilidad a especialistas, entrenadores y deportistas que tengan necesidad de conocer los principios científicos, los procesos fisiológicos y las estructuras anatómicas que afectan al rendimiento deportivo. También le será útil al lector general interesado por la salud y la forma física.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8480197161"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788480197168"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 840,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=O7hn1Z_oJd0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=O7hn1Z_oJd0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=O7hn1Z_oJd0C&printsec=frontcover&dq=subject:medical&hl=&cd=32&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=O7hn1Z_oJd0C&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/DICCIONARIO_OXFORD_DE_MEDICINA_Y_CIENCIA.html?hl=&id=O7hn1Z_oJd0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=O7hn1Z_oJd0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4KDLRvjzC_oC",
+   "etag": "2KzLrscvfXo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4KDLRvjzC_oC",
+   "volumeInfo": {
+    "title": "EJERCICIO TERAPÉUTICO. Fundamentos y técnicas",
+    "authors": [
+     "Carolyn Kisner",
+     "Lynn A. Colby"
+    ],
+    "publisher": "Editorial Paidotribo",
+    "publishedDate": "2005-01-26",
+    "description": "En este libro se presentan todos los métodos básicos de ejercicio para afecciones articulares, musculares, cardiopulmonares y partes blandas. La obra se divide en tres partes; la primera comienza introduciendo los conceptos básicos para la evaluación y desarrollo de un programa mediante un método simplificado para la resolución de problemas y describe las técnicas del ejercicio terapéutico. A continuación, en la segunda parte, se analiza la utilización del ejercicio terapéutico, las pautas, precauciones y progresión del plan de asistencia según los casos. Por último, en la tercera parte, se desarrollan los principios y técnicas del ejercicio terapéutico en las áreas especiales de la fisioterapia respiratoria y el ejercicio aeróbico. Esta obra permite al lector elegir las técnicas de ejercicio de acuerdo con los problemas que presenta el paciente y los objetivos del tratamiento. Para ello desarrolla un método integrado que comienza por identificar el problema mediante una evaluación experta para así, poder establecer unas metas realistas basadas en los problemas y poder decidir, por último, un plan de asistencia que cubra los objetivos y necesidades de cada paciente.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8480197889"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788480197885"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 620,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 13,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4KDLRvjzC_oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4KDLRvjzC_oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=4KDLRvjzC_oC&printsec=frontcover&dq=subject:medical&hl=&cd=33&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4KDLRvjzC_oC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/EJERCICIO_TERAP%C3%89UTICO_Fundamentos_y_t%C3%A9.html?hl=&id=4KDLRvjzC_oC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4KDLRvjzC_oC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8rSpvU2FISMC",
+   "etag": "AkLB1tAbNvc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8rSpvU2FISMC",
+   "volumeInfo": {
+    "title": "NUTRICIÓN PARA LA SALUD LA CONDICIÓN FÍSICA Y EL DEPORTE (Bicolor)",
+    "authors": [
+     "Melvin H. Williams"
+    ],
+    "publisher": "Editorial Paidotribo",
+    "publishedDate": "2002-09-13",
+    "description": "El profesor emérito Melvin H. Williams, obtuvo su título en Educación Física en la Universidad de Maryland. Ingresó en la facultad de la Universidad Old Dominion en Norfolk, Virginia, donde creó el Laboratorio de Rendimiento Humano y el Instituto Wellness y el Centro de Investigación dentro del Departamento de Ciencias del Ejercicio, Educación Física y Entrenamiento. Su principal objetivo de investigación ha sido la influencia de la asistencia ergogénica nutricional., farmacológica y fisiológica en el rendimiento físico. Además de escribir cinco ediciones del conocido Nutrición para la Forma Física y el Deporte –actualmente titulado Nutrición para la Salud, la Forma Física y el Deporte. También es el editor fundador de la revista International Journal of Sport Nutrition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8480195959"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788480195959"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 504,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 17,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8rSpvU2FISMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8rSpvU2FISMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=8rSpvU2FISMC&printsec=frontcover&dq=subject:medical&hl=&cd=34&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=8rSpvU2FISMC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/NUTRICI%C3%93N_PARA_LA_SALUD_LA_CONDICI%C3%93N_F.html?hl=&id=8rSpvU2FISMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8rSpvU2FISMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L3tQmr5YGXQC",
+   "etag": "K5O3NDIChhk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L3tQmr5YGXQC",
+   "volumeInfo": {
+    "title": "Veterinary Microbiology and Microbial Disease",
+    "authors": [
+     "P. J. Quinn",
+     "B. K. Markey",
+     "F. C. Leonard",
+     "P. Hartigan",
+     "S. Fanning",
+     "E. S. Fitzpatrick"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2011-10-07",
+    "description": "Microbiology is one of the core subjects for veterinary students,and since its first publication in 2002, Veterinary Microbiologyand Microbial Disease has become an essential text for students ofveterinary medicine. Fully revised and expanded, this new editionupdates the subject for pre-clinical and clinical veterinarystudents in a comprehensive manner. Individual sections deal withbacteriology, mycology and virology. Written by an academic teamwith many years of teaching experience, the book provides concisedescriptions of groups of microorganisms and the diseases whichthey cause. Microbial pathogens are discussed in separate chapterswhich provide information on the more important features of eachmicroorganism and its role in the pathogenesis of diseases ofanimals. The international and public health significance of thesepathogens are reviewed comprehensively. The final section isconcerned with the host and is organized according to the bodysystem affected. Tables, boxes and flow diagrams provide information in an easilyassimilated format. This edition contains new chapters on moleculardiagnostics and on infectious conditions of the skin,cardiovascular system, urinary tract and musculoskeletal system.Many new colour diagrams are incorporated into this edition andeach chapter has been updated. Key features of this edition: Twelve new chapters included Numerous new illustrations Each chapter has been updated Completely re-designed in full colour Fulfils the needs of veterinary students and academics inveterinary microbiology Companion website with figures from the book as Powerpoints forviewing or downloading by chapter: ahref=\"http://www.wiley.com/go/quinn/veterinarymicrobiology\"www.wiley.com/go/quinn/veterinarymicrobiology/a Veterinary Microbiology and Microbial Disease remainsindispensable for all those studying and teaching this essentialcomponent of the veterinary curriculum.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118251164"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1118251164"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.8.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=L3tQmr5YGXQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=L3tQmr5YGXQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=L3tQmr5YGXQC&printsec=frontcover&dq=subject:medical&hl=&cd=35&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=L3tQmr5YGXQC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=L3tQmr5YGXQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 95.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 76.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=L3tQmr5YGXQC&rdid=book-L3tQmr5YGXQC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.599E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.679E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Veterinary_Microbiology_and_Microbial_Di-sample-epub.acsm?id=L3tQmr5YGXQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Veterinary_Microbiology_and_Microbial_Di-sample-pdf.acsm?id=L3tQmr5YGXQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=L3tQmr5YGXQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DmUqBgAAQBAJ",
+   "etag": "v4S1TPKtaVI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DmUqBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Surgery",
+    "subtitle": "A Case Based Clinical Review",
+    "authors": [
+     "Christian de Virgilio",
+     "Paul N. Frank",
+     "Areg Grigorian"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2015-01-10",
+    "description": "Surgery: A Case Based Clinical Review provides the reader with a comprehensive understanding of surgical diseases in one easy to use reference that combines multiple teaching formats. The book begins using a case based approach. The cases presented cover the diseases most commonly encountered on a surgical rotation. The cases are designed to provide the reader with the classic findings on history and physical examination. The case presentation is followed by a series of short questions and answers, designed to provide further understanding of the important aspects of the history, physical examination, differential diagnosis, diagnostic work-up and management, as well as questions that may arise on surgical rounds. Key figures and tables visually reinforce the important elements of the disease process. A brief algorithmic flow chart is provided so the reader can quickly understand the optimal management approach. Two additional special sections further strengthen the student’s comprehension. The first section covers areas of controversy in the diagnosis or management of each disease, and another section discusses pitfalls to avoid, where the inexperienced clinician might get in trouble. The text concludes with a series of multiple choice questions in a surgery shelf/USMLE format with robust explanations. Surgery: A Case Based Clinical Review is based on 20 years of Socratic medical student teaching by a nine-time Golden Apple teaching awardee from the UCLA School of Medicine and will be of great utility for medical students when they rotate on surgery, interns, physician assistant students, nursing students and nurse practitioner students.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781493917266"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1493917269"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 723,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.7.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DmUqBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DmUqBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DmUqBgAAQBAJ&printsec=frontcover&dq=subject:medical&hl=&cd=36&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DmUqBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DmUqBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 84.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 67.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DmUqBgAAQBAJ&rdid=book-DmUqBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.799E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 2.975E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.588E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Surgery-sample-epub.acsm?id=DmUqBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Surgery-sample-pdf.acsm?id=DmUqBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DmUqBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CPVSg69CPMsC",
+   "etag": "DyT0yV2zl68",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CPVSg69CPMsC",
+   "volumeInfo": {
+    "title": "Heart Physiology",
+    "subtitle": "From Cell to Circulation",
+    "authors": [
+     "Lionel H. Opie"
+    ],
+    "publisher": "Lippincott Williams & Wilkins",
+    "publishedDate": "2004",
+    "description": "Thoroughly revised and updated, this Fourth Edition is the only current book that integrates cellular and subcellular elements of cardiovascular physiology in the analysis of physiologic and pathophysiologic responses. In straightforward terms, with more than 600 diagrams and illustrations, the book explains the key principles crucial to understanding how the cardiovascular system and its components function and malfunction. For this edition, Dr. Opie has enlisted eight internationally eminent co-authors and added a new chapter on cell signaling. The chapters on physiology of the ECG and arrhythmias contain many more ECGs. More than half of the illustrations—including 12 color plates—are new.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0781742781"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780781742788"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 648,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CPVSg69CPMsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CPVSg69CPMsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=CPVSg69CPMsC&printsec=frontcover&dq=subject:medical&hl=&cd=37&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=CPVSg69CPMsC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Heart_Physiology.html?hl=&id=CPVSg69CPMsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CPVSg69CPMsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BC9SiAsUPqsC",
+   "etag": "NKwagKyedtU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BC9SiAsUPqsC",
+   "volumeInfo": {
+    "title": "Textbook of Work Physiology",
+    "subtitle": "Physiological Bases of Exercise",
+    "authors": [
+     "Per-Olof Åstrand",
+     "Kaare Rodahl",
+     "Hans A. Dahl",
+     "Sigmund B. Strømme"
+    ],
+    "publisher": "Human Kinetics",
+    "publishedDate": "2003",
+    "description": "This updated and revised fourth edition of the respected Textbook of Work Physiology combines classical issues in exercise and work physiology with the latest scientific findings. The result is an outstanding professional reference that will be indispensable to advanced students, physiologists, clinicians, physical educators--any professional pursuing study of the body as a working machine. Written by world-renowned exercise physiologists and sports medicine specialists, the new edition retains the important historical background and exercise physiology research conducted by the authors over the past 40 years. In addition, it brings you up-to-date on the growth in the field since the previous edition, presenting today's most current scientific research findings. Beyond the scientific details, the book also addresses the application of this information to the fields of exercise physiology and work physiology, making the resource more useful than ever. Textbook of Work Physiology, Fourth Edition includes these updated features: -More than 1,600 references -\"Classical studies\" and \"additional reading\" side boxes for those who wish to study a topic more closely -In-depth studies taken from the working world, recreational activities, and elite sport -More than 380 illustrations, tables, and photos -Comprehensive appendix, including glossary, list of symbols, conversion tables, and definitions of terms and units",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736001409"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736001403"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 649,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BC9SiAsUPqsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BC9SiAsUPqsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BC9SiAsUPqsC&printsec=frontcover&dq=subject:medical&hl=&cd=38&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=BC9SiAsUPqsC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Textbook_of_Work_Physiology.html?hl=&id=BC9SiAsUPqsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BC9SiAsUPqsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fiEXgK6kQD4C",
+   "etag": "BlAYSxHVVSA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fiEXgK6kQD4C",
+   "volumeInfo": {
+    "title": "Review Questions and Answers for Veterinary Technicians - E-Book",
+    "authors": [
+     "Thomas P. Colville"
+    ],
+    "publisher": "Elsevier Health Sciences",
+    "publishedDate": "2009-12-03",
+    "description": "With over 5,000 recently upgraded, reviewed, revised, rewritten, and reorganized questions- more than any other exam review- Review Questions and Answers for Veterinary Techniques 4th Edition is your key to success on the Veterinary Technician National Exam (VTNE). This new and updated edition matches the presentation of the exam and reflects the seven domains of the VTNE to ensure the most accurate and effective exam prep available. This title includes additional digital media when purchased in print format. For this digital book edition, media content is not included. Rationales for answers reinforce knowledge and provide reasoning behind answers. Acclaimed question writers offer comprehensive coverage of topics. New organization reflects the seven domains of the revised VTNE. Exam format consists of a multiple-choice style that mimics the national exam so you know what to expect on test day. More than 5,000 rigorously reviewed questions test factual knowledge, reasoning skills, and clinical judgment.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780323068086"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0323068081"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.8.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fiEXgK6kQD4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fiEXgK6kQD4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fiEXgK6kQD4C&printsec=frontcover&dq=subject:medical&hl=&cd=39&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fiEXgK6kQD4C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fiEXgK6kQD4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 67.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 54.36,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fiEXgK6kQD4C&rdid=book-fiEXgK6kQD4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.795E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.436E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Review_Questions_and_Answers_for_Veterin-sample-epub.acsm?id=fiEXgK6kQD4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Review_Questions_and_Answers_for_Veterin-sample-pdf.acsm?id=fiEXgK6kQD4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fiEXgK6kQD4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QHZi8SjaOsIC",
+   "etag": "hhxDr5i2RnE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QHZi8SjaOsIC",
+   "volumeInfo": {
+    "title": "Hospital Pharmacy",
+    "authors": [
+     "Martin Stephens"
+    ],
+    "publisher": "Pharmaceutical Press",
+    "publishedDate": "2003-01",
+    "description": "The pharmacy department is now an established part of most hospitals with the pharmacist playing a pivotal role in the pharmaceutical care of the patient. Hospital Pharmacy recognises the changes in the practice of pharmacy within the hospital setting and provides a detailed discussion of the vast range of services that are now provided. Each chapter is devoted to an area of pharmacy practice and considers its history and current practice before concluding with future developments. As well as considering well-established facets of hospital pharmacy practice, such as technical services and clinical pharmacy, this text also considers the evolving relationship of the hospital pharmacy with other healthcare departments.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0853695024"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780853695028"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 285,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QHZi8SjaOsIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QHZi8SjaOsIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=QHZi8SjaOsIC&printsec=frontcover&dq=subject:medical&hl=&cd=40&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=QHZi8SjaOsIC&dq=subject:medical&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hospital_Pharmacy.html?hl=&id=QHZi8SjaOsIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QHZi8SjaOsIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

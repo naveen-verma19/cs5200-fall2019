@@ -1,0 +1,3987 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 410,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QscFCAAAQBAJ",
+   "etag": "A5bhF3+mvCE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QscFCAAAQBAJ",
+   "volumeInfo": {
+    "title": "Design and Analysis of Analog Filters",
+    "subtitle": "A Signal Processing Perspective",
+    "authors": [
+     "Larry D. Paarmann"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2006-04-18",
+    "description": "Design and Analysis of Analog Filters: A Signal Processing Perspective includes signal processing/systems concepts as well as implementation. While most books on analog filter design briefly present the signal processing/systems concepts, and then concentrate on a variety of filter implementation methods, the present book reverses the emphasis, stressing signal processing concepts. Filter implementation topics are presented in Part II: passive filters, and operational amplifier active filters. However, greater emphasis on signal processing/systems concepts is included in Part I of the book than is typical. This emphasis makes the book very appropriate as part of a signal processing curriculum. Useful Aspects of Design and Analysis of Analog Filters: A Signal Processing Perspective extensive use of MATLAB® throughout, with many homework problems involving the use of MATLAB. over 200 figures; over 100 examples; a total of 345 homework problems, appearing at the ends of the chapters; complete and thorough presentation of design characteristics; complete catalog of design approaches. Audience: Design and Analysis of Analog Filters: A Signal Processing Perspective will interest anyone with a standard electrical engineering background, with a B.S. degree or beyond, or at the senior level. While designed as a textbook, its numerous practical examples make it useful as a reference for practicing engineers and scientists, particularly those working in systems design or communications. MATLAB® Examples: A valuable relationship between analog filter theory and analysis and modern digital signal processing is made by the application of MATLAB to both the design and analysis of analog filters. Throughout the book, computer-oriented problems are assigned. The disk that accompanies this book contains MATLAB functions and m-files written specifically for this book. The MATLAB functions on the disk extend basic MATLAB capabilities in terms of the design and analysis of analog filters. The m-files are used in a number of examples in the book. They are included on the disk as an instructional aid.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306480126"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0306480123"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 440,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QscFCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QscFCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=QscFCAAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=201&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=QscFCAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QscFCAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 89.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 70.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=QscFCAAAQBAJ&rdid=book-QscFCAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.019E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.15E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.74E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Design_and_Analysis_of_Analog_Filters-sample-pdf.acsm?id=QscFCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QscFCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IaO5BQAAQBAJ",
+   "etag": "s/lAPN6yaic",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IaO5BQAAQBAJ",
+   "volumeInfo": {
+    "title": "Computational Methods in Power System Analysis",
+    "authors": [
+     "Reijer Idema",
+     "Domenico J.P. Lahaye"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2014-07-08",
+    "description": "This book treats state-of-the-art computational methods for power flow studies and contingency analysis. In the first part the authors present the relevant computational methods and mathematical concepts. In the second part, power flow and contingency analysis are treated. Furthermore, traditional methods to solve such problems are compared to modern solvers, developed using the knowledge of the first part of the book. Finally, these solvers are analyzed both theoretically and experimentally, clearly showing the benefits of the modern approach.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789462390645"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9462390649"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 110,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.6.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IaO5BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IaO5BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IaO5BQAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=202&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IaO5BQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IaO5BQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 139.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 111.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IaO5BQAAQBAJ&rdid=book-IaO5BQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.39E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.865E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.233E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Computational_Methods_in_Power_System_An-sample-epub.acsm?id=IaO5BQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Computational_Methods_in_Power_System_An-sample-pdf.acsm?id=IaO5BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IaO5BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zh_cGGC1TtEC",
+   "etag": "cxGCMa0F9so",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zh_cGGC1TtEC",
+   "volumeInfo": {
+    "title": "Complex System Maintenance Handbook",
+    "authors": [
+     "Khairy Ahmed Helmy Kobbacy",
+     "D. N. Prabhakar Murthy"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2008-04-18",
+    "description": "This utterly comprehensive work is thought to be the first to integrate the literature on the physics of the failure of complex systems such as hospitals, banks and transport networks. It has chapters on particular aspects of maintenance written by internationally-renowned researchers and practitioners. This book will interest maintenance engineers and managers in industry as well as researchers and graduate students in maintenance, industrial engineering and applied mathematics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781848000100"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1848000103"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 660,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zh_cGGC1TtEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zh_cGGC1TtEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zh_cGGC1TtEC&printsec=frontcover&dq=subject:engineering&hl=&cd=203&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=zh_cGGC1TtEC&dq=subject:engineering&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Complex_System_Maintenance_Handbook.html?hl=&id=zh_cGGC1TtEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Complex_System_Maintenance_Handbook-sample-pdf.acsm?id=zh_cGGC1TtEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zh_cGGC1TtEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ji50lYuh_hUC",
+   "etag": "jeGORMSga7Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ji50lYuh_hUC",
+   "volumeInfo": {
+    "title": "Konventioneller Antriebsstrang und Hybridantriebe",
+    "subtitle": "mit Brennstoffzellen und alternativen Kraftstoffen",
+    "authors": [
+     "Konrad Reif"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2010-09-02",
+    "description": "Anwendungsbezogene Darstellungen sind das Kennzeichen der Buchreihe „Bosch Fachinformation Automobil“. Ganz auf den Bedarf an praxisnahem Hintergrundwissen zugeschnitten, findet der Auto-Fachmann einen umfassenden Überblick über den Aufbau und die Funktionsweise heutiger Hybridfahrzeuge einschließlich Brennstoffzellen und alternativen Kraftstoffen, einen Überblick über Getriebe und eine ausführliche Darstellung der elektronischen Getriebesteuerung. Der Band bietet das Bosch-Fachwissen aus erster Hand und eignet sich damit hervorragend für den Alltag des Entwicklungsingenieurs, für die berufliche Weiterbildung, für Lehrgänge, zum Selbststudium oder zum Nachschlagen in der Werkstatt.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783834897114"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3834897116"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 213,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ji50lYuh_hUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ji50lYuh_hUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=Ji50lYuh_hUC&printsec=frontcover&dq=subject:engineering&hl=&cd=204&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ji50lYuh_hUC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ji50lYuh_hUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ji50lYuh_hUC&rdid=book-Ji50lYuh_hUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.619E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Konventioneller_Antriebsstrang_und_Hybri-sample-pdf.acsm?id=Ji50lYuh_hUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ji50lYuh_hUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nYJKAAAAQBAJ",
+   "etag": "5CztJ9R5iqs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nYJKAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Centrifugal Pumps",
+    "authors": [
+     "Johann Friedrich Gülich"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2010-05-25",
+    "description": "Life is linked to liquid transport, and so are vital segments of economy. Pumping devices – be it the human heart, a boiler feeder or the cooling-water pump of a motorcar – are always part of a more or less complex system where pump failure can lead to severe consequences. To select, operate or even design a pump, some understanding of the system is helpful, if not essential. Depending on the appli- tion, a centrifugal pump can be a simple device which could be built in a garage with a minimum of know-how – or a high-tech machine requiring advanced skills, sophisticated engineering and extensive testing. When attempting to describe the state-of-the-art in hydraulic engineering of centrifugal pumps, the focus is nec- sarily on the high-tech side rather than on less-demanding services even though these make up the majority of pump applications. Centrifugal pump technology involves a broad spectrum of flow phenomena which have a profound impact on design and operation through the achieved ef- ciency, the stability of the head-capacity characteristic, vibration, noise, com- nent failure due to fatigue, as well as material damage caused by cavitation, - dro-abrasive wear or erosion corrosion. Operation and life cycle costs of pumping equipment depend to a large extent on how well these phenomena and the inter- tion of the pump with the system are understood.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642128240"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642128246"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 966,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nYJKAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nYJKAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nYJKAAAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=205&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nYJKAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nYJKAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 319.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 255.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=nYJKAAAAQBAJ&rdid=book-nYJKAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.19E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.552E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 1.1165E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.714E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Centrifugal_Pumps-sample-pdf.acsm?id=nYJKAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nYJKAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zrDLBQAAQBAJ",
+   "etag": "CBIsmZ0IJgg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zrDLBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Conflict and Complexity",
+    "subtitle": "Countering Terrorism, Insurgency, Ethnic and Regional Violence",
+    "authors": [
+     "Philip Vos Fellman",
+     "Yaneer Bar-Yam",
+     "Ali A. Minai"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2014-12-09",
+    "description": "This book follows the methodologies of complex adaptive systems research in their application to addressing the problems of terrorism, specifically terrorist networks, their structure and various methods of mapping and interdicting them as well as exploring the complex landscape of network-centric and irregular warfare. A variety of new models and approaches are presented here, including Dynamic Network Analysis, DIME/PMESII models, percolation models and emergent models of insurgency. In addition, the analysis is informed by practical experience, with analytical and policy guidance from authors who have served within the U.S. Department of Defense, the British Ministry of Defence as well as those who have served in a civilian capacity as advisors on terrorism and counter-terrorism.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781493917051"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1493917056"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 292,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zrDLBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zrDLBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zrDLBQAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=206&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zrDLBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zrDLBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 109.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 87.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zrDLBQAAQBAJ&rdid=book-zrDLBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.09E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8.72E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.815E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.319E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Conflict_and_Complexity-sample-epub.acsm?id=zrDLBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Conflict_and_Complexity-sample-pdf.acsm?id=zrDLBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zrDLBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jbE4AA3c_RgC",
+   "etag": "UoWh9jmIkLY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jbE4AA3c_RgC",
+   "volumeInfo": {
+    "title": "Modeling Manufacturing Systems",
+    "subtitle": "From Aggregate Planning to Real-Time Control",
+    "authors": [
+     "Paolo Brandimarte",
+     "Agostino Villa"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "1999-03-29",
+    "description": "Advanced modeling techniques are a necessary tool in order to design and manage manufacturing systems effectively. This book contains a set of tutorial chapters on topics ranging from aggregate production planning to real time control, including predictive and reactive scheduling, flow management in assembly systems, simulation of robotic cells, design of manufacturing systems under uncertainty and a historical perspective on production management philosophies. The book will be of interest both to researchers and practitioners, including graduate students in Manufacturing Engineering and Operations Research.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "354065500X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540655008"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 218,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jbE4AA3c_RgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jbE4AA3c_RgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jbE4AA3c_RgC&printsec=frontcover&dq=subject:engineering&hl=&cd=207&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jbE4AA3c_RgC&dq=subject:engineering&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Modeling_Manufacturing_Systems.html?hl=&id=jbE4AA3c_RgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Modeling_Manufacturing_Systems-sample-pdf.acsm?id=jbE4AA3c_RgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jbE4AA3c_RgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0DkuDwAAQBAJ",
+   "etag": "61RtTLyCY2s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0DkuDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Advances in Applications of Industrial Biomaterials",
+    "authors": [
+     "Eva Pellicer",
+     "Danilo Nikolic",
+     "Jordi Sort",
+     "Maria Baró",
+     "Fatima Zivic",
+     "Nenad Grujovic",
+     "Radoslav Grujic",
+     "Svetlana Pelemis"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2017-07-25",
+    "description": "This book presents recent advances in the development of biomaterials for industrial applications, and discusses the potential for substituting environmentally hazardous substances with environmentally friendly and degradable components. Focusing on both the material development and production technologies, it reviews different materials, as well as new production technologies and application areas. It also highlights the importance of incorporating organic materials into different composites to enable consumption of otherwise waste materials. Further it addresses biopolymers for the food industry, e.g. edible films and coatings in food production and biodegradable materials; the automotive industry; bio fuels, such as biodiesel based on organic constituents; and green composites in marine applications. Environmental protection aspects related to the protection of cultural heritage, and new nanoparticles, such as nano zerovalent iron, are also reviewed. Aimed at young research ers, professionals, chemical engineers and marine engineers, the book is the result of the joint efforts of different academic and research institutions participating in the WIMB Tempus project, 543898-TEMPUS-1-2013-1-ES-TEMPUS-JPHES, “Development of Sustainable Interrelations between Education, Research and Innovation at WBC Universities in Nanotechnologies and Advanced Materials where Innovation Means Business”, co-funded by the European Union Tempus Program.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783319627670"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3319627678"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 214,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.3.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0DkuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0DkuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0DkuDwAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=208&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0DkuDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0DkuDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 149.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 119.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0DkuDwAAQBAJ&rdid=book-0DkuDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.192E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 5.215E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.537E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Advances_in_Applications_of_Industrial_B-sample-epub.acsm?id=0DkuDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Advances_in_Applications_of_Industrial_B-sample-pdf.acsm?id=0DkuDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0DkuDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lfCKDwAAQBAJ",
+   "etag": "MeVnFJTxjgs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lfCKDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Predictive Maintenance in Dynamic Systems",
+    "subtitle": "Advanced Methods, Decision Support Tools and Real-world Applications",
+    "authors": [
+     "Edwin Lughofer",
+     "Moamar Sayed-Mouchaweh"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2019",
+    "description": "This book provides a complete picture of several decision support tools for predictive maintenance. These include embedding early anomaly/fault detection, diagnosis and reasoning, remaining useful life prediction (fault prognostics), quality prediction and self-reaction, as well as optimization, control and self-healing techniques. It shows recent applications of these techniques within various types of industrial (production/utilities/equipment/plants/smart devices, etc.) systems addressing several challenges in Industry 4.0 and different tasks dealing with Big Data Streams, Internet of Things, specific infrastructures and tools, high system dynamics and non-stationary environments . Applications discussed include production and manufacturing systems, renewable energy production and management, maritime systems, power plants and turbines, conditioning systems, compressor valves, induction motors, flight simulators, railway infrastructures, mobile robots, cyber security and Internet of Things. The contributors go beyond state of the art by placing a specific focus on dynamic systems, where it is of utmost importance to update system and maintenance models on the fly to maintain their predictive power. .",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783030056452"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3030056457"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 567,
+    "printType": "BOOK",
+    "categories": [
+     "Electronic books"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lfCKDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lfCKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lfCKDwAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=209&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lfCKDwAAQBAJ&dq=subject:engineering&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Predictive_Maintenance_in_Dynamic_System.html?hl=&id=lfCKDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Predictive_Maintenance_in_Dynamic_System-sample-epub.acsm?id=lfCKDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lfCKDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AvCqvbfEmoMC",
+   "etag": "yyT4burkex8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AvCqvbfEmoMC",
+   "volumeInfo": {
+    "title": "Science for Engineering",
+    "authors": [
+     "John Bird"
+    ],
+    "publisher": "Elsevier",
+    "publishedDate": "2003",
+    "description": "In this book John Bird introduces engineering science through examples rather than theory - enabling students to develop a sound understanding of engineering systems in terms of the basic scientific laws and principles. The book includes 575 worked examples, 1200 problems, 440 multiple choice questions (answers provided), and the maths that students will require is also provided in a separate section within the book. The new edition of Science for Engineering presents the fundamentals of the subject, and has also been brought fully in line with the compulsory Science and Mathematics units in the new specifications for BTEC National and BTEC First courses. It also offers full coverage of the compulsory units of AVCE and Intermediate GNVQ (Science and Mathematics). Throughout the book assessment papers are provided that are ideal for use as tests or homework. These are the only problems where answers are not provided in the book. Full worked solutions are available to lecturers only as a free download from the Newnes website: www.newnespress.com * A student-friendly text that does not require any background in engineering * Learn by example: over 1,200 problems, 500 worked examples * Includes assesment papers - worked solutions in a free lecturer's manual",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750657778"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0750657774"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 366,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AvCqvbfEmoMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AvCqvbfEmoMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=AvCqvbfEmoMC&printsec=frontcover&dq=subject:engineering&hl=&cd=210&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=AvCqvbfEmoMC&dq=subject:engineering&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Science_for_Engineering.html?hl=&id=AvCqvbfEmoMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Science_for_Engineering-sample-pdf.acsm?id=AvCqvbfEmoMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AvCqvbfEmoMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "njRlswNf92wC",
+   "etag": "FoVFSwun5VY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/njRlswNf92wC",
+   "volumeInfo": {
+    "title": "Structural Dynamics",
+    "subtitle": "Theory and Computation",
+    "authors": [
+     "Mario Paz"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "1997-07-31",
+    "description": "The use of COSMOS for the analysis and solution of structural dynamics problems is introduced in this new edition. The COSMOS program was selected from among the various professional programs available because it has the capability of solving complex problems in structures, as well as in other engin eering fields such as Heat Transfer, Fluid Flow, and Electromagnetic Phenom ena. COSMOS includes routines for Structural Analysis, Static, or Dynamics with linear or nonlinear behavior (material nonlinearity or large displacements), and can be used most efficiently in the microcomputer. The larger version of COSMOS has the capacity for the analysis of structures modeled up to 64,000 nodes. This fourth edition uses an introductory version that has a capability limited to 50 nodes or 50 elements. This version is included in the supplement, STRUCTURAL DYNAMICS USING COSMOS 1. The sets of educational programs in Structural Dynamics and Earthquake Engineering that accompanied the third edition have now been extended and updated. These sets include programs to determine the response in the time or frequency domain using the FFf (Fast Fourier Transform) of structures modeled as a single oscillator. Also included is a program to determine the response of an inelastic system with elastoplastic behavior and a program for the development of seismic response spectral charts. A set of seven computer programs is included for modeling structures as two-dimensional and three dimensional frames and trusses.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0412074613"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780412074615"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 650,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=njRlswNf92wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=njRlswNf92wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=njRlswNf92wC&printsec=frontcover&dq=subject:engineering&hl=&cd=211&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=njRlswNf92wC&dq=subject:engineering&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Structural_Dynamics.html?hl=&id=njRlswNf92wC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Structural_Dynamics-sample-pdf.acsm?id=njRlswNf92wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=njRlswNf92wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YI_uCAAAQBAJ",
+   "etag": "fkawct/ndq8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YI_uCAAAQBAJ",
+   "volumeInfo": {
+    "title": "Optimization of Structural Topology, Shape, and Material",
+    "authors": [
+     "Martin P. Bendsoe"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2013-03-14",
+    "description": "In the past, the possibilities of structural optimization were restricted to an optimal choice of profiles and shape. Further improvement can be obtained by selecting appropriate advanced materials and by optimizing the topology, i.e. finding the best position and arrangement of structural elements within a construction. The optimization of structural topology permits the use of optimization algorithms at a very early stage of the design process. The method presented in this book has been developed by Martin Bendsoe in cooperation with other researchers and can be considered as one of the most effective approaches to the optimization of layout and material design.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783662031155"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3662031159"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 273,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YI_uCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YI_uCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YI_uCAAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=212&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YI_uCAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YI_uCAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 89.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.42,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YI_uCAAAQBAJ&rdid=book-YI_uCAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.9E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.942E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.115E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.71E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Optimization_of_Structural_Topology_Shap-sample-pdf.acsm?id=YI_uCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YI_uCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FczzBwAAQBAJ",
+   "etag": "7cn9pMZgY/k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FczzBwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Optimal Homotopy Asymptotic Method",
+    "subtitle": "Engineering Applications",
+    "authors": [
+     "Vasile Marinca",
+     "Nicolae Herisanu"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2015-04-02",
+    "description": "This book emphasizes in detail the applicability of the Optimal Homotopy Asymptotic Method to various engineering problems. It is a continuation of the book “Nonlinear Dynamical Systems in Engineering: Some Approximate Approaches”, published at Springer in 2011 and it contains a great amount of practical models from various fields of engineering such as classical and fluid mechanics, thermodynamics, nonlinear oscillations, electrical machines and so on. The main structure of the book consists of 5 chapters. The first chapter is introductory while the second chapter is devoted to a short history of the development of homotopy methods, including the basic ideas of the Optimal Homotopy Asymptotic Method. The last three chapters, from Chapter 3 to Chapter 5, are introducing three distinct alternatives of the Optimal Homotopy Asymptotic Method with illustrative applications to nonlinear dynamical systems. The third chapter deals with the first alternative of our approach with two iterations. Five applications are presented from fluid mechanics and nonlinear oscillations. The Chapter 4 presents the Optimal Homotopy Asymptotic Method with a single iteration and solving the linear equation on the first approximation. Here are treated 32 models from different fields of engineering such as fluid mechanics, thermodynamics, nonlinear damped and undamped oscillations, electrical machines and even from physics and biology. The last chapter is devoted to the Optimal Homotopy Asymptotic Method with a single iteration but without solving the equation in the first approximation.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783319153742"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3319153749"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 465,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FczzBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FczzBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FczzBwAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=213&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FczzBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FczzBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 139.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 111.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FczzBwAAQBAJ&rdid=book-FczzBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.39E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.865E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.233E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Optimal_Homotopy_Asymptotic_Method-sample-epub.acsm?id=FczzBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Optimal_Homotopy_Asymptotic_Method-sample-pdf.acsm?id=FczzBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FczzBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5kVUfnt1QQYC",
+   "etag": "40ZaMDL6Klo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5kVUfnt1QQYC",
+   "volumeInfo": {
+    "title": "Digital Video and Audio Broadcasting Technology",
+    "subtitle": "A Practical Engineering Guide",
+    "authors": [
+     "Walter Fischer"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2008-01-09",
+    "description": "This essential text for any technician in broadcasting deals with all the most important digital television, sound radio and multimedia standards. The book provides an in-depth look at these subjects in terms of practical experience. In addition it contains chapters on the basics of technologies such as analog television, digital modulation, COFDM or mathematical transformations between time and frequency domains. The attention in each respective field under discussion is focused on aspects of measuring techniques and of measuring practice, in each case consolidating the knowledge imparted with numerous practical examples. Since the entire field of electrical communications technology is traversed in a wide arc, those who are students in this field are not excluded either.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3540763589"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540763581"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 586,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.8.3.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5kVUfnt1QQYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5kVUfnt1QQYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5kVUfnt1QQYC&printsec=frontcover&dq=subject:engineering&hl=&cd=214&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5kVUfnt1QQYC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5kVUfnt1QQYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 129.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 103.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5kVUfnt1QQYC&rdid=book-5kVUfnt1QQYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.29E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.032E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.515E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.928E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Digital_Video_and_Audio_Broadcasting_Tec-sample-pdf.acsm?id=5kVUfnt1QQYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5kVUfnt1QQYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q3MIsrPDA5EC",
+   "etag": "psw6YVhF7bY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q3MIsrPDA5EC",
+   "volumeInfo": {
+    "title": "The Sonar of Dolphins",
+    "authors": [
+     "Whitlow W.L. Au",
+     "Whitlow Au (W. L.)"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "1993-01-15",
+    "description": "This is the definitive technical synthesis of our knowledge of dolphin sonar. Au's book combines anatomical, physiological, mathematical and engineering aspects of dolphin sonar. Enthusiastically received by reviewers as a \"classic.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0387978356"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387978352"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 277,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Q3MIsrPDA5EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Q3MIsrPDA5EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Q3MIsrPDA5EC&printsec=frontcover&dq=subject:engineering&hl=&cd=215&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Q3MIsrPDA5EC&dq=subject:engineering&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Sonar_of_Dolphins.html?hl=&id=Q3MIsrPDA5EC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Sonar_of_Dolphins-sample-pdf.acsm?id=Q3MIsrPDA5EC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Q3MIsrPDA5EC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7a5GAAAAQBAJ",
+   "etag": "zY8SOyk4z8k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7a5GAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Chemical Thermodynamics",
+    "subtitle": "An Introduction",
+    "authors": [
+     "Ernö Keszei"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2013-01-26",
+    "description": "This course-derived undergraduate textbook provides a concise explanation of the key concepts and calculations of chemical thermodynamics. Instead of the usual ‘classical’ introduction, this text adopts a straightforward postulatory approach that introduces thermodynamic potentials such as entropy and energy more directly and transparently. Structured around several features to assist students’ understanding, Chemical Thermodynamics : Develops applications and methods for the ready treatment of equilibria on a sound quantitative basis. Requires minimal background in calculus to understand the text and presents formal derivations to the student in a detailed but understandable way. Offers end-of-chapter problems (and answers) for self-testing and review and reinforcement, of use for self- or group study. This book is suitable as essential reading for courses in a bachelor and master chemistry program and is also valuable as a reference or textbook for students of physics, biochemistry and materials science.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642198649"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642198643"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 354,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.12.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7a5GAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7a5GAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7a5GAAAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=216&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7a5GAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7a5GAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 59.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 47.39,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7a5GAAAAQBAJ&rdid=book-7a5GAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.739E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 2.1E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.827E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Chemical_Thermodynamics-sample-epub.acsm?id=7a5GAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Chemical_Thermodynamics-sample-pdf.acsm?id=7a5GAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7a5GAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "R8HEBAAAQBAJ",
+   "etag": "SXmZnVvGUJQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/R8HEBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Social Networks in the History of Innovation and Invention",
+    "authors": [
+     "Francis C. Moon"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2013-11-19",
+    "description": "This book integrates history of science and technology with modern social network theory. Using examples from the history of machines, as well as case studies from wireless, radio and chaos theory, the author challenges the genius model of invention. Network analysis concepts are presented to demonstrate the societal nature of invention in areas such as steam power, internal combustion engines, early aviation, air conditioning and more. Using modern measures of network theory, the author demonstrates that the social networks of invention from the 19th and early 20th centuries have similar characteristics to modern 21st C networks such as the World Wide Web. The book provides evidence that exponential growth in technical innovation is linked to the growth of historical innovation networks.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789400775282"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9400775288"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 196,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.7.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=R8HEBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=R8HEBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=R8HEBAAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=217&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=R8HEBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=R8HEBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 99.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 79.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=R8HEBAAAQBAJ&rdid=book-R8HEBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.9E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.92E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.465E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.015E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Social_Networks_in_the_History_of_Innova-sample-epub.acsm?id=R8HEBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Social_Networks_in_the_History_of_Innova-sample-pdf.acsm?id=R8HEBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=R8HEBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Hsrj1snaYacC",
+   "etag": "fQwewCehXPQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Hsrj1snaYacC",
+   "volumeInfo": {
+    "title": "Computational Methods in Elasticity and Plasticity",
+    "subtitle": "Solids and Porous Media",
+    "authors": [
+     "A. Anandarajah"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2011-01-04",
+    "description": "Computational Methods in Elasticity and Plasticity: Solids and Porous Media presents the latest developments in the area of elastic and elasto-plastic finite element modeling of solids, porous media and pressure-dependent materials and structures. The book covers the following topics in depth: the mathematical foundations of solid mechanics, the finite element method for solids and porous media, the theory of plasticity and the finite element implementation of elasto-plastic constitutive models. The book also includes: -A detailed coverage of elasticity for isotropic and anisotropic solids. -A detailed treatment of nonlinear iterative methods that could be used for nonlinear elastic and elasto-plastic analyses. -A detailed treatment of a kinematic hardening von Mises model that could be used to simulate cyclic behavior of solids. -Discussion of recent advances in the analysis of porous media and pressure-dependent materials in more detail than other books currently available. Computational Methods in Elasticity and Plasticity: Solids and Porous Media also contains problem sets, worked examples and a solutions manual for instructors.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1441963790"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781441963796"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 653,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.12.13.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Hsrj1snaYacC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Hsrj1snaYacC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Hsrj1snaYacC&printsec=frontcover&dq=subject:engineering&hl=&cd=218&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Hsrj1snaYacC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Hsrj1snaYacC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 99.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 79.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Hsrj1snaYacC&rdid=book-Hsrj1snaYacC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.9E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.92E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.465E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.015E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Computational_Methods_in_Elasticity_and-sample-epub.acsm?id=Hsrj1snaYacC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Computational_Methods_in_Elasticity_and-sample-pdf.acsm?id=Hsrj1snaYacC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Hsrj1snaYacC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C_B6DQAAQBAJ",
+   "etag": "9SgCyCz6bC4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C_B6DQAAQBAJ",
+   "volumeInfo": {
+    "title": "RFID Security",
+    "subtitle": "A Lightweight Paradigm",
+    "authors": [
+     "Ahmed Khattab",
+     "Zahra Jeddi",
+     "Esmaeil Amini",
+     "Magdy Bayoumi"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2016-11-11",
+    "description": "This book provides a comprehensive treatment of security in the widely adopted, Radio Frequency Identification (RFID) technology. The authors present the fundamental principles of RFID cryptography in a manner accessible to a broad range of readers, enabling them to improve their RFID security design. This book also offers the reader a range of interesting topics portraying the current state-of-the-art in RFID technology and how it can be integrated with today’s Internet of Things (IoT) vision. The authors describe a first-of-its-kind, lightweight symmetric authenticated encryption cipher called Redundant Bit Security (RBS), which enables significant, multi-faceted performance improvements compared to existing cryptosystems. This book is a must-read for anyone aiming to overcome the constraints of practical implementation in RFID security technologies.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783319475455"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3319475452"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 171,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=C_B6DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=C_B6DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=C_B6DQAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=219&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=C_B6DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C_B6DQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 129.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 103.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=C_B6DQAAQBAJ&rdid=book-C_B6DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.29E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.032E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.515E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.928E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/RFID_Security-sample-epub.acsm?id=C_B6DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/RFID_Security-sample-pdf.acsm?id=C_B6DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=C_B6DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TveFDwAAQBAJ",
+   "etag": "3JMVb1s0EHc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TveFDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Dynamics and Control of Industrial Cranes",
+    "authors": [
+     "Keum-Shik Hong",
+     "Umer Hameed Shah"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2019-01-30",
+    "description": "This book introduces and develops the mathematical models used to describe crane dynamics, and explores established and emerging control methods employed for industrial cranes. It opens with a general introduction to the design and structure of various crane types including gantry cranes, rotary cranes, and mobile cranes currently being used for material handling processes. Mathematical models describing their dynamics for control purposes are developed via two different modeling approaches: lumped-mass and distributed parameter models. Control strategies applicable to real industrial problems are then discussed, including open-loop control, feedback control, boundary control, and hybrid control strategies. Finally, based on the methods covered in the book, future research directions are proposed for the advancement of crane technologies. This book can be used by graduate students, engineers, and researchers in the material handling industry including those working in warehouses, manufacturing, construction sites, ship building, seaports, container terminals, nuclear power plants, and in offshore engineering.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789811357701"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9811357706"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 177,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TveFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TveFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TveFDwAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=220&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=TveFDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TveFDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 59.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 47.39,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=TveFDwAAQBAJ&rdid=book-TveFDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.739E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Dynamics_and_Control_of_Industrial_Crane-sample-epub.acsm?id=TveFDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Dynamics_and_Control_of_Industrial_Crane-sample-pdf.acsm?id=TveFDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TveFDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EJe4BAAAQBAJ",
+   "etag": "4Yu1vNwTGXw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EJe4BAAAQBAJ",
+   "volumeInfo": {
+    "title": "Bosch Automotive Electrics and Automotive Electronics",
+    "subtitle": "Systems and Components, Networking and Hybrid Drive",
+    "authors": [
+     "Robert Bosch GmbH"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2013-09-24",
+    "description": "This is a complete reference guide to automotive electrics and electronics. This new edition of the definitive reference for automotive engineers, compiled by one of the world's largest automotive equipment suppliers, includes new and updated material. As in previous editions different topics are covered in a concise but descriptive way backed up by diagrams, graphs, photographs and tables enabling the reader to better comprehend the subject. This fifth edition revises the classical topics of the vehicle electrical systems such as system architecture, control, components and sensors. There is now greater detail on electronics and their application in the motor vehicle, including electrical energy management (EEM) and discusses the topic of inter system networking within the vehicle. It also includes a description of the concept of hybrid drive a topic that is particularly current due to its ability to reduce fuel consumption and therefore CO2 emissions.This book will benefit automotive engineers and design engineers, automotive technicians in training and mechanics and technicians in garages. It may also be of interest to teachers/ lecturers and students at vocational colleges, and enthusiasts.\u200b",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783658017842"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3658017848"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 521,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.9.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EJe4BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EJe4BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=EJe4BAAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=221&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=EJe4BAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EJe4BAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 99.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 79.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=EJe4BAAAQBAJ&rdid=book-EJe4BAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.9E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.92E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.465E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.015E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Bosch_Automotive_Electrics_and_Automotiv-sample-epub.acsm?id=EJe4BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Bosch_Automotive_Electrics_and_Automotiv-sample-pdf.acsm?id=EJe4BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EJe4BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Vv05BQAAQBAJ",
+   "etag": "/GTm9PutKCE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Vv05BQAAQBAJ",
+   "volumeInfo": {
+    "title": "Die Elektrifizierung des Antriebsstrangs",
+    "subtitle": "Basiswissen",
+    "authors": [
+     "Helmut Tschöke"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2014-11-06",
+    "description": "Das Buch schafft Übersicht über die Definitionen und Funktionen der elektrifizierten Antriebe für Pkw und der hierfür notwendigen technischen Komponenten, wie z.B. E-Motoren, Batterien, Supercaps, Leistungselektronik. Außerdem werden die Auswirkungen der Elektrifizierung des Antriebs auf die Zulassung der Fahrzeuge und die aktive und passive Akustik dargestellt. Neue Herausforderungen an die elektromagnetische Verträglichkeit (EMV) und Sicherheit im Umgang mit Hochvoltsystemen sind ebenso Themen, wie die erforderliche Ladetechnik für die Batterien, das Energie- und Thermomanagement und die Konsequenzen für die Auslegung der Verbrennungsmotoren und der Getriebe in hybridisierten Antrieben. Der Brennstoffzellen basierte Elektroantrieb zeigt weitere Möglichkeiten für die Zukunft auf. Das Buch wendet sich an den technisch interessierten Leser, der sich mit den elektrischen Fahrzeugantrieben vertraut machen möchte.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783658046446"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3658046449"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Vv05BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Vv05BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=Vv05BQAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=222&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Vv05BQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Vv05BQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Vv05BQAAQBAJ&rdid=book-Vv05BQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.119E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Die_Elektrifizierung_des_Antriebsstrangs-sample-pdf.acsm?id=Vv05BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Vv05BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FNgIIsMraecC",
+   "etag": "dUydVSxh5Hw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FNgIIsMraecC",
+   "volumeInfo": {
+    "title": "Fuzzy Modeling and Fuzzy Control",
+    "authors": [
+     "Huaguang Zhang",
+     "Derong Liu"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2006-09-26",
+    "description": "Fuzzy logic methodology has proven effective in dealing with complex nonlinear systems containing uncertainties that are otherwise difficult to model. Technology based on this methodology is applicable to many real-world problems, especially in the area of consumer products. This book presents the first comprehensive, unified treatment of fuzzy modeling and fuzzy control, providing tools for the control of complex nonlinear systems. Coverage includes model complexity, model precision, and computing time. This is an excellent reference for electrical, computer, chemical, industrial, civil, manufacturing, mechanical and aeronautical engineers, and also useful for graduate courses in electrical engineering, computer engineering, and computer science.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780817644918"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0817644911"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FNgIIsMraecC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FNgIIsMraecC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FNgIIsMraecC&printsec=frontcover&dq=subject:engineering&hl=&cd=223&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=FNgIIsMraecC&dq=subject:engineering&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fuzzy_Modeling_and_Fuzzy_Control.html?hl=&id=FNgIIsMraecC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Fuzzy_Modeling_and_Fuzzy_Control-sample-pdf.acsm?id=FNgIIsMraecC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FNgIIsMraecC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N2d1CQAAQBAJ",
+   "etag": "5XjMlNBZMtE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N2d1CQAAQBAJ",
+   "volumeInfo": {
+    "title": "Decision Science: A Human-Oriented Perspective",
+    "authors": [
+     "George Mengov"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2015-05-15",
+    "description": "This book offers a new perspective on human decision-making by comparing the established methods in decision science with innovative modelling at the level of neurons and neural interactions. The book presents a new generation of computer models, which can predict with astonishing accuracy individual economic choices when people make them by quick intuition rather than by effort. A vision for a new kind of social science is outlined, whereby neural models of emotion and cognition capture the dynamics of socioeconomic systems and virtual social networks. The exposition is approachable by experts as well as by advanced students. The author is an Associate Professor of Decision Science with a doctorate in Computational Neuroscience, and a former software consultant to banks in the City of London.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783662471227"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3662471221"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=N2d1CQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=N2d1CQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=N2d1CQAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=224&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=N2d1CQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=N2d1CQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 119.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 95.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=N2d1CQAAQBAJ&rdid=book-N2d1CQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.19E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.52E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.165E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.624E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Decision_Science_A_Human_Oriented_Perspe-sample-epub.acsm?id=N2d1CQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Decision_Science_A_Human_Oriented_Perspe-sample-pdf.acsm?id=N2d1CQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=N2d1CQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xNQkDwAAQBAJ",
+   "etag": "APhpCOMvqk4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xNQkDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Coupled DEM-CFD Analyses of Landslide-Induced Debris Flows",
+    "authors": [
+     "Tao Zhao"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2017-05-22",
+    "description": "This book reflects the latest research results in computer modelling of landslide-induced debris flows. The book establishes an understanding of the initiation and propagation mechanisms of landslides by means of numerical simulations, so that mitigation strategies to reduce the long-term losses from landslide hazards can be devised. In this context, the book employs the Discrete Element Method (DEM) and Computational Fluid Dynamics (CFD) to investigate the mechanical and hydraulic behaviour of granular materials involved in landslides – an approach that yields meaningful insights into the flow mechanisms, concerning e.g. the mobilization of sediments, the generation and dissipation of excess pore water pressures, and the evolution of effective stresses. As such, the book provides valuable information, useful methods and robust numerical tools that can be successfully applied in the field of debris flow research.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789811046278"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9811046271"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xNQkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xNQkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xNQkDwAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=225&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xNQkDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xNQkDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 159.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 127.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xNQkDwAAQBAJ&rdid=book-xNQkDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.59E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.272E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 5.565E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.842E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Coupled_DEM_CFD_Analyses_of_Landslide_In-sample-epub.acsm?id=xNQkDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Coupled_DEM_CFD_Analyses_of_Landslide_In-sample-pdf.acsm?id=xNQkDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xNQkDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3HIbXNnGkbwC",
+   "etag": "9lUzxLQ5+DU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3HIbXNnGkbwC",
+   "volumeInfo": {
+    "title": "The Science of Construction Materials",
+    "authors": [
+     "Per Freiesleben Hansen"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2009-09-18",
+    "description": "The Science of Construction Materials is a study and work book for civil engineering students. It includes a large number of thoroughly prepared calculation examples. The book is also suitable for self-study for the researcher and practicing civil engineer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3540708987"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540708988"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 308,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3HIbXNnGkbwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3HIbXNnGkbwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=3HIbXNnGkbwC&printsec=frontcover&dq=subject:engineering&hl=&cd=226&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3HIbXNnGkbwC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3HIbXNnGkbwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 159.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 127.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3HIbXNnGkbwC&rdid=book-3HIbXNnGkbwC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.59E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.272E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 5.565E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.842E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Science_of_Construction_Materials-sample-pdf.acsm?id=3HIbXNnGkbwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3HIbXNnGkbwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L47wBwAAQBAJ",
+   "etag": "S0i9aM+F95k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L47wBwAAQBAJ",
+   "volumeInfo": {
+    "title": "Fundamentals of Computer Organization and Design",
+    "authors": [
+     "Sivarama P. Dandamudi"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2006-05-31",
+    "description": "A new advanced textbook/reference providing a comprehensive survey of hardware and software architectural principles and methods of computer systems organization and design. The book is suitable for a first course in computer organization. The style is similar to that of the author's book on assembly language in that it strongly supports self-study by students. This organization facilitates compressed presentation of material. Emphasis is also placed on related concepts to practical designs/chips. Topics: material presentation suitable for self- study; concepts related to practical designs and implementations; extensive examples and figures; details provided on several digital logic simulation packages; free MASM download instructions provided; and end-of-chapter exercises.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387215662"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0387215662"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1061,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=L47wBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=L47wBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=L47wBwAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=227&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=L47wBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=L47wBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 109.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 87.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=L47wBwAAQBAJ&rdid=book-L47wBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.09E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8.72E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.815E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.319E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Fundamentals_of_Computer_Organization_an-sample-pdf.acsm?id=L47wBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=L47wBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PphumLcKPi4C",
+   "etag": "Sjx6LiW4OdU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PphumLcKPi4C",
+   "volumeInfo": {
+    "title": "Model Predictive Control System Design and Implementation Using MATLAB®",
+    "authors": [
+     "Liuping Wang"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2009-03-04",
+    "description": "Model Predictive Control System Design and Implementation Using MATLAB® proposes methods for design and implementation of MPC systems using basis functions that confer the following advantages: - continuous- and discrete-time MPC problems solved in similar design frameworks; - a parsimonious parametric representation of the control trajectory gives rise to computationally efficient algorithms and better on-line performance; and - a more general discrete-time representation of MPC design that becomes identical to the traditional approach for an appropriate choice of parameters. After the theoretical presentation, coverage is given to three industrial applications. The subject of quadratic programming, often associated with the core optimization algorithms of MPC is also introduced and explained. The technical contents of this book is mainly based on advances in MPC using state-space models and basis functions. This volume includes numerous analytical examples and problems and MATLAB® programs and exercises.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781848823303"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1848823304"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 378,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PphumLcKPi4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PphumLcKPi4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=PphumLcKPi4C&printsec=frontcover&dq=subject:engineering&hl=&cd=228&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=PphumLcKPi4C&dq=subject:engineering&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Model_Predictive_Control_System_Design_a.html?hl=&id=PphumLcKPi4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Model_Predictive_Control_System_Design_a-sample-pdf.acsm?id=PphumLcKPi4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PphumLcKPi4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ckRADwAAQBAJ",
+   "etag": "TScaXgF6aPc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ckRADwAAQBAJ",
+   "volumeInfo": {
+    "title": "Internet-of-Things (IoT) Systems",
+    "subtitle": "Architectures, Algorithms, Methodologies",
+    "authors": [
+     "Dimitrios Serpanos",
+     "Marilyn Wolf"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2017-11-24",
+    "description": "This book covers essential topics in the architecture and design of Internet of Things (IoT) systems. The authors provide state-of-the-art information that enables readers to design systems that balance functionality, bandwidth, and power consumption, while providing secure and safe operation in the face of a wide range of threat and fault models. Coverage includes essential topics in system modeling, edge/cloud architectures, and security and safety, including cyberphysical systems and industrial control systems.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783319697154"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3319697153"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 95,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ckRADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ckRADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ckRADwAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=229&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ckRADwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ckRADwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 89.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.42,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ckRADwAAQBAJ&rdid=book-ckRADwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.9E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.942E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.115E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.71E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Internet_of_Things_IoT_Systems-sample-epub.acsm?id=ckRADwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Internet_of_Things_IoT_Systems-sample-pdf.acsm?id=ckRADwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ckRADwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yqPxCAAAQBAJ",
+   "etag": "fVyURdrdmxs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yqPxCAAAQBAJ",
+   "volumeInfo": {
+    "title": "Introduction to Laser Physics",
+    "authors": [
+     "Koichi Shimoda"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2013-04-17",
+    "description": "Most of the texts available on lasers deal with laser engineering and laser applications, only a few of them treating theoretical aspects of the laser at an advanced level. Introduction to Laser Physics provides an introduction to the essential physics of quantum electronics and lasers. Fundamental topics in modern optics, the applicability of various theoretical approaches, and the physical meaning of laser-related phenomena are carefully described. Experimental results and properties of practical lasers are interwoven, thereby allowing an explicit demonstration of the rate equation approach and the semiclassical treatment. The basic concepts of nonlinear optical devices and laser spectroscopy are intro- duced. The second edition includes additional information on optical resonators, minor improvements of the text and several new problems, completed with solutions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540389545"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3540389547"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 234,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yqPxCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yqPxCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=yqPxCAAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=230&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yqPxCAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yqPxCAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 84.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 67.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yqPxCAAAQBAJ&rdid=book-yqPxCAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.799E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 2.975E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.588E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Introduction_to_Laser_Physics-sample-pdf.acsm?id=yqPxCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yqPxCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VZ8uabI1pNMC",
+   "etag": "aqMbOi50zmg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VZ8uabI1pNMC",
+   "volumeInfo": {
+    "title": "Digital Filters and Signal Processing",
+    "authors": [
+     "Leland B. Jackson",
+     "Leland B.. Jackson"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "1996",
+    "description": "This text presents a general survey of digital signal processing concepts, design methods, and implementation considerations, with an emphasis on digital filters. It includes MATLAB exercises.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "079239559X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780792395591"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 502,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VZ8uabI1pNMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VZ8uabI1pNMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=VZ8uabI1pNMC&printsec=frontcover&dq=subject:engineering&hl=&cd=231&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=VZ8uabI1pNMC&dq=subject:engineering&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Digital_Filters_and_Signal_Processing.html?hl=&id=VZ8uabI1pNMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Digital_Filters_and_Signal_Processing-sample-pdf.acsm?id=VZ8uabI1pNMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VZ8uabI1pNMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pYHBBAAAQBAJ",
+   "etag": "61pZIR39n7Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pYHBBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Solid-State Electronic Devices",
+    "subtitle": "An Introduction",
+    "authors": [
+     "Christo Papadopoulos"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2013-11-19",
+    "description": "A modern and concise treatment of the solid state electronic devices that are fundamental to electronic systems and information technology is provided in this book. The main devices that comprise semiconductor integrated circuits are covered in a clear manner accessible to the wide range of scientific and engineering disciplines that are impacted by this technology. Catering to a wider audience is becoming increasingly important as the field of electronic materials and devices becomes more interdisciplinary, with applications in biology, chemistry and electro-mechanical devices (to name a few) becoming more prevalent. Updated and state-of-the-art advancements are included along with emerging trends in electronic devices and their applications. In addition, an appendix containing the relevant physical background will be included to assist readers from different disciplines and provide a review for those more familiar with the area. Readers of this book can expect to derive a solid foundation for understanding modern electronic devices and also be prepared for future developments and advancements in this far-reaching area of science and technology.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781461488361"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1461488362"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 277,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.5.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pYHBBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pYHBBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pYHBBAAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=232&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pYHBBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pYHBBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 39.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pYHBBAAAQBAJ&rdid=book-pYHBBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.949E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 1.75E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.522E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Solid_State_Electronic_Devices-sample-epub.acsm?id=pYHBBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Solid_State_Electronic_Devices-sample-pdf.acsm?id=pYHBBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pYHBBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Y7m5BQAAQBAJ",
+   "etag": "P49WqHgZIpE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y7m5BQAAQBAJ",
+   "volumeInfo": {
+    "title": "Hybrid Metaheuristics",
+    "authors": [
+     "El-ghazali Talbi"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2012-07-31",
+    "description": "The main goal of this book is to provide a state of the art of hybrid metaheuristics. The book provides a complete background that enables readers to design and implement hybrid metaheuristics to solve complex optimization problems (continuous/discrete, mono-objective/multi-objective, optimization under uncertainty) in a diverse range of application domains. Readers learn to solve large scale problems quickly and efficiently combining metaheuristics with complementary metaheuristics, mathematical programming, constraint programming and machine learning. Numerous real-world examples of problems and solutions demonstrate how hybrid metaheuristics are applied in such fields as networks, logistics and transportation, bio-medical, engineering design, scheduling.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642306716"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642306713"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 458,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Y7m5BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Y7m5BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Y7m5BQAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=233&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Y7m5BQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Y7m5BQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 219.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 175.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Y7m5BQAAQBAJ&rdid=book-Y7m5BQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.19E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.752E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 7.665E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.669E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Hybrid_Metaheuristics-sample-pdf.acsm?id=Y7m5BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Y7m5BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o8BOJxnd6DIC",
+   "etag": "kzgivu95GuM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o8BOJxnd6DIC",
+   "volumeInfo": {
+    "title": "Towards a New Evolutionary Computation",
+    "subtitle": "Advances on Estimation of Distribution Algorithms",
+    "authors": [
+     "Jose A. Lozano",
+     "Pedro Larrañaga",
+     "Endika Bengoetxea",
+     "Iñaki Inza"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2006-01-12",
+    "description": "Estimation of Distribution Algorithms (EDAs) are a set of algorithms in the Evolutionary Computation (EC) field characterized by the use of explicit probability distributions in optimization. Contrarily to other EC techniques such as the broadly known Genetic Algorithms (GAs) in EDAs, the crossover and mutation operators are substituted by the sampling of a distribution previously learnt from the selected individuals. EDAs have experienced a high development that has transformed them into an established discipline within the EC field. This book attracts the interest of new researchers in the EC field as well as in other optimization disciplines, and that it becomes a reference for all of us working on this topic. The twelve chapters of this book can be divided into those that endeavor to set a sound theoretical basis for EDAs, those that broaden the methodology of EDAs and finally those that have an applied objective.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540290063"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3540290060"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 294,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=o8BOJxnd6DIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=o8BOJxnd6DIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=o8BOJxnd6DIC&printsec=frontcover&dq=subject:engineering&hl=&cd=234&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=o8BOJxnd6DIC&dq=subject:engineering&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Towards_a_New_Evolutionary_Computation.html?hl=&id=o8BOJxnd6DIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Towards_a_New_Evolutionary_Computation-sample-pdf.acsm?id=o8BOJxnd6DIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=o8BOJxnd6DIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cRZwbugE4P8C",
+   "etag": "Wh0nXWNIkZ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cRZwbugE4P8C",
+   "volumeInfo": {
+    "title": "Engineering Ethics",
+    "subtitle": "Outline of an Aspirational Approach",
+    "authors": [
+     "William Richard Bowen"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2008-11-27",
+    "description": "Around the turn of the millennium, a young woman with outstanding academic achievements in science and mathematics applied to study engineering at a Eu- pean university. She had chosen to study engineering particularly because of the opportunities she expected it would give her to make a contribution to the well- ing of others. It happened that the university engineering department to which she applied had just been involved in the design of a vehicle for a world speed record attempt. When the young woman visited the university for interview this “triumph of technology” was presented as being a quintessential example of good engine- ing. However, though it was clear to her that the vehicle was technically ing- ious, she also recognised that it was of no practical use. She concluded that she had misunderstood the nature of engineering, and still wishing to help others she changed her plans and studied medicine, at which she assuredly excelled. This young woman’s change of career was undoubtedly a specific loss for en- neering. Additionally, it had a broader, tragic dimension; for her understanding of the purpose of engineering was more mature than that of the academics she - countered. Moreover, their imbalanced prioritisation of technical ingenuity over helping people is not uncommon within parts of the profession.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781848822245"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1848822243"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 111,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cRZwbugE4P8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cRZwbugE4P8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cRZwbugE4P8C&printsec=frontcover&dq=subject:engineering&hl=&cd=235&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cRZwbugE4P8C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cRZwbugE4P8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 89.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.42,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=cRZwbugE4P8C&rdid=book-cRZwbugE4P8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.9E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.942E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.115E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.71E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Engineering_Ethics-sample-epub.acsm?id=cRZwbugE4P8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Engineering_Ethics-sample-pdf.acsm?id=cRZwbugE4P8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cRZwbugE4P8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B6shu_hAiGkC",
+   "etag": "s2+LYJWkslQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B6shu_hAiGkC",
+   "volumeInfo": {
+    "title": "Dot-Dash to Dot.Com",
+    "subtitle": "How Modern Telecommunications Evolved from the Telegraph to the Internet",
+    "authors": [
+     "Andrew Wheen"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2010-11-04",
+    "description": "Telecommunications is a major global industry, and this unique book chronicles the development of this complex technology from the electric telegraph to the Internet in a simple, accessible, and entertaining way. The book opens with the early years of the electric telegraph. The reader will learn how the Morse telegraph evolved into an international network that spanned the globe, starting with the development of international undersea cables, and the heroic attempts to lay a trans-Atlantic cable. The book describes the events that led to the invention of the telephone, and the subsequent disputes over who had really invented it. It takes a look at some of the most important applications that have appeared on the Internet, the mobile revolution, and ends with a discussion of future key developments in the telecommunications industry.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1441967605"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781441967602"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 302,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=B6shu_hAiGkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=B6shu_hAiGkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=B6shu_hAiGkC&printsec=frontcover&dq=subject:engineering&hl=&cd=236&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=B6shu_hAiGkC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B6shu_hAiGkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 39.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=B6shu_hAiGkC&rdid=book-B6shu_hAiGkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.949E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 1.75E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.522E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Dot_Dash_to_Dot_Com-sample-epub.acsm?id=B6shu_hAiGkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Dot_Dash_to_Dot_Com-sample-pdf.acsm?id=B6shu_hAiGkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=B6shu_hAiGkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lFyoBgAAQBAJ",
+   "etag": "jDxVRdmUwbE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lFyoBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Organisation in der Produktionstechnik Band 4",
+    "subtitle": "Fertigung und Montage",
+    "authors": [
+     "Walter Eversheim"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2013-03-11",
+    "description": "Thema dieses Bandes ist die umfassende Darstellung der Aufgabenbereiche in Fertigung und Montage. Insbesondere werden unter BErücksichtigung des Einsatzes neuer Technologies und der computerintegrierten Fertigung (CIM) Methoden und Hilfsmittel erläutert, die die Planung und Auslegung dieser Produktionsbereiche unterstützen. Dabei werden Aspekte der Automatisierung in die Betrachtung mit einbezogen.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642613449"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642613446"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lFyoBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lFyoBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=lFyoBgAAQBAJ&printsec=frontcover&dq=subject:engineering&hl=&cd=237&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lFyoBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lFyoBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=lFyoBgAAQBAJ&rdid=book-lFyoBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.172E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Organisation_in_der_Produktionstechnik_B-sample-pdf.acsm?id=lFyoBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lFyoBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PbHcJ1bfmBcC",
+   "etag": "jbITTi12zoc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PbHcJ1bfmBcC",
+   "volumeInfo": {
+    "title": "Engineering Analysis with SolidWorks Simulation 2012",
+    "authors": [
+     "Paul M. Kurowski"
+    ],
+    "publisher": "SDC Publications",
+    "publishedDate": "2012-04-27",
+    "description": "Engineering Analysis with SolidWorks Simulation 2012 goes beyond the standard software manual. Its unique approach concurrently introduces you to the SolidWorks Simulation 2012 software and the fundamentals of Finite Element Analysis (FEA) through hands-on exercises. A number of projects are presented using commonly used parts to illustrate the analysis features of SolidWorks Simulation. Each chapter is designed to build on the skills, experiences and understanding gained from the previous chapters. Topics covered: Linear static analysis of parts and assemblies Contact stress analysis Frequency (modal) analysis Buckling analysis Thermal analysis Drop test analysis Nonlinear analysis Dynamic analysis Random vibration analysis h and p adaptive solution methods Modeling techniques Implementation of FEA in the design process Management of FEA projects FEA terminology",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781585037100"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1585037109"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 456,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PbHcJ1bfmBcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PbHcJ1bfmBcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=PbHcJ1bfmBcC&printsec=frontcover&dq=subject:engineering&hl=&cd=238&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PbHcJ1bfmBcC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PbHcJ1bfmBcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 50.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 40.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=PbHcJ1bfmBcC&rdid=book-PbHcJ1bfmBcC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.0E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.0E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Engineering_Analysis_with_SolidWorks_Sim-sample-pdf.acsm?id=PbHcJ1bfmBcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PbHcJ1bfmBcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K9LP5omwjQcC",
+   "etag": "x8ESOmWBeNY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K9LP5omwjQcC",
+   "volumeInfo": {
+    "title": "Thermo-Fluid Dynamics of Two-Phase Flow",
+    "authors": [
+     "Mamoru Ishii",
+     "Takashi Hibiki"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2010-11-10",
+    "description": "Thermo-fluid Dynamics of Two-Phase Flow, Second Edition is focused on the fundamental physics of two-phase flow. The authors present the detailed theoretical foundation of multi-phase flow thermo-fluid dynamics as they apply to: Nuclear reactor transient and accident analysis; Energy systems; Power generation systems; Chemical reactors and process systems; Space propulsion; Transport processes. This edition features updates on two-phase flow formulation and constitutive equations and CFD simulation codes such as FLUENT and CFX, new coverage of the lift force model, which is of particular significance for those working in the field of computational fluid dynamics, new equations and coverage of 1 dimensional drift flux models and a new chapter on porous media formulation.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781441979858"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1441979859"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 518,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=K9LP5omwjQcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=K9LP5omwjQcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=K9LP5omwjQcC&printsec=frontcover&dq=subject:engineering&hl=&cd=239&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=K9LP5omwjQcC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=K9LP5omwjQcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 189.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 151.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=K9LP5omwjQcC&rdid=book-K9LP5omwjQcC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.89E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.512E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 6.615E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.755E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Thermo_Fluid_Dynamics_of_Two_Phase_Flow-sample-pdf.acsm?id=K9LP5omwjQcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=K9LP5omwjQcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HX0QWLwq5egC",
+   "etag": "uoegq6clKOc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HX0QWLwq5egC",
+   "volumeInfo": {
+    "title": "Materials for Information Technology",
+    "subtitle": "Devices, Interconnects and Packaging",
+    "authors": [
+     "Ehrenfried Zschech",
+     "Caroline Whelan",
+     "Thomas Mikolajick"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2006-07-02",
+    "description": "This book provides an up to date survey of the state of the art of research into the materials used in information technology, and will be bought by researchers in universities, institutions as well as research workers in the semiconductor and IT industries.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781846282355"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1846282357"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 508,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HX0QWLwq5egC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HX0QWLwq5egC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HX0QWLwq5egC&printsec=frontcover&dq=subject:engineering&hl=&cd=240&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HX0QWLwq5egC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HX0QWLwq5egC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 269.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 215.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HX0QWLwq5egC&rdid=book-HX0QWLwq5egC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.69E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.152E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 9.415E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8.191E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Materials_for_Information_Technology-sample-pdf.acsm?id=HX0QWLwq5egC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HX0QWLwq5egC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

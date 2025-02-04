@@ -1,0 +1,3320 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 341,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ypthAgAAQBAJ",
+   "etag": "j2Jk5sgiwkw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ypthAgAAQBAJ",
+   "volumeInfo": {
+    "title": "La ciencia, su método y su filosofía",
+    "authors": [
+     "Mario Bunge"
+    ],
+    "publisher": "SUDAMERICANA",
+    "publishedDate": "2014-01-01",
+    "description": "Introducción a la metodología científica y la filosofía de la ciencia o epistemología, esta obra de Mario Bunge es el libro de texto en toda Hispanoamérica.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789875669659"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9875669652"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.12.11.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ypthAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ypthAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=ypthAgAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=81&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ypthAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ypthAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ypthAgAAQBAJ&rdid=book-ypthAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/La_ciencia_su_m%C3%A9todo_y_su_filosof%C3%ADa-sample-epub.acsm?id=ypthAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/La_ciencia_su_m%C3%A9todo_y_su_filosof%C3%ADa-sample-pdf.acsm?id=ypthAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ypthAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yPfZBwAAQBAJ",
+   "etag": "je/RKQ8f1jE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yPfZBwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Elements of Statistical Learning",
+    "subtitle": "Data Mining, Inference, and Prediction",
+    "authors": [
+     "Trevor Hastie",
+     "Robert Tibshirani",
+     "Jerome Friedman"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2013-11-11",
+    "description": "During the past decade there has been an explosion in computation and information technology. With it have come vast amounts of data in a variety of fields such as medicine, biology, finance, and marketing. The challenge of understanding these data has led to the development of new tools in the field of statistics, and spawned new areas such as data mining, machine learning, and bioinformatics. Many of these tools have common underpinnings but are often expressed with different terminology. This book describes the important ideas in these areas in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of color graphics. It should be a valuable resource for statisticians and anyone interested in data mining in science or industry. The book’s coverage is broad, from supervised learning (prediction) to unsupervised learning. The many topics include neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book. This major new edition features many topics not covered in the original, including graphical models, random forests, ensemble methods, least angle regression & path algorithms for the lasso, non-negative matrix factorization, and spectral clustering. There is also a chapter on methods for “wide” data (p bigger than n), including multiple testing and false discovery rates. Trevor Hastie, Robert Tibshirani, and Jerome Friedman are professors of statistics at Stanford University. They are prominent researchers in this area: Hastie and Tibshirani developed generalized additive models and wrote a popular book of that title. Hastie co-developed much of the statistical modeling software and environment in R/S-PLUS and invented principal curves and surfaces. Tibshirani proposed the lasso and is co-author of the very successful An Introduction to the Bootstrap. Friedman is the co-inventor of many data-mining tools including CART, MARS, projection pursuit and gradient boosting.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387216065"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0387216065"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 536,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yPfZBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yPfZBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=yPfZBwAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=82&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yPfZBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yPfZBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 89.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.42,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yPfZBwAAQBAJ&rdid=book-yPfZBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.9E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.942E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.115E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.71E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Elements_of_Statistical_Learning-sample-pdf.acsm?id=yPfZBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yPfZBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BHKLFPUS1RcC",
+   "etag": "sW265T5ord0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BHKLFPUS1RcC",
+   "volumeInfo": {
+    "title": "Cauldrons in the Cosmos",
+    "subtitle": "Nuclear Astrophysics",
+    "authors": [
+     "Claus E. Rolfs",
+     "William S. Rodney"
+    ],
+    "publisher": "University of Chicago Press",
+    "publishedDate": "1988",
+    "description": "A reference source that addresses fundamental questions in the field of nuclear astrophysics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226724573"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226724577"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 561,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BHKLFPUS1RcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BHKLFPUS1RcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BHKLFPUS1RcC&printsec=frontcover&dq=subject:science&hl=&cd=83&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=BHKLFPUS1RcC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cauldrons_in_the_Cosmos.html?hl=&id=BHKLFPUS1RcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BHKLFPUS1RcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LTaU5JTj3mUC",
+   "etag": "5/4/QdO34Mk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LTaU5JTj3mUC",
+   "volumeInfo": {
+    "title": "The Direction of Time",
+    "authors": [
+     "Hans Reichenbach",
+     "Maria Reichenbach"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "1991",
+    "description": "Internationally known for his work in the theory of probability, symbolic logic, analysis of space and time, and philosophical problems of quantum physics, Hans Reichenbach (1891-1953) was one of the twentieth century's most incisive philosophers of science. In this, his last book, first published in 1956, he brought all his previous research and insight to bear on the most intractable and intriguing problem in physics: the elusive nature of time. This far-sighted work of philosophy illuminates the metaphysical questions with which contemporary researchers in cosmology and particle physics must contend. Arguing as he did throughout his career that developments in scientific knowledge must influence philosophy, Reichenbach shows how completely the Kantian a priori--and many of our most basic intuitions about the structure of space and time--are undermined by twentieth-century physics. He shows how the philosophical understanding of time is necessary to understanding contemporary problems of cosmology. This new edition of The Direction of Time, published in the year of Reichenbach's centennial, includes an introduction by Hilary Putnam, one of Reichenbach's most eminent students, describing the metaphysical assumptions and arguments embedded in Reichenbach's philosophy, and their importance for the development of contemporary philosophy pf science.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520074149"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520074149"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LTaU5JTj3mUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LTaU5JTj3mUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=LTaU5JTj3mUC&printsec=frontcover&dq=subject:science&hl=&cd=84&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=LTaU5JTj3mUC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Direction_of_Time.html?hl=&id=LTaU5JTj3mUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LTaU5JTj3mUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "j94XiVDwAZEC",
+   "etag": "Lr4rwASIVWk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j94XiVDwAZEC",
+   "volumeInfo": {
+    "title": "On Social Structure and Science",
+    "authors": [
+     "Robert K. Merton",
+     "Piotr Sztompka"
+    ],
+    "publisher": "University of Chicago Press",
+    "publishedDate": "1996-09-15",
+    "description": "Robert K. Merton is unarguably one of the most influential sociologists of his time. A figure whose wide-ranging theoretical and methodological contributions have become fundamental to the field, Merton is best known for introducing such concepts and procedures as unanticipated consequences, self-fulfilling prophecies, focused group interviews, middle-range theory, opportunity structure, and analytic paradigms. This definitive compilation encompasses the breadth and brilliance of his works, from the earliest to the most recent. Merton's foundational writings on social structure and process, on the sociology of science and knowledge, and on the discipline and trajectory of sociology itself are all powerfully represented, as are his autobiographical insights in a fascinating coda. Anchored by Piotr Sztompka's contextualizing introduction, Merton's vast oeuvre emerges as a dynamic and profoundly coherent system of thought, a constant source of vitality and renewal for present and future sociology.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226520714"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226520711"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 386,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=j94XiVDwAZEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=j94XiVDwAZEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=j94XiVDwAZEC&printsec=frontcover&dq=subject:science&hl=&cd=85&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=j94XiVDwAZEC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/On_Social_Structure_and_Science.html?hl=&id=j94XiVDwAZEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/On_Social_Structure_and_Science-sample-epub.acsm?id=j94XiVDwAZEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=j94XiVDwAZEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3BKdBQAAQBAJ",
+   "etag": "YKwpuRrY5Es",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3BKdBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Organic Chemistry",
+    "authors": [
+     "John E. McMurry"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2015-02-27",
+    "description": "The most trusted and best-selling text for organic chemistry just got better! Updated with more coverage of nuclear magnetic resonance spectroscopy, expanded with new end-of-chapter mechanism problems and Practice Your Scientific Reasoning and Analysis questions, and enhanced with OWLv2, the latest version of the leading online homework and learning system for chemistry, John McMurry's ORGANIC CHEMISTRY continues to set the standard for the course. The Ninth Edition also retains McMurry's hallmark qualities: comprehensive, authoritative, and clear. McMurry has developed a reputation for crafting precise and accessible texts that speak to the needs of instructors and students. More than a million students worldwide from a full range of universities have mastered organic chemistry through his trademark style, while instructors at hundreds of colleges and universities have praised his approach time and time again. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781305686465"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1305686462"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1512,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3BKdBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3BKdBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=3BKdBQAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=86&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3BKdBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3BKdBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 104.49,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 104.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3BKdBQAAQBAJ&rdid=book-3BKdBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.0449E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.0449E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.449E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.449E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 180.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3BKdBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SVvsi13YL5oC",
+   "etag": "ZfBFPsH2OyU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SVvsi13YL5oC",
+   "volumeInfo": {
+    "title": "Handbook of Research on Science Education",
+    "authors": [
+     "Sandra K. Abell",
+     "Norman G. Lederman"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2007-01",
+    "description": "Indhold: Part I: Science Learning. Part II: Culture, Gender, Society, and Science Learning. Part III: Science Teaching. Part IV: Curriculum and Assessment in Science. Part V: Science Teacher Education.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805847130"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0805847138"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1330,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SVvsi13YL5oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SVvsi13YL5oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SVvsi13YL5oC&printsec=frontcover&dq=subject:science&hl=&cd=87&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=SVvsi13YL5oC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Handbook_of_Research_on_Science_Educatio.html?hl=&id=SVvsi13YL5oC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SVvsi13YL5oC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iUo_4tsHQYUC",
+   "etag": "LViDkX+3fhs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iUo_4tsHQYUC",
+   "volumeInfo": {
+    "title": "Fluid Mechanics",
+    "authors": [
+     "Pijush K. Kundu",
+     "Ira M. Cohen",
+     "David R. Dowling"
+    ],
+    "publisher": "Academic Press",
+    "publishedDate": "2012",
+    "description": "Fluid mechanics, the study of how fluids behave and interact under various forces and in various applied situations-whether in the liquid or gaseous state or both-is introduced and comprehensively covered in this widely adopted text. Revised and updated by Dr. David Dowling, Fluid Mechanics, Fifth Edition is suitable for both a first or second course in fluid mechanics at the graduate or advanced undergraduate level. The leading advanced general text on fluid mechanics, Fluid Mechanics, 5e includes a free copy of the DVD \"Multimedia Fluid Mechanics,\" second edition. With the inclusion of the DVD, students can gain additional insight about fluid flows through nearly 1,000 fluids video clips, can conduct flow simulations in any of more than 20 virtual labs and simulations, and can view dozens of other new interactive demonstrations and animations, thereby enhancing their fluid mechanics learning experience. Text has been reorganized to provide a better flow from topic to topic and to consolidate portions that belong together. Changes made to the book's pedagogy accommodate the needs of students who have completed minimal prior study of fluid mechanics. More than 200 new or revised end-of-chapter problems illustrate fluid mechanical principles and draw on phenomena that can be observed in everyday life. Includes free Multimedia Fluid Mechanics 2e DVD",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780123821003"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0123821002"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 891,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iUo_4tsHQYUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iUo_4tsHQYUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=iUo_4tsHQYUC&printsec=frontcover&dq=subject:science&hl=&cd=88&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=iUo_4tsHQYUC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fluid_Mechanics.html?hl=&id=iUo_4tsHQYUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iUo_4tsHQYUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fpMh3nh3JI0C",
+   "etag": "QbCBnBjrt6Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fpMh3nh3JI0C",
+   "volumeInfo": {
+    "title": "Merchants of Doubt",
+    "subtitle": "How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming",
+    "authors": [
+     "Naomi Oreskes",
+     "Erik M. Conway"
+    ],
+    "publisher": "Bloomsbury Publishing USA",
+    "publishedDate": "2010-06-03",
+    "description": "The U.S. scientific community has long led the world in research on such areas as public health, environmental science, and issues affecting quality of life. Our scientists have produced landmark studies on the dangers of DDT, tobacco smoke, acid rain, and global warming. But at the same time, a small yet potent subset of this community leads the world in vehement denial of these dangers. Merchants of Doubt tells the story of how a loose-knit group of high-level scientists and scientific advisers, with deep connections in politics and industry, ran effective campaigns to mislead the public and deny well-established scientific knowledge over four decades. Remarkably, the same individuals surface repeatedly-some of the same figures who have claimed that the science of global warming is \"not settled\" denied the truth of studies linking smoking to lung cancer, coal smoke to acid rain, and CFCs to the ozone hole. \"Doubt is our product,\" wrote one tobacco executive. These \"experts\" supplied it. Naomi Oreskes and Erik M. Conway, historians of science, roll back the rug on this dark corner of the American scientific community, showing how ideology and corporate interests, aided by a too-compliant media, have skewed public understanding of some of the most pressing issues of our era.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1608192938"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781608192939"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 22,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fpMh3nh3JI0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fpMh3nh3JI0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fpMh3nh3JI0C&printsec=frontcover&dq=subject:science&hl=&cd=89&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fpMh3nh3JI0C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fpMh3nh3JI0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.2,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 10.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fpMh3nh3JI0C&rdid=book-fpMh3nh3JI0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.52E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.049E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Merchants_of_Doubt-sample-epub.acsm?id=fpMh3nh3JI0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Merchants_of_Doubt-sample-pdf.acsm?id=fpMh3nh3JI0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fpMh3nh3JI0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FCV2XxDZA7gC",
+   "etag": "LAs6mmu8If4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FCV2XxDZA7gC",
+   "volumeInfo": {
+    "title": "Agricultural Mechanics: Fundamentals & Applications",
+    "authors": [
+     "Ray V Herren"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2009-01-13",
+    "description": "AGRICULTURAL MECHANICS: FUNDAMENTALS AND APPLICATIONS, 6th edition is designed for high school students learning agricultural mechanics. The text aims to connect the theory behind mechanics with the practical application. Topics covered are those common to most programs and include metal and career selection; wood and metal working; tool identification; project planning; cutting and welding; paints and paint application; power mechanics; electrical wiring; plumbing; hydraulics; concrete and masonry; and agricultural structures. Safety rules and precautions are prominent in every section of the units as well as an entire unit on personal safety. To engage the reader, Agricultural Mechanics Fundamentals and Applications, 6th edition is illustrated with up-to-date images that support text material. In addition, 36 charts and data tables are included to provide information for project planning and measurement conversions. The last section of the text is dedicated to detailed drawings of 58 complete plans that are designed for the skill levels students should acquire at the completion of their course of study in agricultural mechanics. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781435400979"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1435400976"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 832,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FCV2XxDZA7gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FCV2XxDZA7gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FCV2XxDZA7gC&printsec=frontcover&dq=subject:science&hl=&cd=90&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=FCV2XxDZA7gC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Agricultural_Mechanics_Fundamentals_Appl.html?hl=&id=FCV2XxDZA7gC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FCV2XxDZA7gC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YtxGYnnP1PEC",
+   "etag": "muNUHy4g7BE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YtxGYnnP1PEC",
+   "volumeInfo": {
+    "title": "Problem Book in Relativity and Gravitation",
+    "authors": [
+     "Alan P. Lightman",
+     "William H. Press",
+     "Richard H. Price",
+     "Saul A. Teukolsky"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "1975-12-21",
+    "description": "The authors have attempted to convey a mode of approach to these kinds of problems, revealing procedures that can reduce the labor of calculations while avoiding the pitfall of too much or too powerful formalism.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "069108162X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691081625"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 599,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YtxGYnnP1PEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YtxGYnnP1PEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YtxGYnnP1PEC&printsec=frontcover&dq=subject:science&hl=&cd=91&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YtxGYnnP1PEC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Problem_Book_in_Relativity_and_Gravitati.html?hl=&id=YtxGYnnP1PEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Problem_Book_in_Relativity_and_Gravitati-sample-pdf.acsm?id=YtxGYnnP1PEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YtxGYnnP1PEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mqG8a74SkRMC",
+   "etag": "s7lsCfKqZck",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mqG8a74SkRMC",
+   "volumeInfo": {
+    "title": "The Hanging Tree",
+    "subtitle": "Execution and the English People 1770-1868",
+    "authors": [
+     "V. A. C. Gatrell"
+    ],
+    "publisher": "Oxford University Press on Demand",
+    "publishedDate": "1996",
+    "description": "Hanging people for petty crimes as well as grave, the Bloody Penal Code was at its most active between 1770 and 1830. Some 7,000 men and women were executed on public scaffolds, watched by crowds of thousands. This acclaimed study is the first to explore what a wide range of people felt about these ceremonies. Gatrell draws on letters, diaries, ballads, broadsides, and images, as well as on poignant appeals for mercy which, until now, have been largely neglected by historians. Panoramic in range, scholarly in method, and compelling in style and in argument, this is one of those rare histories which both shift our sense of the past and speak powerfully to the present.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0192853325"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780192853325"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 634,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mqG8a74SkRMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mqG8a74SkRMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mqG8a74SkRMC&printsec=frontcover&dq=subject:science&hl=&cd=92&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mqG8a74SkRMC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Hanging_Tree.html?hl=&id=mqG8a74SkRMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mqG8a74SkRMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uvnYaN8VnesC",
+   "etag": "xK6fwvAajEQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uvnYaN8VnesC",
+   "volumeInfo": {
+    "title": "Reading Popular Physics",
+    "subtitle": "Disciplinary Skirmishes and Textual Strategies",
+    "authors": [
+     "Elizabeth Leane"
+    ],
+    "publisher": "Ashgate Publishing, Ltd.",
+    "publishedDate": "2007",
+    "description": "Elizabeth Leane's Reading Popular Physics is a valuable contribution to our understanding of the nature and implications of physics popularizations. Focusing particularly on five bestselling books-A Brief History of Time, The First Three Minutes, Chaos, Complexity, and The Dancing Wu Li Masters-Leane analyzes the textual strategies by which popularizers of science influence the public. Her book offers readers a fresh perspective on this highly visible and influential genre.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0754658503"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780754658504"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 198,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uvnYaN8VnesC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uvnYaN8VnesC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=uvnYaN8VnesC&printsec=frontcover&dq=subject:science&hl=&cd=93&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=uvnYaN8VnesC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Reading_Popular_Physics.html?hl=&id=uvnYaN8VnesC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uvnYaN8VnesC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BCMLOp6DyFIC",
+   "etag": "/rSGCZKsfxs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BCMLOp6DyFIC",
+   "volumeInfo": {
+    "title": "Mathematical Physics",
+    "subtitle": "A Modern Introduction to Its Foundations",
+    "authors": [
+     "Sadri Hassani"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2002-02-08",
+    "description": "For physics students interested in the mathematics they use, and for math students interested in seeing how some of the ideas of their discipline find realization in an applied setting. The presentation strikes a balance between formalism and application, between abstract and concrete. The interconnections among the various topics are clarified both by the use of vector spaces as a central unifying theme, recurring throughout the book, and by putting ideas into their historical context. Enough of the essential formalism is included to make the presentation self-contained.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0387985794"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387985794"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1026,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BCMLOp6DyFIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BCMLOp6DyFIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BCMLOp6DyFIC&printsec=frontcover&dq=subject:science&hl=&cd=94&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=BCMLOp6DyFIC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mathematical_Physics.html?hl=&id=BCMLOp6DyFIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Mathematical_Physics-sample-pdf.acsm?id=BCMLOp6DyFIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BCMLOp6DyFIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nQz8AAAAQBAJ",
+   "etag": "hawriWdFbN4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nQz8AAAAQBAJ",
+   "volumeInfo": {
+    "title": "Textbook of Biochemistry for Medical Students",
+    "authors": [
+     "D M Vasudevan",
+     "Sreekumari S",
+     "Kannan Vaidyanathan"
+    ],
+    "publisher": "JP Medical Ltd",
+    "publishedDate": "2013-08-31",
+    "description": "The seventh edition of this book is a comprehensive guide to biochemistry for medical students. Divided into six sections, the book examines in depth topics relating to chemical basics of life, metabolism, clinical and applied biochemistry, nutrition, molecular biology and hormones. New chapters have been added to this edition and each chapter includes clinical case studies to help students understand clinical relevance. A 274-page free booklet of revision exercises (9789350906378), providing essay questions, short notes, viva voce and multiple choice questions is included to help students in their exam preparation. Free online access to additional clinical cases, key concepts and an image bank is also provided. Key points Fully updated, new edition providing students with comprehensive guide to biochemistry Includes a free booklet of revision exercises and free online access Highly illustrated with nearly 1500 figures, images, tables and illustrations Previous edition published in 2010",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789350905302"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9350905302"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 791,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nQz8AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nQz8AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nQz8AAAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=95&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nQz8AAAAQBAJ&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Textbook_of_Biochemistry_for_Medical_Stu.html?hl=&id=nQz8AAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nQz8AAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kqhADwAAQBAJ",
+   "etag": "lIJePKcNqvw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kqhADwAAQBAJ",
+   "volumeInfo": {
+    "title": "Pengantar Gizi Masyarakat",
+    "subtitle": "",
+    "authors": [
+     "Dr. Merryana Adriani, SKM., M.Kes."
+    ],
+    "publisher": "Prenada Media",
+    "publishedDate": "2016-01-01",
+    "description": "Buku ini membincangkan masalah utama gizi buruk di Indonesia: Kekurangan Energi Protein (KEP), Anemia, Gangguan Akibat Kekurangan Yodium (GA KY), dan Kekurangan Vitamin A (KVA) dengan fokus pada: sebab masalah gizi, epidemiologi, parameter pendeteksian, akibat yang ditimbulkan, tindakan pencegahan dan penanggulannya. Tidak hanya masalah utama yang dipaparkan dalam buku ini, tetapi juga kaitan antara gizi dengan berbagai faktor dan disiplin keilmuan lain seperti pertanian, perikanan, sosbud, kependudukan, dan ketahanan pangan. Maka, buku ini menjadi penting bagi akademisi dan praktisi kegizian karena sinergi lintas disiplin keilmuan yang dihadirkan di dalamnya, tidak saja diharapkan dapat melahirkan pemahaman komprehensif terintegrasi terhadap masalah gizi buruk di Indonesia tetapi juga solusi yang sinergis dan efektif. Buku persembahan penerbit prenadaMedia -PrenadaMedia-",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9786029413229"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "6029413228"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 356,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kqhADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kqhADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "id",
+    "previewLink": "http://books.google.com/books?id=kqhADwAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=96&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=kqhADwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kqhADwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.03,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.03,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=kqhADwAAQBAJ&rdid=book-kqhADwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6030000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6030000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Pengantar_Gizi_Masyarakat-sample-pdf.acsm?id=kqhADwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kqhADwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YjDmry604qMC",
+   "etag": "P0zV/A7hrfI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YjDmry604qMC",
+   "volumeInfo": {
+    "title": "Anticipatory Systems",
+    "subtitle": "Philosophical, Mathematical, and Methodological Foundations",
+    "authors": [
+     "Robert Rosen"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2012-02-02",
+    "description": "Robert Rosen was not only a biologist, he was also a brilliant mathematician whose extraordinary contributions to theoretical biology were tremendous. Founding, with this book, the area of Anticipatory Systems Theory is a remarkable outcome of his work in theoretical biology. This second edition of his book Anticipatory Systems, has been carefully revised and edited, and includes an Introduction by Judith Rosen. It has also been expanded with a set of Prolegomena by Dr. Mihai Nadin, who offers an historical survey of this fast growing field since the original work was published. There is also some exciting new work, in the form of an additional chapter on the Ontology of Anticipation, by Dr. John Kineman. An addendum-- with autobiographical reminiscences by Robert Rosen, himself, and a short story by Judith Rosen about her father-- adds a personal touch. This work, now available again, serves as the guiding foundations for the growing field of Anticipatory Systems and, indeed, any area of science that deals with living organisms in some way, including the study of Life and Mind. It will also be of interest to graduate students and researchers in the field of Systems Science.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781461412694"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1461412692"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 472,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.7.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YjDmry604qMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YjDmry604qMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YjDmry604qMC&printsec=frontcover&dq=subject:science&hl=&cd=97&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YjDmry604qMC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YjDmry604qMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 129.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 103.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YjDmry604qMC&rdid=book-YjDmry604qMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.29E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.032E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.515E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.928E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Anticipatory_Systems-sample-epub.acsm?id=YjDmry604qMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Anticipatory_Systems-sample-pdf.acsm?id=YjDmry604qMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YjDmry604qMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K504DwAAQBAJ",
+   "etag": "tPkBj/rTY3s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K504DwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Body Is Not an Apology",
+    "subtitle": "The Power of Radical Self-Love",
+    "authors": [
+     "Sonya Renee Taylor"
+    ],
+    "publisher": "Berrett-Koehler Publishers",
+    "publishedDate": "2018-02-13",
+    "description": "The Body Is Not an Apology The Power of Radical Self-Love Against a global backdrop of war, social upheaval, and personal despair, there is a growing sense of urgency to challenge the systems of oppression that dehumanize bodies and strip us of our shared humanity. Rather than feel helpless in the face of oppression, world-renowned activist, performance poet, and author Sonya Renee Taylor teaches us how to turn to the power of radical self-love in her new book, The Body Is Not an Apology. Radical self-love is the guiding framework that transforms the learned self-hatred of our bodies and the prejudices we have about other people's bodies into a vision of compassion, equity, and justice. In a revolutionary departure from the corporate self-help and body-positivity movement, Taylor forges the inextricable bond between radical self-love and social justice. The first step is recognizing that we have all been indoctrinated into a system of body shame that profits off of our self-hatred. When we ask ourselves, “Who benefits from our collective shame?” we can begin to make the distinction between the messages we are receiving about our bodies or other bodies and the truth. This book moves us beyond our all-too-often hidden lives, where we are easily encouraged to forget that we are whole humans having whole human experiences in our bodies alongside others. Radical self-love encourages us to embark on a personal journey of transformation with thoughtful reflection on the origins of our minds and bodies as a source of strength. In doing this, we not only learn to reject negative messages about ourselves but begin to thwart the very power structures that uphold them. Systems of oppression thrive off of our inability to make peace with bodies and difference. Radical self-love not only dismantles shame and self-loathing in us but has the power to dismantle global systems of injustice—because when we make peace with our bodies, only then do we have the capacity to truly make peace with the bodies of others.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781626569775"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1626569770"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 168,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=K504DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=K504DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=K504DwAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=98&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=K504DwAAQBAJ&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Body_Is_Not_an_Apology.html?hl=&id=K504DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=K504DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "d8QU7tbzLKwC",
+   "etag": "//01g0wOCMI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d8QU7tbzLKwC",
+   "volumeInfo": {
+    "title": "Optics",
+    "subtitle": "Principles and Applications",
+    "authors": [
+     "Kailash K. Sharma"
+    ],
+    "publisher": "Elsevier",
+    "publishedDate": "2006-09-27",
+    "description": "Optics clearly explains the principles of optics using excellent pedagogy to support student learning. Beginning with introductory ideas and equations, K.K. Sharma takes the reader through the world of optics by detailing problems encountered, advanced subjects, and actual applications. Elegantly written, this book rigorously examines optics with over 300 illustrations and several problems in each chapter. The book begins with light propagation in anisotropic media considered much later in most books. Nearly one third of the book deals with applications of optics. This simple idea of merging the sometimes overwhelming and dry subject of optics with real world applications will create better future engineers. It will make ‘optics’ jump off the page for readers and they will see it take shape in the world around them. In presenting optics practically, as well as theoretically, readers will come away not only with a complete knowledge base but a context in which to place it. This book is recommended for optical engineers, libraries, senior undergraduate students, graduate students, and professors. Strong emphasis on applications to demonstrate the relevance of the theory Includes chapter on problem solving of ray deviations, focusing errors, and distortion Problems are included at the end of each chapter for thorough understanding of this dense subject matter",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780080463919"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0080463916"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 656,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.5.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=d8QU7tbzLKwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=d8QU7tbzLKwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=d8QU7tbzLKwC&printsec=frontcover&dq=subject:science&hl=&cd=99&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=d8QU7tbzLKwC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=d8QU7tbzLKwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 107.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 85.6,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=d8QU7tbzLKwC&rdid=book-d8QU7tbzLKwC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.07E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8.56E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.852E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.544E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Optics-sample-pdf.acsm?id=d8QU7tbzLKwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=d8QU7tbzLKwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sdzhBQAAQBAJ",
+   "etag": "NVv0eCCR9Us",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sdzhBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Place",
+    "subtitle": "An Introduction",
+    "authors": [
+     "Tim Cresswell"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2014-11-24",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470655627"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0470655623"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sdzhBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sdzhBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=sdzhBQAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=100&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=sdzhBQAAQBAJ&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Place.html?hl=&id=sdzhBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sdzhBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9MLe2vbf10MC",
+   "etag": "8zpJ7i7OIZI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9MLe2vbf10MC",
+   "volumeInfo": {
+    "title": "Capillary Electrophoresis for Food Analysis",
+    "subtitle": "Method Development",
+    "authors": [
+     "Richard A. Frazier",
+     "H. E. Nursten",
+     "Jennifer M. Ames"
+    ],
+    "publisher": "Royal Society of Chemistry",
+    "publishedDate": "2000",
+    "description": "Designed specifically for the needs of food analysts, the book takes the reader step by step through the process of developing and troubleshooting CE methods.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0854044922"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780854044924"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 127,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9MLe2vbf10MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9MLe2vbf10MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9MLe2vbf10MC&printsec=frontcover&dq=subject:science&hl=&cd=101&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9MLe2vbf10MC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Capillary_Electrophoresis_for_Food_Analy.html?hl=&id=9MLe2vbf10MC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9MLe2vbf10MC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5cXKQUh6bVQC",
+   "etag": "0HLV0Lzfdx4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5cXKQUh6bVQC",
+   "volumeInfo": {
+    "title": "How the Mind Works",
+    "authors": [
+     "Steven Pinker"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "2009-06-22",
+    "description": "\"A model of scientific writing: erudite, witty, and clear.\" —New York Review of Books In this Pulitzer Prize finalist and national bestseller, one of the world's leading cognitive scientists tackles the workings of the human mind. What makes us rational—and why are we so often irrational? How do we see in three dimensions? What makes us happy, afraid, angry, disgusted, or sexually aroused? Why do we fall in love? And how do we grapple with the imponderables of morality, religion, and consciousness? How the Mind Works synthesizes the most satisfying explanations of our mental life from cognitive science, evolutionary biology, and other fields to explain what the mind is, how it evolved, and how it allows us to see, think, feel, laugh, interact, enjoy the arts, and contemplate the mysteries of life. This edition of Pinker's bold and buoyant classic is updated with a new foreword by the author.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393069737"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393069730"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 672,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 27,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.8.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5cXKQUh6bVQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5cXKQUh6bVQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5cXKQUh6bVQC&printsec=frontcover&dq=subject:science&hl=&cd=102&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5cXKQUh6bVQC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5cXKQUh6bVQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 10.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5cXKQUh6bVQC&rdid=book-5cXKQUh6bVQC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.895E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.074E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/How_the_Mind_Works-sample-epub.acsm?id=5cXKQUh6bVQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5cXKQUh6bVQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0JkKOFIj5pgC",
+   "etag": "2rynIfbodeo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0JkKOFIj5pgC",
+   "volumeInfo": {
+    "title": "Introduction to Marine Biology",
+    "authors": [
+     "George Karleskint",
+     "Richard Turner",
+     "James Small"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2009-01-07",
+    "description": "INTRODUCTION TO MARINE BIOLOGY third edition distinguishes itself at the introductory text level by offering comprehensive treatment and thorough integration of Ecology in the study of marine biology. Chapter two, Fundamentals of Ecology, presents human impact on the marine environment and this theme is integrated throughout the text allowing for dynamic class discussions of marine life and environmental change. Written expressly for non-science students, INTRODUCTION TO MARINE BIOLOGY third edition is crafted to spark curiosity about the marine world as well as provide an understanding of the process of science which is presented in Chapter one and revisited in unique boxed readings through out the text. Additionally, the pedagogy was developed expressly for these students to help draw them into and better understand the content. The new, open look and feel of INTRODUCTION TO MARINE BIOLOGY third edition and the enhanced art program convey the beauty and awe of life in the ocean. Twenty spectacular photos now open each chapter, piquing the motivation and attention of students and over 150 photos and pieces of art are new or redesigned. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495561972"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0495561975"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 592,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0JkKOFIj5pgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0JkKOFIj5pgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0JkKOFIj5pgC&printsec=frontcover&dq=subject:science&hl=&cd=103&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0JkKOFIj5pgC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Marine_Biology.html?hl=&id=0JkKOFIj5pgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0JkKOFIj5pgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FWVBtNgjK7wC",
+   "etag": "ae7vBsRHAgE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FWVBtNgjK7wC",
+   "volumeInfo": {
+    "title": "Restraint & Handling for Veterinary Technicians & Assistants",
+    "authors": [
+     "Bonnie Ballard",
+     "Jody Rockett"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2009-02-24",
+    "description": "Restraint and Handling for Veterinary Technicians and Assistants provides the knowledge required to restrain animals in a way that is safe for both the patient and the restrainer. Written in a 'how to format, Restraint and Handling for Veterinary Technicians and Assistants details information required for proper restraint for both small and large animals, as well as exotics. To aid the reader, the text features a glossary of terms and practice questions at the end of each chapter, and illustrates the most common restraint techniques seen in veterinary practice. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781435453586"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1435453581"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FWVBtNgjK7wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FWVBtNgjK7wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FWVBtNgjK7wC&printsec=frontcover&dq=subject:science&hl=&cd=104&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=FWVBtNgjK7wC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Restraint_Handling_for_Veterinary_Techni.html?hl=&id=FWVBtNgjK7wC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FWVBtNgjK7wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b60WCgAAQBAJ",
+   "etag": "oVgJF4HtRkM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b60WCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Usar el cerebro (Edición española)",
+    "subtitle": "Conocer nuestra mente para vivir mejor",
+    "authors": [
+     "Mateo Niro",
+     "Facundo Manes"
+    ],
+    "publisher": "Grupo Planeta Spain",
+    "publishedDate": "2015-05-05",
+    "description": "¿Cómo tomamos cada una de nuestras decisiones? ¿Qué es la conciencia? ¿Y las emociones? ¿De dónde viene la inteligencia? El cerebro humano es la estructura más compleja del universo, tanto, que se propone el desafío de entenderse a sí mismo. Todo lo que hacemos depende de esta «máquina» casi perfecta, que contiene más neuronas que las estrellas que existen en nuestra galaxia. Hasta hace poco estas incógnitas eran abordadas por filósofos, artistas y líderes religiosos. Pero en los últimos años la neurociencia emergió como una nueva herramienta para intentar entender estos y otros enigmas. Facundo Manes y Mateo Niro no sólo dejan claro que el estudio neurocientífico resulta tan apasionante como innovador, sino que ha logrado progresos y descubrimientos que han permitido enriquecer la calidad de vida de millones de personas. En pocas palabras: conocer nuestra mente para vivir mejor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788449331428"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8449331420"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=b60WCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=b60WCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=b60WCgAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=105&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=b60WCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b60WCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=b60WCgAAQBAJ&rdid=book-b60WCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Usar_el_cerebro_Edici%C3%B3n_espa%C3%B1ola-sample-epub.acsm?id=b60WCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Usar_el_cerebro_Edici%C3%B3n_espa%C3%B1ola-sample-pdf.acsm?id=b60WCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=b60WCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C9FsDwAAQBAJ",
+   "etag": "l0ws3GDGmxk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C9FsDwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Perfect Predator",
+    "subtitle": "A Scientist's Race to Save Her Husband from a Deadly Superbug: A Memoir",
+    "authors": [
+     "Steffanie Strathdee",
+     "Thomas Patterson"
+    ],
+    "publisher": "Hachette Books",
+    "publishedDate": "2019-02-26",
+    "description": "A \"fascinating and terrifying\" (Scientific American) memoir of one woman's extraordinary effort to save her husband's life-and the discovery of a forgotten cure that has the potential to save millions more. Epidemiologist Steffanie Strathdee and her husband, psychologist Tom Patterson, were vacationing in Egypt when Tom came down with a stomach bug. What at first seemed like a case of food poisoning quickly turned critical, and by the time Tom had been transferred via emergency medevac to the world-class medical center at UC San Diego, where both he and Steffanie worked, blood work revealed why modern medicine was failing: Tom was fighting one of the most dangerous, antibiotic- resistant bacteria in the world. Frantic, Steffanie combed through research old and new and came across phage therapy: the idea that the right virus, aka \"the perfect predator,\" can kill even the most lethal bacteria. Phage treatment had fallen out of favor almost 100 years ago, after antibiotic use went mainstream. Now, with time running out, Steffanie appealed to phage researchers all over the world for help. She found allies at the FDA, researchers from Texas A&M, and a clandestine Navy biomedical center-and together they resurrected a forgotten cure. A nail-biting medical mystery, The Perfect Predator is a story of love and survival against all odds, and the (re)discovery of a powerful new weapon in the global superbug crisis.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780316418072"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0316418072"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=C9FsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=C9FsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=C9FsDwAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=106&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=C9FsDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C9FsDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=C9FsDwAAQBAJ&rdid=book-C9FsDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Perfect_Predator-sample-epub.acsm?id=C9FsDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=C9FsDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3_7uriPX028C",
+   "etag": "bIE4FBox7zk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3_7uriPX028C",
+   "volumeInfo": {
+    "title": "A Modern Approach to Quantum Mechanics",
+    "authors": [
+     "John S. Townsend"
+    ],
+    "publisher": "University Science Books",
+    "publishedDate": "2000-01-01",
+    "description": "This text allows lecturers to involve their undergraduates in the excitement and insight of Feynman's approach to quantum mechanics while simultaneously giving them a textbook that is well-ordered, logical, and pedagogically sound.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1891389130"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781891389139"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 476,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3_7uriPX028C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3_7uriPX028C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=3_7uriPX028C&printsec=frontcover&dq=subject:science&hl=&cd=107&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=3_7uriPX028C&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Modern_Approach_to_Quantum_Mechanics.html?hl=&id=3_7uriPX028C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3_7uriPX028C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q2qJId5TKOkC",
+   "etag": "b0YH+HXqkts",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q2qJId5TKOkC",
+   "volumeInfo": {
+    "title": "CRC Handbook of Chemistry and Physics",
+    "subtitle": "A Ready-reference Book of Chemical and Physical Data",
+    "authors": [
+     "David R. Lide"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "1995-03-09",
+    "description": "This student edition features over 50 new or completely revised tables, most of which are in the areas of fluid properties and properties of solids. The book also features extensive references to other compilations and databases that contain additional information.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0849305950"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780849305955"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 2624,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=q2qJId5TKOkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=q2qJId5TKOkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=q2qJId5TKOkC&printsec=frontcover&dq=subject:science&hl=&cd=108&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=q2qJId5TKOkC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/CRC_Handbook_of_Chemistry_and_Physics.html?hl=&id=q2qJId5TKOkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=q2qJId5TKOkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CioXotlGMiYC",
+   "etag": "iQUStqEBmTw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CioXotlGMiYC",
+   "volumeInfo": {
+    "title": "Multiphase Flows with Droplets and Particles",
+    "authors": [
+     "Clayton T. Crowe",
+     "John D. Schwarzkopf",
+     "Martin Sommerfeld",
+     "Yutaka Tsuji"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "1997-11-13",
+    "description": "Multiphase flow technology, especially in the area of gas-droplet and gas-particle flows, is increasingly important in the energy and manufacturing industries. Pollution control, pneumatic transport, food processing, combustion, and development of new materials as well as many other engineering applications will benefit from the fundamental engineering design applications and research in this field. Written for graduate students and professionals, Multiphase Flows with Droplets and Particles provides a clear, pedagogical approach to the fundamentals of gas-particle and gas-droplet flows.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0849394694"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780849394690"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CioXotlGMiYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CioXotlGMiYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=CioXotlGMiYC&printsec=frontcover&dq=subject:science&hl=&cd=109&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=CioXotlGMiYC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Multiphase_Flows_with_Droplets_and_Parti.html?hl=&id=CioXotlGMiYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CioXotlGMiYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9M63I3Rm9tkC",
+   "etag": "Q8pAhmh0imc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9M63I3Rm9tkC",
+   "volumeInfo": {
+    "title": "Geographies of Resistance",
+    "authors": [
+     "Steve Pile",
+     "Michael Keith",
+     "Institute of British geographers"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1997",
+    "description": "Until very recently questions of resistance seemed straightforward, addressed in terms of an analysis of power. This book demonstrates how new, radical geographies of resistance emerge, develop and operate. Radical cultural politics, exemplified by the black, feminist and gay liberation, has developed struggles to turn sites of oppression and discrimination into spaces of resistance. Post-colonial and queer theory have opened up new political spaces. Whether resistance is an act of transgression (crossing borders), opposition (such as constructing barricades), or everyday endurance (staying in place), these are geographies where space is constitutive of the social. Leading contemporary geographers draw on material from around the world, including Israel, Nepal, Canada, Philippines, Australia and Nigeria. Recasting current themes in critical human geography - politics, identity and place - the contributors introduce unexplored notions of resistance, offering exciting insights for those exploring social, cultural, urban, political and development issues in different worlds of change.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415154960"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415154963"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 315,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9M63I3Rm9tkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9M63I3Rm9tkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9M63I3Rm9tkC&printsec=frontcover&dq=subject:science&hl=&cd=110&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9M63I3Rm9tkC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Geographies_of_Resistance.html?hl=&id=9M63I3Rm9tkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9M63I3Rm9tkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AGebDwAAQBAJ",
+   "etag": "rOL9uVPbSUE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AGebDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Molecular Biology of the Cell",
+    "subtitle": "Sixth International Student Edition",
+    "authors": [
+     "Alberts, Bruce",
+     "Johnson, Alexander D.",
+     "Lewis, Julian",
+     "Morgan, David",
+     "Raff, Martin",
+     "Roberts, Keith",
+     "Walter, Peter"
+    ],
+    "publisher": "W.W. Norton & Company",
+    "publishedDate": "2014-11-18",
+    "description": "As the amount of information in biology expands dramatically, it becomes increasingly important for textbooks to distill this vast amount of scientific knowledge into concise principles and enduring concepts. Molecular Biology of the Cell, Sixth Edition accomplishes this goal with clear writing and beautiful illustrations. The Sixth Edition has been extensively revised and updated with the latest research in cell biology, and it provides an exceptional framework for teaching and learning.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780815344643"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0815344643"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1430,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AGebDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AGebDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=AGebDwAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=111&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=AGebDwAAQBAJ&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Molecular_Biology_of_the_Cell.html?hl=&id=AGebDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AGebDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TWAVrpbFwxoC",
+   "etag": "nS/JIadejw4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TWAVrpbFwxoC",
+   "volumeInfo": {
+    "title": "Basic Aerodynamics",
+    "subtitle": "Incompressible Flow",
+    "authors": [
+     "Gary A. Flandro",
+     "Howard M. McMahon",
+     "Robert L. Roach"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2011-11-14",
+    "description": "In the rapidly advancing field of flight aerodynamics, it is especially important for students to master the fundamentals. This text, written by renowned experts, clearly presents the basic concepts of underlying aerodynamic prediction methodology. These concepts are closely linked to physical principles so that they are more readily retained and their limits of applicability are fully appreciated. Ultimately, this will provide students with the necessary tools to confidently approach and solve practical flight vehicle design problems of current and future interest. This book is designed for use in courses on aerodynamics at an advanced undergraduate or graduate level. A comprehensive set of exercise problems is included at the end of each chapter.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781139498616"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1139498614"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TWAVrpbFwxoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TWAVrpbFwxoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TWAVrpbFwxoC&printsec=frontcover&dq=subject:science&hl=&cd=112&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=TWAVrpbFwxoC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TWAVrpbFwxoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 86.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 68.8,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=TWAVrpbFwxoC&rdid=book-TWAVrpbFwxoC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.6E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.88E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Basic_Aerodynamics-sample-pdf.acsm?id=TWAVrpbFwxoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TWAVrpbFwxoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kIgLJ1De_jwC",
+   "etag": "6EAzG6uGbKk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kIgLJ1De_jwC",
+   "volumeInfo": {
+    "title": "Quantitative Chemical Analysis",
+    "authors": [
+     "Daniel C. Harris"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2010-04-30",
+    "description": "QCA is the bestselling textbook of choice for analytical chemistry. It offers a modern portrait of the techniques of chemical analysis, backed by a wealth of real world applications. This edition features new coverage of spectroscopy and statistics, new pedagogy and enhanced lecturer support.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781429218153"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1429218150"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 719,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kIgLJ1De_jwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kIgLJ1De_jwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=kIgLJ1De_jwC&printsec=frontcover&dq=subject:science&hl=&cd=113&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=kIgLJ1De_jwC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Quantitative_Chemical_Analysis.html?hl=&id=kIgLJ1De_jwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kIgLJ1De_jwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "16l79hfKMzEC",
+   "etag": "OM73n3A4jXc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/16l79hfKMzEC",
+   "volumeInfo": {
+    "title": "The Great Terror",
+    "subtitle": "A Reassessment",
+    "authors": [
+     "Robert Conquest"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1990",
+    "description": "Drawing on sources only available since glasnost, this study reexamines a horrific period in Soviet history and sheds new light on the Moscow trials and the purge of the intelligentsia",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195071328"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195071320"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 570,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=16l79hfKMzEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=16l79hfKMzEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=16l79hfKMzEC&printsec=frontcover&dq=subject:science&hl=&cd=114&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=16l79hfKMzEC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_Terror.html?hl=&id=16l79hfKMzEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Great_Terror-sample-epub.acsm?id=16l79hfKMzEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=16l79hfKMzEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9H0dDQAAQBAJ",
+   "etag": "TNaXEpVfGi4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9H0dDQAAQBAJ",
+   "volumeInfo": {
+    "title": "The Book of Why",
+    "subtitle": "The New Science of Cause and Effect",
+    "authors": [
+     "Judea Pearl",
+     "Dana Mackenzie"
+    ],
+    "publisher": "Basic Books",
+    "publishedDate": "2018-05-15",
+    "description": "A Turing Award-winning computer scientist and statistician shows how understanding causality has revolutionized science and will revolutionize artificial intelligence \"Correlation is not causation.\" This mantra, chanted by scientists for more than a century, has led to a virtual prohibition on causal talk. Today, that taboo is dead. The causal revolution, instigated by Judea Pearl and his colleagues, has cut through a century of confusion and established causality--the study of cause and effect--on a firm scientific basis. His work explains how we can know easy things, like whether it was rain or a sprinkler that made a sidewalk wet; and how to answer hard questions, like whether a drug cured an illness. Pearl's work enables us to know not just whether one thing causes another: it lets us explore the world that is and the worlds that could have been. It shows us the essence of human thought and key to artificial intelligence. Anyone who wants to understand either needs The Book of Why.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780465097616"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0465097618"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9H0dDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9H0dDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9H0dDQAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=115&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9H0dDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9H0dDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9H0dDQAAQBAJ&rdid=book-9H0dDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Book_of_Why-sample-epub.acsm?id=9H0dDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9H0dDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "656SnRCgu3sC",
+   "etag": "RvAZUIexMJY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/656SnRCgu3sC",
+   "volumeInfo": {
+    "title": "The Sports Gene",
+    "subtitle": "Inside the Science of Extraordinary Athletic Performance",
+    "authors": [
+     "David Epstein"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2013-08-01",
+    "description": "The New York Times bestseller – with a new afterword about early specialization in youth sports. The debate is as old as physical competition. Are stars like Usain Bolt, Michael Phelps, and Serena Williams genetic freaks put on Earth to dominate their respective sports? Or are they simply normal people who overcame their biological limits through sheer force of will and obsessive training? In this controversial and engaging exploration of athletic success and the so-called 10,000-hour rule, David Epstein tackles the great nature vs. nurture debate and traces how far science has come in solving it. Through on-the-ground reporting from below the equator and above the Arctic Circle, revealing conversations with leading scientists and Olympic champions, and interviews with athletes who have rare genetic mutations or physical traits, Epstein forces us to rethink the very nature of athleticism.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101622636"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1101622636"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.10.10.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=656SnRCgu3sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=656SnRCgu3sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=656SnRCgu3sC&printsec=frontcover&dq=subject:science&hl=&cd=116&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=656SnRCgu3sC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=656SnRCgu3sC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=656SnRCgu3sC&rdid=book-656SnRCgu3sC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Sports_Gene-sample-epub.acsm?id=656SnRCgu3sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=656SnRCgu3sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rmlhDwAAQBAJ",
+   "etag": "pKq/0UX9ZkA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rmlhDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Research Methodology Methods and Techniques,2nd Edition, C.R. Kothari, 2004",
+    "subtitle": "Research Methodology Methods and Techniques",
+    "authors": [
+     "New Age International Limited, Publishers"
+    ],
+    "publisher": "Bukupedia ",
+    "publishedDate": "2004-07-04",
+    "description": "Preface to the Second Edition I feel encouraged by the widespread response from teachers and students alike to the first edition. I am presenting this second edition, thoroughly revised and enlarged, to my readers in all humbleness. All possible efforts have been made to enhance further the usefulness of the book. The feedback received from different sources has been incorporated. In this edition a new chapter on “The Computer: Its role in Research” have been added in view of the fact that electronic computers by now, for students of economics, management and other social sciences, constitute an indispensable part of research equipment. The other highlights of this revised edition are (i) the subject contents has been developed, refined and restructured at several points, (ii) several new problems have also been added at the end of various chapters for the benefit of students, and (iii) every page of the book has been read very carefully so as to improve its quality. I am grateful to all those who have helped me directly and/or indirectly in preparing this revised edition. I firmly believe that there is always scope for improvement and accordingly I shall look forward to received suggestions, (which shall be thankfully acknowledged) for further enriching the quality of the text. Jaipur C.R. KOTHARI May 1990",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 414,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rmlhDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rmlhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=rmlhDwAAQBAJ&pg=PR4&dq=subject:science&hl=&cd=117&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=rmlhDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rmlhDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.7,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.04,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=rmlhDwAAQBAJ&rdid=book-rmlhDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.97E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.604E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Research_Methodology_Methods_and_Techniq-sample-pdf.acsm?id=rmlhDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rmlhDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G269DAAAQBAJ",
+   "etag": "JEf7ySxBD6g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G269DAAAQBAJ",
+   "volumeInfo": {
+    "title": "Mindshift",
+    "subtitle": "Break Through Obstacles to Learning and Discover Your Hidden Potential",
+    "authors": [
+     "Barbara Oakley"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2017-04-18",
+    "description": "Mindshift reveals how we can overcome stereotypes and preconceived ideas about what is possible for us to learn and become. At a time when we are constantly being asked to retrain and reinvent ourselves to adapt to new technologies and changing industries, this book shows us how we can uncover and develop talents we didn’t realize we had—no matter what our age or background. We’re often told to “follow our passions.” But in Mindshift, Dr. Barbara Oakley shows us how we can broaden our passions. Drawing on the latest neuroscientific insights, Dr. Oakley shepherds us past simplistic ideas of “aptitude” and “ability,” which provide only a snapshot of who we are now—with little consideration about how we can change. Even seemingly “bad” traits, such as a poor memory, come with hidden advantages—like increased creativity. Profiling people from around the world who have overcome learning limitations of all kinds, Dr. Oakley shows us how we can turn perceived weaknesses, such as impostor syndrome and advancing age, into strengths. People may feel like they’re at a disadvantage if they pursue a new field later in life; yet those who change careers can be fertile cross-pollinators: They bring valuable insights from one discipline to another. Dr. Oakley teaches us strategies for learning that are backed by neuroscience so that we can realize the joy and benefits of a learning lifestyle. Mindshift takes us deep inside the world of how people change and grow. Our biggest stumbling blocks can be our own preconceptions, but with the right mental insights, we can tap into hidden potential and create new opportunities. From the Trade Paperback edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780399184086"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0399184082"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G269DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G269DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=G269DAAAQBAJ&printsec=frontcover&dq=subject:science&hl=&cd=118&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=G269DAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G269DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=G269DAAAQBAJ&rdid=book-G269DAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Mindshift-sample-epub.acsm?id=G269DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G269DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pLDaR4OC5NkC",
+   "etag": "ClYrfQf7Nu8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pLDaR4OC5NkC",
+   "volumeInfo": {
+    "title": "The Log from the Sea of Cortez",
+    "authors": [
+     "John Steinbeck"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "1995-11-01",
+    "description": "A Penguin Classic In the two years after the 1939 publication of Steinbeck’s masterful The Grapes of Wrath, Steinbeck and his novel increasingly became the center of intense controversy and censorship. In search of a respite from the national stage, Steinbeck and his close friend, biologist Ed Ricketts, embarked on a month long marine specimen-collecting expedition in the Gulf of California, which resulted in their collaboration on the Sea of Cortez. In 1951, after Ricketts’ death, Steinbeck reissued his narrative portion of the work in memory of his friend and the inspiration for Cannery Row’s “Doc”. This exciting day-by-day account of their journey together is a rare blend of science, philosophy, and high-spirited adventure. This edition features an introduction by Richard Astro. For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1440674043"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781440674044"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.6.8.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pLDaR4OC5NkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pLDaR4OC5NkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pLDaR4OC5NkC&printsec=frontcover&dq=subject:science&hl=&cd=119&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pLDaR4OC5NkC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pLDaR4OC5NkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pLDaR4OC5NkC&rdid=book-pLDaR4OC5NkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Log_from_the_Sea_of_Cortez-sample-epub.acsm?id=pLDaR4OC5NkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pLDaR4OC5NkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eo_sMMRxgAUC",
+   "etag": "bLlCTwhdvjs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eo_sMMRxgAUC",
+   "volumeInfo": {
+    "title": "Microcosmos",
+    "subtitle": "Four Billion Years of Microbial Evolution",
+    "authors": [
+     "Lynn Margulis",
+     "Dorion Sagan"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "1997-05-29",
+    "description": "Chronicles the evolution of life on Earth, focusing on the microcosm researchers believe life began with.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520210646"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520210646"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eo_sMMRxgAUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eo_sMMRxgAUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=eo_sMMRxgAUC&printsec=frontcover&dq=subject:science&hl=&cd=120&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=eo_sMMRxgAUC&dq=subject:science&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Microcosmos.html?hl=&id=eo_sMMRxgAUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Microcosmos-sample-epub.acsm?id=eo_sMMRxgAUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eo_sMMRxgAUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

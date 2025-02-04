@@ -1,0 +1,3301 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 477,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "RX38Ev0lThYC",
+   "etag": "HPRDEBkKYuw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RX38Ev0lThYC",
+   "volumeInfo": {
+    "title": "Economies Around the World",
+    "authors": [
+     "Gail Fay"
+    ],
+    "publisher": "Raintree",
+    "publishedDate": "2012-04-01",
+    "description": "This series breaks down economics (money) for intermediate readers, using the traditional inquiry-based Infosearch approach. The books will help readers understand how the US and UK governments work (in terms of economics), how other governments work, and much more.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781406221770"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1406221775"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RX38Ev0lThYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RX38Ev0lThYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RX38Ev0lThYC&dq=subject:economics&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RX38Ev0lThYC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Economies_Around_the_World.html?hl=&id=RX38Ev0lThYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RX38Ev0lThYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RSaBtVwPWTUC",
+   "etag": "UDzCRwOKVzs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RSaBtVwPWTUC",
+   "volumeInfo": {
+    "title": "Verbriefungstransaktionen deutscher Kreditinstitute",
+    "subtitle": "eine Analyse alternativer Strukturvarianten und deren regulatorischer Erfassung nach Grundsatz I und Basel II",
+    "authors": [
+     "Cordula Emse"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2005-03-15",
+    "description": "Grundlagen der Forderungsverbriefung Konzeptionelle Strukturvarianten von ABS-Transaktionen Regulatorische Eigenkapitalunterlegung von Forderungsportfolios nach Grundsatz I Reformierung der Eigenkapitalunterlegung durch Basel II Erfassung von Forderungsverbriefungen in den aufsichtsrechtlichen Regelwerken Jüngste Entwicklungen",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3409143130"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783409143134"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RSaBtVwPWTUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RSaBtVwPWTUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=RSaBtVwPWTUC&printsec=frontcover&dq=subject:economics&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RSaBtVwPWTUC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Verbriefungstransaktionen_deutscher_Kred.html?hl=&id=RSaBtVwPWTUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RSaBtVwPWTUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q68JAAAAIAAJ",
+   "etag": "xl3ec9xK17o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q68JAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Journal des économistes",
+    "subtitle": "revue de la science économique et de la statistique",
+    "publishedDate": "1875",
+    "description": "Issues for 1882-89 include the Comptes rendus of the Société de statistique de Paris.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105119236763"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=q68JAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=q68JAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.com/books?id=q68JAAAAIAAJ&printsec=frontcover&dq=subject:economics&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=q68JAAAAIAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=q68JAAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=q68JAAAAIAAJ&rdid=book-q68JAAAAIAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com/books/download/Journal_des_%C3%A9conomistes.epub?id=q68JAAAAIAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/Journal_des_%C3%A9conomistes.pdf?id=q68JAAAAIAAJ&hl=&output=pdf&sig=ACfU3U2655UrEdEpiwq07TOdPcLvYNMHAw&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=q68JAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "__jMBgAAQBAJ",
+   "etag": "a3qAM12rNzs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/__jMBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Finanzmanagement",
+    "subtitle": "Theorie und Politik der Unternehmensfinanzierung",
+    "authors": [
+     "Joachim Süchting"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2013-03-13",
+    "description": "Süchtings Standardwerk bietet eine umfassende Einführung in den Bereich der Unternehmensfinanzierung. Aktuellen Entwicklungen, etwa im Bereich der Terminmärkte, der Unternehmensübernahmen und des Finanzmarketings, wird in diesem Nachschlagewerk ideal Rechnung getragen.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783322948380"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3322948382"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 673,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=__jMBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=__jMBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=__jMBgAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=__jMBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=__jMBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=__jMBgAAQBAJ&rdid=book-__jMBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.172E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Finanzmanagement-sample-pdf.acsm?id=__jMBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=__jMBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GGmdRE3kpnMC",
+   "etag": "Ww19DC+uCIU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GGmdRE3kpnMC",
+   "volumeInfo": {
+    "title": "Natural Images in Economic Thought",
+    "subtitle": "Markets Read in Tooth and Claw",
+    "authors": [
+     "Philip Mirowski"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1994-07-29",
+    "description": "This 1994 book was the first collection devoted to impact of natural sciences on content and form of economics in history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521478847"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521478847"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 618,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GGmdRE3kpnMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GGmdRE3kpnMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=GGmdRE3kpnMC&printsec=frontcover&dq=subject:economics&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=GGmdRE3kpnMC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Natural_Images_in_Economic_Thought.html?hl=&id=GGmdRE3kpnMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GGmdRE3kpnMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gxBEoqAD23YC",
+   "etag": "x29Xyh9d04s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gxBEoqAD23YC",
+   "volumeInfo": {
+    "title": "The Historical Consumer",
+    "subtitle": "Consumption and Everyday Life in Japan, 1850-2000",
+    "authors": [
+     "Penelope Francks"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2011-12-15",
+    "description": "This book explores the rise of consumerism and the expanding variety of goods available in Japan. Japan is placed within the comparative context of the 'consumer revolution' in Europe and North America, contributing to the analysis of the ways in which consumption and everyday life change in the course of economic development.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780230367340"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0230367348"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 329,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "4.8.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gxBEoqAD23YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gxBEoqAD23YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=gxBEoqAD23YC&printsec=frontcover&dq=subject:economics&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gxBEoqAD23YC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gxBEoqAD23YC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 129.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 103.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gxBEoqAD23YC&rdid=book-gxBEoqAD23YC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.29E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.032E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.515E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.928E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Historical_Consumer-sample-epub.acsm?id=gxBEoqAD23YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Historical_Consumer-sample-pdf.acsm?id=gxBEoqAD23YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gxBEoqAD23YC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "97xEDwAAQBAJ",
+   "etag": "sgWz2oc8nps",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/97xEDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Machine-learning Techniques in Economics",
+    "subtitle": "New Tools for Predicting Economic Growth",
+    "authors": [
+     "Atin Basuchoudhary",
+     "James T. Bang",
+     "Tinni Sen"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2017-12-28",
+    "description": "This book develops a machine-learning framework for predicting economic growth. It can also be considered as a primer for using machine learning (also known as data mining or data analytics) to answer economic questions. While machine learning itself is not a new idea, advances in computing technology combined with a dawning realization of its applicability to economic questions makes it a new tool for economists.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783319690148"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3319690140"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 94,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=97xEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=97xEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=97xEDwAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=97xEDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=97xEDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 69.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 55.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=97xEDwAAQBAJ&rdid=book-97xEDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.599E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.132E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Machine_learning_Techniques_in_Economics-sample-epub.acsm?id=97xEDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Machine_learning_Techniques_in_Economics-sample-pdf.acsm?id=97xEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=97xEDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aEkdBAAAQBAJ",
+   "etag": "l2gr8G3ra34",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aEkdBAAAQBAJ",
+   "volumeInfo": {
+    "title": "The Sketchnote Workbook",
+    "subtitle": "Advanced Techniques for Taking Visual Notes You Can Use Anywhere",
+    "authors": [
+     "Mike Rohde"
+    ],
+    "publisher": "Pearson Education",
+    "publishedDate": "2014-08-06",
+    "description": "Includes video access code for over 2 hours of video.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780133831719"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "013383171X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aEkdBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aEkdBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=aEkdBAAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=aEkdBAAAQBAJ&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Sketchnote_Workbook.html?hl=&id=aEkdBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aEkdBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sE8sDwAAQBAJ",
+   "etag": "RZafdsLJAqU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sE8sDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Creative Economies in Peripheral Regions",
+    "authors": [
+     "Patrick Collins",
+     "James A. Cunningham"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2017-07-11",
+    "description": "This is the first study to draw on international research carried out across four EU member states to add to the neglected area of the creative economy of peripheral regions. Economies are dynamic entities and subject to constant flux. Driven by changing tastes, new ways to make and disruptive innovations, new routes of economic development present themselves at ever increasing rates. This study is concerned with the rise of the creative economy. UNCTAD has marked the emergence of the creative economy across the globe and noted its resilience in the face of recent economic turmoil. Here, the authors intend to bring the level of analysis down to the regional and firm level by uncovering the extent of the creative economy in some of Europe’s most peripheral regions. This is the first study to draw on international research carried out across four EU member states to add to the neglected area of the creative economy of peripheral regions. The work contributes to expanding theory in the areas of economic geography, business studies and regional development.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783319521657"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3319521659"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 229,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sE8sDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sE8sDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=sE8sDwAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sE8sDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sE8sDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 139.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 111.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sE8sDwAAQBAJ&rdid=book-sE8sDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.39E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.865E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.233E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Creative_Economies_in_Peripheral_Regions-sample-epub.acsm?id=sE8sDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Creative_Economies_in_Peripheral_Regions-sample-pdf.acsm?id=sE8sDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sE8sDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XDfP63NCGU0C",
+   "etag": "VNMsVeSO7BM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XDfP63NCGU0C",
+   "volumeInfo": {
+    "title": "Springer Handbook of Engineering Statistics",
+    "authors": [
+     "Hoang Pham"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2006",
+    "description": "In today’s global and highly competitive environment, continuous improvement in the processes and products of any field of engineering is essential for survival. This book gathers together the full range of statistical techniques required by engineers from all fields. It will assist them to gain sensible statistical feedback on how their processes or products are functioning and to give them realistic predictions of how these could be improved. The handbook will be essential reading for all engineers and engineering-connected managers who are serious about keeping their methods and products at the cutting edge of quality and competitiveness.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781852338060"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1852338067"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1120,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.2.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XDfP63NCGU0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XDfP63NCGU0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XDfP63NCGU0C&printsec=frontcover&dq=subject:economics&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XDfP63NCGU0C&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Springer_Handbook_of_Engineering_Statist.html?hl=&id=XDfP63NCGU0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Springer_Handbook_of_Engineering_Statist-sample-epub.acsm?id=XDfP63NCGU0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Springer_Handbook_of_Engineering_Statist-sample-pdf.acsm?id=XDfP63NCGU0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XDfP63NCGU0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2Wg1Kpl4V_cC",
+   "etag": "S5Tnnvy5jSo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2Wg1Kpl4V_cC",
+   "volumeInfo": {
+    "title": "On Classical Economics",
+    "authors": [
+     "Thomas Sowell"
+    ],
+    "publisher": "Yale University Press",
+    "publishedDate": "2007-10",
+    "description": "Thomas Sowell's many writings on the history of economic thought have appeared in a number of scholarly journals and books, and these writings have been praised, reprinted, and translated in various countries around the world. The classical era in the history of economics is an important part of the history of ideas in general, and its implications reach beyond the bounds of the economics profession. On Classical Economics is a book from which students can learn both history and economics. It is not simply a Cook's tour of colorful personalities of the past but a study of how certain economic concepts and tools of analysis arose, and how their implications were revealed during the controversies that followed. In addition to a general understanding of classical macroeconomics and microeconomics, this book offers special insight into the neglected pioneering work of Sismondi--and why it was neglected--and a detailed look at John Stuart Mill's enigmatic role in the development of economics and the mysteries of Marxian economics. Clear, engaging, and very readable, without being either cute or condescending, On Classical Economics can enable a course on the history of economic thought to make a contribution to students’ understanding of economics in general--whether in price theory, monetary theory, or international trade. In short, it is a book about analysis as well as history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0300126069"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300126068"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2Wg1Kpl4V_cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2Wg1Kpl4V_cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2Wg1Kpl4V_cC&printsec=frontcover&dq=subject:economics&hl=&cd=11&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=2Wg1Kpl4V_cC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/On_Classical_Economics.html?hl=&id=2Wg1Kpl4V_cC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2Wg1Kpl4V_cC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0OKEa5p8mJ8C",
+   "etag": "h2VGq2PZp4o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0OKEa5p8mJ8C",
+   "volumeInfo": {
+    "title": "Markets",
+    "authors": [
+     "Patrik Aspers"
+    ],
+    "publisher": "Polity",
+    "publishedDate": "2011-03-07",
+    "description": "Order by Standard -- Fixed- and Switch-role Markets -- Neoclassical Market Theories -- The Stock Exchange -- Markets in Markets -- Differentiation and Fixed Roles [-] Monopolistic Competition -- Out of the Market [-] Monopoly [-] Back into the Market -- Summary -- Differentiation of Goods and Identities -- Economic Thinking -- Status Markets -- Summary -- The Study of Market Making -- Mutual Adjustment and Social Order -- Mutual Adjustment Leads to Markets -- Organized Market Making -- Performing Markets -- Making and Controlling Market Forms -- Change in Markets -- Summary -- Everyday Interaction and Markets -- What Do We Know? -- How to Study Markets : ask Seven Questions -- What Remains To Be Done?.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745645780"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "074564578X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0OKEa5p8mJ8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0OKEa5p8mJ8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0OKEa5p8mJ8C&printsec=frontcover&dq=subject:economics&hl=&cd=12&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0OKEa5p8mJ8C&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Markets.html?hl=&id=0OKEa5p8mJ8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Markets-sample-epub.acsm?id=0OKEa5p8mJ8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0OKEa5p8mJ8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "upK4BAAAQBAJ",
+   "etag": "4hGp6kK5q9M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/upK4BAAAQBAJ",
+   "volumeInfo": {
+    "title": "Measuring National Innovation Performance",
+    "subtitle": "The Innovation Union Scoreboard Revisited",
+    "authors": [
+     "Frane Adam"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2013-10-09",
+    "description": "This book provides a critical re-examination of the Innovation Union Scoreboard (IUS) as the main tool used by the European Commission and other policy-making bodies to measure national innovation capacity. Given that contemporary societies and economies are to a great extent characterised by the processes of production, dissemination and application (re-combination) of knowledge, the accurate monitoring and measurement of R&D efficiency and innovation performance on national, regional and firm level are of outmost importance. The contextual reconstruction of the model of indicators used by IUS reveals that the accuracy and validity of measurement are not satisfactory, and that substantial modifications of metrics are needed to achieve stronger theoretical significance and policy-relevance. In this work, the »epistemic turn« is emphasised and offered as an alternative, namely in the sense of the shift from a mechanicist-positivist orientation toward a more reflective and contextual post-positivist approach. \u200b",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642394645"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642394647"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 74,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=upK4BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=upK4BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=upK4BAAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=13&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=upK4BAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=upK4BAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 69.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 55.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=upK4BAAAQBAJ&rdid=book-upK4BAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.599E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.132E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Measuring_National_Innovation_Performanc-sample-epub.acsm?id=upK4BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Measuring_National_Innovation_Performanc-sample-pdf.acsm?id=upK4BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=upK4BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bX0pDwAAQBAJ",
+   "etag": "8SZHNdk/DKg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bX0pDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Голая Экономика",
+    "authors": [
+     "Чарльз Уилан"
+    ],
+    "publisher": "\"Манн, Иванов и Фербер\"",
+    "publishedDate": "2017-05-24",
+    "description": "Читая в газетах о жарких дебатах по поводу экономических проблем, не приходилось ли вам поражаться невероятной разноголосице мнений и аргументов спорящих сторон? Автор книги профессор Чарльз Уилан проведет детальный разбор специальных терминов, разложит по полочкам политические аспекты доводов и доберется до самой сути каждой проблемы. Эта книга будет полезна широкому кругу читателей, интересующихся экономикой.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9785001007975"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "5001007976"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bX0pDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bX0pDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "ru",
+    "previewLink": "http://books.google.com/books?id=bX0pDwAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=14&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bX0pDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bX0pDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.33,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.33,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bX0pDwAAQBAJ&rdid=book-bX0pDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6330000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6330000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bX0pDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xd1PDwAAQBAJ",
+   "etag": "kPDenvs0E70",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xd1PDwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Role of Economic Advisers in Israel's Economic Policy",
+    "subtitle": "Crises, Reform and Stabilization",
+    "authors": [
+     "Daniel Schiffman",
+     "Warren Young",
+     "Yaron Zelekha"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2018-03-06",
+    "description": "This book illustrates the role of international economic advisors in the development of Israel’s economic policies. Based on extensive archival and historical research, it presents case studies on the policy impacts of the world-renowned advisors Michal Kalecki, Abba Lerner, Richard Kahn, Milton Friedman, Herbert Stein and Stanley Fischer. The authors evaluate the contributions of these advisors to policy developments in various fields, including international trade and capital flows, exchange rates, fiscal and monetary policy, industrial policy and labor relations. Readers will discover a wealth of previously unpublished information on these advisors’ activities, perspectives on policy and interactions with policymakers and the public. Using the Israeli experience as a guide, the authors subsequently derive general hypotheses regarding the conditions that are conducive to the success of economic advisors.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783319606828"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3319606824"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xd1PDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xd1PDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xd1PDwAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=15&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xd1PDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xd1PDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 129.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 103.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xd1PDwAAQBAJ&rdid=book-xd1PDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.29E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.032E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.515E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.928E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Role_of_Economic_Advisers_in_Israel-sample-epub.acsm?id=xd1PDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Role_of_Economic_Advisers_in_Israel-sample-pdf.acsm?id=xd1PDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xd1PDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r3DdBgAAQBAJ",
+   "etag": "6eE/FB05Xhc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r3DdBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Higher Education and the Challenge of Sustainability",
+    "subtitle": "Problematics, Promise, and Practice",
+    "authors": [
+     "Peter Blaze Corcoran",
+     "Arjen E.J. Wals"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2007-05-08",
+    "description": "This book challenges universities to rethink their missions and to re-structure courses, research programs, and campus life in terms of sustainability. The author offers valuable theoretical and practical resources for students, teachers, researchers, and administrators who seek sustainability in higher education. Sustainability is explored as an outcome and a process of learning, and also as a catalyst for educational change and institutional innovation.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306485152"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "030648515X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 356,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=r3DdBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=r3DdBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=r3DdBgAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=16&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=r3DdBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=r3DdBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 89.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.42,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=r3DdBgAAQBAJ&rdid=book-r3DdBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.9E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.942E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.115E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.71E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Higher_Education_and_the_Challenge_of_Su-sample-epub.acsm?id=r3DdBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Higher_Education_and_the_Challenge_of_Su-sample-pdf.acsm?id=r3DdBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r3DdBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JdzM7o_ay2EC",
+   "etag": "q7DcPN6v3uE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JdzM7o_ay2EC",
+   "volumeInfo": {
+    "title": "Handbuch Technologie- und Innovationsmanagement",
+    "subtitle": "Strategie - Umsetzung - Controlling",
+    "authors": [
+     "Sönke Albers",
+     "Oliver Gassmann"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2005-09-14",
+    "description": "Die Autoren dokumentieren auf einer breiten, interdisziplinären Basis den derzeitigen Erkenntnisstand aus der Sicht unterschiedlicher Wissenschaften und stellen darüber hinaus die zukünftigen Hauptentwicklungsrichtungen im Technologie- und Innovationsmanagement vor. In Unternehmensbeispielen werden aktuelle Themen aufgegriffen und deren Umsetzung in die Praxis beschrieben. \"Das Werk besticht durch die Zusammenführung der Forschungsergebnisse der renommiertesten Wissenschaftler im deutschsprachigen Raum und schließt somit eine Lücke in der akademischen Fachliteratur.\" ZfCI - Zeitschrift für Controlling und Innovationsmanagement",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3409126716"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783409126717"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 849,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JdzM7o_ay2EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JdzM7o_ay2EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=JdzM7o_ay2EC&printsec=frontcover&dq=subject:economics&hl=&cd=17&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=JdzM7o_ay2EC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Handbuch_Technologie_und_Innovationsmana.html?hl=&id=JdzM7o_ay2EC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JdzM7o_ay2EC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OG44AwAAQBAJ",
+   "etag": "Q3rPTZAlT8g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OG44AwAAQBAJ",
+   "volumeInfo": {
+    "title": "Diccionario de Economia Aplicada",
+    "subtitle": "Politica economica, economia mundial y estructura economica",
+    "authors": [
+     "Miguel Angel Galindo Martín"
+    ],
+    "publisher": "ECOBOOK",
+    "publishedDate": "2008-12",
+    "description": "La obra Diccionario de Economía y Empres está compuesta por nueve volúmenes referidos a los campos más importantes de la economía y de la administración de empresas. En este volumen se incluyen unas mil entradas que ofrecen una amplia información sobre los distintos términos habituales y especializados que se emplean en el ámbito de la economía aplicada y, en concreto, de la política económica, de la economía mundial y de la estructura económica, lo que permite conocer la terminología empleada por los economistas y comprender los problemas a los que se enfrentan los decisores políticos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788496877139"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8496877132"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 495,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OG44AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OG44AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=OG44AwAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=18&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OG44AwAAQBAJ&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Diccionario_de_Economia_Aplicada.html?hl=&id=OG44AwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OG44AwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DSGKDgAAQBAJ",
+   "etag": "3O3P7w7rEqk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DSGKDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Valuing Detroit’s Art Museum",
+    "subtitle": "A History of Fiscal Abandonment and Rescue",
+    "authors": [
+     "Jeffrey Abt"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2017-03-27",
+    "description": "This book explores the perilous situation that faced the Detroit Institute of Arts during the city's bankruptcy, when creditors considered it a \"nonessential asset\" that might be sold to settle Detroit's debts. It presents the history of the museum in the context of the social, economic, and political development of Detroit, giving a history of the city as well as of the institution, and providing a model of contextual institutional history. Abt describes how the Detroit Institute of Arts became the fifth largest art museum in America, from its founding as a private non-profit corporation in 1885 to its transformation into a municipal department in 1919, through the subsequent decades of extraordinary collections and facilities growth coupled with the repeated setbacks of government funding cuts during economic downturns. Detroit's 2013 bankruptcy underscored the nearly 130 years of fiscal missteps and false assumptions that rendered the museum particularly vulnerable to the monetary power of a global art investment community eager to capitalize on the city's failures and its creditors' demands. This is a remarkable and important contribution to many fields, including non-profit management and economics, cultural policy, museum and urban history, and the histories of both the Detroit Institute of Arts and the city of Detroit itself. Despite the museum's unique history, its story offers valuable lessons for anyone concerned about the future of art museums in the United States and abroad.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783319452197"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3319452193"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 273,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DSGKDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DSGKDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DSGKDgAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=19&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DSGKDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DSGKDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 139.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 111.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DSGKDgAAQBAJ&rdid=book-DSGKDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.39E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 4.865E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.233E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Valuing_Detroit_s_Art_Museum-sample-epub.acsm?id=DSGKDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Valuing_Detroit_s_Art_Museum-sample-pdf.acsm?id=DSGKDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DSGKDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_86NAgAAQBAJ",
+   "etag": "XjOLfMYmywM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_86NAgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Economics of Transport",
+    "subtitle": "A Theoretical and Applied Perspective",
+    "authors": [
+     "Jonathan Cowie"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2009-10-16",
+    "description": "This book provides an explanation of key underlying economic principles, allowing the reader to come to a better understanding of the critical factors that structure and guide transport markets. This is done through an examination of the interaction between the behaviour of individual users and providers of transport services and transport authorities actions through the implementation of transport policy. The book also considers on-going reforms in the organisation of all aspects of transport provision. These reforms seek to move transport delivery away from a model of high state intervention towards one that is far more market focused in its approach, thereby significantly increasing individuals’ responsibilities for their own transport actions. The Economics of Transport covers topics such as; - The demand and supply of transport services - Market structures and the underlying economic characteristics of transport markets - The economics of transport and the environment - Transport subsidises and regulation - Transport forecasting and appraisal With a selection of case studies and exercises, this book will be of use to higher level students. It will also be of interest to professionals in the transport planning, transport modelling and transport economics fields.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781135257835"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1135257833"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_86NAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_86NAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_86NAgAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=20&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_86NAgAAQBAJ&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Economics_of_Transport.html?hl=&id=_86NAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_86NAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "R7WE82FdGRAC",
+   "etag": "dyQRz/39qRU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/R7WE82FdGRAC",
+   "volumeInfo": {
+    "title": "A/moral Economics",
+    "subtitle": "Classical Political Economy and Cultural Authority in Nineteenth-century England",
+    "authors": [
+     "Claudia C. Klaver"
+    ],
+    "publisher": "Ohio State University Press",
+    "publishedDate": "2003",
+    "description": "\"A/Moral Economics is an interdisciplinary historical study that examines the ways which social \"science\" or economics emerged through the discourse of the literary, namely the dominant moral and fictional narrative genres of early and mid-Victorian England. In particular, this book argues that the classical economic theory of early-nineteenth-century England gained its broad cultural authority not directly, through the well-known texts of such canonical economic theorists as David Ricardo, but indirectly through the narratives constructed by Ricardo's popularizers John Ramsey McCulloch and Harriet Martineau. By reexamining the rhetorical and institutional contexts of classical political economy in the nineteenth century, \"A/Moral Economics repositions the popular writings of both supporters and detractors of political economy as central to early political economists' bids for a cultural voice. The now marginalized economic writings of McCulloch, Martineau, Henry Mayhew, and John Ruskin, as well as the texts of Charles Dickens and J.S. Mill, must be read as constituting in part the entitles they have been read as merely criticizing. It is this repressed moral logic that resurfaces in a range of textual contradictions--not only in the writings of Ricardo's supporters, but ironically, in those of his critics as well.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0814209440"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780814209448"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 225,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=R7WE82FdGRAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=R7WE82FdGRAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=R7WE82FdGRAC&printsec=frontcover&dq=subject:economics&hl=&cd=21&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=R7WE82FdGRAC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_moral_Economics.html?hl=&id=R7WE82FdGRAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/A_moral_Economics-sample-epub.acsm?id=R7WE82FdGRAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=R7WE82FdGRAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fRQMwS_L7VQC",
+   "etag": "GvA9dV5sils",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fRQMwS_L7VQC",
+   "volumeInfo": {
+    "title": "Fundamentals of Business Statistics",
+    "authors": [
+     "Anderson",
+     "Dennis J. Sweeney",
+     "Thomas Arthur Williams"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2010-12-29",
+    "description": "The FUNDAMENTALS OF BUSINESS STATISTICS, International Edition is an introductory statistics book that emphasizes essential statistical concepts and their practical business applications. The discussion and development of each technique are geared toward real-world applications, with the statistical results providing insights for decisions and solutions related to common business problems. The easy-to-follow presentation style and proven problem-scenario approach clearly show how to apply statistical methods in practical business situations. This brief introduction to business statistics provides both a conceptual understanding of statistics and real-world applications of statistical methodology.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781111221270"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1111221278"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 672,
+    "printType": "BOOK",
+    "categories": [
+     "Commercial statistics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fRQMwS_L7VQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fRQMwS_L7VQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fRQMwS_L7VQC&printsec=frontcover&dq=subject:economics&hl=&cd=22&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=fRQMwS_L7VQC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fundamentals_of_Business_Statistics.html?hl=&id=fRQMwS_L7VQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fRQMwS_L7VQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eUoolrxSFy0C",
+   "etag": "sFM53WHJdBs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eUoolrxSFy0C",
+   "volumeInfo": {
+    "title": "The Origin of Wealth",
+    "subtitle": "Evolution, Complexity, and the Radical Remaking of Economics",
+    "authors": [
+     "Eric D. Beinhocker"
+    ],
+    "publisher": "Harvard Business Press",
+    "publishedDate": "2006",
+    "description": "Beinhocker has written this work in order to introduce a broad audience to what he believes is a revolutionary new paradigm in economics and its implications for our understanding of the creation of wealth. He describes how the growing field of complexity theory allows for evolutionary understanding of wealth creation, in which business designs co-evolve with the evolution of technologies and organizational innovations. In addition to giving his audience a tour of this field of complexity economics, he discusses its implications for real-world issues of business.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "157851777X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781578517770"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 527,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 20,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.3.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eUoolrxSFy0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eUoolrxSFy0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=eUoolrxSFy0C&printsec=frontcover&dq=subject:economics&hl=&cd=23&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=eUoolrxSFy0C&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Origin_of_Wealth.html?hl=&id=eUoolrxSFy0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Origin_of_Wealth-sample-pdf.acsm?id=eUoolrxSFy0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eUoolrxSFy0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HvMX68tJXqUC",
+   "etag": "S4df6a7KuV4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HvMX68tJXqUC",
+   "volumeInfo": {
+    "title": "Inequality Reexamined",
+    "authors": [
+     "Amartya Sen"
+    ],
+    "publisher": "Harvard University Press",
+    "publishedDate": "1995",
+    "description": "In this deft analysis, Amartya Sen argues that the dictum \"all men are created equal\" serves largely to deflect attention from the fact that we differ in age, gender, talents, physical abilities as well as in material advantages and social background. He argues for concentrating on higher and more basic values: individual capabilities and freedom to achieve objectives.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674452569"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674452565"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HvMX68tJXqUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HvMX68tJXqUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HvMX68tJXqUC&printsec=frontcover&dq=subject:economics&hl=&cd=24&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HvMX68tJXqUC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Inequality_Reexamined.html?hl=&id=HvMX68tJXqUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Inequality_Reexamined-sample-epub.acsm?id=HvMX68tJXqUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HvMX68tJXqUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_Q9LTaJj8aEC",
+   "etag": "CQofZHGy7mo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_Q9LTaJj8aEC",
+   "volumeInfo": {
+    "title": "Energy Economics and Financial Markets",
+    "authors": [
+     "André Dorsman",
+     "John L. Simpson",
+     "Wim Westerman"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2012-10-12",
+    "description": "Energy issues feature frequently in the economic and financial press. Specific examples of topical energy issues come from around the globe and often concern economics and finance. The importance of energy production, consumption and trade raises fundamental economic issues that impact the global economy and financial markets. This volume presents research on energy economics and financial markets related to the themes of supply and demand, environmental impact and renewables, energy derivatives trading, and finance and energy. The contributions by experts in their fields take a global perspective, as well as presenting cases from various countries and continents.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642306006"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642306004"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 252,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_Q9LTaJj8aEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_Q9LTaJj8aEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_Q9LTaJj8aEC&printsec=frontcover&dq=subject:economics&hl=&cd=25&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_Q9LTaJj8aEC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Energy_Economics_and_Financial_Markets.html?hl=&id=_Q9LTaJj8aEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_Q9LTaJj8aEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yid30EIgqAMC",
+   "etag": "GVAPwCW5dqA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yid30EIgqAMC",
+   "volumeInfo": {
+    "title": "Customer Relationship Management",
+    "subtitle": "Organizational and Technological Perspectives",
+    "authors": [
+     "Federico Rajola"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2003-03-19",
+    "description": "Companies and financial institutions are employing operational information systems in an efficient way. While they have consolidated a strong level of knowledge in management information systems, there is still a lack of knowledge on the right way to apply customer relationship management (CRM) systems under a business perspective. Most of the companies are still having problems in evaluating how CRM can meet with the expected results. The level of complexity is perceived both under a technological and organizational point of view. A complete innovation process and heavy change management initiatives should be ensured in order to have effective and successful systems. This book offers a solid theoretical and practical perspective on how to face CRM projects, describing the most appropriate technologies and organizational issues that have to be considered. Some explaining cases have been included as well.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3540440011"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540440017"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 172,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yid30EIgqAMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yid30EIgqAMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=yid30EIgqAMC&printsec=frontcover&dq=subject:economics&hl=&cd=26&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=yid30EIgqAMC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Customer_Relationship_Management.html?hl=&id=yid30EIgqAMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Customer_Relationship_Management-sample-epub.acsm?id=yid30EIgqAMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Customer_Relationship_Management-sample-pdf.acsm?id=yid30EIgqAMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yid30EIgqAMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "l7PKQ2aVG9oC",
+   "etag": "Zt5dBixpZKw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l7PKQ2aVG9oC",
+   "volumeInfo": {
+    "title": "Electronic Business",
+    "authors": [
+     "Bernd W. Wirtz"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2001-10-05",
+    "description": "Electronic Business wird zukünftig ein wesentlicher Erfolgs- und Wettbewerbsfaktor für Unternehmen aus den verschiedensten Branchen sein. Vor diesem Hintergrund behandelt das Buch die Grundstrukturen, Entwicklungsvarianten und Geschäftsmodelle des Electronic Business im Internet. Neben operativen Managementthemen werden spezifische Wettbewerbsstrategien und Erlösmodelle für das Electronic Business dargestellt. Darüber hinaus werden wesentliche Erfolgsfaktoren für Internetakteure thematisiert.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "340921660X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783409216609"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 679,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.3.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=l7PKQ2aVG9oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=l7PKQ2aVG9oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=l7PKQ2aVG9oC&printsec=frontcover&dq=subject:economics&hl=&cd=27&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=l7PKQ2aVG9oC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Electronic_Business.html?hl=&id=l7PKQ2aVG9oC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=l7PKQ2aVG9oC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fqSEAwAAQBAJ",
+   "etag": "+l8VQdAvqH4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fqSEAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Un primer curso de teoría de juegos",
+    "authors": [
+     "Robert Gibbons"
+    ],
+    "publisher": "Antoni Bosch editor",
+    "publishedDate": "1993",
+    "description": "Este libro presenta una de las herramientas más poderosas del análisis económico moderno a una amplia audiencia: no sólo a los que se especializan en teoría de juegos pura, sino también a los que vayan a utilizar los modelos de teoría de juegos en campos aplicados del análisis económico. Gibbons da tanta importancia a las aplicaciones económicas de la teoría como a la misma teoría; los argumentos formales sobre juegos abstractos desempeñan un papel menor. La variedad de aplicaciones en este libro permite mostrar que cuestiones similares se plantean en áreas diferentes del análisis económico, lo que permite que las mismas herramientas de teoría de juegos puedan utilizarse en cada caso. Para poner de relieve el amplio alcance potencial de la teoría, las aplicaciones proceden de áreas muy dispares, como la organización industrial, la economía laboral, la macroeconomía, la economía financiera o la economía internacional. \"Una introducción excelente a la teoría de juegos: clara, concisa y llena de ejemplos. Los economistas aplicados que no sepan teoría de juegos querrán aprender con este libro, y los expertos querrán utilizarlo en sus clases\". David Kreps, Stanford University. \"La fuerza de este libro radica en el uso de una gran variedad de ejemplos extraídos de la literatura económica más reciente. Gibbons tiene la habilidad de presentar estos ejemplos de forma simple y manejable, lo que añade un gran valor a la obra. La mayoría de los ejemplos son interesantes en sí mismos; he de reconocer que me resultaba difícil interrumpir la lectura del libro. Esta excelente integración de teoría y de práctica es lo que todo el mundo desea encontrar en un libro de este tipo\". Sherwin Rosen, University of Chicago. \"A lo largo de la última década, la teoría de juegos ha revolucionado casi todos los campos de la economía. (...) Para aquellos investigadores y estudiantes que quieran aprender el uso de los poderosos instrumentos de la teoría de juegos, el magnífico libro de Gibbons constituye el lugar perfecto donde empezar\". N. Gregory Mankiw, Harvard University. \"La combinación de teoría y práctica es excelente. Los ejemplos, que constituyen una parte integral de cada capítulo, son muy adecuados para aprender los aspectos técnicos de los juegos y, al mismo tiempo, constituyen una presentación muy convincente de muchos de los avances más recientes en la aplicación del análisis económico. Este libro es fundamental, tanto para estudiantes como para los investigadores que quieran dominar la teoría de juegos aplicada\". James Poterba, MIT. Traducción de Paloma Calvo y Xavier Vilà, Universidad de Northwestern.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788485855698"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8485855698"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fqSEAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fqSEAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=fqSEAwAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=28&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=fqSEAwAAQBAJ&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Un_primer_curso_de_teor%C3%ADa_de_juegos.html?hl=&id=fqSEAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fqSEAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mcghBAAAQBAJ",
+   "etag": "AYObx61j7+Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mcghBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Mikroökonomik",
+    "subtitle": "Eine Einführung",
+    "authors": [
+     "Harald Wiese"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2014-02-12",
+    "description": "Diese grundlegende Einführung in die Mikroökonomik ist als vorlesungsbegleitende Lektüre ebenso wie zum Selbststudium geeignet. Durch die enge Verzahnung von Lehrtext und Übungsaufgaben (mit Lösungen) werden die Studierenden motiviert, sich aktiv mit dem Lehrstoff auseinander zu setzen: Auf der Basis der Haushaltstheorie und der Unternehmenstheorie werden das Modell der vollständigen Konkurrenz und das erste Wohlfahrtstheorem erläutert. Weiterhin werden die Marktformen Monopol und Oligopol dargestellt. Abschließend werden externe Effekte und öffentliche Güter behandelt. Zahlreiche Übersichten und Abbildungen dienen dem leichteren Verständnis; eine Sammlung der wichtigsten Formeln am Ende des Buches hilft bei gezielten Wiederholungen. Der Inhalt Einführung.- Teil I Haushaltstheorie.- Das Budget.- Präferenzen, Indifferenzkurven und Nutzenfunktionen.- Das Haushaltsoptimum.- Komparative Statik.- Entscheidungen über Arbeitsangebot und Sparen.- Unsicherheit.- Marktnachfrage und Erlöse.- Teil II Unternehmenstheorie.- Produktionstheorie.- Kosten.- Gewinnmaximierung.- Teil III Vollkommene Konkurrenz und Wohlfahrtstheorie.- Vollkommene Konkurrenz.- Das erste Wohlfahrtstheorem.- Monetäre Bewertung von Umwelteinflüssen.- Teil IV Marktformenlehre.- Monopol und Monopson.- Spieltheorie.- Oligopoltheorie.- Teil V Externe Effekte und öffentliche Güter.- Externe Effekte und Umweltökonomik.- Öffentliche Güter. Der Autor Harald Wiese ist Inhaber des Lehrstuhls für Mikroökonomik an der Universität Leipzig. Er ist auch Autor des Lehrbuchs „Unternehmensstrategien im Wettbewerb“ (mit Wilhelm Pfähler). .",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642387937"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642387934"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 459,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mcghBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mcghBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=mcghBAAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=29&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mcghBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mcghBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=mcghBAAAQBAJ&rdid=book-mcghBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.119E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Mikro%C3%B6konomik-sample-pdf.acsm?id=mcghBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mcghBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DeWgyqLvmfsC",
+   "etag": "2dn19Mv77D8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DeWgyqLvmfsC",
+   "volumeInfo": {
+    "title": "Feminist Economics Today",
+    "subtitle": "Beyond Economic Man",
+    "authors": [
+     "Marianne A. Ferber",
+     "Julie A. Nelson"
+    ],
+    "publisher": "University of Chicago Press",
+    "publishedDate": "2003-10-01",
+    "description": "The 1993 publication of Marianne A. Ferber and Julie A. Nelson's Beyond Economic Man was a landmark in both feminist scholarship and the discipline of economics, and it quickly became a handbook for those seeking to explore the emerging connections between the two. A decade later, this book looks back at the progress of feminist economics and forward to its future, offering both a thorough overview of feminist economic thought and a collection of new, high-quality work from the field's leading scholars.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226242072"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226242071"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 209,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DeWgyqLvmfsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DeWgyqLvmfsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DeWgyqLvmfsC&printsec=frontcover&dq=subject:economics&hl=&cd=30&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DeWgyqLvmfsC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Feminist_Economics_Today.html?hl=&id=DeWgyqLvmfsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Feminist_Economics_Today-sample-epub.acsm?id=DeWgyqLvmfsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DeWgyqLvmfsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JA_IYJ0P4ZkC",
+   "etag": "Vz+AaAAAeEU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JA_IYJ0P4ZkC",
+   "volumeInfo": {
+    "title": "The Ascent of Money",
+    "subtitle": "A Financial History of the World",
+    "authors": [
+     "Niall Ferguson"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2008",
+    "description": "Chronicles the evolution of finance from its origins in Mesopotamia to the modern world's most recent upheavals, covering such topics as the stock market bubble that prompted the French Revolution and the theories behind common investment vehicles.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1594201927"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781594201929"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 441,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 45,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JA_IYJ0P4ZkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JA_IYJ0P4ZkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=JA_IYJ0P4ZkC&printsec=frontcover&dq=subject:economics&hl=&cd=31&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=JA_IYJ0P4ZkC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Ascent_of_Money.html?hl=&id=JA_IYJ0P4ZkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JA_IYJ0P4ZkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NMYB0Mh8ljcC",
+   "etag": "6MnrWECV3HY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NMYB0Mh8ljcC",
+   "volumeInfo": {
+    "title": "An Introduction to Efficiency and Productivity Analysis",
+    "authors": [
+     "Timothy J. Coelli",
+     "Dodla Sai Prasada Rao",
+     "Christopher J. O'Donnell",
+     "George Edward Battese"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2005-07-22",
+    "description": "Softcover version of the second edition Hardcover. Incorporates a new author, Dr. Chris O'Donnell, who brings considerable expertise to the project in the area of performance measurement. Numerous topics are being added and more applications using real data, as well as exercises at the end of the chapters. Data sets, computer codes and software will be available for download from the web to accompany the volume.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0387242651"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387242651"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 349,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 13,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NMYB0Mh8ljcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NMYB0Mh8ljcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NMYB0Mh8ljcC&printsec=frontcover&dq=subject:economics&hl=&cd=32&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NMYB0Mh8ljcC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/An_Introduction_to_Efficiency_and_Produc.html?hl=&id=NMYB0Mh8ljcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/An_Introduction_to_Efficiency_and_Produc-sample-pdf.acsm?id=NMYB0Mh8ljcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NMYB0Mh8ljcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kN6FUP6Vqb0C",
+   "etag": "cQJge/NhcQc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kN6FUP6Vqb0C",
+   "volumeInfo": {
+    "title": "Iniciación a la aeronáutica",
+    "authors": [
+     "Antonio Creus Solé"
+    ],
+    "publisher": "Ediciones Díaz de Santos",
+    "publishedDate": "2010-04",
+    "description": "El objetivo del autor ha sido introducir en la aeronáutica al lector que se inicia en estos conocimientos, y asimismo ser un complemento en la información de los estudiantes, los pilotos y los instructores de vuelo. Cuando se vuela un avión, se hace con el corazón, captando las reacciones del aparato a través de los mandos como si estos fueran la prolongación de los miembros del piloto.El oficio de volar se convierte en un arte, y pasa a ser una mezcla embriagadora entre la visión del paisaje desde el aire y la habilidad de llevar un aparato tan complicado y a la vez tan sencillo.Indice resumido: Introducción: las aeronaves. Aerodinámica. Motores. Estructura de la aeronave. Comportamiento de la aeronave en vuelo. Los instrumentos del avión. Meteorolog¡a. Espacio aéreo y derecho aeronáutico. Navegación. Fisiología aeronáutica y factores humanos. El vuelo. Las otras aeronaves. Historia dela aviación. Profesiones relacionadas con la aviación.Antonio Creus Sole es doctor ingeniero Industrial, licenciado en medicina y cirug¡a, piloto privado de avión desde hace 45 años y submarinista con un títulod e tres estrellas.. Ha sido socio fundador de G.A.V.I.N.A, una escuela de aviación del aeropuerto de Sabadell y coordinador del convenio entre AENA-Aeropuerto de Sabadell y la UPC sobre proyectos finales de carrera relacionados con el aeropuerto.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788479789374"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8479789379"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kN6FUP6Vqb0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kN6FUP6Vqb0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=kN6FUP6Vqb0C&printsec=frontcover&dq=subject:economics&hl=&cd=33&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=kN6FUP6Vqb0C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kN6FUP6Vqb0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.55,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.8,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=kN6FUP6Vqb0C&rdid=book-kN6FUP6Vqb0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.055E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.68E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Iniciaci%C3%B3n_a_la_aeron%C3%A1utica-sample-pdf.acsm?id=kN6FUP6Vqb0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kN6FUP6Vqb0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_ZMulFdrZ2QC",
+   "etag": "NrdGJC1blwk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_ZMulFdrZ2QC",
+   "volumeInfo": {
+    "title": "Development of Economic Analysis",
+    "authors": [
+     "Ingrid Hahne Rima"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1996",
+    "description": "This book traces the development of economic theory from Plato through to contemporary thought. All the major movements are covered and presented here in 6 chronological parts.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415143073"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0415143071"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 603,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_ZMulFdrZ2QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_ZMulFdrZ2QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_ZMulFdrZ2QC&printsec=frontcover&dq=subject:economics&hl=&cd=34&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_ZMulFdrZ2QC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Development_of_Economic_Analysis.html?hl=&id=_ZMulFdrZ2QC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_ZMulFdrZ2QC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MJsJDKexrTcC",
+   "etag": "hls5vGEbux4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MJsJDKexrTcC",
+   "volumeInfo": {
+    "title": "Economics for the IB Diploma with CD-ROM",
+    "authors": [
+     "Ellie Tragakes"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2011-11-03",
+    "description": "Arranged in four sections, provides review exercises and past examination questions for topics in microeconomics, macroeconomics, interantional economics, and development economics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521186407"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0521186404"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 566,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MJsJDKexrTcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MJsJDKexrTcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=MJsJDKexrTcC&printsec=frontcover&dq=subject:economics&hl=&cd=35&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=MJsJDKexrTcC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Economics_for_the_IB_Diploma_with_CD_ROM.html?hl=&id=MJsJDKexrTcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MJsJDKexrTcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mN8O1AmbaTIC",
+   "etag": "cVu8b1m4Q/Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mN8O1AmbaTIC",
+   "volumeInfo": {
+    "title": "Max Weber and the Idea of Economic Sociology",
+    "authors": [
+     "Richard Swedberg"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "1998",
+    "description": "While most people are familiar with The Protestant Ethic and the Spirit of Capitalism, few know that during the last decade of his life Max Weber (1864-1920) also tried to develop a new way of analyzing economic phenomena, which he termed \"economic sociology.\" Indeed, this effort occupies the central place in Weber's thought during the years just before his death. Richard Swedberg here offers a critical presentation and the first major study of this fascinating part of Weber's work. Swedberg furthermore discusses similarities and differences between Weber's economic sociology and present-day thinking on the same topic. In addition, the author shows how economic sociology has recently gained greater credibility as economists and sociologists have begun to collaborate in studying problems of organizations, political structures, social problems, and economic culture more generally. Swedberg's book will be sure to further this new cooperation.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "069107013X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691070131"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 315,
+    "printType": "BOOK",
+    "categories": [
+     "POLITICAL SCIENCE"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mN8O1AmbaTIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mN8O1AmbaTIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mN8O1AmbaTIC&printsec=frontcover&dq=subject:economics&hl=&cd=36&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mN8O1AmbaTIC&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Max_Weber_and_the_Idea_of_Economic_Socio.html?hl=&id=mN8O1AmbaTIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Max_Weber_and_the_Idea_of_Economic_Socio-sample-epub.acsm?id=mN8O1AmbaTIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Max_Weber_and_the_Idea_of_Economic_Socio-sample-pdf.acsm?id=mN8O1AmbaTIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mN8O1AmbaTIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HgXWV8JMC10C",
+   "etag": "d1bvfFvvKPI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HgXWV8JMC10C",
+   "volumeInfo": {
+    "title": "Economics",
+    "authors": [
+     "Richard G. Lipsey",
+     "Richard George Lipsey",
+     "K. Alec Chrystal"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2007",
+    "description": "The eleventh edition of this successful textbook for Economics majors has been thoroughly updated and revised to give more depth to core principles. Pitched at a level that will stretch readers but still comprehensible for beginners, Economics is explained in a straightforward manner, whilst maintaining the rigour needed to enable students to progress with their studies. The book features a depth and breadth of topics combined with a balance of technical and applied material. In-depth explanations of theoretical concepts are balanced with a range of real world examples help students to understand and apply the concepts they have learnt. A supporting and newly expanded Online Resource Centre features supplements for lecturers including an instructor's manual; PowerPoint slides; answers to questions in the text; class exercises; and artwork from the text. Supplements for students include self-assessment multiple choice questions with feedback; crosswords compiled from key glossary terms; a list of useful websites; maths appendices; past exam papers and additional case studies",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0199286418"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199286416"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 665,
+    "printType": "BOOK",
+    "categories": [
+     "Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HgXWV8JMC10C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HgXWV8JMC10C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HgXWV8JMC10C&printsec=frontcover&dq=subject:economics&hl=&cd=37&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HgXWV8JMC10C&dq=subject:economics&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Economics.html?hl=&id=HgXWV8JMC10C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HgXWV8JMC10C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Wo0zDwAAQBAJ",
+   "etag": "d/YpnKMZE+s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Wo0zDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Advanced Introduction to Behavioral Economics",
+    "subtitle": "",
+    "authors": [
+     "John F. Tomer"
+    ],
+    "publisher": "Edward Elgar Publishing",
+    "publishedDate": "2017-09-29",
+    "description": "Leading researcher John F. Tomer presents an invigorating and concise introduction to behavioral economics that offers essential behavioral theories, perspectives, trends and developments within this ever-evolving discipline.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781784719920"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1784719927"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Wo0zDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Wo0zDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Wo0zDwAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=38&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Wo0zDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Wo0zDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.96,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Wo0zDwAAQBAJ&rdid=book-Wo0zDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.996E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Advanced_Introduction_to_Behavioral_Econ-sample-epub.acsm?id=Wo0zDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Advanced_Introduction_to_Behavioral_Econ-sample-pdf.acsm?id=Wo0zDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Wo0zDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GEkSusqBH84C",
+   "etag": "DRoXT0+K5hY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GEkSusqBH84C",
+   "volumeInfo": {
+    "title": "The Rise and Decline of Nations",
+    "subtitle": "Economic Growth, Stagflation, and Social Rigidities",
+    "authors": [
+     "Mancur Olson"
+    ],
+    "publisher": "Yale University Press",
+    "publishedDate": "2008-10-01",
+    "description": "The years since World War II have seen rapid shifts in the relative positions of different countries and regions. Leading political economist Mancur Olson offers a new and compelling theory to explain these shifts in fortune and then tests his theory against evidence from many periods of history and many parts of the world.\"[T]his elegant, readable book. . . sets out to explain why economies succumb to the 'British disease,' the kind of stagnation and demoralization that is now sweeping Europe and North America. . . . A convincing book that could make a big difference in the way we think about modern economic problems.\"--Peter Passell, The New York Times Book Review\"Schumpeter and Keynes would have hailed the insights Olson gives into the sicknesses of the modern mixed economy.\"--Paul A. Samuelson, Massachusetts Institute of Technology\"One of the really important books in social science of the past half-century.\"--Scott Gordon, The Canadian Journal of Economics\"The thesis of this brilliant book is that the longer a society enjoys political stability, the more likely it is to develop powerful special-interest lobbies that in turn make it less efficient economically.\"--Charles Peters, The Washington Monthly\"Remarkable. The fundamental ideas are simple, yet they provide insight into a wide array of social and historical issues. . . . The Rise and Decline of Nations promises to be a subject of productive interdisciplinary argument for years to come.\"--Robert O. Keohane, Journal of Economic Literature\"I urgently recommend it to all economists and to a great many non-economists.\"--Gordon Tullock, Public Choice\"Olson's theory is illuminating and there is no doubt that The Rise and Decline of Nations will exert much influence on ideas and politics for many decades to come.\"--Pierre Lemieux, ReasonCo-winner of the 1983 American Political Science Association's Gladys M. Kammerer Award for the best book on U.S. national policy",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300157673"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0300157673"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 273,
+    "printType": "BOOK",
+    "categories": [
+     "POLITICAL SCIENCE"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.7.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GEkSusqBH84C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GEkSusqBH84C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=GEkSusqBH84C&printsec=frontcover&dq=subject:economics&hl=&cd=39&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GEkSusqBH84C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GEkSusqBH84C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.84,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=GEkSusqBH84C&rdid=book-GEkSusqBH84C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.2E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.584E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 1.65E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.254E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 180.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Rise_and_Decline_of_Nations-sample-epub.acsm?id=GEkSusqBH84C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Rise_and_Decline_of_Nations-sample-pdf.acsm?id=GEkSusqBH84C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GEkSusqBH84C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bX3TBwAAQBAJ",
+   "etag": "NUFV8/tubdU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bX3TBwAAQBAJ",
+   "volumeInfo": {
+    "title": "Reproducing Kernel Hilbert Spaces in Probability and Statistics",
+    "authors": [
+     "Alain Berlinet",
+     "Christine Thomas-Agnan"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2011-06-28",
+    "description": "The book covers theoretical questions including the latest extension of the formalism, and computational issues and focuses on some of the more fruitful and promising applications, including statistical signal processing, nonparametric curve estimation, random measures, limit theorems, learning theory and some applications at the fringe between Statistics and Approximation Theory. It is geared to graduate students in Statistics, Mathematics or Engineering, or to scientists with an equivalent level.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781441990969"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1441990968"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 355,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bX3TBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bX3TBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bX3TBwAAQBAJ&printsec=frontcover&dq=subject:economics&hl=&cd=40&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bX3TBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bX3TBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 209.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 167.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bX3TBwAAQBAJ&rdid=book-bX3TBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.672E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 7.315E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.364E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Reproducing_Kernel_Hilbert_Spaces_in_Pro-sample-pdf.acsm?id=bX3TBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bX3TBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

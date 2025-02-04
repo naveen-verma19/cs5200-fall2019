@@ -1,0 +1,2536 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 399,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "AQb6ugEACAAJ",
+   "etag": "Twcc5L32KdY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AQb6ugEACAAJ",
+   "volumeInfo": {
+    "title": "Just-in-time manufacturing",
+    "subtitle": "an introduction",
+    "authors": [
+     "T. C. Edwin Cheng",
+     "Susan Podolsky"
+    ],
+    "publishedDate": "1993",
+    "description": "This book addresses three fundamental building blocks of JIT, namely setting up a JIT production system, improving quality, and instilling total employee involvement. JIT implementation issues are covered and supported by an industrial case study.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0412456907"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780412456909"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AQb6ugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AQb6ugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=AQb6ugEACAAJ&dq=subject:business&hl=&cd=361&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=AQb6ugEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Just_in_time_manufacturing.html?hl=&id=AQb6ugEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AQb6ugEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6w8YswEACAAJ",
+   "etag": "2147pcL45bA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6w8YswEACAAJ",
+   "volumeInfo": {
+    "title": "The Purchasing Chessboard",
+    "subtitle": "64 Methods to Reduce Cost and Increase Value with Suppliers",
+    "authors": [
+     "Christian Schuh",
+     "Robert Kromoser",
+     "Michael F. Strohmer",
+     "Ramón Romero Pérez",
+     "Alenka Triplat"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2012-05-03",
+    "description": "The “golden” age of purchasing, in which it was relatively easy to achieve annual cost reductions of between one and three percent, has come to an end. The major reasons for this are the consolidation in many supplier markets, rising energy costs, and growing resource consumption in many emerging markets such as China. To support companies that need to master the challenges in purchasing and achieve significant value propositions, the authors have developed the Purchasing ChessboardTM. The Purchasing ChessboardTM provides a suitable purchasing strategy for every constellation of buying power and selling power.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3540887261"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540887263"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6w8YswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6w8YswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6w8YswEACAAJ&dq=subject:business&hl=&cd=362&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=6w8YswEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Purchasing_Chessboard.html?hl=&id=6w8YswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6w8YswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ja6PDwAAQBAJ",
+   "etag": "y1ampEojgeQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ja6PDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Medien- und Internetmanagement",
+    "authors": [
+     "Bernd W. Wirtz"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2019-03-29",
+    "description": "Der Medien- und Kommunikationssektor hat sich zu einem zentralen Wirtschaftsbereich in der Informationsgesellschaft entwickelt. Dieses Buch behandelt das Medienmanagement für die elektronischen und printbasierten Medien. Vor dem Hintergrund der Branchenkonvergenz werden die grundlegenden Entwicklungen, Wertschöpfungsstrukturen, Geschäftsmodelle und Wettbewerbsstrategien im Rahmen einer integrierten Managementbetrachtung dargestellt. Darüber hinaus werden neuere Entwicklungen bei Internetmedien behandelt.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783658252243"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3658252243"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1032,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ja6PDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ja6PDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=ja6PDwAAQBAJ&dq=subject:business&hl=&cd=363&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ja6PDwAAQBAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Medien_und_Internetmanagement.html?hl=&id=ja6PDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ja6PDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4A0rAQAAIAAJ",
+   "etag": "T7GRbsckr1E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4A0rAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Multiple Criteria Decision Making",
+    "subtitle": "Proceedings of a Conference Jouy-en-Josas, France May 21–23, 1975",
+    "authors": [
+     "H. Thiriez",
+     "S. Zionts"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "1976-07-01",
+    "description": "The conference was organized in order to assemble a group of researchers and practitioners in the area of Multiple Criteria Decision Making. The purpose was to discuss the current state of the art with respect to both theory and practice. This conference considered such points as recent t_heoretical developments in terms of models, the behavioral aspects of multiple criteria decision making, as well as practical applications already realized and 1n progress. In addition, there was interest in the problems of implementation of multiple-criteria methods, and the interface between theory and practice, Approximately 78 participants from 15 different countries attended the conference - both theorists and practitioners. A list of participants and their addresses is found on page 411 • Because of the relatively large number of papers presented, large morning sessions followed by smaller parallel afternoon sessions were employed'. In general a discussant commented on each paper. In addition, considerable time was reserved for small-group discussion and interaction. In addition to expressing our gratitude to the participants for their enthusiastic reception and participation in the conference, we want. to thank particularly the speakers, session chairmen and discussants. We also wish to thank the C.E.S.A. and the European Institute for their support, as well as Mrs. Randee Pomerantz and Miss Dina Nagler.~oth of the E.I.A.S.M.,for their active role in the organization and arrangements for the conference, and Mrs. Jessie Goveas, E.I.A.S.M. for typing the conference proceedings.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3540077944"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540077947"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 415,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4A0rAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4A0rAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4A0rAQAAIAAJ&dq=subject:business&hl=&cd=364&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4A0rAQAAIAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Multiple_Criteria_Decision_Making.html?hl=&id=4A0rAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4A0rAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "A4PayAEACAAJ",
+   "etag": "960E/tDwxQI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/A4PayAEACAAJ",
+   "volumeInfo": {
+    "title": "Foreign Direct Investment",
+    "subtitle": "Firm and Host Country Strategies",
+    "authors": [
+     "M. Blomstrom",
+     "A. Kokko",
+     "M. Zejan"
+    ],
+    "publisher": "Palgrave Macmillan",
+    "publishedDate": "2000-03-15",
+    "description": "This book gathers together thirteen articles that deal with the internationalization strategies of firms, effects of foreign investment on host countries and host country policies vis-a-vis foreign multinationals. It illustrates how the behaviour of multinational firms and their effects on the host country are likely to differ between countries in a systematic manner, depending on the host country's economic policies and market conditions and provides a new approach on how to look at multinational firms.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0333801202"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780333801208"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 253,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=A4PayAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=A4PayAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=A4PayAEACAAJ&dq=subject:business&hl=&cd=365&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=A4PayAEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Foreign_Direct_Investment.html?hl=&id=A4PayAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=A4PayAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KQq9QgAACAAJ",
+   "etag": "vbp25hbtteY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KQq9QgAACAAJ",
+   "volumeInfo": {
+    "title": "Leading the Revolution",
+    "subtitle": "How to Thrive in Turbulent Times by Making Innovation a Way of Life",
+    "authors": [
+     "Gary Hamel"
+    ],
+    "publisher": "Plume",
+    "publishedDate": "2002",
+    "description": "Urges managers of traditional companies to implement e-commerce and participate in joint ventures, providing examples of small and large companies that changed their missions and business conduct for the better.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0452283248"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780452283244"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 337,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KQq9QgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KQq9QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=KQq9QgAACAAJ&dq=subject:business&hl=&cd=366&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=KQq9QgAACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Leading_the_Revolution.html?hl=&id=KQq9QgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KQq9QgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zEozxgEACAAJ",
+   "etag": "Hipx4tiJEfQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zEozxgEACAAJ",
+   "volumeInfo": {
+    "title": "Moderne Markenführung",
+    "subtitle": "Grundlagen - Innovative Ansätze - Praktische Umsetzungen",
+    "authors": [
+     "Franz-Rudolf Esch"
+    ],
+    "publisher": "Gabler Verlag",
+    "publishedDate": "2013",
+    "description": "In anschaulicher und klar verständlicher Sprache werden die wesentlichen Aspekte einer modernen Markenführung dargestellt. Neben der Vermittlung notwendiger Grundlagen liegt der Schwerpunkt des Buches auf neuen und innovativen Ansätzen zum Management von Marken. Die 4. Auflage wurde vollständig überarbeitet und unter anderem um Beiträge zu Neuromarketing, Markenmigration, Markenführung nach innen, Corporate Brand Management, Store Brands und Brand Performance Measurement ergänzt. \"Eschs Buch ist der Brockhaus der Markenführung.\" Dr. Stefan Brungs, Managing Director Europe Rolls-Royce und Bentley",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3834945404"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783834945402"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1537,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zEozxgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zEozxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=zEozxgEACAAJ&dq=subject:business&hl=&cd=367&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=zEozxgEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Moderne_Markenf%C3%BChrung.html?hl=&id=zEozxgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zEozxgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "x3LyvQAACAAJ",
+   "etag": "omk96ejwD4M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x3LyvQAACAAJ",
+   "volumeInfo": {
+    "title": "Talent Management",
+    "subtitle": "Cases and Commentary",
+    "authors": [
+     "Eddie Blass"
+    ],
+    "publisher": "Palgrave Macmillan",
+    "publishedDate": "2009-01-30",
+    "description": "Talent management is 'the hot topic' for HR managers and chief executives in organizations today. Based on over two years of research, this book draws out key ideas to draw on in the future. It presents case studies of public, private and multinational organizations, as well as commentary on defining and developing talent.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1349309168"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781349309160"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 315,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=x3LyvQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=x3LyvQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=x3LyvQAACAAJ&dq=subject:business&hl=&cd=368&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=x3LyvQAACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Talent_Management.html?hl=&id=x3LyvQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=x3LyvQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aJamuwEACAAJ",
+   "etag": "I+5H3oOyOXM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aJamuwEACAAJ",
+   "volumeInfo": {
+    "title": "A Life Worth Living",
+    "authors": [
+     "Ken Costa"
+    ],
+    "publisher": "Alpha International",
+    "publishedDate": "2012-10-18",
+    "description": "Normal.dotm 0 0 1 80 456 Lion Hudson Plc 3 1 560 12.0 Normal 0 false 18 pt 18 pt 0 0 false false false /* Style Definitions */ table.MsoNormalTable {mso-style-name:\"Table Normal\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:\"\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:12.0pt; font-family:\"Times New Roman\"; mso-ascii-font-family:Cambria; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:\"Times New Roman\"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Cambria; mso-hansi-theme-font:minor-latin;} As an investment banker in the City of London, Ken Costa has read The Financial Times and the Bible almost every day for thirty years. Yet, there is a widespread view that God and business just do not mix. To Ken Costa, the God who created and sustains the world is also the God of the workplace. If the Christian faith is not relevant to the workplace, it’s not relevant at all. Chapters include: Work Matters; Ambition and life choices; Tough decisions; Work-life balance; Stress; Failure, disappointment, hope; Money and giving; Spiritual renewal",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781905887019"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1905887019"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aJamuwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aJamuwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=aJamuwEACAAJ&dq=subject:business&hl=&cd=369&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=aJamuwEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Life_Worth_Living.html?hl=&id=aJamuwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aJamuwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WEJrvwEACAAJ",
+   "etag": "L4y8lStFrY8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WEJrvwEACAAJ",
+   "volumeInfo": {
+    "title": "Grundlagen des CRM",
+    "subtitle": "Strategie, Geschäftsprozesse und IT-Unterstützung",
+    "authors": [
+     "Hajo Hippner",
+     "Beate Hubrich",
+     "Klaus-Dieter Wilde"
+    ],
+    "publisher": "Gabler Verlag",
+    "publishedDate": "2011-02-10",
+    "description": "Customer Relationship Management umfasst den Aufbau, die Intensivierung sowie die Sicherung dauerhafter und gewinnbringender Kundenbeziehungen. Mit diesem Verständnis vermittelt das Buch grundlegendes Orientierungswissen, das für das Verstehen des komplexen CRM-Ansatzes unabdingbar ist. Neben einer umfassenden Erläuterung der wesentlichen Begriffe und Zusammenhänge werden Managementkonzepte vorgestellt, anhand derer die einzelnen Phasen der Kundenbeziehung profitabel und kundengerecht ausgestaltet werden können. Die dritte Auflage wurde vollständig überarbeitet und um neue Beiträge, wie z.B. Kreditrisikomanagement, IT-Unterstützung ausgewählter Kundenkontaktkanäle und Kundenkontaktpunkte sowie adaptive Real-time-Analysen, erweitert.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3834925500"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783834925503"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 853,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WEJrvwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WEJrvwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=WEJrvwEACAAJ&dq=subject:business&hl=&cd=370&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=WEJrvwEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Grundlagen_des_CRM.html?hl=&id=WEJrvwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WEJrvwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cGajuuZeEFMC",
+   "etag": "LIgyRNpkNdM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cGajuuZeEFMC",
+   "volumeInfo": {
+    "title": "Contemporary Business",
+    "authors": [
+     "Louis E. Boone",
+     "David L. Kurtz"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "1994",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0030984726"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780030984723"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 821,
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cGajuuZeEFMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cGajuuZeEFMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cGajuuZeEFMC&dq=subject:business&hl=&cd=371&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=cGajuuZeEFMC&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Contemporary_Business.html?hl=&id=cGajuuZeEFMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cGajuuZeEFMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bXowvgEACAAJ",
+   "etag": "LnJb+sC08ok",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bXowvgEACAAJ",
+   "volumeInfo": {
+    "title": "Preismanagement",
+    "subtitle": "Strategie - Analyse - Entscheidung - Umsetzung",
+    "authors": [
+     "Hermann Simon",
+     "Martin Fassnacht"
+    ],
+    "publisher": "Springer Gabler",
+    "publishedDate": "2016-08-01",
+    "description": "Dieses Buch bietet ein umfassendes Verständnis von Pricing. Preismanagement wird dabei als Prozess verstanden, der in den vier Phasen Strategie, Analyse, Entscheidung und Umsetzung abläuft. In separaten Kapiteln wird auf branchenspezifische Besonderheiten des Preismanagements bei Konsum- und Industriegütern, Dienstleistungen und im Handel eingegangen. Die 4. Auflage des Klassikers „Preismanagement“ wurde vollständig neu überarbeitet und durchdringt das Thema auf aktuelle, kompakte und übersichtliche Weise. Praxisbeispiele aus den verschiedensten Branchen illustrieren das Vorgehen in allen vier Prozessphasen. Das Thema Digitalisierung wird systematisch in allen Kapiteln und Phasen berücksichtigt. Das Standardwerk schließt mit einem völlig neuen Kapitel zu Innovationen im Preismanagement. “This book is truly state of the art and the most comprehensive work in price management.” Prof. Philip Kotler, Kellogg School of Management, Northwestern University „Ein Buch von großem Wert, dem der Brückenschlag zwischen Wissenschaft und Praxis hervorragend gelingt.“ Kasper Rorsted, CEO, Adidas AG „Dieses Buch zeigt, dass die Digitalisierung im Preismanagement angekommen ist. Absoluter State of the Art.” Oliver Samwer, CEO, Rocket Internet AG „Preismanagement umfassend und verständlich dargestellt. Toll gemacht und damit absolut lesenswert!“ Prof. Dr. Bernd Skiera, Lehrstuhl für Marketing, insbesondere Electronic Commerce, Goethe-Universität Frankfurt am Main „Preismanagement ist insbesondere für Premium-Marken von entscheidender Bedeutung. Dieses Buch liefert alles für ein erfolgreiches Premium-Pricing.“ Dr. Reinhard Zinkann, Geschäftsführender Gesellschafter, Miele & Cie. KG",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3658118709"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783658118709"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 616,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bXowvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bXowvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=bXowvgEACAAJ&dq=subject:business&hl=&cd=372&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=bXowvgEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Preismanagement.html?hl=&id=bXowvgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bXowvgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6gDiB23KklIC",
+   "etag": "zLU+nqxZ/YM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6gDiB23KklIC",
+   "volumeInfo": {
+    "title": "Produktion und Logistik",
+    "authors": [
+     "Hans-Otto Günther",
+     "Horst Tempelmeier"
+    ],
+    "publisher": "Springer Science & Business",
+    "publishedDate": "2006-03-30",
+    "description": "Anwendungsorientierte und moderne Einführung in die industrielle Produktion und Logistik: Die Autoren erläutern die wichtigsten produktionswirtschaftlichen und logistischen Planungsprobleme sowie die verfügbaren grundlegenden Methoden zu deren Lösung. Hierzu von den selben Autoren lieferbar in 6. Auflage von 2009: Übungsbuch Produktions und Logistik. ISBN 978-3-540-92755-6; ausführliche Informationen zum Inhalt -\u003espringer.de",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540271888"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3540271880"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 365,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6gDiB23KklIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6gDiB23KklIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=6gDiB23KklIC&dq=subject:business&hl=&cd=373&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=6gDiB23KklIC&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Produktion_und_Logistik.html?hl=&id=6gDiB23KklIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6gDiB23KklIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LaFmPQAACAAJ",
+   "etag": "JKS35Dv6pVk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LaFmPQAACAAJ",
+   "volumeInfo": {
+    "title": "Bankbetriebslehre",
+    "subtitle": "Bankgeschäfte und Bankmanagement",
+    "authors": [
+     "Hans E. Büschgen"
+    ],
+    "publisher": "Gabler Verlag",
+    "publishedDate": "1993-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3409420746"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783409420747"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 922,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LaFmPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LaFmPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=LaFmPQAACAAJ&dq=subject:business&hl=&cd=374&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=LaFmPQAACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Bankbetriebslehre.html?hl=&id=LaFmPQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LaFmPQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ytgpAQAAMAAJ",
+   "etag": "HF+wM7BHbLA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ytgpAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Business law",
+    "subtitle": "the ethical, global, and e-commerce environment",
+    "authors": [
+     "Jane P. Mallor"
+    ],
+    "publisher": "McGraw-Hill/Irwin",
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39076002559305"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1260,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ytgpAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ytgpAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ytgpAQAAMAAJ&dq=subject:business&hl=&cd=375&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ytgpAQAAMAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Business_law.html?hl=&id=ytgpAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ytgpAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lCPcxQEACAAJ",
+   "etag": "eyAo5OUcFg4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lCPcxQEACAAJ",
+   "volumeInfo": {
+    "title": "Personalmanagement",
+    "subtitle": "Theorien – Konzepte – Instrumente",
+    "authors": [
+     "Ruth Stock-Homburg",
+     "Matthias Groß"
+    ],
+    "publisher": "Springer Gabler",
+    "publishedDate": "2019-09-15",
+    "description": "Zeitgemäßes Personalmanagement: Dieses Buch zeigt Ihnen, worauf es ankommt Das Personalmanagement steht in Zeiten globaler und digitaler Märkte vor großen Herausforderungen: Es gilt, einer zunehmend flexiblen Arbeitswelt, eines sich wandelnden Arbeitsmarktes sowie sich stark verändernder Mitarbeiterbedürfnisse und -fähigkeiten gleichermaßen gerecht zu werden. In diesem Buch vermitteln die Autoren in anschaulicher und kompakter Weise die zentralen Grundlagen, Konzepte und Instrumente eines zeitgemäßen Personalmanagements. Praxisbeispiele und Kontrollfragen unterstützen die Inhalte und legen den Fokus auf folgende Aspekte: Wie sieht die Zukunft der Arbeit aus? Welche Möglichkeiten bieten digitale Medien und das mobile Internet für die Personalplanung? Wie generieren Unternehmen ein nachhaltiges Health Care Management? Mithilfe welcher Instrumente konstruieren Personalverantwortliche eine erfolgreiche Führungsethik? Durch diese umfassende Perspektivvielfalt gibt Ihnen dieses Buch einen Überblick über die Herausforderungen sowie aktuelle Entwicklungen im Bereich des zeitgemäßen Personalmanagements. Selbstverständlich berücksichtigen die Autoren auch internationale Tendenzen der Mitarbeiterführung. Lernen Sie zukunftsweisende Ansätze kennen Zunächst bringen Ihnen die Autoren die konzeptionellen Grundlagen des Personalmanagements näher und ordnen den Gegenstandsbereich dieses Begriffs verständlich ein. Nach der Vorstellung einiger ökonomischer Ansätze steht die konkrete Ausformung des zeitgemäßen Personalmanagements im Fokus. Erfahren Sie mehr über: Quantitative und qualitative Verfahren der Personalbedarfsplanung Gestaltung des Personalgewinnungsprozesses Internationale Gestaltung von Mitarbeiterflusssystemen Belohnungssysteme des Personalmanagements Führung von Mitarbeitern in Teams Betriebliches Gesundheitsmanagement Zu empfehlen ist dieses Buch über zeitgemäßes Personalmanagement insbesondere für Bachelor- und Mastervorlesungen im Bereich des Personalmanagements. Darüber hinaus ist es ein systematischer Leitfaden für (Personal-)Manager sowie Führungsnachwuchskräfte. Die aktuelle Auflage wurde komplett überarbeitet und aktualisiert. Kapitelübergreifend zeigen die Autoren Ansatzpunkte zur Gestaltung zukunftsfähiger Arbeitswelten und Anwendungsbeispiele künstlicher Intelligenz im Personalmanagement auf. Zudem enthält das Werk ein neues Kapitel über das zukunftsweisende Konzept des agilen Personalmanagements.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3658260807"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783658260804"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 800,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=lCPcxQEACAAJ&dq=subject:business&hl=&cd=376&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lCPcxQEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Personalmanagement.html?hl=&id=lCPcxQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lCPcxQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3T_VuwEACAAJ",
+   "etag": "U0etW3ex8xQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3T_VuwEACAAJ",
+   "volumeInfo": {
+    "title": "Allgemeine Betriebswirtschaftslehre",
+    "authors": [
+     "Konrad Mellerowicz"
+    ],
+    "publisher": "Walter de Gruyter",
+    "publishedDate": "1952-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3111016765"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783111016764"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 143,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=3T_VuwEACAAJ&dq=subject:business&hl=&cd=377&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=3T_VuwEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Allgemeine_Betriebswirtschaftslehre.html?hl=&id=3T_VuwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3T_VuwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b2_SxQEACAAJ",
+   "etag": "QQOE5mSg6+E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b2_SxQEACAAJ",
+   "volumeInfo": {
+    "title": "The Economist",
+    "authors": [
+     "Economist (London), England : 1843)"
+    ],
+    "publishedDate": "1843",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:08017464"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=b2_SxQEACAAJ&dq=subject:business&hl=&cd=378&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=b2_SxQEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Economist.html?hl=&id=b2_SxQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=b2_SxQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EMPzvQEACAAJ",
+   "etag": "w24CgtCoZ/Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EMPzvQEACAAJ",
+   "volumeInfo": {
+    "title": "Fundamentos de economía de la empresa",
+    "authors": [
+     "Carlos Rodrigo Illera"
+    ],
+    "publishedDate": "1992",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8436807006"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788436807004"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 343,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=EMPzvQEACAAJ&dq=subject:business&hl=&cd=379&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=EMPzvQEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fundamentos_de_econom%C3%ADa_de_la_empresa.html?hl=&id=EMPzvQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EMPzvQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ADQ9PgAACAAJ",
+   "etag": "xilr9EOEPqk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ADQ9PgAACAAJ",
+   "volumeInfo": {
+    "title": "Information Technology in Business",
+    "subtitle": "Principles, Practices, and Opportunities",
+    "authors": [
+     "James A. Senn"
+    ],
+    "publishedDate": "1995",
+    "description": "This text examines the way that IT is transforming the nature of business careers in the 1990s. Each chapter explores proven IT theories, frameworks and principles concerning computers and communication networks, together with on-the-job know-how drawn from real-world business experiences.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0131853236"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780131853232"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 598,
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ADQ9PgAACAAJ&dq=subject:business&hl=&cd=380&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ADQ9PgAACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Information_Technology_in_Business.html?hl=&id=ADQ9PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ADQ9PgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hyzzvQEACAAJ",
+   "etag": "M/n6oLNJ8jc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hyzzvQEACAAJ",
+   "volumeInfo": {
+    "title": "Data Quality",
+    "subtitle": "Concepts and Measuring. Information and data quality",
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:1058423534"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 15,
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hyzzvQEACAAJ&dq=subject:business&hl=&cd=381&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=hyzzvQEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Data_Quality.html?hl=&id=hyzzvQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hyzzvQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N1S5AAAACAAJ",
+   "etag": "fkeGtG/iT5Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N1S5AAAACAAJ",
+   "volumeInfo": {
+    "title": "Contemporary Marketing",
+    "authors": [
+     "Louis E. Boone",
+     "David L. Kurtz",
+     "Jonas Falik"
+    ],
+    "publisher": "Harcourt Brace College Publishers",
+    "publishedDate": "1995",
+    "description": "Products often begin their lives as something extraordinary and as they grow they continue to evolve. The most successful products in the marketplace are those that know their strengths and have branded and marketed those strengths to form a passionate emotional connection with loyal users and relationships with new users every step of the way. In CONTEMPORARY MARKETING, 13e, students will find a text that includes everything they need to know in order to begin a marketing career, as well as things that will help them understand how to look at their own studies and their own careers as a marketing adventure. All the components of the marketing mix are included along with a lot of other compelling and thought-provoking ideas and concepts. Since its first edition, CONTEMPORARY MARKETING continues to showcase the foundations of marketing principles while featuring the newest trends and research in the discipline.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0030042135"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780030042133"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 745,
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=N1S5AAAACAAJ&dq=subject:business&hl=&cd=382&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=N1S5AAAACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Contemporary_Marketing.html?hl=&id=N1S5AAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=N1S5AAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FsnhwQEACAAJ",
+   "etag": "4BC8Gz6KDU8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FsnhwQEACAAJ",
+   "volumeInfo": {
+    "title": "Digital HR",
+    "subtitle": "A Critical Management Approach to the Digitilization of Organizations",
+    "authors": [
+     "Amelia Manuti",
+     "Pasquale Davide de Palma"
+    ],
+    "publisher": "Palgrave Macmillan",
+    "publishedDate": "2018-08-04",
+    "description": "This book draws on recent debate surrounding the emergence of cognitive intelligence in organizations, exploring the redefinition of the labor market and consequently, employment. With a particular focus on Human Resource Management (HRM), the authors analyse the socio-cultural transformation of traditional practices and methodologies that are ocurring in the workforce. Digital HR presents detailed case studies and interviews with HR managers of large multinational companies, providing comprehensive empirical evidence for academics and students interested in the development of HRM in today’s digital landscape. The book will also be valuable to practitioners and managers looking to adapt the role of HR in their own companies or organizations.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3319868063"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783319868066"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 88,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FsnhwQEACAAJ&dq=subject:business&hl=&cd=383&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=FsnhwQEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Digital_HR.html?hl=&id=FsnhwQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FsnhwQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WYndjwEACAAJ",
+   "etag": "sHFla28jiLI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WYndjwEACAAJ",
+   "volumeInfo": {
+    "title": "Management Ethics",
+    "subtitle": "Placing Ethics at the Core of Good Management",
+    "authors": [
+     "D. Melé"
+    ],
+    "publisher": "Palgrave Macmillan",
+    "publishedDate": "2011-11-30",
+    "description": "The recent financial crisis has awakened a renewed sensibility to ethics in business and management, and an increasing interest in a better understanding of how ethics and economics are intertwined. Managers and executives must understand not just the moral value of ethical behaviour, but also how this can strengthen and benefit the organization.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1349319473"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781349319473"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 182,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=WYndjwEACAAJ&dq=subject:business&hl=&cd=384&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=WYndjwEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Management_Ethics.html?hl=&id=WYndjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WYndjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_QfjuwEACAAJ",
+   "etag": "d/z7kfKxmcc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_QfjuwEACAAJ",
+   "volumeInfo": {
+    "title": "Through the Eye of the Needle",
+    "subtitle": "",
+    "authors": [
+     "William Dean Howells"
+    ],
+    "publisher": "Sai ePublications & Sai Shop",
+    "publishedDate": "2015-12-17",
+    "description": "Aristides Homos, an Emissary of the Altrurian Commonwealth, visited the United States during the summer of 1893 and the fall and winter following. For some weeks or months he was the guest of a well-known man of letters at a hotel in one of our mountain resorts; in the early autumn he spent several days at the great Columbian Exhibition in Chicago; and later he came to New York, where he remained until he sailed, rather suddenly, for Altruria, taking the circuitous route by which he came. He seems to have written pretty constantly throughout his sojourn with us to an intimate friend in his own country, giving freely his impressions of our civilization. His letters from New York appear to have been especially full, and, in offering the present synopsis of these to the American reader, it will not be impertinent to note certain peculiarities of the Altrurian attitude which the temperament of the writer has somewhat modified. He is entangled in his social sophistries regarding all the competitive civilizations;...",
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_QfjuwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_QfjuwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_QfjuwEACAAJ&dq=subject:business&hl=&cd=385&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_QfjuwEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Through_the_Eye_of_the_Needle.html?hl=&id=_QfjuwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_QfjuwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uzThxwEACAAJ",
+   "etag": "M9EGN7knhjs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uzThxwEACAAJ",
+   "volumeInfo": {
+    "title": "Transformational Leadership",
+    "subtitle": "Shared Dreams to Succeed",
+    "authors": [
+     "A. Godard",
+     "V. Lenhardt"
+    ],
+    "publisher": "Palgrave Macmillan",
+    "publishedDate": "2000-11-14",
+    "description": "During the mid 90's Alain Godard helped to bring about a remarkable change of fortunes for the pharmaceuticals giant, Rhône-Poulenc. This is the story of how he and his team used trust, commitment and imagination and what at the time appeared to be risky tactics to turn around the company following its merger with Union Carbide Agrochemicals. With coverage of innovative new business systems including Godard's 'Simplify, Decentralise, Manage' programme, this book will be of great value to all leaders and managers facing challenges in business.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0333928997"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780333928998"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uzThxwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uzThxwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=uzThxwEACAAJ&dq=subject:business&hl=&cd=386&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=uzThxwEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Transformational_Leadership.html?hl=&id=uzThxwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uzThxwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vmH5yAEACAAJ",
+   "etag": "3l/JDEzi2zM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vmH5yAEACAAJ",
+   "volumeInfo": {
+    "title": "@ Risk",
+    "subtitle": "Risk Analysis and Simulation Add-in for Microsoft Excel Or Lotus 1-2-3 Windows Version",
+    "publishedDate": "1995",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:34866854"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vmH5yAEACAAJ&dq=subject:business&hl=&cd=387&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=vmH5yAEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Risk.html?hl=&id=vmH5yAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vmH5yAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6FPDnQEACAAJ",
+   "etag": "rseMUxT1GvA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6FPDnQEACAAJ",
+   "volumeInfo": {
+    "title": "The Complete English Tradesman",
+    "subtitle": "Directing Him in the Several Parts and Progressions of Trade, from His First Entring Upon Business, to His Leaving Off, Particularly with Regard to Diligence, Over-trading, Diversions ... with Useful Generals in Trade, Describing the Principles and Foundations of the Home-trade of Great-Britain : with Tables of the British Manufactures",
+    "authors": [
+     "Daniel Defoe"
+    ],
+    "publishedDate": "1732",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:611700502"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6FPDnQEACAAJ&dq=subject:business&hl=&cd=388&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=6FPDnQEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_English_Tradesman.html?hl=&id=6FPDnQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6FPDnQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Nu13xgEACAAJ",
+   "etag": "Z+cVlWfnJ0Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Nu13xgEACAAJ",
+   "volumeInfo": {
+    "title": "Research",
+    "authors": [
+     "Paul Oliver"
+    ],
+    "publisher": "Contemporary Books",
+    "publishedDate": "1998-03-01",
+    "description": "Author and teacher Paul Oliver follows the evolution of the research process from initial design of an investigation, through data collection and analysis, to writing the results. Oliver shows that it is possible to carry out straightforward research of almost any kind and achieve satisfactory results.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0844200158"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780844200156"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 195,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Nu13xgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Nu13xgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Nu13xgEACAAJ&dq=subject:business&hl=&cd=389&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Nu13xgEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Research.html?hl=&id=Nu13xgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Nu13xgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iVhJHAAACAAJ",
+   "etag": "J9ogSd0PXno",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iVhJHAAACAAJ",
+   "volumeInfo": {
+    "title": "Business Research",
+    "subtitle": "Concepts and Applications",
+    "authors": [
+     "Divina M. Edralin"
+    ],
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9715553273"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789715553278"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 199,
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=iVhJHAAACAAJ&dq=subject:business&hl=&cd=390&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=iVhJHAAACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Business_Research.html?hl=&id=iVhJHAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iVhJHAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EybSxQEACAAJ",
+   "etag": "xKq0JsF5iqQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EybSxQEACAAJ",
+   "volumeInfo": {
+    "title": "Market Segmentation",
+    "subtitle": "How to Do it How to Profit from it",
+    "authors": [
+     "M. McDonald",
+     "Ian Dunbar"
+    ],
+    "publisher": "Red Globe Press",
+    "publishedDate": "1998-05-29",
+    "description": "This is a major revision of the highly successful first edition of Market Segmentation. In today's marketplace, effectively segmenting the market in order to target profitable customers is key to many companies' own profitability and growth. First published in 1995, this book was the first of its kind to help practitioners tackle this issue head on, providing step-by-step guidance through the difficult terrain of market segmentation. Since its publication the authors have further extended their experience, working with numerous international companies successfully segmenting their markets, experience which is reflected in this edition. Market Segmentation, 2nd edition is written in an even more accessible style and incorporates valuable lessons learnt from working with a wide range of companies in a variety of markets over many years. Containing a new worked case study, this book provides practical guidance to the subject and is a must-read for all business professionals.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "033373369X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780333733691"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 376,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EybSxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EybSxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=EybSxQEACAAJ&dq=subject:business&hl=&cd=391&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=EybSxQEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Market_Segmentation.html?hl=&id=EybSxQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EybSxQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B78NyQEACAAJ",
+   "etag": "sbqE3A2XtL4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B78NyQEACAAJ",
+   "volumeInfo": {
+    "title": "Leadership",
+    "subtitle": "Limits and Possibilities",
+    "authors": [
+     "Keith Grint"
+    ],
+    "publisher": "Red Globe Press",
+    "publishedDate": "2005-01-20",
+    "description": "This seminal textbook provides a critical review and analysis of the key components of leadership—and its limits. Against a historical backdrop, the text explores the foundations of successful and unsuccessful leadership, the relationship between the leaders and subordinates and the role leaders play in the dynamics of organisational life. Taking four key approaches, Leadership as Results, as Process, as Position and as Identity, the author analyses the theoretical source of each alternative and then provides a wide range of illustrative case studies to support his points. In this way, the textbook provides a holistic view of how leaders operate in different contexts as well as the limitations that can restrain emerging/successful leaders. Written by a world-leading expert on leadership, this unique and engaging text is an ideal course companion for undergraduate, postgraduate and MBA students studying leadership. It is suitable for those with no prior business knowledge.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0333963873"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780333963876"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=B78NyQEACAAJ&dq=subject:business&hl=&cd=392&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=B78NyQEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Leadership.html?hl=&id=B78NyQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=B78NyQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uLl1wgEACAAJ",
+   "etag": "Q8YbJd67PwU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uLl1wgEACAAJ",
+   "volumeInfo": {
+    "title": "Introduction to Computers",
+    "authors": [
+     "Elias M. Awad"
+    ],
+    "publishedDate": "1983",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:1070129656"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 491,
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=uLl1wgEACAAJ&dq=subject:business&hl=&cd=393&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=uLl1wgEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Computers.html?hl=&id=uLl1wgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uLl1wgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DSx3xwEACAAJ",
+   "etag": "Oz/vT+x4vLw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DSx3xwEACAAJ",
+   "volumeInfo": {
+    "title": "Business Process Management",
+    "subtitle": "Improving Business Efficiency : In-depth Report",
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:223674763"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 277,
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DSx3xwEACAAJ&dq=subject:business&hl=&cd=394&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DSx3xwEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Business_Process_Management.html?hl=&id=DSx3xwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DSx3xwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n7haMQAACAAJ",
+   "etag": "hwLgyplVtvM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n7haMQAACAAJ",
+   "volumeInfo": {
+    "title": "Business",
+    "publishedDate": "1987",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:961233138"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business communication"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=n7haMQAACAAJ&dq=subject:business&hl=&cd=395&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=n7haMQAACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Business.html?hl=&id=n7haMQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=n7haMQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nVk5nQAACAAJ",
+   "etag": "CNX5B89Uuzs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nVk5nQAACAAJ",
+   "volumeInfo": {
+    "title": "Social Media Marketing",
+    "subtitle": "A Tendency of Entrepreneur's Personality Toward Technology Adoption",
+    "authors": [
+     "Rusnifaezah Musa"
+    ],
+    "publishedDate": "2011",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:953658053"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 136,
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nVk5nQAACAAJ&dq=subject:business&hl=&cd=396&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nVk5nQAACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Social_Media_Marketing.html?hl=&id=nVk5nQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nVk5nQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "32XVyAEACAAJ",
+   "etag": "2SQbgi3dKWU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/32XVyAEACAAJ",
+   "volumeInfo": {
+    "title": "Contemporary Business",
+    "authors": [
+     "Boone"
+    ],
+    "publishedDate": "2005-08-15",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470424370"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470424377"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 572,
+    "printType": "BOOK",
+    "categories": [
+     "Business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=32XVyAEACAAJ&dq=subject:business&hl=&cd=397&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=32XVyAEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Contemporary_Business.html?hl=&id=32XVyAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=32XVyAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TWqIMAEACAAJ",
+   "etag": "cJIyyCdEMI4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TWqIMAEACAAJ",
+   "volumeInfo": {
+    "title": "How to Write a Marketing Plan",
+    "authors": [
+     "John Quagliaroli"
+    ],
+    "publishedDate": "1979",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:4912752"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 43,
+    "printType": "BOOK",
+    "categories": [
+     "Business report writing"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TWqIMAEACAAJ&dq=subject:business&hl=&cd=398&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=TWqIMAEACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Write_a_Marketing_Plan.html?hl=&id=TWqIMAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TWqIMAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HLWWNAAACAAJ",
+   "etag": "UiSIeVSrvaI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HLWWNAAACAAJ",
+   "volumeInfo": {
+    "title": "Business in Context",
+    "subtitle": "An Introduction to Business and Its Environment",
+    "authors": [
+     "David Needle"
+    ],
+    "publishedDate": "1994",
+    "description": "Provides an introduction to business functions, issues and activities and to the way they interact with their environment. It is the core text for the Business In Context Series which serves as a stand-alone introduction to business studies. An ELBS/LPBB edition is available.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "186152353X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781861523532"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 405,
+    "printType": "BOOK",
+    "categories": [
+     "Business education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HLWWNAAACAAJ&dq=subject:business&hl=&cd=399&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HLWWNAAACAAJ&dq=subject:business&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Business_in_Context.html?hl=&id=HLWWNAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HLWWNAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

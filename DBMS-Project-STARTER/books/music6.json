@@ -1,0 +1,2774 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 378,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tDQrHw5zNaYC",
+   "etag": "1T+vg9mtObI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tDQrHw5zNaYC",
+   "volumeInfo": {
+    "title": "The Story of Jazz",
+    "authors": [
+     "Marshall Winslow Stearns"
+    ],
+    "publisher": "Oxford University Press on Demand",
+    "publishedDate": "1970",
+    "description": "Traces the evolution of jazz from its African and West Indian roots to its contemporary forms and discusses the careers and styles of Leadbelly, Armstrong, Bessie Smith, and others",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195012690"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195012699"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 367,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tDQrHw5zNaYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tDQrHw5zNaYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tDQrHw5zNaYC&printsec=frontcover&dq=subject:music&hl=&cd=241&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tDQrHw5zNaYC&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_of_Jazz.html?hl=&id=tDQrHw5zNaYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Story_of_Jazz-sample-pdf.acsm?id=tDQrHw5zNaYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tDQrHw5zNaYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tvs5BZzhiuwC",
+   "etag": "XUlihwOdHNY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tvs5BZzhiuwC",
+   "volumeInfo": {
+    "title": "Audio Post Production for Television and Film",
+    "subtitle": "An Introduction to Technology and Techniques",
+    "authors": [
+     "Hilary Wyatt",
+     "Tim Amyes"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2005",
+    "description": "\"First edition published as the Technique of audio post production in video and film\"--T.p. verso.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780240519470"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0240519477"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 286,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tvs5BZzhiuwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tvs5BZzhiuwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tvs5BZzhiuwC&printsec=frontcover&dq=subject:music&hl=&cd=242&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tvs5BZzhiuwC&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Audio_Post_Production_for_Television_and.html?hl=&id=tvs5BZzhiuwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Audio_Post_Production_for_Television_and-sample-pdf.acsm?id=tvs5BZzhiuwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tvs5BZzhiuwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PUb44KSDnUUC",
+   "etag": "tF03RqFsGW8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PUb44KSDnUUC",
+   "volumeInfo": {
+    "title": "Composing for Voice",
+    "subtitle": "A Guide for Composers, Singers, and Teachers",
+    "authors": [
+     "Paul Barker"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2004",
+    "description": "The book primarily focuses on classical vocal music, but also draws on examples from jazz, Broadway/theatrical, operatic, and popular music. From understanding the mechanics of the voice through techniques to wed text to music, this book will aid both composers and vocalists to better understand each other's craft.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415941873"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415941877"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 205,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PUb44KSDnUUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PUb44KSDnUUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=PUb44KSDnUUC&printsec=frontcover&dq=subject:music&hl=&cd=243&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=PUb44KSDnUUC&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Composing_for_Voice.html?hl=&id=PUb44KSDnUUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PUb44KSDnUUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4Dj42oNleXIC",
+   "etag": "zVRsieTr6bQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4Dj42oNleXIC",
+   "volumeInfo": {
+    "title": "On the Track",
+    "subtitle": "A Guide to Contemporary Film Scoring",
+    "authors": [
+     "Fred Karlin",
+     "Rayburn Wright"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2004",
+    "description": "Offers a comprehensive guide to scoring for film and television. Covering all styles and genres, the authors cover everything from timing, cuing, and recording through balancing the composer's vision with the needs of the film.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415941369"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415941365"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 533,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4Dj42oNleXIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4Dj42oNleXIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4Dj42oNleXIC&printsec=frontcover&dq=subject:music&hl=&cd=244&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4Dj42oNleXIC&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/On_the_Track.html?hl=&id=4Dj42oNleXIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4Dj42oNleXIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u2I6AAAAMAAJ",
+   "etag": "ziCCEzt/hvc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u2I6AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Allgemeine theorie der schönen künste in einzeln",
+    "subtitle": "nach alphabetischer ordnung der kunstwörter auf einander folgenden, artikeln abgehandelt",
+    "authors": [
+     "Johann Georg Sulzer"
+    ],
+    "publishedDate": "1799",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015006567120"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1287,
+    "printType": "BOOK",
+    "categories": [
+     "Aesthetics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.3.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u2I6AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u2I6AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=u2I6AAAAMAAJ&printsec=frontcover&dq=subject:music&hl=&cd=245&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=u2I6AAAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u2I6AAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=u2I6AAAAMAAJ&rdid=book-u2I6AAAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/Allgemeine_theorie_der_sch%C3%B6nen_k%C3%BCnste.pdf?id=u2I6AAAAMAAJ&hl=&output=pdf&sig=ACfU3U2BJZ_8GVwAHe99ft5JQ19qPjkBeg&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u2I6AAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OSCfPwAACAAJ",
+   "etag": "nNVTjkazrnU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OSCfPwAACAAJ",
+   "volumeInfo": {
+    "title": "Great Pretenders",
+    "subtitle": "My Strange Love Affair with '50s Pop Music",
+    "authors": [
+     "Karen Schoemer"
+    ],
+    "publisher": "Free Press",
+    "publishedDate": "2007-10-26",
+    "description": "February 1964: The Beatles step onto the tarmac at JFK International Airport and turn the country on its head. It's the advent of rock and roll's uninterrupted reign, youthful rebellion, and overt teenage sex. It's also the deathblow for the pop music of another generation -- the songs of Pat Boone and Georgia Gibbs -- and all its perky, white-bread conformity. Not two years later, Karen Schoemer is born, and comes of age with rock and roll. While her parents might enjoy the new music, the cultural upheaval passes them by, and they cling to the promises made by the music they loved as teenagers, the sweet, innocent 1950s pop of Patti Page, Frankie Laine, and the like. But having courted and wed against a backdrop of ideals peddled by this music -- finding true love, living happily ever after -- Schoemer's parents, like so many people, are crushed by disappointment when love doesn't deliver what the songs promised. Fifties pop falls quickly off the charts; their marriage eventually falls apart. In Great Pretenders, a lively, provocative blend of memoir and music criticism, former Newsweek pop music critic Karen Schoemer tries to figure out what went so wrong, way back in the hazy past, for her parents' marriage and for the music of their youth. To find the answers, she embarks on a strange, lonely journey in search of some of the brightest stars of the 1950s. Schoemer's search started when, twenty years after her parents' divorce, the new Connie Francis box set appeared on her desk at Newsweek. Now a successful rock critic dispensing post-punk opinions to the hipoisie, she was about to toss aside this relic when she was struck by the cover image of Francis, which bore an uncanny resemblance to her own mother; on a whim, she played one of the CDs. For all their cloying, simplistic sentimentality, songs like \"Where the Boys Are\" had an undeniable power -- \"the sound of every teenage girl in every bedroom on every lonely Saturday going back a thousand years.\" It was the music of her parents' long-lost adolescence, and much to her surprise, it moved her. Thus Schoemer, arbiter of Gen X cool, found herself falling into the saccharine thrall of 1950s pop music, that pariah of the rock establishment. Even as her colleagues tried to steer her away from the terminally uncool genre, she tracked down seven former pop idols of the late 1950s and early 1960s: Connie Francis, Fabian, Pat Boone, Patti Page, Tommy Sands, Georgia Gibbs, and Frankie Laine. As she became privy to their inner lives and immersed herself in their music, Schoemer revised her own notions about the fifties at the same time that she explored her family's vexed dynamic. The result is a wonderful romp through an unappreciated chapter in music history and, more important, through her own past. Full of humor, insight, and unflinching honesty, Great Pretenders bucks the received wisdom, explores the intersections of our private lives and pop culture, and broadens our understanding of a crucial moment in our history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1416584536"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781416584537"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OSCfPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OSCfPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OSCfPwAACAAJ&dq=subject:music&hl=&cd=246&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OSCfPwAACAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Great_Pretenders.html?hl=&id=OSCfPwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OSCfPwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dEg8ngEACAAJ",
+   "etag": "CmzUceezQ/E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dEg8ngEACAAJ",
+   "volumeInfo": {
+    "title": "Alfred's Beginning Snare Drum Solos",
+    "authors": [
+     "Dave Black",
+     "Sandy Feldstein"
+    ],
+    "publisher": "Alfred Publishing Company",
+    "publishedDate": "1998-02-01",
+    "description": "Alfred's Beginning Snare Drum Solos features all of the solo material contained in Alfred's Drum Method, Book 1, in a clear, concise, convenient format. Perfect for juries, recitals or contests, this book is a welcome addition to the drum student's arsenal.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0739017713"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780739017715"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dEg8ngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dEg8ngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=dEg8ngEACAAJ&dq=subject:music&hl=&cd=247&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=dEg8ngEACAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Alfred_s_Beginning_Snare_Drum_Solos.html?hl=&id=dEg8ngEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dEg8ngEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JRH_PAAACAAJ",
+   "etag": "nG0IFP5hFAs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JRH_PAAACAAJ",
+   "volumeInfo": {
+    "title": "3 Doors Down",
+    "authors": [
+     "3 Doors Down"
+    ],
+    "publisher": "Hal Leonard Publishing Corporation",
+    "publishedDate": "2008-11-01",
+    "description": "(Piano/Vocal/Guitar Artist Songbook). Matching folio to their 2008 chart-topping gold record featuring \"Citizen/Soldier,\" \"Train\" and ten more great tunes: Give It to Me * It's Not My Time * It's the Only One You've Got * Let Me Be Myself * Pages * Runaway * She Don't Want the World * These Days * When It's Over * Your Arms Feel like Home.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1423463021"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781423463023"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 78,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JRH_PAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JRH_PAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=JRH_PAAACAAJ&dq=subject:music&hl=&cd=248&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=JRH_PAAACAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/3_Doors_Down.html?hl=&id=JRH_PAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JRH_PAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ax4KAQAAMAAJ",
+   "etag": "1o2jlgF4eYg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ax4KAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Music Research",
+    "subtitle": "A Handbook",
+    "authors": [
+     "Laurie J. Sampsel"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2009",
+    "description": "This text is designed to help music students become familiar with and use the many research tools available to them. The content is arranged by type of research tool (e.g., encyclopedias, periodical indexes, discographies) and includes a general statement about the uses of each tool and an annotated bibliography that points out their purpose, scope, strengths, and weaknesses. Covering both print and electronic resources, the text does not attempt to be exhaustive but rather guides students to the major research tools in music. A companion Web site maintained by the author helps keep the material up to date. Intended primarily for music bibliography classes taken by almost all students entering graduate music programs, the text is also a useful supplement for any undergraduate or graduate class in music that requires students to do library research or write a research paper.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195171195"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195171198"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 323,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ax4KAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ax4KAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Ax4KAQAAMAAJ&dq=subject:music&hl=&cd=249&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Ax4KAQAAMAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Music_Research.html?hl=&id=Ax4KAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ax4KAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M6IIAQAAMAAJ",
+   "etag": "akEx3M7/6Q8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M6IIAQAAMAAJ",
+   "volumeInfo": {
+    "title": "\"What'd I Say?\"",
+    "subtitle": "The Atlantic Story : 50 Years of Music",
+    "authors": [
+     "Ahmet M. Ertegun"
+    ],
+    "publisher": "Welcome Rain",
+    "publishedDate": "2001",
+    "description": "When Ertegun founded Atlantic Records in 1947 with $10,000 borrowed from his dentist, the 24-year-old native of Turkey was living in segregated America, which did not realize the beauty of its own cacophony. Spanning six decades, this coffee-table history goes a little deeper than most. Ertegun's anecdotes are intermingled with those of his business associates and recording artists. Atlantic's roster includes Ray Charles, Clyde McPhatter, the Drifters, Big Joe Turner, John Coltrane, Sarah Vaughan, Mabel Mercer, Bobby Darin, Wilson Pickett, Aretha Franklin, Sam and Dave, Dusty Springfield, Led Zeppelin, Tori Amos and so on. There are nine essays by some of the most respected music journalists. Each nicely crystallizes the label's enormous contributions to R&B, jazz, rock 'n' roll, pop and soul.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015054447324"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 565,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=M6IIAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=M6IIAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=M6IIAQAAMAAJ&dq=subject:music&hl=&cd=250&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=M6IIAQAAMAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/What_d_I_Say.html?hl=&id=M6IIAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=M6IIAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UqkOAQAAMAAJ",
+   "etag": "UG1Dt6OJUec",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UqkOAQAAMAAJ",
+   "volumeInfo": {
+    "title": "The Life and Works of Marcelo Adonay",
+    "authors": [
+     "Elena Rivera Mirano",
+     "Corazon Dioquino"
+    ],
+    "publisher": "University of the Phillipines Press",
+    "publishedDate": "2010-05-30",
+    "description": "Marcelo Adonay (1848-1928) was a major Philippine composer and church musician whose long and fruitful career stretched from the 1870s to the 1920s. As maestro de capilla of the San Agustin church in Intramuros, Manila, he presided over the musical establishment of the powerful Augustinian Order that required the performance of elaborate instrumental and choral works. The first of two volumes, this pioneering work includes five major essays on Adonay's life, his milieu, an inventory of his extant and missing works, and musical and formal analyses of his magnum opus, Pequena Misa Solemne sobre Motivos de la Missa Regia de Canto Gregoriano. The centerpiece of the book is a modern edition of eleven reconstructed scores of his sacred music for various orchestral, vocal, and choral combinations. It is hoped that this publication will bring about the resurgence of performance of Philippine music from the nineteenth century and usher in a new appreciation of the artistic richness of this period of Philippine national history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9715425720"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789715425728"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 482,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UqkOAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UqkOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=UqkOAQAAMAAJ&dq=subject:music&hl=&cd=251&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=UqkOAQAAMAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Life_and_Works_of_Marcelo_Adonay.html?hl=&id=UqkOAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UqkOAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RXlTrgEACAAJ",
+   "etag": "dCVt8+qHAeU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RXlTrgEACAAJ",
+   "volumeInfo": {
+    "title": "Recording Unhinged",
+    "subtitle": "Creative and Unconventional Music Recording Techniques",
+    "authors": [
+     "Sylvia Massy",
+     "Chris Johnson (Pastor)"
+    ],
+    "publisher": "Hal Leonard Books",
+    "publishedDate": "2016",
+    "description": "(Music Pro Guide Books & DVDs). Recording Unhinged: Creative and Unconventional Music Recording Techniques is a dare a challenge for those who think recording music should be done a certain way. Sylvia Massy, engineer, mixer, and producer of such all-time great artists as Tool, Prince, Tom Petty and the Heartbreakers, R.E.M., Oingo Boingo, Johnny Cash, Red Hot Chili Peppers, and many more, invites you to put everything you've ever known or learned about recording aside and dive head-long into the unknown. You might just find the doors blown off your conception of how great music should be recorded. If you want to take your creativity and freedom to a brand new level, open your mind and hear the sermons that Sylvia Massy preaches! She lives in a world far outside the norm, working in ways that, though frightening to some, yield results that are emotionally powerful, incredibly personal, gut-wrenching, organic, and even (based on her iconic client list) extremely commercially successful. Recording Unhinged contains many full-color R. Crumb-style illustrations by Massy, herself! In addition to being an A-list engineer/producer, she is a gifted artist! Her illustrations depict real and imaginary sessions and recording situations so the images move beyond literal demonstrations into the root-level heart and soul of her passion for recording and music! Also, included are lists, recipes, schematics, quotes, and stories, plus Massy interviews countless industry icons who shake-it-up in the music world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1495011275"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781495011276"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 244,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RXlTrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RXlTrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RXlTrgEACAAJ&dq=subject:music&hl=&cd=252&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RXlTrgEACAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Recording_Unhinged.html?hl=&id=RXlTrgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RXlTrgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jBYJAQAAMAAJ",
+   "etag": "u/egAalPBjY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jBYJAQAAMAAJ",
+   "volumeInfo": {
+    "title": "The Future of Music",
+    "subtitle": "Manifesto for the Digital Music Revolution",
+    "authors": [
+     "David Kusek",
+     "Gerd Leonhard"
+    ],
+    "publisher": "Berklee PressPublications",
+    "publishedDate": "2005-01-01",
+    "description": "Discusses the transition from a business model based on traditional music outlets to digitally- based music products and distribution channels and the impact of the change on the future of the music trade and on the consumer.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015057519103"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 193,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jBYJAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jBYJAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jBYJAQAAMAAJ&dq=subject:music&hl=&cd=253&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jBYJAQAAMAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Future_of_Music.html?hl=&id=jBYJAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jBYJAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "al0LAQAAIAAJ",
+   "etag": "57pXhsYy3Gc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/al0LAQAAIAAJ",
+   "volumeInfo": {
+    "title": "El Corrido mexicano",
+    "subtitle": "",
+    "authors": [
+     "Vicente T. Mendoza"
+    ],
+    "publisher": "Fondo De Cultura Economica USA",
+    "publishedDate": "1954",
+    "description": "Preparado por una de las maximas autoridades en asuntos de folclor, este libro excepcional ofrece la mas amplia recopilacion de letras y tonadas sobre todos los temas imaginables en materia de corridos populares, anonimos y firmados.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105035569453"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 467,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=al0LAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=al0LAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=al0LAQAAIAAJ&dq=subject:music&hl=&cd=254&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=al0LAQAAIAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/El_Corrido_mexicano.html?hl=&id=al0LAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=al0LAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qRQJAQAAMAAJ",
+   "etag": "nXHPi1JsMCA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qRQJAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Don't deny my name",
+    "subtitle": "words and music and the black intellectual tradition",
+    "authors": [
+     "Lorenzo Thomas",
+     "Aldon Lynn Nielsen"
+    ],
+    "publisher": "Univ of Michigan Pr",
+    "publishedDate": "2008",
+    "description": "Contains essays which explore the interrelationships among African American music, literature, and popular culture. This book first lays out the case for the blues as constituting a body of literature, and then offers a tour of the movement through classic jazz, bop, and the explosions of the free jazz era, followed by a section on R&B and Soul.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "047206892X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780472068920"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qRQJAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qRQJAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=qRQJAQAAMAAJ&dq=subject:music&hl=&cd=255&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=qRQJAQAAMAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Don_t_deny_my_name.html?hl=&id=qRQJAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qRQJAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7zfzC1dveJUC",
+   "etag": "stpLZQfz93g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7zfzC1dveJUC",
+   "volumeInfo": {
+    "title": "The History of Jazz",
+    "authors": [
+     "Ted Gioia"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1998",
+    "description": "A panoramic history of the genre brings to life the diverse places in which jazz evolved, traces the origins of its various styles, and offers commentary on the music itself",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195126532"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "019512653X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 471,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7zfzC1dveJUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7zfzC1dveJUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7zfzC1dveJUC&dq=subject:music&hl=&cd=256&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=7zfzC1dveJUC&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_History_of_Jazz.html?hl=&id=7zfzC1dveJUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7zfzC1dveJUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B_4axHsACB4C",
+   "etag": "7ePtya09GFM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B_4axHsACB4C",
+   "volumeInfo": {
+    "title": "Breve historia de la música",
+    "authors": [
+     "Javier María López Rodríguez"
+    ],
+    "publisher": "Ediciones Nowtilus S.L.",
+    "publishedDate": "2011-09-01",
+    "description": "Conozca la apasionante historia de los estilos musicales de cada período, desde la prehistoria, el renacimiento, barroco, clásico hasta el rock y el jazz en el siglo XX. Una visión moderna, rigurosa y sintética de los principales hitos de la historia de la música y sus protagonistas. Conozca cómo se ha desarrollado la música en nuestra cultura acercándose a los estilos de cada período, conociendo sus principales características, y entendiendo su problemática desde el punto de vista de su evolución y de su sentido en cada momento. Aproxímese a un patrimonio que se halla presente y vivo en nuestro entorno. Permítanos que le llevemos de viaje por las diferentes maneras de entender la producción de la música a través del tiempo, desde el mundo antiguo y medieval hasta nuestros días, conociendo los principales hitos",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788499672335"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8499672337"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=B_4axHsACB4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=B_4axHsACB4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=B_4axHsACB4C&dq=subject:music&hl=&cd=257&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=B_4axHsACB4C&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Breve_historia_de_la_m%C3%BAsica.html?hl=&id=B_4axHsACB4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=B_4axHsACB4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZykhAAAAMAAJ",
+   "etag": "aMxRIOoY2FI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZykhAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The technique of orchestration",
+    "authors": [
+     "Kent Wheeler Kennan",
+     "Donald Grantham"
+    ],
+    "publisher": "Prentice Hall",
+    "publishedDate": "1990",
+    "description": "The emphasis is on the practical fundamentals of orchestration. The Sixth Edition has been expanded and revised to reflect new developments in instruments and orchestral practice, and a new listening compact disc has been added that contains selected examples of orchestration. A listening compact disc features selected samples intended for use in conjunction with the book. New musical examples and listings, and an updated bibliography which includes many recent publications. A short chapter on scoring for high school orchestras, and information on nonorchestral instrumental groups, including the band and the wind ensemble.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0139003665"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780139003660"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 401,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZykhAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZykhAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZykhAAAAMAAJ&dq=subject:music&hl=&cd=258&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ZykhAAAAMAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_technique_of_orchestration.html?hl=&id=ZykhAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZykhAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G0lcEQexeEMC",
+   "etag": "mNGS+B+BToc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G0lcEQexeEMC",
+   "volumeInfo": {
+    "title": "Life",
+    "authors": [
+     "Keith Richards"
+    ],
+    "publisher": "Hachette UK",
+    "publishedDate": "2010-10-26",
+    "description": "Once-in-a-generation memoir of a rock legend - the No. 1 SUNDAY TIMES bestseller. With the Rolling Stones, Keith Richards created the riffs, the lyrics and the songs that roused the world, and over four decades he lived the original rock and roll life: taking the chances he wanted, speaking his mind, and making it all work in a way that no one before him had ever done. Now, at last, the man himself tells us the story of life in the crossfire hurricane. And what a life. Listening obsessively to Chuck Berry and Muddy Waters records as a child in post-war Kent. Learning guitar and forming a band with Mick Jagger and Brian Jones. The Rolling Stones' first fame and success as a bad-boy band. The notorious Redlands drug bust and subsequent series of confrontations with a nervous establishment that led to his enduring image as outlaw and folk hero. Creating immortal riffs such as the ones in 'Jumping Jack Flash' and 'Street Fighting Man' and 'Honky Tonk Women'. Falling in love with Anita Pallenberg and the death of Brian Jones. Tax exile in France, wildfire tours of the US, 'Exile on Main Street' and 'Some Girls'. Ever increasing fame, isolation and addiction. Falling in love with Patti Hansen. Estrangement from Mick Jagger and subsequent reconciliation. Solo albums and performances with his band the Xpensive Winos. Marriage, family and the road that goes on for ever. In a voice that is uniquely and intimately his own, with the disarming honesty that has always been his trademark, Keith Richards brings us the essential life story of our times.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780297858621"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0297858629"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 608,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3626,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.15.12.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G0lcEQexeEMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G0lcEQexeEMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=G0lcEQexeEMC&dq=subject:music&hl=&cd=259&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=G0lcEQexeEMC&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Life.html?hl=&id=G0lcEQexeEMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G0lcEQexeEMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ckdvXIhRFVMC",
+   "etag": "+1hoKy1OsnA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ckdvXIhRFVMC",
+   "volumeInfo": {
+    "title": "An Incomplete Education",
+    "authors": [
+     "Judy Jones",
+     "William Wilson"
+    ],
+    "publisher": "Random House Digital, Inc.",
+    "publishedDate": "1995",
+    "description": "A survey of western culture covers American studies, art history, economics, film, literature, music, philosophy, political science, psychology, religion, science and history",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0345391373"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345391377"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 683,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ckdvXIhRFVMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ckdvXIhRFVMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ckdvXIhRFVMC&dq=subject:music&hl=&cd=260&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ckdvXIhRFVMC&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/An_Incomplete_Education.html?hl=&id=ckdvXIhRFVMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ckdvXIhRFVMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7SIJAQAAMAAJ",
+   "etag": "R7pLACbQvvE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7SIJAQAAMAAJ",
+   "volumeInfo": {
+    "title": "A History of Bel Canto",
+    "authors": [
+     "Rodolfo Celletti"
+    ],
+    "publisher": "Oxford University Press on Demand",
+    "publishedDate": "1996",
+    "description": "Bel canto singing was a historical phenomenon which embraced Italian opera of the eighteenth and nineteenth centuries. It required infinite variety of sound, in particular a lyrical ecstacy, a faultless technique to dispatch the vocal pyrotechnics demanded of it, and earned itself eloquent praise as `the singing which is heard within the soul'. Rodolfo Celletti, who has devoted his whole career to studying the voice from every historical, technical, and musical aspect, offers here a fascinating history of bel canto singing and the voice in operatic literature. He begins by discussing the links of bel canto with the operatic ideals of the baroque, and points out that the style was created as much by operatic composers and their librettists as by their executants, the singers. To this end he undertakes a review of Italian opera of the period, andtraces the development of the style in different composers and their works. There is a chapetr on Castrati - the voice par excellence of bel canto - and the art of singing in their day. The final chapter looks at the history of bel canto since Rossini, charting its death and resurrection.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015054354595"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 218,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.13.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7SIJAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7SIJAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7SIJAQAAMAAJ&dq=subject:music&hl=&cd=261&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=7SIJAQAAMAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_History_of_Bel_Canto.html?hl=&id=7SIJAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7SIJAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5pImAQAAIAAJ",
+   "etag": "QcU8daYeTfg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5pImAQAAIAAJ",
+   "volumeInfo": {
+    "title": "The Gospel According to the Beatles",
+    "authors": [
+     "Steve Turner"
+    ],
+    "publisher": "Westminster John Knox Press",
+    "publishedDate": "2006",
+    "description": "The spiritual journey of the Beatles from fun-loving agnostics to drug-inspired mystics.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105114407054"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 254,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5pImAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5pImAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5pImAQAAIAAJ&dq=subject:music&hl=&cd=262&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5pImAQAAIAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Gospel_According_to_the_Beatles.html?hl=&id=5pImAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5pImAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "svpcAAAAMAAJ",
+   "etag": "4XC+npzmu2A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/svpcAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Rimbaud and Jim Morrison",
+    "subtitle": "the rebel as poet",
+    "authors": [
+     "Wallace Fowlie"
+    ],
+    "publisher": "Duke Univ Pr",
+    "publishedDate": "1993",
+    "description": "\"I have little doubt Jim Morrison would be both flattered by and proud of Wallace Fowlie's analytic literary analysis of his poetry and lyrics. It was a 19-year-old Jim Morrison who wrote Mr. Fowlie to thank him for translating his hero Arthur Rimbaud into English from French and it would be a grateful Jim Morrison who would thank Wallace Fowlie today for tracing and linking his work with such a distinguished poetic heritage.\"--Danny Sugerman, author of \"Wonderland Avenue\" and co-author of \"No One Here Gets Out Alive.\"",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015032498977"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 131,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=svpcAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=svpcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=svpcAAAAMAAJ&dq=subject:music&hl=&cd=263&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=svpcAAAAMAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Rimbaud_and_Jim_Morrison.html?hl=&id=svpcAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=svpcAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eZF4wwEACAAJ",
+   "etag": "huvzmymzUCw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eZF4wwEACAAJ",
+   "volumeInfo": {
+    "title": "The Beatles from A to Zed",
+    "subtitle": "An Alphabetical Mystery Tour",
+    "authors": [
+     "Peter Asher"
+    ],
+    "publisher": "Henry Holt and Company",
+    "publishedDate": "2019-11-12",
+    "description": "A legendary record producer and performer takes readers on an alphabetical journey of insights into the music of the Beatles and individual reminiscences of John, Paul, George, and Ringo. Peter Asher met the Beatles in the spring of 1963, the start of a lifelong association with the band and its members. He had a front-row seat as they elevated pop music into an art form, and he was present at the creation of some of the most iconic music of our times. But Asher was also a talented musician in his own right, with a great ear for what was new and fresh. Once, when Paul McCartney wrote a song that John Lennon didn’t think was right for the Beatles, Asher asked if he could record it. “A World Without Love” became a global number-one hit for his duo, Peter and Gordon. A few years later Asher was asked by Paul McCartney to help start Apple Records and the first artist Asher discovered and signed up was a young American singer-songwriter named James Taylor. Before long he would be not only managing and producing Taylor but also (having left Apple and moved to Los Angeles) working with Linda Ronstadt, Neil Diamond, Robin Williams, Joni Mitchell and Cher, among others. In The Beatles from A to Zed, based upon twenty-six episodes of his current and highly popular radio show “From Me to You” on the Beatles Channel of SiriusXM, Peter Asher shares his memories and insights about the Fab Four, weaving his reflections into a whimsical alphabetical journey that focuses not only on songs whose titles start with each letter, but also on recurrent themes in the Beatles’ music, the instruments they played, the innovations they pioneered, the artists who influenced them, the key people in their lives, and the cultural events of the time.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1250209595"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781250209597"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eZF4wwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eZF4wwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=eZF4wwEACAAJ&dq=subject:music&hl=&cd=264&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=eZF4wwEACAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Beatles_from_A_to_Zed.html?hl=&id=eZF4wwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eZF4wwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QzyDDwAAQBAJ",
+   "etag": "BjbT6GJedQw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QzyDDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Hard to Handle",
+    "subtitle": "The Life and Death of the Black Crowes--A Memoir",
+    "authors": [
+     "Steve Gorman"
+    ],
+    "publisher": "Hachette UK",
+    "publishedDate": "2019-09-24",
+    "description": "An insider biography of the Black Crowes by drummer and cofounder Steve Gorman For over two decades, The Black Crowes topped the charts and reigned supreme over the radio waves, even as hair bands, grunge, and hip-hop threatened to dethrone them. With hits like \"Hard to Handle,\" \"She Talks to Angels,\" and \"Remedy,\" their massive success launched them to stardom in the early '90s, earning them a place among rock royalty. They were on the cover of Rolling Stone, MTV played their videos 24/7, and Generation X re-discovered the power of classic rock and blues by digging into multi-platinum classics like Shake Your Money Maker and The Southern Harmony and Musical Companion. But stardom can be fleeting. For the Black Crowes, success slowly dwindled as the band members got caught up in the rock star world and lost sight of their musical ambition. Despite the drinking, drugs, and incessant fighting between Chris and Rich Robinson--the angriest brothers in rock and roll, with all due respect to Oasis and the Kinks--the band continued to tour until 2013. On any given night, they could be the best band you ever saw. (Or the most combative.) Then, one last rift caused by Chris Robinson proved insurmountable for the band to survive. After that, the Black Crowes would fly no more. Founding member Steve Gorman was there for all of it--the coke and weed-fueled tours; the tumultuous recording sessions; the backstage hangs with legends like Robert Plant, Jimmy Page, and the Rolling Stones. As the band's drummer and voice of reason, he tried to keep the Black Crowes together musically--and in one piece emotionally. In his first-person history of the Black Crowes, Hard To Handle--the first ever account of this great American rock band's beginning, middle, and end--Gorman makes it clear just how impossible that job was. Fortunately, Gorman tells the tale with great insight, candor, and humor. They don't make bands like the Black Crowes anymore: crazy, brilliant, self-destructive, inspiring, and, ultimately, not built to last. But, man, what a ride it was while it lasted.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306922015"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0306922010"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QzyDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QzyDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=QzyDDwAAQBAJ&dq=subject:music&hl=&cd=265&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=QzyDDwAAQBAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hard_to_Handle.html?hl=&id=QzyDDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QzyDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Gm4JAQAAMAAJ",
+   "etag": "axcNljFP64g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Gm4JAQAAMAAJ",
+   "volumeInfo": {
+    "title": "A Practical Approach to Eighteenth-century Counterpoint",
+    "authors": [
+     "Robert Gauldin"
+    ],
+    "publisher": "Waveland PressInc",
+    "publishedDate": "1995",
+    "description": "Practical work in writing counterpoint! This volume emphasizes developing analytical and writing skills in the contrapuntal technique of the eighteenth century. The orientation is strongly stylistic, dealing mainly with the polyphony of the late Baroque period. Three aspects are stressed throughout: practical work in writing counterpoint, utilizing various textures, devices, and genre of the period; historical background, to establish the origins of different forms and justify the pedagogical method employed here; analysis of selections from music literature, often in voice-leading reductions. After an opening chapter that reviews some general features of the late Baroque period, there is a brief survey of melodic characteristics, and a study of procedures associated with two, three, and four voices.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0881338532"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780881338539"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 335,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Gm4JAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Gm4JAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Gm4JAQAAMAAJ&dq=subject:music&hl=&cd=266&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Gm4JAQAAMAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Practical_Approach_to_Eighteenth_centu.html?hl=&id=Gm4JAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Gm4JAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yI5cDwAAQBAJ",
+   "etag": "xDMEm4rMjRo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yI5cDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Careless Love",
+    "subtitle": "The Unmaking of Elvis Presley",
+    "authors": [
+     "Peter Guralnick"
+    ],
+    "publisher": "Hachette UK",
+    "publishedDate": "2012-12-20",
+    "description": "Careless Love is the full, true, and mesmerizing story of Elvis Presley's last two decades, in the long-awaited second volume of Peter Guralnick's masterful two-part biography. Last Train to Memphis, the first part of Guralnick's two-volume life of Elvis Presley, was acclaimed by the New York Times as \"a triumph of biographical art.\" This concluding volume recounts the second half of Elvis' life in rich and previously unimagined detail, and confirms Guralnick's status as one of the great biographers of our time. Beginning with Presley's army service in Germany in 1958 and ending with his death in Memphis in 1977, Careless Love chronicles the unravelling of the dream that once shone so brightly, homing in on the complex playing-out of Elvis' relationship with his Machiavellian manager, Colonel Tom Parker. It's a breathtaking revelatory drama that for the first time places the events of a too-often mistold tale in a fresh, believable, and understandable context. Elvis' changes during these years form a tragic mystery that Careless Love unlocks for the first time. This is the quintessential American story, encompassing elements of race, class, wealth, sex, music, religion, and personal transformation. Written with grace, sensitivity, and passion, Careless Love is a unique contribution to our understanding of American popular culture and the nature of success, giving us true insight at last into one of the most misunderstood public figures of our times.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780316206723"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0316206725"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 768,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yI5cDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yI5cDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=yI5cDwAAQBAJ&dq=subject:music&hl=&cd=267&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=yI5cDwAAQBAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Careless_Love.html?hl=&id=yI5cDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yI5cDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "htx5WmJMW9IC",
+   "etag": "KK35nSxNl1Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/htx5WmJMW9IC",
+   "volumeInfo": {
+    "title": "Wee Sing for Christmas",
+    "authors": [
+     "Pamela Conn Beall",
+     "Susan Hagen Nipp"
+    ],
+    "publishedDate": "1984",
+    "description": "1. Here We Come A-Caroling 2. Deck The Halls 3. We Wish You A Merry Christmas 4. O Christmas Tree 5. The First Noel 6. Joy To The World 7. We Three Kings 8. O Come, All Ye Faithful 9. O Little Town Of Bethlehem 10. Away In A Manger 11. Silent Night 12. Birthday Of a King 13. Fum, Fum, Fum 14. 'Twas In The Moon Of Wintertime 15. Angel Band 16. Five Little Candles 17. March Of The Kings 18. Three Great Kings 19. Wind Through The Olive Trees 20. Joseph Dearest, Joseph Mine 21. Born This Night 22. The Little Drummer Boy 23. Where Is The Baby? 24. Children, Go Where I Send Thee 25. What Child Is This? 26. Bells Are Ringing 27. O Come Little Children 28. Pat-A-Pan 29. Still, Still, Still 30. Coventry Carol 31. Go Tell It On The Mountain 32. The Friendly Beasts 33. Rocking 34. Here Comes Santa Claus 35. The Chimney 36. Up On The Housetop 37. When Santa Claus Comes 38. Christmas Is Coming 39. Merrily Caroling 40. Ring, Ring, Ring The Bells 41. Little Bells Of Christmas 42. Santa Claus Is Coming 43. Christmas Bells 44. Hear The Jingle Bells 45. Five Little Bells 46. Chubby Little Snowman 47. Three Little Christmas Trees 48. Christmas Day 49. Must Be Santa Claus 50. We Wish You A Merry Christmas 51. Alfie The Elf 52. Ring Those Bells 53. Reindeer Are Tapping 54. Jolly Old St. Nicholas 55. Down Through The Chimney",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0843138084"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780843138085"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=htx5WmJMW9IC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=htx5WmJMW9IC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=htx5WmJMW9IC&dq=subject:music&hl=&cd=268&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=htx5WmJMW9IC&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Wee_Sing_for_Christmas.html?hl=&id=htx5WmJMW9IC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=htx5WmJMW9IC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XkiEP8JeIz8C",
+   "etag": "eJOMrIcZajY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XkiEP8JeIz8C",
+   "volumeInfo": {
+    "title": "Heavier Than Heaven",
+    "subtitle": "The Biography of Kurt Cobain",
+    "authors": [
+     "Charles R. Cross"
+    ],
+    "publisher": "Hachette UK",
+    "publishedDate": "2012-11-22",
+    "description": "Alongside the death of Elvis Presley and the assassination of John Lennon, Kurt Cobain's suicide in 1994 ranks as one of the generational milestones of American life - an epochal event in both rock 'n' roll and youth culture. This book is the story of Kurt Cobain's life, from abject poverty to unbelievable wealth, power and fame. It traces the journey from his humble origins in Aberdeen to becoming lead singer of Nirvana, the most popular rock band in the world from 1991 to 1994, and the most influential band of this decade. The beautifully written text is complimented by 16 pages of photographs. Based on over one hundred interviews, Charles Cross allows us to understand Kurt Cobain's personality. This is an incredible tale of a strange, tortured and very talented man.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781444717129"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "144471712X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 397,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 13,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XkiEP8JeIz8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XkiEP8JeIz8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XkiEP8JeIz8C&dq=subject:music&hl=&cd=269&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XkiEP8JeIz8C&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Heavier_Than_Heaven.html?hl=&id=XkiEP8JeIz8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XkiEP8JeIz8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9XwYAQAAIAAJ",
+   "etag": "y422YIuUU08",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9XwYAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Elements of Music",
+    "authors": [
+     "Joseph Nathan Straus"
+    ],
+    "publisher": "Prentice Hall",
+    "publishedDate": "2008",
+    "description": "This music fundamentals textbook is for both aspiring music majors and non-majors. Based on an anthology of works from music literature, it features clear, concise explanations, extensive written exercises, and a variety of suggested in-class activities. It emphasizes process of making music–emphasizing, at every stage, that music is to be heard and made–not merely seen and learned in the abstract. All of the key topics are covered: music notation; rhythm; scales; intervals; triads; basic harmonic progressions. The second edition of the Elements of Music has excellent supplements, which can be purchased individually they include an audio CD that contains all of the works in the anthology, and Finale files on CD include all the significant exercises from the text. 0131584197 9780131584198 CD of Audio Examples for Elements of Music, 2/e - CD-ROM Only 0136155073 9780136155072 Finale Files for Elements of Music, 1/e - CD-ROM Only",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0131584154"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780131584150"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 466,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9XwYAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9XwYAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9XwYAQAAIAAJ&dq=subject:music&hl=&cd=270&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9XwYAQAAIAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Elements_of_Music.html?hl=&id=9XwYAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9XwYAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UH_EOUR4tmkC",
+   "etag": "pOa+t69xKwg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UH_EOUR4tmkC",
+   "volumeInfo": {
+    "title": "1001 Songs",
+    "subtitle": "You Must Hear Before You Die",
+    "authors": [
+     "Robert Dimery"
+    ],
+    "publisher": "Hachette UK",
+    "publishedDate": "2011-12-05",
+    "description": "What links Lead Belly, Lonnie Donegan and Black Betty? Whose gravestone inspired Phil Spector's first hit? And for which song did Johnny Rotten replace the singer from Def Leppard? The rich history of popular music is built on a foundation of classic songs. From Tin Pan Alley to the Brill Building, Bob Dylan to Kurt Cobain, and Joni Mitchell to Amy Winehouse, gifted songwriters have crafted a cherished body of music that has become part of our lives. Imagine the Fifties without the magical clamor of \"Tutti Frutti\" and \"Hound Dog\" the Seventies without the anthemic \"Le Freak\" and \"Anarchy in the UK\" or the Noughties without the Leftfield pop of \"Toxic\" or \"Crazy\". This music mirrors the times, both reflecting society at large (\"A Change is Gonna Come\", \"The Message\") and mapping our own personal highs (\"God Only Knows\") or lows (\"Hurt\"). And from 'Saturday Night Fish Fry' to Saturday Night Fever, it has helped us simply forget our problems. 1001 Songs You Must Hear Before You Diepicks through nearly a century of music to bring you an inspiring selection of some of the greatest recordings ever made. Each entry in this wonderfully browsable book tells the story of a great song. Find out what inspired the songwriter, what makes the track so enduring, which songs it influenced in turn and which cover version to listen out for. You'll also pick up a wealth of fascinating trivia along the way.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781844037179"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1844037177"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 960,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UH_EOUR4tmkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UH_EOUR4tmkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=UH_EOUR4tmkC&dq=subject:music&hl=&cd=271&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=UH_EOUR4tmkC&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/1001_Songs.html?hl=&id=UH_EOUR4tmkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UH_EOUR4tmkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kW8iAQAAQBAJ",
+   "etag": "fR3yu8r/jZo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kW8iAQAAQBAJ",
+   "volumeInfo": {
+    "title": "Roses & Thorns",
+    "authors": [
+     "Bret Michaels"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2016-12-01",
+    "description": "Bret Michaels, lead vocalist of glam metal band Poison and star of VH1's hit reality show Rock of Love with Bret Michaels, is ready to write a provoking autobiographical account of his life similar in nature to Motley Crue's The Dirt. Bret Michaels is, if nothing else, a true survivor. He has survived a lifelong battle as an insulin dependent diabetic, a well publicized near fatal car crash in 1994 and the countless musical trends and fads of the last two decades. \"As soon as I ever start to just go through the motions I'll quit,\" confessed the 44 year old singer, songwriter, producer, director and actor in a recent interview. But there's little chance he'll even slow down let alone quit anytime soon. In fact, after more than 20 years in the business this award winning, multi platinum superstar's career continues to move at warp speed. As front man for the legendary rock band Poison, Michaels has sold 25 million records and scored an amazing 15 chartbusting Top 40 singles including the timeless #1 smash \"Every Rose Has its Thorn.\" More recently, on VH1's Rock of Love, twenty lucky ladies got their chance for an All-Access pass to Bret Michaels' heart and to share in all his superstar lifestyle. With 5.4 million viewers, it is the second most popular show on VH1 and has already been renewed for a second season. Roses & Thorns will cover all of Bret's rockstardom, including... The band: From the Pennsylvania creation of \"the ultimate garage band\" through MTV's banning of their explicit videos to their 2007 sold-out summer tour. The partying: Because he's diabetic, Bret never really did the dope and booze partying like the others, but he was at the center of this movement full of excess, and definitely has stories to tell. The fights: The conflict with C. C. Deville that culminated in a fistfight backstage at the 1991 MTV Video Music Awards, and the firing of Deville. The conflict with Bobby Dall that culminated at a show in Atlanta where Bret announced to the audience, \"You may have just seen the last concert by Poison in its current formation.\" The accident: Recording of Poison's sixth album was brought to a halt in May 1994 when Michaels was involved in a car accident where he suffered a broken nose, ribs, jaw, and fingers and lost four teeth. The sex tape: Michaels had a short but notorious relationship with Pamela Anderson. An explicit sex tape the couple made appeared on the internet was released as a DVD in 2005. The rebirth of a rockstar: Bret's solo career as a country artist, his stint as a judge on CMT's Nashville Star, making an appearance in Guitar Hero III, and his journey to find the woman who can rock his love life via VH1's Rock of Love with Bret Michaels and Rock of Love 2 with Bret Michaels which is currently airing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1416968547"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781416968542"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kW8iAQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kW8iAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=kW8iAQAAQBAJ&dq=subject:music&hl=&cd=272&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=kW8iAQAAQBAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Roses_Thorns.html?hl=&id=kW8iAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kW8iAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YdSZtwEACAAJ",
+   "etag": "JNCR82jFQuk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YdSZtwEACAAJ",
+   "volumeInfo": {
+    "title": "FL Studio Beginner's Guide",
+    "subtitle": "How to Start Making Music in FL Studio - the Ultimate Shortcut",
+    "authors": [
+     "Screech House"
+    ],
+    "publishedDate": "2018-05-24",
+    "description": "SAVE TIME, LESS EFFORT, FAST RESULTS CHEAT YOUR WAY THROUGH FL STUDIO: LEARN A LITTLE BUT UNDERSTAND A LOT ANY OF THIS SOUND FAMILIAR? \"There are so many options, I just don't know where to start.\" \"I just bought FL Studio, but I have no idea what I'm doing.\" \"I love the idea of making my own songs, but this is way harder than I thought.\" \"Making music doesn't seem to be for me. I don't have a technical background.\" \"I'm working with FL Studio for more than 3 months now, but my songs still suck.\" \"FL Studio is so overwhelming, I wish I had more time.\" Yes, learning how to use FL Studio effectively can be a real pain in the butt, especially as a beginner. You just don't have the right skills, because you simply don't understand the essential FL Studio basics. Until now... INTRODUCING: THE ULTIMATE BEGINNER'S SHORTCUT TO MAKING MUSIC IN FL STUDIO Make music fast by discovering the essential FL Studio basics. Only learn 10% but get 90% of the results. Get an organized FL Studio mental map for the rest of your life. WHAT YOU WILL LEARN IN THE FL STUDIO BEGINNER'S GUIDE Get an ultimate overview, so you can see the bigger workings of FL Studio. Find out WHAT to do and HOW to do it, but also WHY to do it. Shortcut your learning curve tremendously by only using the easy basics. Gain the skills and knowledge required to make music in FL Studio as fast as possible. YOU WON'T FIND THIS GUIDE ANYWHERE ELSE For only the price of a doughnut, you can take the ultimate FL Studio shortcut and start making your own music today. If that sounds good, then let's boost your FL Studio skills immediately. Just click the BUY NOW button, and be quick, because this is a special offer and it can be gone tomorrow. When it does, the price will go up. ALSO GET A FREE SAMPLE PACK As a token of appreciation, all the work of Screech House comes with a FREE high-quality sample pack. This way you can start making music instantly. A download link will be provided inside the book. WHY THIS GUIDE CAN HELP YOU The writer of this book has more than a decade of FL Studio experience and making professional EDM songs. Because of this strong experience and natural talents, the author has the gift to present exactly the right information to the right audience. If you want to get as taste of my work first, feel free to visit the Screech House website or YouTube channel. Direct links are provided in the preface section of this book. ARE YOU READY? Are you ready to make some awesome music in FL Studio? Then let's start right now and we will meet on the inside of this book! - Cep (Music producer, author & creator of Screech House) FL STUDIO BEGINNER'S GUIDE How to Start Making Music in FL Studio By Cep from Screech House",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1719567042"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781719567046"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 120,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YdSZtwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YdSZtwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YdSZtwEACAAJ&dq=subject:music&hl=&cd=273&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YdSZtwEACAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/FL_Studio_Beginner_s_Guide.html?hl=&id=YdSZtwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YdSZtwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Zf9dxgEACAAJ",
+   "etag": "3Yfc9uDjZ0U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Zf9dxgEACAAJ",
+   "volumeInfo": {
+    "title": "Take It Off",
+    "subtitle": "KISS Truly Unmasked",
+    "authors": [
+     "Greg Prato",
+     "Chris Jericho",
+     "Andreas Carlsson"
+    ],
+    "publisher": "Jawbone Press",
+    "publishedDate": "2019-11-19",
+    "description": "There is a common misconception about KISS, one of the greatest hard-rock/heavy metal-bands of all-time: that their ‘non-makeup’ era of 1983-1996 is not as enduring as the period when they stalked stages as the Starchild, the Demon, the Spaceman, and the Cat. This is untrue. In fact, this period helped resuscitate KISS’s career, as they reestablished themselves in arenas, on the charts, and via MTV, and yielded some of their most popular songs – including Lick It Up, Heaven’s On Fire, Tears Are Falling, Crazy Crazy Nights, Hide Your Heart, Forever, Unholy, and more – many of which consistently found their way into the band’s set lists. While the majority of KISS books are focused on the glitz and glamour of the iconic makeup era, the non-makeup years are ripe to be explored in book form, and Take It Off does just that, zeroing in on the eleven albums KISS issued during this period – including such gold- and platinum-certified hits as Lick It Up, Animalize, Revenge, and Alive III – as well the resulting tours, videos, and other escapades. Take It Off draws on all-new interviews with KISS experts and associates, including the band’s lead guitarist throughout most of this period, Bruce Kulick, plus Crazy Nights producer Ron Nevison and video director Paul Rachman (Unholy/I Just Wanna/Domino). Among the other contributors are Charlie Benante (Anthrax), K.K. Downing (ex-Judas Priest), Derek Sherinan (ex-Dream Theater), and rock music experts Eddie Trunk, Katherine Turman, and Lonn Friend. The book also includes a foreword by Fozzy frontman Chris Jericho and an afterword by acclaimed producer Andreas Carlsson, as well as rare photographs and memorabilia from the period. With KISS currently in the midst of their last ever tour, now is the time to get Truly Unmasked.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1911036572"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781911036579"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Zf9dxgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Zf9dxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Zf9dxgEACAAJ&dq=subject:music&hl=&cd=274&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Zf9dxgEACAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Take_It_Off.html?hl=&id=Zf9dxgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Zf9dxgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zBwFHNeUF3UC",
+   "etag": "9GTit7bsvlA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zBwFHNeUF3UC",
+   "volumeInfo": {
+    "title": "Funk",
+    "subtitle": "The Music, The People, and The Rhythm of The One",
+    "authors": [
+     "Rickey Vincent"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "1996-04-15",
+    "description": "The Music, the People, and the Rhythm of The One Introduction by George Clinton",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312134991"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312134990"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 375,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zBwFHNeUF3UC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zBwFHNeUF3UC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zBwFHNeUF3UC&dq=subject:music&hl=&cd=275&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=zBwFHNeUF3UC&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Funk.html?hl=&id=zBwFHNeUF3UC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zBwFHNeUF3UC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F7UlAQAAIAAJ",
+   "etag": "pFg4VAphlrg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F7UlAQAAIAAJ",
+   "volumeInfo": {
+    "title": "A philosophy of music education",
+    "subtitle": "advancing the vision",
+    "authors": [
+     "Bennett Reimer"
+    ],
+    "publisher": "Pearson College Div",
+    "publishedDate": "2003",
+    "description": "This book advances the philosophy of its previous editions into new territory, recasting it in light of emerging ideas and interests in philosophy in general and in philosophy of music in particular. The foundational concept of this book—that the values of music are gained through direct experiences with its meaningful sounds—remains intact, but is explained and applied in broader, more inclusive scope, with a synergistic philosophical stance as the basis. In addition it clarifies and updates for readers the explanations of musical feeling, musical creativity, and musical meaning that are at its core. For music educators, music lovers, or anyone who wants a synergistic philosophy of music education inclusive of a variety of positions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0130993387"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780130993380"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 307,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=F7UlAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=F7UlAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=F7UlAQAAIAAJ&dq=subject:music&hl=&cd=276&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=F7UlAQAAIAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_philosophy_of_music_education.html?hl=&id=F7UlAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=F7UlAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DJAMxwEACAAJ",
+   "etag": "IYviVVZaPlY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DJAMxwEACAAJ",
+   "volumeInfo": {
+    "title": "The ABCs of Metallica",
+    "authors": [
+     "Metallica",
+     "Howie Abrams"
+    ],
+    "publisher": "Permuted Press",
+    "publishedDate": "2019-11-26",
+    "description": "An alphabetical history of one of rock’s heaviest bands…Metallica! Featuring hard-rocking rhymes and bold illustrations, The ABCs of Metallica looks back at the remarkable history of one of rock ‘n’ roll’s most celebrated groups. Each letter of the alphabet highlights a significant moment along the band’s journey, from their humble Garage Days, to their numerous classic albums such as ...And Justice for All and Master of Puppets, to biographical information on the band members themselves. The book is sure to entertain young readers as well as diehard fans of all ages. A portion of the proceeds will benefit Metallica’s All Within My Hands Foundation, which is dedicated to creating sustainable communities by supporting workforce education, the fight against hunger, and other critical local services.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1682618994"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781682618998"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DJAMxwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DJAMxwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DJAMxwEACAAJ&dq=subject:music&hl=&cd=277&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DJAMxwEACAAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_ABCs_of_Metallica.html?hl=&id=DJAMxwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DJAMxwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "So4hDQAAQBAJ",
+   "etag": "y0xF7+RC0qE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/So4hDQAAQBAJ",
+   "volumeInfo": {
+    "title": "The Most Beautiful",
+    "subtitle": "My Life With Prince",
+    "authors": [
+     "Mayte Garcia"
+    ],
+    "publisher": "Hachette UK",
+    "publishedDate": "2017-04-06",
+    "description": "In The Most Beautiful, a title inspired by the hit song Prince wrote about their legendary love story, Mayte Garcia for the first time shares the deeply personal story of their relationship and offers a singular perspective on the music icon and their world together: from their unconventional meeting backstage at a concert (and the long-distance romance that followed), to their fairy-tale wedding (and their groundbreaking artistic partnership), to the devastating losses that ultimately dissolved their romantic relationship for good. Throughout it all, they shared a bond more intimate than any other in Prince's life. No one else can tell this story or can provide a deeper, more nuanced portrait of Prince--both the famously private man and the pioneering, beloved artist--than Mayte, his partner during some of the most pivotal personal and professional years of his career. The Most Beautiful is a book that will be returned to for decades, as Prince's music lives on with generations to come.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781409171225"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1409171221"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=So4hDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=So4hDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=So4hDQAAQBAJ&dq=subject:music&hl=&cd=278&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=So4hDQAAQBAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Most_Beautiful.html?hl=&id=So4hDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=So4hDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_6SHDwAAQBAJ",
+   "etag": "Nl5XAO7o5No",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_6SHDwAAQBAJ",
+   "volumeInfo": {
+    "title": "More Myself",
+    "subtitle": "A Journey",
+    "authors": [
+     "Alicia Keys"
+    ],
+    "publisher": "Flatiron Books",
+    "publishedDate": "2020-03-31",
+    "description": "An intimate, revealing look at one artist’s journey from self-censorship to full expression As one of the most celebrated musicians of our time, Alicia Keys has enraptured the nation with her heartfelt lyrics, extraordinary vocal range, and soul-stirring piano compositions. Yet away from the spotlight, Alicia has grappled with private heartache—over the challenging and complex relationship with her father, the people-pleasing nature that characterized her early career, the loss of privacy surrounding her romantic relationships, and the oppressive expectations of female perfection. Since her rise to fame, Alicia’s public persona has belied a deep personal truth: she has spent years not fully recognizing or honoring her own worth. After withholding parts of herself for so long, she is at last exploring the questions that live at the heart of her story: Who am I, really? And once I discover that truth, how can I become brave enough to embrace it? More Myself is part autobiography, part narrative documentary. Alicia’s journey is revealed not only through her own candid recounting, but also through vivid recollections from those who have walked alongside her. The result is a 360-degree perspective on Alicia’s path—from her girlhood in Hell’s Kitchen and Harlem, to the process of self-discovery she’s still navigating. In More Myself, Alicia shares her quest for truth—about herself, her past, and her shift from sacrificing her spirit to celebrating her worth. With the raw honesty that epitomizes Alicia’s artistry, More Myself is at once a riveting account and a clarion call to readers: to define themselves in a world that rarely encourages a true and unique identity.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781250153302"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1250153301"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_6SHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_6SHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_6SHDwAAQBAJ&dq=subject:music&hl=&cd=279&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_6SHDwAAQBAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/More_Myself.html?hl=&id=_6SHDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_6SHDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RGpKDgAAQBAJ",
+   "etag": "rx56pMtR0Mg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RGpKDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Seven Deadly Sins",
+    "subtitle": "Settling the Argument Between Born Bad and Damaged Good",
+    "authors": [
+     "Corey Taylor"
+    ],
+    "publisher": "Hachette UK",
+    "publishedDate": "2012-07-03",
+    "description": "Slipknot and Stone Sour frontman Corey Taylor's New York Times bestselling treatise on sin and the nature of it For the first time, Slipknot and Stone Sour frontman Corey Taylor speaks directly to his fans and shares his worldview about life as a sinner. And Taylor knows how to sin. As a small-town hero in the early '90s, he threw himself into a hard-drinking, fierce-loving, live-for-the-moment life; when his music exploded, he found himself rich, wanted, and on the road. But soon his extreme lifestyle led him to question what it means to sin and whether it could-or should-be cast in a different light. After all, if sin makes us human how wrong can it be?Now updated with a new Afterword by the author, Seven Deadly Sins is a brutally honest look \"at a life that could have gone horribly wrong at any turn,\" and the soul-searching and self-discovery it took to set it right.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306821240"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0306821249"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RGpKDgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RGpKDgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RGpKDgAAQBAJ&dq=subject:music&hl=&cd=280&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RGpKDgAAQBAJ&dq=subject:music&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Seven_Deadly_Sins.html?hl=&id=RGpKDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RGpKDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

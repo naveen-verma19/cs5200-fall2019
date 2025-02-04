@@ -1,0 +1,1423 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 344,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TXl0AAAAIAAJ",
+   "etag": "Z/MzumYOOeI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TXl0AAAAIAAJ",
+   "volumeInfo": {
+    "title": "我的人生观",
+    "authors": [
+     "贾平凹",
+     "走走"
+    ],
+    "publishedDate": "2006",
+    "description": "本书以对话访谈的形式,全面回顾了贾平凹生活中的方方面面。分人生、故乡、城市、测字、收藏、健康、足球、爱情八部分",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105128239816"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Biography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TXl0AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TXl0AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "zh-CN",
+    "previewLink": "http://books.google.com/books?id=TXl0AAAAIAAJ&dq=subject:Biography&hl=&cd=321&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=TXl0AAAAIAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E8%A7%82.html?hl=&id=TXl0AAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TXl0AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qRMUMQAACAAJ",
+   "etag": "Dxp19bdxzpE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qRMUMQAACAAJ",
+   "volumeInfo": {
+    "title": "A Thousand Days",
+    "subtitle": "John F. Kennedy in the White House",
+    "authors": [
+     "Arthur Meier Schlesinger"
+    ],
+    "publishedDate": "1965",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:222636957"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 829,
+    "printType": "BOOK",
+    "categories": [
+     "Biography"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=qRMUMQAACAAJ&dq=subject:Biography&hl=&cd=322&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=qRMUMQAACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Thousand_Days.html?hl=&id=qRMUMQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qRMUMQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b9_yAQAACAAJ",
+   "etag": "uX7kgjKqbyM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b9_yAQAACAAJ",
+   "volumeInfo": {
+    "title": "Biographie universelle, ancienne et moderne ou histoire, par ordre alphabétique, de la vie publique et privée de tous les hommes qui se sont fait remarquer par leurs écrits, leurs actions, leurs talents, leurs vertus ou leurs crimes",
+    "publishedDate": "1813",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BCUL:RERO10088558"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 85,
+    "printType": "BOOK",
+    "categories": [
+     "Biography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=b9_yAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=b9_yAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.com/books?id=b9_yAQAACAAJ&dq=subject:Biography&hl=&cd=323&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=b9_yAQAACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Biographie_universelle_ancienne_et_moder.html?hl=&id=b9_yAQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=b9_yAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tZVOuQEACAAJ",
+   "etag": "KR1DmGYhT0c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tZVOuQEACAAJ",
+   "volumeInfo": {
+    "title": "Biographie universelle, ancienne et moderne; ou, Histoire, par ordre alphabétique",
+    "subtitle": "de la vie publique et privée de tous les hommes qui se sont fait remarquer par leurs écrits, leurs actions, leurs talents, leurs vertus ou leurs crimes",
+    "publishedDate": "1811",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:02005041"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.com/books?id=tZVOuQEACAAJ&dq=subject:Biography&hl=&cd=324&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tZVOuQEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Biographie_universelle_ancienne_et_moder.html?hl=&id=tZVOuQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tZVOuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cqf9xwEACAAJ",
+   "etag": "DHN1T5Letto",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cqf9xwEACAAJ",
+   "volumeInfo": {
+    "title": "An Historical and Critical Dictionary",
+    "subtitle": "By Monsieur Bayle. Translated Into English, with Many Additions and Corrections, Made by the Author Himself, that are Not in the French Editions",
+    "authors": [
+     "Pierre Bayle"
+    ],
+    "publishedDate": "1710",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:3522448"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cqf9xwEACAAJ&dq=subject:Biography&hl=&cd=325&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=cqf9xwEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/An_Historical_and_Critical_Dictionary.html?hl=&id=cqf9xwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cqf9xwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5lTyxgEACAAJ",
+   "etag": "NVEvQofgKh0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5lTyxgEACAAJ",
+   "volumeInfo": {
+    "title": "Biography",
+    "authors": [
+     "Kathy Evans"
+    ],
+    "publishedDate": "1993",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:1104047007"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 153,
+    "printType": "BOOK",
+    "categories": [
+     "Anthologies"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5lTyxgEACAAJ&dq=subject:Biography&hl=&cd=326&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5lTyxgEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Biography.html?hl=&id=5lTyxgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5lTyxgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vL4juQEACAAJ",
+   "etag": "8KR9txBvqAk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vL4juQEACAAJ",
+   "volumeInfo": {
+    "title": "Dictionnaire historique et critique",
+    "authors": [
+     "Pierre Bayle"
+    ],
+    "publishedDate": "1920",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:24025142"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vL4juQEACAAJ&dq=subject:Biography&hl=&cd=327&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=vL4juQEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dictionnaire_historique_et_critique.html?hl=&id=vL4juQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vL4juQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kAH7PgAACAAJ",
+   "etag": "Fe43VBOQ/N0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kAH7PgAACAAJ",
+   "volumeInfo": {
+    "title": "Biography",
+    "authors": [
+     "Sir Charles G. D. Roberts"
+    ],
+    "publishedDate": "1900",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:2706557"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=kAH7PgAACAAJ&dq=subject:Biography&hl=&cd=328&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=kAH7PgAACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Biography.html?hl=&id=kAH7PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kAH7PgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rl06tgEACAAJ",
+   "etag": "edKH+GPZ+eE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rl06tgEACAAJ",
+   "volumeInfo": {
+    "title": "Biographie universelle ancienne et moderne",
+    "publishedDate": "1966",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000065394939"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rl06tgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rl06tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=rl06tgEACAAJ&dq=subject:Biography&hl=&cd=329&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=rl06tgEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Biographie_universelle_ancienne_et_moder.html?hl=&id=rl06tgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rl06tgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cLgSyAEACAAJ",
+   "etag": "5FeUw5IynN8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cLgSyAEACAAJ",
+   "volumeInfo": {
+    "title": "Thurgood Marshall",
+    "authors": [
+     "Sina Dubovoy"
+    ],
+    "publishedDate": "2014",
+    "description": "The struggle for civil rights during the 1960s produced many inspiring figures.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1438150822"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438150826"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "African Americans"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cLgSyAEACAAJ&dq=subject:Biography&hl=&cd=330&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=cLgSyAEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Thurgood_Marshall.html?hl=&id=cLgSyAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cLgSyAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZWlBxgEACAAJ",
+   "etag": "CcSFt864dZ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZWlBxgEACAAJ",
+   "volumeInfo": {
+    "title": "Cleopatra",
+    "publishedDate": "1953",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:779610846"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 221,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZWlBxgEACAAJ&dq=subject:Biography&hl=&cd=331&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ZWlBxgEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cleopatra.html?hl=&id=ZWlBxgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZWlBxgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NRtZvgAACAAJ",
+   "etag": "Enpkfd6iDiM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NRtZvgAACAAJ",
+   "volumeInfo": {
+    "title": "Encyclopédie méthodique",
+    "subtitle": "histoire",
+    "publishedDate": "1784",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:937779922"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NRtZvgAACAAJ&dq=subject:Biography&hl=&cd=332&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NRtZvgAACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Encyclop%C3%A9die_m%C3%A9thodique.html?hl=&id=NRtZvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NRtZvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1O4OyAEACAAJ",
+   "etag": "cwvDadTXjEA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1O4OyAEACAAJ",
+   "volumeInfo": {
+    "title": "Frederick Douglass",
+    "authors": [
+     "Sina Dubovoy"
+    ],
+    "publishedDate": "2014",
+    "description": "The struggle for civil rights during the 1960s produced many inspiring figures.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1438150849"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438150840"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "African Americans"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=1O4OyAEACAAJ&dq=subject:Biography&hl=&cd=333&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=1O4OyAEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Frederick_Douglass.html?hl=&id=1O4OyAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1O4OyAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BQH6yAEACAAJ",
+   "etag": "BzF/OlA2E6A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BQH6yAEACAAJ",
+   "volumeInfo": {
+    "title": "Miscellanies",
+    "subtitle": "Fourth Series",
+    "authors": [
+     "J. M. Morley"
+    ],
+    "publishedDate": "1908",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:499160243"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BQH6yAEACAAJ&dq=subject:Biography&hl=&cd=334&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=BQH6yAEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Miscellanies.html?hl=&id=BQH6yAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BQH6yAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "x9URyQEACAAJ",
+   "etag": "uDh9QrBPVRI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x9URyQEACAAJ",
+   "volumeInfo": {
+    "title": "Dictionnaire historique",
+    "subtitle": "ou, Biographie universelle des hommes qui se sont fait un nom par leur génie, leurs talents, leurs vertus, leurs erreurs ou leurs crimes depuis le commencement du monde jusqu'à nos jours",
+    "authors": [
+     "François-Xavier Feller"
+    ],
+    "publishedDate": "1837",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:19907321"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.com/books?id=x9URyQEACAAJ&dq=subject:Biography&hl=&cd=335&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=x9URyQEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dictionnaire_historique.html?hl=&id=x9URyQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=x9URyQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0558xgEACAAJ",
+   "etag": "bAVJ3qksEdM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0558xgEACAAJ",
+   "volumeInfo": {
+    "title": "Washington",
+    "subtitle": "a biography",
+    "authors": [
+     "Noemie Emery"
+    ],
+    "publishedDate": "1977-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X000048843"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0558xgEACAAJ&dq=subject:Biography&hl=&cd=336&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0558xgEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Washington.html?hl=&id=0558xgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0558xgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6XNHyAEACAAJ",
+   "etag": "Rvdge47HwzI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6XNHyAEACAAJ",
+   "volumeInfo": {
+    "title": "Miscellanies",
+    "authors": [
+     "John Morley"
+    ],
+    "publishedDate": "1908",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:933090264"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 331,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6XNHyAEACAAJ&dq=subject:Biography&hl=&cd=337&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=6XNHyAEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Miscellanies.html?hl=&id=6XNHyAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6XNHyAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MVMRyAEACAAJ",
+   "etag": "9srkAE2z5Uk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MVMRyAEACAAJ",
+   "volumeInfo": {
+    "title": "James Baldwin",
+    "authors": [
+     "Steven Otfinoski"
+    ],
+    "publishedDate": "2014",
+    "description": "This title profiles James Baldwin, the great African-American author and playwright who wrote Notes of a Native Son;and;Go Tell It on the Mountain.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1438150962"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438150963"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "African Americans"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=MVMRyAEACAAJ&dq=subject:Biography&hl=&cd=338&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=MVMRyAEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/James_Baldwin.html?hl=&id=MVMRyAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MVMRyAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s9QBvwEACAAJ",
+   "etag": "kB5tBTqNiC0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s9QBvwEACAAJ",
+   "volumeInfo": {
+    "title": "The Annual Register",
+    "subtitle": "Or a View of the History, Politics, and Literature, for the Year 1777",
+    "publishedDate": "1785",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:699323443"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=s9QBvwEACAAJ&dq=subject:Biography&hl=&cd=339&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=s9QBvwEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Annual_Register.html?hl=&id=s9QBvwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=s9QBvwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TBbbwwEACAAJ",
+   "etag": "NUeCImII66U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TBbbwwEACAAJ",
+   "volumeInfo": {
+    "title": "Masterplots II.",
+    "subtitle": "Juvenile and young adult fiction series",
+    "authors": [
+     "Frank Northen Magill"
+    ],
+    "publishedDate": "1991",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015019853814"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1695,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TBbbwwEACAAJ&dq=subject:Biography&hl=&cd=340&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=TBbbwwEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Masterplots_II.html?hl=&id=TBbbwwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TBbbwwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wjHZxwEACAAJ",
+   "etag": "WG9Dj5GY87E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wjHZxwEACAAJ",
+   "volumeInfo": {
+    "title": "The Complete Writings of Nathaniel Hawthorne: Miscellanies",
+    "authors": [
+     "Nathaniel Hawthorne"
+    ],
+    "publishedDate": "1900",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105118887905"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wjHZxwEACAAJ&dq=subject:Biography&hl=&cd=341&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=wjHZxwEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_Writings_of_Nathaniel_Hawth.html?hl=&id=wjHZxwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wjHZxwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rvkuxwEACAAJ",
+   "etag": "DwP8LkkDN6w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rvkuxwEACAAJ",
+   "volumeInfo": {
+    "title": "Dictionary of Greek and Roman Biography and Mythology: Abaeus-Dysponteus",
+    "authors": [
+     "William Smith"
+    ],
+    "publishedDate": "1844",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HN4WS9"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rvkuxwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rvkuxwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=rvkuxwEACAAJ&dq=subject:Biography&hl=&cd=342&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=rvkuxwEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dictionary_of_Greek_and_Roman_Biography.html?hl=&id=rvkuxwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rvkuxwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "P1EayAEACAAJ",
+   "etag": "ax7twR8Cngs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P1EayAEACAAJ",
+   "volumeInfo": {
+    "title": "James Baldwin",
+    "authors": [
+     "Tom Verde"
+    ],
+    "publishedDate": "2014",
+    "description": "This title profiles James Baldwin, presents an insightful portrait of his life, and examines the work and writing career of one of the literary giants of nineteenth- and twentieth-century America.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1438152205"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438152202"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Authors"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=P1EayAEACAAJ&dq=subject:Biography&hl=&cd=343&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=P1EayAEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/James_Baldwin.html?hl=&id=P1EayAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=P1EayAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HyK2xwEACAAJ",
+   "etag": "EEarMiq+qaI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HyK2xwEACAAJ",
+   "volumeInfo": {
+    "title": "Washington",
+    "subtitle": "a biography",
+    "authors": [
+     "Noemie Emery"
+    ],
+    "publishedDate": "1977-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X000048843"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HyK2xwEACAAJ&dq=subject:Biography&hl=&cd=344&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HyK2xwEACAAJ&dq=subject:Biography&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Washington.html?hl=&id=HyK2xwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HyK2xwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

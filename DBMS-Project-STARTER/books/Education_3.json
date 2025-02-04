@@ -1,0 +1,3088 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 492,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "snEEdFKLJ5cC",
+   "etag": "AaPLcoNyvUI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/snEEdFKLJ5cC",
+   "volumeInfo": {
+    "title": "Language in the Inner City",
+    "subtitle": "Studies in the Black English Vernacular",
+    "authors": [
+     "William Labov"
+    ],
+    "publisher": "University of Pennsylvania Press",
+    "publishedDate": "1972",
+    "description": "Language in the Inner City firmly establishes African American Vernacular English not simply as slang but as a well-formed set of rules of pronunciation and grammar capable of conveying complex logic and reasoning and confirms the Black vernacular as a separate and independent dialect of English.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0812210514"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812210514"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 412,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=snEEdFKLJ5cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=snEEdFKLJ5cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=snEEdFKLJ5cC&printsec=frontcover&dq=subject:Education&hl=&cd=121&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=snEEdFKLJ5cC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Language_in_the_Inner_City.html?hl=&id=snEEdFKLJ5cC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Language_in_the_Inner_City-sample-pdf.acsm?id=snEEdFKLJ5cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=snEEdFKLJ5cC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lz2w6_74jSwC",
+   "etag": "6Gd9aFLdiLU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lz2w6_74jSwC",
+   "volumeInfo": {
+    "title": "Philosophy of Development",
+    "subtitle": "Reconstructing the Foundations of Human Development and Education",
+    "authors": [
+     "A.W. van Haaften",
+     "Michiel Korthals",
+     "T.E. Wren"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "1996-12-31",
+    "description": "Philosophy of development is a fascinating area of research at the intersection of philosophy, psychology, and education. This book is unique in that it combines a broad sketch of contemporary developmental theory with detailed discussions of its central issues, in order to construct a general framework for understanding and analyzing theories of individual and collective development in various domains ranging from cognitive and moral development to developments in art. Special attention is also given to the rich relations between conceptual development and education.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0792343190"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780792343196"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lz2w6_74jSwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lz2w6_74jSwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lz2w6_74jSwC&printsec=frontcover&dq=subject:Education&hl=&cd=122&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lz2w6_74jSwC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Philosophy_of_Development.html?hl=&id=lz2w6_74jSwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Philosophy_of_Development-sample-epub.acsm?id=lz2w6_74jSwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Philosophy_of_Development-sample-pdf.acsm?id=lz2w6_74jSwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lz2w6_74jSwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MC0zDwAAQBAJ",
+   "etag": "Fx3ILzD1y6c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MC0zDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Top Update Big Bank Matematika SMA/MA 1, 2, 3",
+    "subtitle": "",
+    "authors": [
+     "Prasetya Adhi Nugraha, S.Pd, Si ",
+     "Dedy Gunarto, S.Si"
+    ],
+    "publisher": "BintangWahyu",
+    "publishedDate": "2017-01-01",
+    "description": "Keunggulan: 1. 1.500 soal-soal fresh update 2. Dibahas tuntas oleh Tim Tentor Senior 3. Rangkuman Materi Ala Bimbingan Belajar 4. Penulis Tentor Senior Matematika 5. Free Aplikasi Android 6. Intemeso…..Ice Breaking orang Pintar 7. Plus Video Tutorial Ala Tentor Senior Buku ini terbitan penerbit Bintang Wahyu",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9786026320155"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "6026320156"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 566,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MC0zDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MC0zDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "id",
+    "previewLink": "http://books.google.com/books?id=MC0zDwAAQBAJ&printsec=frontcover&dq=subject:Education&hl=&cd=123&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MC0zDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MC0zDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.8,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.84,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MC0zDwAAQBAJ&rdid=book-MC0zDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7840000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Top_Update_Big_Bank_Matematika_SMA_MA_1-sample-pdf.acsm?id=MC0zDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MC0zDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e13xPeDetesC",
+   "etag": "Bdg3ZrBtwNU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e13xPeDetesC",
+   "volumeInfo": {
+    "title": "Doing Math in Morning Meeting",
+    "subtitle": "150 Quick Activities That Connect to Your Curriculum",
+    "authors": [
+     "Andy Dousis",
+     "Margaret Berry Wilson"
+    ],
+    "publisher": "Center for Responsive Schools, Inc.",
+    "publishedDate": "2010",
+    "description": "Bring joy and energy to math learning without adding to your already-packed schedule! Here are 150 fun and engaging math activities suitable for kindergartners to 5th graders, with math-themed ideas for all four Morning Meeting components: greeting, group activity, sharing, and morning message. Use these games, songs, chants, hands-on experiments, and more to inspire students' interest in math and help them practice skills. Each activity includes easy how-to steps; relevant NCTM content and process standards; specific math skills addressed; materials needed (all require few or no materials); tips on preparing students for success; math vocabulary to emphasize; and variations and extensions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781892989376"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1892989379"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 221,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=e13xPeDetesC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=e13xPeDetesC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=e13xPeDetesC&printsec=frontcover&dq=subject:Education&hl=&cd=124&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=e13xPeDetesC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Doing_Math_in_Morning_Meeting.html?hl=&id=e13xPeDetesC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=e13xPeDetesC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OJObniJ5BL8C",
+   "etag": "2F1mn2lKMDY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OJObniJ5BL8C",
+   "volumeInfo": {
+    "title": "Beyond Quality in Early Childhood Education and Care",
+    "subtitle": "Postmodern Perspectives",
+    "authors": [
+     "Gunilla Dahlberg",
+     "Peter Moss",
+     "Alan R. Pence"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1999",
+    "description": "The 1980s saw a debt crisis among developing countries that indicated a deeper, dangerous fault in the foundations of financial mechanisms. Rocha argues that contractually provided adaptation mechanisms can help avoid the disruption of medium- and long-term financing transactions; he also challenges the current practice of hazardous and resource-consuming ad hoc debt rescheduling that has characterized debt tremors to date. General adoption of these flexible adaptation mechanisms would be, argues Rocha, like flexible construction joints in an earthquake: both debtors and lenders would be more stable in the rocky environment of international finance.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0750707690"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750707695"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 206,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OJObniJ5BL8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OJObniJ5BL8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OJObniJ5BL8C&printsec=frontcover&dq=subject:Education&hl=&cd=125&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OJObniJ5BL8C&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Beyond_Quality_in_Early_Childhood_Educat.html?hl=&id=OJObniJ5BL8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OJObniJ5BL8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ja9EDwAAQBAJ",
+   "etag": "Irp1ppOLT20",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ja9EDwAAQBAJ",
+   "volumeInfo": {
+    "title": "American Corrections",
+    "authors": [
+     "Todd R. Clear",
+     "Michael D. Reisig",
+     "George F. Cole"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2018-01-01",
+    "description": "Long at the forefront of the course, Clear/Reisig/Cole's AMERICAN CORRECTIONS has been a trusted resource for introducing students to the dynamics of corrections in a way that captures their interest and encourages them to enter the field. The twelfth edition provides a complete update on the facts and figures of correctional policy and practice in the United States. With career-based material, insightful guest speakers, real-world cases and even-handed treatment of institutional and community sanctions, the text examines the U.S. correctional system from the perspectives of both the corrections worker and the accused person. The result is that students get the most well-rounded, balanced introduction to corrections available. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781337557658"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "133755765X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 624,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ja9EDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ja9EDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Ja9EDwAAQBAJ&printsec=frontcover&dq=subject:Education&hl=&cd=126&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Ja9EDwAAQBAJ&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/American_Corrections.html?hl=&id=Ja9EDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ja9EDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xNjcyppT8ZwC",
+   "etag": "zVirm87gk8M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xNjcyppT8ZwC",
+   "volumeInfo": {
+    "title": "Empowering Students With Technology",
+    "authors": [
+     "Alan November"
+    ],
+    "publisher": "Corwin Press",
+    "publishedDate": "2009-11-24",
+    "description": "Expand classroom experiences and spark student excitement with learning adventures powered by technology! Demonstrating how technology can improve school performance, this second edition of the bestseller shows how computer and Internet technologies enhance students’ critical thinking, research, and problem-solving skills; level the learning field for disadvantaged students; and open doors for children who are disabled. Offering more than 50 Web sites, plus new resources, practical lesson ideas, sample activities, more information about online learning, and real-world examples, this timely revision examines: Information literacy Learning in a globally connected community Increased access to information Applications for digital cameras, fax machines, cell phones, and more",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781452272375"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1452272379"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 136,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xNjcyppT8ZwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xNjcyppT8ZwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xNjcyppT8ZwC&printsec=frontcover&dq=subject:Education&hl=&cd=127&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xNjcyppT8ZwC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xNjcyppT8ZwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.25,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xNjcyppT8ZwC&rdid=book-xNjcyppT8ZwC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.195E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.725E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 2.013E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.552E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 180.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Empowering_Students_With_Technology-sample-epub.acsm?id=xNjcyppT8ZwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Empowering_Students_With_Technology-sample-pdf.acsm?id=xNjcyppT8ZwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xNjcyppT8ZwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2cCj6Y3_DvIC",
+   "etag": "C3ZBaN/soCY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2cCj6Y3_DvIC",
+   "volumeInfo": {
+    "title": "The Unforgiving Minute",
+    "subtitle": "A Soldier's Education",
+    "authors": [
+     "Craig M. Mullaney"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2009",
+    "description": "A West Point graduate, Rhodes scholar, and Army Ranger describes his extensive military education, the ways in which his service in Afghanistan shaped his views, and his work as a Naval Academy instructor. 40,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1594202028"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781594202025"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 386,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 21,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2cCj6Y3_DvIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2cCj6Y3_DvIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2cCj6Y3_DvIC&printsec=frontcover&dq=subject:Education&hl=&cd=128&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=2cCj6Y3_DvIC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Unforgiving_Minute.html?hl=&id=2cCj6Y3_DvIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2cCj6Y3_DvIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VwMbBQAAQBAJ",
+   "etag": "xv7A8UBV7DA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VwMbBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Creative Schools",
+    "subtitle": "The Grassroots Revolution That's Transforming Education",
+    "authors": [
+     "Ken Robinson Ph.D.",
+     "Lou Aronica"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2015-04-21",
+    "description": "A revolutionary reappraisal of how to educate our children and young people by Ken Robinson, the New York Times bestselling author of The Element and Finding Your Element Ken Robinson is one of the world’s most influential voices in education, and his 2006 TED Talk on the subject is the most viewed in the organization’s history. Now, the internationally recognized leader on creativity and human potential focuses on one of the most critical issues of our time: how to transform the nation’s troubled educational system. At a time when standardized testing businesses are raking in huge profits, when many schools are struggling, and students and educators everywhere are suffering under the strain, Robinson points the way forward. He argues for an end to our outmoded industrial educational system and proposes a highly personalized, organic approach that draws on today’s unprecedented technological and professional resources to engage all students, develop their love of learning, and enable them to face the real challenges of the twenty-first century. Filled with anecdotes, observations and recommendations from professionals on the front line of transformative education, case histories, and groundbreaking research—and written with Robinson’s trademark wit and engaging style—Creative Schools will inspire teachers, parents, and policy makers alike to rethink the real nature and purpose of education. From the Hardcover edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780698142848"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0698142845"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.8.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VwMbBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VwMbBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=VwMbBQAAQBAJ&printsec=frontcover&dq=subject:Education&hl=&cd=129&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VwMbBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VwMbBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VwMbBQAAQBAJ&rdid=book-VwMbBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Creative_Schools-sample-epub.acsm?id=VwMbBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VwMbBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NyGJHa2atDUC",
+   "etag": "M36AmDeIx6E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NyGJHa2atDUC",
+   "volumeInfo": {
+    "title": "Asperger Syndrome and Long-term Relationships",
+    "authors": [
+     "Ashley Stanford"
+    ],
+    "publisher": "Jessica Kingsley Publishers",
+    "publishedDate": "2003",
+    "description": "First published in 2002. Routledge is an imprint of Taylor & Francis, an informa company.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1843107341"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781843107347"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 287,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NyGJHa2atDUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NyGJHa2atDUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NyGJHa2atDUC&printsec=frontcover&dq=subject:Education&hl=&cd=130&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NyGJHa2atDUC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Asperger_Syndrome_and_Long_term_Relation.html?hl=&id=NyGJHa2atDUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Asperger_Syndrome_and_Long_term_Relation-sample-epub.acsm?id=NyGJHa2atDUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Asperger_Syndrome_and_Long_term_Relation-sample-pdf.acsm?id=NyGJHa2atDUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NyGJHa2atDUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5ppzVSifQOYC",
+   "etag": "C7ni/PSHJzE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5ppzVSifQOYC",
+   "volumeInfo": {
+    "title": "A Year in the Life of an ESL Student",
+    "subtitle": "Idioms and Vocabulary You Can't Live Without",
+    "authors": [
+     "Edward J. Francis"
+    ],
+    "publisher": "Trafford Publishing",
+    "publishedDate": "2004",
+    "description": "A Year In The Life Of An ESL Student is a must for ESL students who are serious about improving their comprehension and usage of idiomatic English.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412020039"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1412020034"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 308,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5ppzVSifQOYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5ppzVSifQOYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5ppzVSifQOYC&printsec=frontcover&dq=subject:Education&hl=&cd=131&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5ppzVSifQOYC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Year_in_the_Life_of_an_ESL_Student.html?hl=&id=5ppzVSifQOYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5ppzVSifQOYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Iaq5R8vPujAC",
+   "etag": "ImGE/EUy2TA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Iaq5R8vPujAC",
+   "volumeInfo": {
+    "title": "The Process of Education",
+    "authors": [
+     "Jerome S. BRUNER"
+    ],
+    "publisher": "Harvard University Press",
+    "publishedDate": "1960",
+    "description": "Discusses the improvement of science teaching in the elementary schools through an emphasis on the structure, rather than the content, of the subject and on the psychology of discovery learning",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674710010"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674710016"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 97,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Iaq5R8vPujAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Iaq5R8vPujAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Iaq5R8vPujAC&printsec=frontcover&dq=subject:Education&hl=&cd=132&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Iaq5R8vPujAC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Process_of_Education.html?hl=&id=Iaq5R8vPujAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Process_of_Education-sample-epub.acsm?id=Iaq5R8vPujAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Process_of_Education-sample-pdf.acsm?id=Iaq5R8vPujAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Iaq5R8vPujAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XhjRBrDAESkC",
+   "etag": "tIj7af7R3rw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XhjRBrDAESkC",
+   "volumeInfo": {
+    "title": "Teaching For Quality Learning At University",
+    "authors": [
+     "Biggs, John",
+     "Tang, Catherine"
+    ],
+    "publisher": "McGraw-Hill Education (UK)",
+    "publishedDate": "2011-09-01",
+    "description": "A bestselling book for higher education teachers and adminstrators interested in assuring effective teaching.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780335242757"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0335242758"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 389,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XhjRBrDAESkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XhjRBrDAESkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XhjRBrDAESkC&printsec=frontcover&dq=subject:Education&hl=&cd=133&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XhjRBrDAESkC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Teaching_For_Quality_Learning_At_Univers.html?hl=&id=XhjRBrDAESkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Teaching_For_Quality_Learning_At_Univers-sample-pdf.acsm?id=XhjRBrDAESkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XhjRBrDAESkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D3sdAgAAQBAJ",
+   "etag": "0Lx5D+rxozM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D3sdAgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Power of Our Words",
+    "subtitle": "Teacher Language That Helps Children Learn",
+    "authors": [
+     "Paula Denton"
+    ],
+    "publisher": "Center for Responsive Schools, Inc.",
+    "publishedDate": "2013-11-19",
+    "description": "Simple changes in a teacher's language can bring about profound changes in students and classrooms. By paying attention to your words and tone of voice, you will: Increase students' engagement with academicsBuild positive communityMore effectively manage your classroom That is the message of The Power of Our Words, a book that has changed the teaching lives of tens of thousands of educators since it was first published in 2007. In this updated second edition you will find practical information to help you: Lead students in envisioning themselves achieving successUse questions that encourage deep and creative thinkingListen to students in ways that support their growthReinforce students efforts and remind or redirect them when they go off track. Throughout, you will find an increased emphasis on using teacher language to support academic engagement and critical thinking skills as called for in the Common Core State Standards. And an updated, livelier format makes this second edition even easier to read.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781892989598"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "189298959X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=D3sdAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=D3sdAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=D3sdAgAAQBAJ&printsec=frontcover&dq=subject:Education&hl=&cd=134&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=D3sdAgAAQBAJ&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Power_of_Our_Words.html?hl=&id=D3sdAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=D3sdAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xiUz_1kgkFgC",
+   "etag": "IFkYGque0Qk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xiUz_1kgkFgC",
+   "volumeInfo": {
+    "title": "Engaging Children's Minds",
+    "subtitle": "The Project Approach",
+    "authors": [
+     "Lilian Katz",
+     "Sylvia C. Chard"
+    ],
+    "publisher": "Greenwood Publishing Group",
+    "publishedDate": "2000",
+    "description": "Presents an introduction to the Project Approach to teaching children from preschool through the primary grades.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1567505007"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781567505009"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xiUz_1kgkFgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xiUz_1kgkFgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xiUz_1kgkFgC&printsec=frontcover&dq=subject:Education&hl=&cd=135&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xiUz_1kgkFgC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xiUz_1kgkFgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 131.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 105.56,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xiUz_1kgkFgC&rdid=book-xiUz_1kgkFgC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.3195E8,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.0556E8,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Engaging_Children_s_Minds-sample-epub.acsm?id=xiUz_1kgkFgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Engaging_Children_s_Minds-sample-pdf.acsm?id=xiUz_1kgkFgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xiUz_1kgkFgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "annbqSHv3iMC",
+   "etag": "YlaaJlbEVcs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/annbqSHv3iMC",
+   "volumeInfo": {
+    "title": "História da educação brasileira",
+    "subtitle": "leituras",
+    "authors": [
+     "Maria Lúcia Spedo Hilsdorf"
+    ],
+    "publisher": "Cengage Learning Editores",
+    "publishedDate": "2003",
+    "description": "O livro cobre dos jesuitas aos nossos dias, percorrendo nos seus capitulos a tradicional divisao em Colonia, Imperio e Republica, mas com uma periodizacao propria, cujas subdivisoes sao autorizadas pelo dialogo entre a bibliografia mais classica e a producao historiografica mais recente. Como consequencia, o texto oferece ao leitor uma pluralidade de perspectivas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8522102996"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522102990"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 135,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=annbqSHv3iMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=annbqSHv3iMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com/books?id=annbqSHv3iMC&printsec=frontcover&dq=subject:Education&hl=&cd=136&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=annbqSHv3iMC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_da_educa%C3%A7%C3%A3o_brasileira.html?hl=&id=annbqSHv3iMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=annbqSHv3iMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aPyyBQAAQBAJ",
+   "etag": "yG4cn2Popr0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aPyyBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Фізична культура : Конспекти уроків 2 клас",
+    "subtitle": "",
+    "authors": [
+     "Руслана Богайчук"
+    ],
+    "publisher": "bohdanbooksco",
+    "description": "Пропонований посібник відповідає новій навчальній програмі МОНмолодьспорту України з предмета «Фізична культура» для 2-го класу загальноосвітніх шкіл. Тут вміщено плани-конспекти уроків з описом рухливих ігор та орієнтовними комплексами вправ, а також перелік контрольних нормативів і вимог, кросворди та загадки на спортивну тематику, цікавинки про футбол, пам’ятку для вчителя. Для зручності у використанні уроки розміщено на відривних аркушах. До кожного уроку відведено місце для доповнень, змін, уточнень, творчих доробків учителя. Для вчителів початкових класів, студентів педагогічних навчальних закладів. Видавництво Навчальна книга - Богдан",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789661032834"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9661032831"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aPyyBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aPyyBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "uk",
+    "previewLink": "http://books.google.com/books?id=aPyyBQAAQBAJ&printsec=frontcover&dq=subject:Education&hl=&cd=137&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aPyyBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aPyyBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1.05,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 1.05,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=aPyyBQAAQBAJ&rdid=book-aPyyBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1050000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1050000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/%D0%A4%D1%96%D0%B7%D0%B8%D1%87%D0%BD%D0%B0_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0_%D0%9A%D0%BE%D0%BD%D1%81-sample-pdf.acsm?id=aPyyBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aPyyBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H7FMDztgSfkC",
+   "etag": "WBNZlO8Obas",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H7FMDztgSfkC",
+   "volumeInfo": {
+    "title": "Rethinking Columbus",
+    "subtitle": "The Next 500 Years",
+    "authors": [
+     "Bill Bigelow",
+     "Bob Peterson"
+    ],
+    "publisher": "Rethinking Schools",
+    "publishedDate": "1998",
+    "description": "Rethinking Columbus: the next 500 years, edited by Bill Bigelow and Bob Peterson is a resource guide for teachers and community activists which includes 90 essays, poems, short stories, interviews, historical vignettes, and lesson plans that re-evaluate the legacy of Columbus.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780942961201"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "094296120X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 189,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=H7FMDztgSfkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=H7FMDztgSfkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=H7FMDztgSfkC&printsec=frontcover&dq=subject:Education&hl=&cd=138&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=H7FMDztgSfkC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Rethinking_Columbus.html?hl=&id=H7FMDztgSfkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=H7FMDztgSfkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e1ITbOA2jhQC",
+   "etag": "0ffyefX4Ga4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e1ITbOA2jhQC",
+   "volumeInfo": {
+    "title": "Multicultural Education",
+    "subtitle": "Issues and Perspectives",
+    "authors": [
+     "James A. Banks",
+     "Cherry A. McGee Banks"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2009-09-08",
+    "description": "Multicultural Education is a reader for educators that consists of articles written by the top scholars in the field. It helps them understand the concepts, paradigms, and explanations needed to become more effective practitioners in culturally, racially and language diverse classrooms. Each chapter now incorporates new theoretical, conceptual, and research developments in the field. A new chapter focuses on gay, lesbian, bisexual and transgender issues. Every statistical table, figure, and chart has also been updated to present the most current information. Educators will gain insight that they’ll be able to apply in the classroom.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470483282"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0470483288"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 462,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=e1ITbOA2jhQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=e1ITbOA2jhQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=e1ITbOA2jhQC&printsec=frontcover&dq=subject:Education&hl=&cd=139&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=e1ITbOA2jhQC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Multicultural_Education.html?hl=&id=e1ITbOA2jhQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=e1ITbOA2jhQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KeeceQzovlYC",
+   "etag": "wQtAg9Pf5SI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KeeceQzovlYC",
+   "volumeInfo": {
+    "title": "La resolución infantil de problemas",
+    "authors": [
+     "Stephanie Thornton"
+    ],
+    "publisher": "Ediciones Morata",
+    "publishedDate": "1997",
+    "description": "Un niño de 1 año que intenta construir una torre de bloques puede causar su caída estrepitosa y, sin embargo, su hermana de 5 años realiza fácilmente esta tarea. ¿Cómo se desarrollan las destrezas de resolución de problemas? Stephanie THORNTON examina en esta obra investigaciones recientes efectuadas desde diversas perspectivas. Lo que encuentra esta autora puede sorprendernos: el éxito en la resolución de estos problemas depende menos de lo listos que seamos -o, como afirmó Jean PIAGET, de lo avanzada que sea nuestra destreza en razonamiento lógico- y más del conocimiento factual que adquirimos a medida que aprendemos e interpretamos las claves del mundo que nos rodea. Las destrezas de resolución de problemas evolucionan a través de la experiencia. Pero, como propuso L. S. VYGOTSKY, la interacción social tiene una gran importancia. La resolución acertada de problemas es un proceso social. Compartir tareas de este tipo -con adultos expertos y con otros niños y niñas- es vital para el desarrollo infantil. En realidad, la resolución de problemas está en el núcleo de aquello a lo que hacemos referencia al hablar de inteligencia. La capacidad para identificar una meta, planificar cómo alcanzarla, y ejecutar ese plan es la esencia de toda actividad inteligente. En esta obra la autora sintetiza las importantes ideas y hallazgos de la investigación actual sobre esta importante cuestión.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8471124203"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788471124203"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 167,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KeeceQzovlYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KeeceQzovlYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=KeeceQzovlYC&printsec=frontcover&dq=subject:Education&hl=&cd=140&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=KeeceQzovlYC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/La_resoluci%C3%B3n_infantil_de_problemas.html?hl=&id=KeeceQzovlYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KeeceQzovlYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tPLGUJcrurIC",
+   "etag": "JpNywHT2JwU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tPLGUJcrurIC",
+   "volumeInfo": {
+    "title": "Art Practice as Research",
+    "subtitle": "Inquiry in Visual Arts",
+    "authors": [
+     "Graeme Sullivan"
+    ],
+    "publisher": "SAGE",
+    "publishedDate": "2010",
+    "description": "Art Practice as Research, Second Edition continues to present a compelling argument that the creative and cultural inquiry undertaken by artists is a form of research. The text explores themes, practices, and contexts of artistic inquiry and positions them within the discourse of research. Sullivan argues that legitimate research goals can be achieved by choosing different methods than those offered by the social sciences. The common denominator in both approaches is the attention given to rigor and systematic inquiry. Artists emphasize the role of the imaginative intellect in creating, criticizing, and constructing knowledge that is not only new but also has the capacity to transform human understanding.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412974516"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1412974518"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 281,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tPLGUJcrurIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tPLGUJcrurIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tPLGUJcrurIC&printsec=frontcover&dq=subject:Education&hl=&cd=141&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tPLGUJcrurIC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Art_Practice_as_Research.html?hl=&id=tPLGUJcrurIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tPLGUJcrurIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wCTzD9PMQ_0C",
+   "etag": "5ce+U10PqSc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wCTzD9PMQ_0C",
+   "volumeInfo": {
+    "title": "Action Research",
+    "subtitle": "Principles and Practice",
+    "authors": [
+     "Jean McNiff"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2013",
+    "description": "Since its first publication, Action Research: Principles and Practice has become a key text in its field. This new updated edition clearly describes and explains the practices of action research and its underlying values, and introduces important new ideas, including: all professionals should be reflective practitioners; they should produce their personal theories of practice to show how they are holding themselves accountable for their educational influences in learning; the stories they produce become a new people’s history of action research, with potential for influencing new futures. This new edition has expanded in scope, to contribute to diverse fields including professional development across the sectors and the disciplines. It considers the current field, including its problems as well as its considerable hopes and prospects for new thinking and practices. Now fully updated, this book contains: A wealth of case-study material New chapters on the educational significance of action research An overview of methodological and ethical discussion The book is a valuable addition to the literature on research methods in education and nursing and healthcare, and professional education, and contributes to contemporary debates about the generation and dissemination of knowledge and its potential influence for wider social and environmental contexts. Practitioners across the professions who are planning action research in their own work settings will find this book a helpful introduction to the subject while those studying on higher degree courses will find it an indispensable resource.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415535250"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0415535255"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "EDUCATION"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wCTzD9PMQ_0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wCTzD9PMQ_0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wCTzD9PMQ_0C&printsec=frontcover&dq=subject:Education&hl=&cd=142&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=wCTzD9PMQ_0C&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Action_Research.html?hl=&id=wCTzD9PMQ_0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wCTzD9PMQ_0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hRWH_A0QJGQC",
+   "etag": "VdXlXXGMXek",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hRWH_A0QJGQC",
+   "volumeInfo": {
+    "title": "Mastering Vocabulary",
+    "authors": [
+     "Stephanie Riddle",
+     "Teacher Created Resources"
+    ],
+    "publisher": "Teacher Created Resources",
+    "publishedDate": "2004-06-28",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743934336"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0743934334"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hRWH_A0QJGQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hRWH_A0QJGQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hRWH_A0QJGQC&printsec=frontcover&dq=subject:Education&hl=&cd=143&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=hRWH_A0QJGQC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_Vocabulary.html?hl=&id=hRWH_A0QJGQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hRWH_A0QJGQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OosUeI23eHgC",
+   "etag": "Px5CYxJ1ivY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OosUeI23eHgC",
+   "volumeInfo": {
+    "title": "Didáctica de la expresión corporal",
+    "subtitle": "talleres monográficos",
+    "authors": [
+     "Begoña Learreta Ramos",
+     "Kiki Ruano Arriagada",
+     "Miguel Ángel Sierra Zamorano"
+    ],
+    "publisher": "INDE",
+    "publishedDate": "2006",
+    "description": "Como continuación a su anterior obra Los contenidos de Expresión Corporal, en este libro se desarrollan los aspectos didácticos y de aplicación práctica. Esta parte es la que más dificultades genera al profesorado sobretodo por la falta de delimitación de este ámbito de la motricidad. Los autores, con gran acierto y de forma exhaustiva, exponen su metodología que ya han experimentado y llevado a cabo en diversos centros y niveles educativos. A través de los denominados por ellos talleres monográficos, generados a partir de un tema específico pero con un enfoque multidisciplinar, ofrecen, de una manera innovadora, actividades prácticas y funcionales. Los talleres están pensados para que no supongan ninguna dificultad a la hora de su aplicación. Se pueden ajustar tanto a la educación formal como no formal. Y, sobretodo, no requieren por parte del docente ningún dominio de ejecución técnico-expresivo. Asimismo, se aporta material complementario con la intención de facilitar la preparación y desarrollo didáctico de cada taller. Este libro, junto al anterior, supone una propuesta firme y rigurosa para reconducir el ámbito de la Expresión Corporal.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8497290844"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788497290845"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 311,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OosUeI23eHgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OosUeI23eHgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id=OosUeI23eHgC&printsec=frontcover&dq=subject:Education&hl=&cd=144&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OosUeI23eHgC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Did%C3%A1ctica_de_la_expresi%C3%B3n_corporal.html?hl=&id=OosUeI23eHgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OosUeI23eHgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9mQ9l3K73BoC",
+   "etag": "aIcVerTU2aA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9mQ9l3K73BoC",
+   "volumeInfo": {
+    "title": "Approaches and Methods in Language Teaching",
+    "authors": [
+     "Jack C. Richards",
+     "Theodore S. Rodgers"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2001-03-12",
+    "description": "In addition to the approaches and methods covered in the first edition, this edition includes new chapters, such as whole language, multiple intelligences, neurolinguistic programming, competency-based language teaching, co-operative language learning, content-based instruction, task-based language teaching, and The Post-Methods Era.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521008433"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521008433"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 270,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 16,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9mQ9l3K73BoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9mQ9l3K73BoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9mQ9l3K73BoC&printsec=frontcover&dq=subject:Education&hl=&cd=145&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9mQ9l3K73BoC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Approaches_and_Methods_in_Language_Teach.html?hl=&id=9mQ9l3K73BoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9mQ9l3K73BoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vRgNAAAAQBAJ",
+   "etag": "qV9dyD9WaaI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vRgNAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Media Education",
+    "subtitle": "Literacy, Learning and Contemporary Culture",
+    "authors": [
+     "David Buckingham"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2013-06-26",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745675763"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "074567576X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vRgNAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vRgNAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vRgNAAAAQBAJ&printsec=frontcover&dq=subject:Education&hl=&cd=146&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=vRgNAAAAQBAJ&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Media_Education.html?hl=&id=vRgNAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Media_Education-sample-pdf.acsm?id=vRgNAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vRgNAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4Z7CVvY__yEC",
+   "etag": "wE9WO3XiP/U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4Z7CVvY__yEC",
+   "volumeInfo": {
+    "title": "Levinas and the Crisis of Humanism",
+    "authors": [
+     "Claire Elise Katz"
+    ],
+    "publisher": "Indiana University Press",
+    "publishedDate": "2013",
+    "description": "Reexamining Emmanuel Levinas's essays on Jewish education, Claire Elise Katz provides new insights into the importance of education and its potential to transform a democratic society, for Levinas's larger philosophical project. Katz examines Levinas's \"Crisis of Humanism,\" which motivated his effort to describe a new ethical subject. Taking into account his multiple influences on social science and the humanities, and his various identities as a Jewish thinker, philosopher, and educator, Katz delves deeply into Levinas's works to understand the grounding of this ethical subject.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780253007629"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0253007623"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 221,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4Z7CVvY__yEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4Z7CVvY__yEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4Z7CVvY__yEC&printsec=frontcover&dq=subject:Education&hl=&cd=147&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4Z7CVvY__yEC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Levinas_and_the_Crisis_of_Humanism.html?hl=&id=4Z7CVvY__yEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4Z7CVvY__yEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t4stDwAAQBAJ",
+   "etag": "OJ6d763SVk4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t4stDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Is Everyone Really Equal?",
+    "subtitle": "An Introduction to Key Concepts in Social Justice Education, Second Edition",
+    "authors": [
+     "Ozlem Sensoy",
+     "Robin DiAngelo"
+    ],
+    "publisher": "Teachers College Press",
+    "publishedDate": "2017",
+    "description": "This is the new edition of the award-winning guide to social justice education. Accessible to students from high school through graduate school, this comprehensive resource includes many new features such as discussion of contemporary activism. The text includes many user-friendly features, examples, and vignettes to not just define but illustrate key concepts.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780807758618"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0807758612"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=t4stDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=t4stDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=t4stDwAAQBAJ&printsec=frontcover&dq=subject:Education&hl=&cd=148&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=t4stDwAAQBAJ&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Is_Everyone_Really_Equal.html?hl=&id=t4stDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=t4stDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5MrQgEdHpz0C",
+   "etag": "4fGRoRGfOeM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5MrQgEdHpz0C",
+   "volumeInfo": {
+    "title": "ED PSYCH",
+    "authors": [
+     "Jack Snowman",
+     "Rick McCown"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2012-01-01",
+    "description": "Created through a student-tested, faculty-approved review process with over 200 students and faculty, ED PSYCH is an engaging and accessible solution to accommodate the diverse lifestyles of today's learners. ED PSYCH has the most applied approach to educational psychology--taking complex psychology theories and demonstrating how they apply to the everyday experiences of in-service teachers. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781111841935"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1111841934"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5MrQgEdHpz0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5MrQgEdHpz0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5MrQgEdHpz0C&printsec=frontcover&dq=subject:Education&hl=&cd=149&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5MrQgEdHpz0C&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ED_PSYCH.html?hl=&id=5MrQgEdHpz0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5MrQgEdHpz0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RGAIyMUU6PQC",
+   "etag": "/lJHDT7fXKc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RGAIyMUU6PQC",
+   "volumeInfo": {
+    "title": "Brieftraining für Deutschlerner",
+    "subtitle": "Prüfungsvorbereitung, auch für Alphaklassen, Neuauflage 2017",
+    "authors": [
+     "Gisela Darrah"
+    ],
+    "publisher": "BoD – Books on Demand",
+    "publishedDate": "2017-11-14",
+    "description": "Die wichtigsten Briefthemen für die DTZ-Prüfung werden hier vorgestellt, Wortschatz und Grammatik dazu geübt, Übungsaufgaben angeboten. Keine Modellbriefe, sondern Redemittel baukastenartig anwenden. Auch gut geeignet für Alphaklassen.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783848251537"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3848251531"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 72,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RGAIyMUU6PQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RGAIyMUU6PQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=RGAIyMUU6PQC&printsec=frontcover&dq=subject:Education&hl=&cd=150&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RGAIyMUU6PQC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Brieftraining_f%C3%BCr_Deutschlerner.html?hl=&id=RGAIyMUU6PQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RGAIyMUU6PQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "romVYKAd_LoC",
+   "etag": "1AgCLsEzu1o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/romVYKAd_LoC",
+   "volumeInfo": {
+    "title": "Begriffe und Konzepte der berufspädagogischen Fachsprache",
+    "subtitle": "eine Auswahl",
+    "authors": [
+     "Andreas Schelten"
+    ],
+    "publisher": "Franz Steiner Verlag",
+    "publishedDate": "2000",
+    "description": "Das Lehr- und Studienbuch bringt zentrale Begriffe und Konzepte einer berufsp�dagogischen Fachsprache verdichtet auf den Punkt. Bedeutung, Aktualit�t sowie Arbeitsgebiete des Autors leiten die Auswahl der Begriffe und Konzepte. Die Erl�uterung der Begriffe ist kurz gehalten. Die Konzepte sind ausfuehrlicher dargestellt, um eine vertiefte Auseinandersetzung mit der jeweiligen Thematik zu erm�glichen. Die Ausfuehrungen sind mit �bersichten angereichert. Bei den Begriffen und Konzepten wird eine Positionsbestimmung vorgenommen. Sie soll dazu anregen, eigene Sichtweisen zu entwickeln. Wichtige Schlagworte bzw. kurze Aussages�tze zum betreffenden Begriff bzw. Konzept fassen die Ausfuehrungen jeweils zusammen. Studienliteraturangaben verweisen auf eine weitere Befassung.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3515076921"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783515076920"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 164,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=romVYKAd_LoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=romVYKAd_LoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=romVYKAd_LoC&printsec=frontcover&dq=subject:Education&hl=&cd=151&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=romVYKAd_LoC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Begriffe_und_Konzepte_der_berufsp%C3%A4dagog.html?hl=&id=romVYKAd_LoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=romVYKAd_LoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pxL17XJpbeEC",
+   "etag": "d0QmtrX3mp8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pxL17XJpbeEC",
+   "volumeInfo": {
+    "title": "We are Americans",
+    "subtitle": "Undocumented Students Pursuing the American Dream",
+    "authors": [
+     "William Perez"
+    ],
+    "publisher": "Stylus Publishing, LLC.",
+    "publishedDate": "2009",
+    "description": "About 2.4 million children and young adults under 24 years of age are undocumented. Brought by their parents to the US as minorsmany before they had reached their teensthey account for about one-sixth of the total undocumented population. Illegal through no fault of their own, some 65,000 undocumented students graduate from the nation's high schools each year. They cannot get a legal job, and face enormous barriers trying to enter college to better themselvesand yet America is the only country they know and, for many, English is the only language they speak.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781579223762"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1579223761"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 161,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pxL17XJpbeEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pxL17XJpbeEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pxL17XJpbeEC&printsec=frontcover&dq=subject:Education&hl=&cd=152&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pxL17XJpbeEC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pxL17XJpbeEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.59,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pxL17XJpbeEC&rdid=book-pxL17XJpbeEC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.6E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.759E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/We_are_Americans-sample-epub.acsm?id=pxL17XJpbeEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/We_are_Americans-sample-pdf.acsm?id=pxL17XJpbeEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pxL17XJpbeEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ugOrvkzjAGoC",
+   "etag": "O1fMPlL1w+A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ugOrvkzjAGoC",
+   "volumeInfo": {
+    "title": "I Just Don't Like the Sound of No! Activity Guide for Teachers",
+    "authors": [
+     "Julia Cook"
+    ],
+    "publisher": "Boys Town Press",
+    "publishedDate": "2012",
+    "description": "A collection of classroom ideas, instructions, and activities to help students acquire the social skills necessary to accept \"no\" for an answer and disagree with others without arguing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781934490273"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "193449027X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ugOrvkzjAGoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ugOrvkzjAGoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ugOrvkzjAGoC&printsec=frontcover&dq=subject:Education&hl=&cd=153&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ugOrvkzjAGoC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/I_Just_Don_t_Like_the_Sound_of_No_Activi.html?hl=&id=ugOrvkzjAGoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ugOrvkzjAGoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SKteBAAAQBAJ",
+   "etag": "w5aMEtJzLH4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SKteBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Teach Like a Champion 2.0",
+    "subtitle": "62 Techniques that Put Students on the Path to College",
+    "authors": [
+     "Doug Lemov"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2014-12-24",
+    "description": "One of the most influential teaching guides ever—updated! Teach Like a Champion 2.0 is a complete update to the international bestseller. This teaching guide is a must-have for new and experienced teachers alike. Over 700,000 teachers around the world already know how the techniques in this book turn educators into classroom champions. With ideas for everything from classroom management to inspiring student engagement, you will be able to perfect your teaching practice right away. The first edition of Teach Like a Champion influenced thousands of educators because author Doug Lemov's teaching strategies are simple and powerful. Now, updated techniques and tools make it even easier to put students on the path to college readiness. Here are just a few of the brand new resources available in the 2.0 edition: Over 70 new video clips of real teachers modeling the techniques in the classroom (note: for online access of this content, please visit my.teachlikeachampion.com) A selection of never before seen techniques inspired by top teachers around the world Brand new structure emphasizing the most important techniques and step by step teaching guidelines Updated content reflecting the latest best practices from outstanding educators With the sample lesson plans, videos, and teachlikeachampion.com online community, you will be teaching like a champion in no time. The classroom techniques you'll learn in this book can be adapted to suit any context. Find out why Teach Like a Champion is a \"teaching Bible\" for so many educators worldwide.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118898796"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1118898796"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 504,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.12.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SKteBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SKteBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SKteBAAAQBAJ&printsec=frontcover&dq=subject:Education&hl=&cd=154&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=SKteBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SKteBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 18.39,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=SKteBAAAQBAJ&rdid=book-SKteBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.299E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.839E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Teach_Like_a_Champion_2_0-sample-epub.acsm?id=SKteBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Teach_Like_a_Champion_2_0-sample-pdf.acsm?id=SKteBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SKteBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tNnjDhcziWoC",
+   "etag": "sc42jzPR2aw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tNnjDhcziWoC",
+   "volumeInfo": {
+    "title": "IDENTITY AND THE MUSEUM VISITOR EXPERIENCE",
+    "authors": [
+     "John H Falk"
+    ],
+    "publisher": "Left Coast Press",
+    "publishedDate": "2009-05-15",
+    "description": "Drawing upon a career in studying museum visitors, renowned researcher John Falk attempts to create a predictive model of visitor experience, one that can help museum professionals better meet those visitors' needs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781598741636"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1598741632"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 301,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tNnjDhcziWoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tNnjDhcziWoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tNnjDhcziWoC&printsec=frontcover&dq=subject:Education&hl=&cd=155&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tNnjDhcziWoC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/IDENTITY_AND_THE_MUSEUM_VISITOR_EXPERIEN.html?hl=&id=tNnjDhcziWoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tNnjDhcziWoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jXTa7Tbkpf4C",
+   "etag": "yDvhoXoFnMA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jXTa7Tbkpf4C",
+   "volumeInfo": {
+    "title": "Group Dynamics",
+    "authors": [
+     "Donelson Forsyth"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2005-03-18",
+    "description": "In the Fourth Edition of his best-selling text, Forsyth combines an emphasis on research, empirical studies supporting theoretical understanding of groups, and case studies to illustrate the application of concepts to actual groups thus providing students with the most comprehensive treatment of groups available. Forsyth builds each chapter around a real-life case and draws on examples from a range of disciplines including psychology, law, education, sociology, and political science. Because he tightly weaves concepts and familiar ideas together, the text takes students beyond simple exposure to basic principles and research findings to a deeper understanding of each topic. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780534368227"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0534368220"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 640,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jXTa7Tbkpf4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jXTa7Tbkpf4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jXTa7Tbkpf4C&printsec=frontcover&dq=subject:Education&hl=&cd=156&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jXTa7Tbkpf4C&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Group_Dynamics.html?hl=&id=jXTa7Tbkpf4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jXTa7Tbkpf4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JIruBQAAQBAJ",
+   "etag": "QbUh9wRNi/Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JIruBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Developing and Administering a Child Care and Education Program",
+    "authors": [
+     "Dorothy June Sciarra",
+     "Ellen Lynch",
+     "Shauna Adams",
+     "Anne G. Dorsey"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2015-01-01",
+    "description": "Emphasizing the director's responsibility as a leader of both people and programs in diverse communities, DEVELOPING AND ADMINISTERING A CHILD CARE AND EDUCATION PROGRAM, Ninth Edition, covers the business and interpersonal skills child development professionals need to implement an effective program for young children and their families. It is written primarily for students of early childhood education whether or not they plan to work in the administrative aspects of the field. The book is also a rich source of updated information for practicing directors. In this thoroughly updated edition, the authors provide practical information on all aspects of directing a program, including curriculum selection; funding; budgeting; selecting, training, and supervising staff; housing the program and purchasing equipment; working with children and parents; accrediting and licensing an early childhood center; and carrying out program evaluation and quality improvement strategies. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781305687721"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1305687728"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JIruBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JIruBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=JIruBQAAQBAJ&printsec=frontcover&dq=subject:Education&hl=&cd=157&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=JIruBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JIruBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 69.49,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=JIruBQAAQBAJ&rdid=book-JIruBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.949E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.949E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 180.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JIruBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Mb0aCgAAQBAJ",
+   "etag": "YywnZPkD5aI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Mb0aCgAAQBAJ",
+   "volumeInfo": {
+    "title": "World Politics: Trend and Transformation, 2016 - 2017",
+    "authors": [
+     "Shannon L. Blanton",
+     "Charles W. Kegley"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2016-01-01",
+    "description": "WORLD POLITICS: TREND AND TRANSFORMATION offers analysis of the most up-to-date data, research, and contemporary events from today's international political stage. You'll understand what is happening today and why. The 2016-2017 Edition incorporates recent challenges to global peace and prosperity, and the latest on international organizations, advances in military technology, a look at the changing nuclear environment in Iran, an expanded discussion on human rights, an enhanced discussion of global health threats, new data from World Development Indicators, and more. A partnership with the Carnegie Council for Ethics in International Affairs provides additional coverage of contemporary issues. The authors present each issue in a thought-provoking way that encourages readers to critically assess the problems, payoffs, pitfalls, and paradoxes of people's choices about the global future and the probable impact of those choices. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781305856653"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1305856651"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 624,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Mb0aCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Mb0aCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Mb0aCgAAQBAJ&printsec=frontcover&dq=subject:Education&hl=&cd=158&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Mb0aCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Mb0aCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 69.49,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Mb0aCgAAQBAJ&rdid=book-Mb0aCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.949E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.949E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 2.949E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.949E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 180.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Mb0aCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f5XwYrNTwyAC",
+   "etag": "AIVRqebCxAc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f5XwYrNTwyAC",
+   "volumeInfo": {
+    "title": "Adventure Education",
+    "subtitle": "An Introduction",
+    "authors": [
+     "Chris Hodgson",
+     "Matt Berry"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2011-04-21",
+    "description": "Written by a team of leading Adventure Educators who can draw upon an extensive experience base, Adventure Education: An Introduction explores the most important strategies for teaching, learning and implementation in Adventure Education. The book is fully illustrated throughout with real-world case studies and details research surveying the key contemporary issues facing Adventure Education practitioners. With outdoor and adventure activities being more popular than ever before, this book is essential reading for any student, teacher or practitioner looking to understand Adventure Education and develop their professional skills.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781135152307"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1135152306"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=f5XwYrNTwyAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=f5XwYrNTwyAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=f5XwYrNTwyAC&printsec=frontcover&dq=subject:Education&hl=&cd=159&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=f5XwYrNTwyAC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Adventure_Education.html?hl=&id=f5XwYrNTwyAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Adventure_Education-sample-epub.acsm?id=f5XwYrNTwyAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=f5XwYrNTwyAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RDxEigMRWQIC",
+   "etag": "mUMob3iqooY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RDxEigMRWQIC",
+   "volumeInfo": {
+    "title": "Bullying",
+    "subtitle": "Implications for the Classroom",
+    "authors": [
+     "Cheryl E. Sanders",
+     "Gary D. Phye"
+    ],
+    "publisher": "Academic Press",
+    "publishedDate": "2004",
+    "description": "In recent years there have been an increasing number of incidents where children have either perpetrated or been the victims of violence in the schools. Often times the children who perpetrated the violence had been the victims of school bullying. If bullying once was a matter of extorting lunch money from one's peers, it has since escalated into slander, sexual harassment, and violence. And the victims, unable to find relief, become depressed and/or violent in return. Despite all the media attention on recent school tragedies, many of which can be traced to bullied children, there has been little in the way of research-based books toward understanding why and how bullying occurs, the effects on all the individuals involved and the most effective intervention techniques. Summarizing research in education, social, developmental, and counseling psychology, Bullying: Implications for the Classroom examines the personality and background of both those who become bullies and those most likely to become their victims, how families, peers, and schools influence bullying behavior, and the most effective interventions in pre-school, primary and middle schools. Intended for researchers, educators, and professionals in related fields, this book provides an international review of research on bullying. KEY FEATURES: * Presents practical ideas regarding prevention/intervention of bullying * Covers theoretical views of bullying * Provides an international perspective on bullying * Discusses bullying similarities and differences in elementary and middle school * Presents practical ideas regarding prevention/intervention of bullying * Provides an international perspective on bullying * Outlines information regarding bullying during the elementary and middle school years * Covers theoretical views of bullying * Presents new approaches to explaining bullying * Contributing authors include internationally known researchers in the field",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780126179552"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0126179557"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 261,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RDxEigMRWQIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RDxEigMRWQIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RDxEigMRWQIC&printsec=frontcover&dq=subject:Education&hl=&cd=160&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RDxEigMRWQIC&dq=subject:Education&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Bullying.html?hl=&id=RDxEigMRWQIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RDxEigMRWQIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}
